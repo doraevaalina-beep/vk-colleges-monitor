@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-01T21:22:34.101037Z",
+  "checked_at": "2026-09-01T22:21:21.253203Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -816,6 +816,6 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 1,
+  "new_posts": 0,
   "note": "Ошибки здесь не содержат VK-токен."
 }
