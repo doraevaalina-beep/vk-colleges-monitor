@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-01T19:48:21.302544Z",
+  "checked_at": "2026-09-01T20:06:05.994724Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -13,6 +13,12 @@
       "source": "https://vk.com/sst_rm",
       "community": "Саранский строительный техникум",
       "latest_post_id": 14212,
+      "fetched": 20
+    },
+    {
+      "source": "https://vk.com/club53727363",
+      "community": "Саранский электромеханический колледж",
+      "latest_post_id": 10417,
       "fetched": 20
     },
     {
@@ -67,6 +73,12 @@
       "source": "https://vk.com/public198480547",
       "community": "Инсарский аграрный техникум",
       "latest_post_id": 2050,
+      "fetched": 20
+    },
+    {
+      "source": "https://vk.com/stppp_professionalitet",
+      "community": "Медиацентр СТППП «Фокус13»",
+      "latest_post_id": 4658,
       "fetched": 20
     },
     {
@@ -791,14 +803,6 @@
     }
   ],
   "errors": [
-    {
-      "source": "https://vk.com/semk13",
-      "error": "VK error 100: One of the parameters specified was missing or invalid: domain not domain"
-    },
-    {
-      "source": "https://vk.com/rm_stppp",
-      "error": "VK error 100: One of the parameters specified was missing or invalid: domain not domain"
-    },
     {
       "source": "https://vk.com/public190127747",
       "error": "VK error 15: Access denied: this wall available only for community members"
