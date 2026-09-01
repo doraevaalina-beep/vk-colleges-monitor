@@ -1,8 +1,14 @@
 {
-  "checked_at": "2026-09-01T20:22:55.920779Z",
+  "checked_at": "2026-09-01T21:22:34.101037Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
+    {
+      "source": "https://vk.com/samtrm",
+      "community": "ГАПОУ РМ \"Саранский автомеханический техникум\"",
+      "latest_post_id": 12086,
+      "fetched": 20
+    },
     {
       "source": "https://vk.com/sst_rm",
       "community": "Саранский строительный техникум",
@@ -102,7 +108,7 @@
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 10736,
+      "latest_post_id": 10744,
       "fetched": 20
     },
     {
@@ -343,6 +349,18 @@
       "source": "https://vk.com/club174792280",
       "community": "МАОУ \"СОШ №10\"",
       "latest_post_id": 8197,
+      "fetched": 20
+    },
+    {
+      "source": "https://vk.com/public210120789",
+      "community": "МБДОУ «Детский сад № 15»",
+      "latest_post_id": 1442,
+      "fetched": 20
+    },
+    {
+      "source": "https://vk.com/club37973095",
+      "community": "МБОУ \"СОШ №10\"",
+      "latest_post_id": 4467,
       "fetched": 20
     },
     {
@@ -700,6 +718,12 @@
       "fetched": 20
     },
     {
+      "source": "https://vk.com/public164250189",
+      "community": "Школа №24| Саранск",
+      "latest_post_id": 5055,
+      "fetched": 20
+    },
+    {
       "source": "https://vk.com/club526150",
       "community": "МОУ «Школа № 30» г. Саранск Республика Мордовия",
       "latest_post_id": 6552,
@@ -780,10 +804,6 @@
   ],
   "errors": [
     {
-      "source": "https://vk.com/samtrm",
-      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
-    },
-    {
       "source": "https://vk.com/public190127747",
       "error": "VK error 15: Access denied: this wall available only for community members"
     },
@@ -792,22 +812,10 @@
       "error": "VK error 15: Access denied: this wall available only for community members"
     },
     {
-      "source": "https://vk.com/public210120789",
-      "error": "HTTPSConnectionPool(host='api.vk.com', port=443): Read timed out."
-    },
-    {
-      "source": "https://vk.com/club37973095",
-      "error": "HTTPSConnectionPool(host='api.vk.com', port=443): Read timed out. (read timeout=20)"
-    },
-    {
       "source": "https://vk.com/club172415002",
       "error": "VK error 15: Access denied: wall is disabled"
-    },
-    {
-      "source": "https://vk.com/public164250189",
-      "error": "HTTPSConnectionPool(host='api.vk.com', port=443): Read timed out. (read timeout=20)"
     }
   ],
-  "new_posts": 0,
+  "new_posts": 1,
   "note": "Ошибки здесь не содержат VK-токен."
 }
