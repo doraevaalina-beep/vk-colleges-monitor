@@ -385,9 +385,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-    print(f"Источников: {len(sources)}; успешно: {len(health['ok'])}; ошибок: {len(health['errors'])}; новых постов: {health['new_posts']}")
-
-if __name__ == "__main__":
-    main()
