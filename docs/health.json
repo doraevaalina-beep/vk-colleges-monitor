@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-02T20:24:44.747621Z",
+  "checked_at": "2026-09-02T21:22:56.977095Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -90,7 +90,7 @@
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9469,
+      "latest_post_id": 9470,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 2,
+  "new_posts": 1,
   "mirrored_photos": 1,
-  "published_photos": 113,
+  "published_photos": 114,
   "image_errors": [],
   "note": "Ошибки здесь не содержат VK-токен. mirror_url ведёт на фото в GitHub Pages; release_url — резервная копия в GitHub Release."
 }
