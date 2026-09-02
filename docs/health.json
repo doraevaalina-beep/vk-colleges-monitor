@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-02T01:20:54.492783Z",
+  "checked_at": "2026-09-02T02:36:44.453280Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -534,7 +534,7 @@
     {
       "source": "https://vk.com/public203712659",
       "community": "МДОУ \"Детский сад №79 комбинированного вида\"",
-      "latest_post_id": 3802,
+      "latest_post_id": 3805,
       "fetched": 20
     },
     {
@@ -816,6 +816,6 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 0,
+  "new_posts": 1,
   "note": "Ошибки здесь не содержат VK-токен."
 }
