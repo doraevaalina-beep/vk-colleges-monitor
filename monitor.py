@@ -22,6 +22,11 @@ FEED_JSON = DOCS / "feed.json"
 FEED_XML = DOCS / "feed.xml"
 HEALTH_JSON = DOCS / "health.json"
 IMAGE_UPLOAD_DIR = ROOT / ".image_uploads"
+PUBLIC_IMAGE_DIR = DOCS / "images"
+PUBLIC_SITE_BASE = os.environ.get(
+    "PUBLIC_SITE_BASE",
+    "https://doraevaalina-beep.github.io/vk-colleges-monitor",
+).rstrip("/")
 
 # Public GitHub Release used only as a rolling image mirror.
 RELEASE_TAG = "vk-images"
@@ -179,6 +184,9 @@ def release_asset_url(filename):
     repo = os.environ.get("GITHUB_REPOSITORY", "").strip() or DEFAULT_REPO
     return f"https://github.com/{repo}/releases/download/{RELEASE_TAG}/{filename}"
 
+def pages_asset_url(filename):
+    return f"{PUBLIC_SITE_BASE}/images/{filename}"
+
 def download_original_photo(session, source_url, target_path):
     headers = {
         "User-Agent": "Mozilla/5.0 (compatible; VKFeedMonitor/1.0)",
@@ -193,47 +201,55 @@ def download_original_photo(session, source_url, target_path):
 
 def mirror_feed_photos(items, session, health):
     """
-    Save one ORIGINAL VK photo for each unique-text post into a rolling GitHub Release.
-    The original VK URL remains in attachment['url']; the stable public copy is attachment['mirror_url'].
-    Identical cross-posts are mirrored only once to avoid dozens of duplicate image files.
-    Posts without text are treated as unique because their visual may carry the whole meaning.
+    Publish one ORIGINAL VK photo for each unique-text post to GitHub Pages.
+    The same file is also staged for the rolling GitHub Release as a backup.
+    Existing release assets restored into docs/images by the workflow are reused.
     """
     if IMAGE_UPLOAD_DIR.exists():
         shutil.rmtree(IMAGE_UPLOAD_DIR)
     IMAGE_UPLOAD_DIR.mkdir(parents=True, exist_ok=True)
+    PUBLIC_IMAGE_DIR.mkdir(parents=True, exist_ok=True)
 
     seen_texts = set()
     mirrored = 0
+    published = 0
     errors = []
+    needed_files = set()
 
     for item in items:
-        text_key = re.sub(r"\s+", " ", (item.get("text") or item.get("repost_text") or "").strip()).lower()
-        is_duplicate_text = bool(text_key) and text_key in seen_texts
-        if text_key:
-            seen_texts.add(text_key)
-
-        if is_duplicate_text:
-            continue
-
         photos = [a for a in (item.get("attachments") or []) if a.get("type") == "photo" and a.get("url")]
         if not photos:
             continue
+
+        text_key = re.sub(r"\s+", " ", (item.get("text") or item.get("repost_text") or "").strip()).lower()
+        is_duplicate_text = bool(text_key) and text_key in seen_texts
+        if is_duplicate_text:
+            continue
+        if text_key:
+            seen_texts.add(text_key)
 
         done = 0
         for idx, attachment in enumerate(photos, start=1):
             if done >= MAX_MIRRORED_PHOTOS_PER_POST:
                 break
-            if attachment.get("mirror_url"):
-                done += 1
-                continue
 
             original_url = attachment["url"]
             filename = f"{safe_post_key(item.get('id'))}_{idx}{image_extension(original_url)}"
-            target = IMAGE_UPLOAD_DIR / filename
+            public_target = PUBLIC_IMAGE_DIR / filename
+            upload_target = IMAGE_UPLOAD_DIR / filename
+            needed_files.add(filename)
+
             try:
-                download_original_photo(session, original_url, target)
-                attachment["mirror_url"] = release_asset_url(filename)
-                mirrored += 1
+                # The workflow restores existing release assets into docs/images first,
+                # so old feed items do not need to be downloaded from VK every hour.
+                if not public_target.exists():
+                    download_original_photo(session, original_url, public_target)
+                    shutil.copy2(public_target, upload_target)
+                    mirrored += 1
+
+                attachment["mirror_url"] = pages_asset_url(filename)
+                attachment["release_url"] = release_asset_url(filename)
+                published += 1
                 done += 1
             except Exception as e:
                 errors.append({
@@ -242,7 +258,14 @@ def mirror_feed_photos(items, session, health):
                     "error": str(e)[:300],
                 })
 
+    # docs/images is restored from the rolling release on every run. Remove assets
+    # that are no longer referenced by the current 72-hour feed before publishing Pages.
+    for path in PUBLIC_IMAGE_DIR.iterdir():
+        if path.is_file() and path.name not in needed_files:
+            path.unlink()
+
     health["mirrored_photos"] = mirrored
+    health["published_photos"] = published
     health["image_errors"] = errors[:100]
 
 def write_rss(items):
@@ -301,8 +324,9 @@ def main():
         "errors": [],
         "new_posts": 0,
         "mirrored_photos": 0,
+        "published_photos": 0,
         "image_errors": [],
-        "note": "Ошибки здесь не содержат VK-токен. mirror_url ведёт на оригинальное фото, сохранённое в GitHub Release."
+        "note": "Ошибки здесь не содержат VK-токен. mirror_url ведёт на фото в GitHub Pages; release_url — резервная копия в GitHub Release."
     }
 
     session = requests.Session()
