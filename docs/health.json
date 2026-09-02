@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-02T21:22:56.977095Z",
+  "checked_at": "2026-09-02T22:22:36.693951Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -816,8 +816,8 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 1,
-  "mirrored_photos": 1,
+  "new_posts": 0,
+  "mirrored_photos": 0,
   "published_photos": 114,
   "image_errors": [],
   "note": "Ошибки здесь не содержат VK-токен. mirror_url ведёт на фото в GitHub Pages; release_url — резервная копия в GitHub Release."
