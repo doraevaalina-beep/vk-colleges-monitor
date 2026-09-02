@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-02T10:25:14.006113Z",
+  "checked_at": "2026-09-02T10:51:41.972424Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -48,7 +48,7 @@
     {
       "source": "https://vk.com/public80925441",
       "community": "Атяшевский аграрный техникум",
-      "latest_post_id": 1599,
+      "latest_post_id": 1600,
       "fetched": 20
     },
     {
@@ -65,8 +65,8 @@
     },
     {
       "source": "https://vk.com/gouspt",
-      "community": "Медиацентр «ВЬЮЖН» | СПТ",
-      "latest_post_id": 3751,
+      "community": "Росдетцентр | РДЦ",
+      "latest_post_id": 3755,
       "fetched": 20
     },
     {
@@ -606,7 +606,7 @@
     {
       "source": "https://vk.com/public92009976",
       "community": "Гимназия №20",
-      "latest_post_id": 9633,
+      "latest_post_id": 9635,
       "fetched": 20
     },
     {
@@ -750,7 +750,7 @@
     {
       "source": "https://vk.com/club206918978",
       "community": "Николаевская школа | Саранск",
-      "latest_post_id": 8229,
+      "latest_post_id": 8231,
       "fetched": 20
     },
     {
@@ -816,6 +816,8 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 14,
-  "note": "Ошибки здесь не содержат VK-токен."
+  "new_posts": 5,
+  "mirrored_photos": 57,
+  "image_errors": [],
+  "note": "Ошибки здесь не содержат VK-токен. mirror_url ведёт на оригинальное фото, сохранённое в GitHub Release."
 }
