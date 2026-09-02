@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-02T07:24:02.914628Z",
+  "checked_at": "2026-09-02T08:25:53.648236Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -54,7 +54,7 @@
     {
       "source": "https://vk.com/club202849242",
       "community": "СТЭиЭТ им. А.И. Полежаева",
-      "latest_post_id": 3611,
+      "latest_post_id": 3612,
       "fetched": 20
     },
     {
@@ -77,14 +77,14 @@
     },
     {
       "source": "https://vk.com/stppp_professionalitet",
-      "community": "Медиацентр СТППП «Фокус13»",
-      "latest_post_id": 4658,
+      "community": "Саранский техникум пищевой промышленности",
+      "latest_post_id": 4659,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club182790665",
       "community": "ГБПОУ РМ \"Зубово-Полянский аграрный техникум\"",
-      "latest_post_id": 2604,
+      "latest_post_id": 2607,
       "fetched": 20
     },
     {
@@ -102,7 +102,7 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 170331,
+      "latest_post_id": 170345,
       "fetched": 20
     },
     {
@@ -186,7 +186,7 @@
     {
       "source": "https://vk.com/club9874035",
       "community": "Лыжно-биатлонный комплекс. Федерация биатлона РМ",
-      "latest_post_id": 4320,
+      "latest_post_id": 4321,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 63165,
+      "latest_post_id": 63188,
       "fetched": 20
     },
     {
@@ -288,7 +288,7 @@
     {
       "source": "https://vk.com/public203694036",
       "community": "МАДОУ \"Центр развития ребенка - детский сад №46\"",
-      "latest_post_id": 5978,
+      "latest_post_id": 5979,
       "fetched": 20
     },
     {
@@ -390,7 +390,7 @@
     {
       "source": "https://vk.com/public215650109",
       "community": "МДОУ \"Детский сад 115\"",
-      "latest_post_id": 665,
+      "latest_post_id": 666,
       "fetched": 20
     },
     {
@@ -546,7 +546,7 @@
     {
       "source": "https://vk.com/public190325366",
       "community": "МДОУ \"Детский сад №91 компенсирующего вида\"",
-      "latest_post_id": 2309,
+      "latest_post_id": 2316,
       "fetched": 20
     },
     {
@@ -623,8 +623,8 @@
     },
     {
       "source": "https://vk.com/club154501666",
-      "community": "МОУ \"Лицей №25\"",
-      "latest_post_id": 2008,
+      "community": "Росдетцентр | РДЦ",
+      "latest_post_id": 2009,
       "fetched": 20
     },
     {
@@ -677,8 +677,8 @@
     },
     {
       "source": "https://vk.com/public129692291",
-      "community": "Росдетцентр | РДЦ",
-      "latest_post_id": 8510,
+      "community": "МОУ \"Средняя общеобразовательная школа №28\"",
+      "latest_post_id": 8511,
       "fetched": 20
     },
     {
@@ -756,7 +756,7 @@
     {
       "source": "https://vk.com/club95243821",
       "community": "Мордва ZAнаших!",
-      "latest_post_id": 11506,
+      "latest_post_id": 11507,
       "fetched": 20
     },
     {
@@ -791,8 +791,8 @@
     },
     {
       "source": "https://vk.com/club173709175",
-      "community": "Школа №3 | Саранск",
-      "latest_post_id": 2797,
+      "community": "Росдетцентр | РДЦ",
+      "latest_post_id": 2798,
       "fetched": 20
     },
     {
@@ -816,6 +816,6 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 24,
+  "new_posts": 13,
   "note": "Ошибки здесь не содержат VK-токен."
 }
