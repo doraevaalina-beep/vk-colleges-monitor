@@ -8,6 +8,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: vk-feed-update
@@ -17,6 +19,10 @@ jobs:
   update:
     runs-on: ubuntu-latest
     timeout-minutes: 25
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
       - uses: actions/checkout@v4
 
@@ -26,12 +32,6 @@ jobs:
 
       - name: Install
         run: pip install -r requirements.txt
-
-      - name: Fetch VK posts and original photos
-        env:
-          VK_SERVICE_TOKEN: ${{ secrets.VK_SERVICE_TOKEN }}
-          GITHUB_REPOSITORY: ${{ github.repository }}
-        run: python monitor.py
 
       - name: Ensure rolling image release exists
         env:
@@ -43,7 +43,23 @@ jobs:
               --notes "Automatic rolling mirror of original VK post photos used by the feed."
           fi
 
-      - name: Upload original VK photos
+      - name: Restore current VK photos for Pages
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          mkdir -p docs/images
+          gh release download vk-images --dir docs/images || true
+          echo "Restored $(find docs/images -maxdepth 1 -type f | wc -l) photo(s)"
+
+      - name: Fetch VK posts and original photos
+        env:
+          VK_SERVICE_TOKEN: ${{ secrets.VK_SERVICE_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          PUBLIC_SITE_BASE: https://doraevaalina-beep.github.io/vk-colleges-monitor
+        run: python monitor.py
+
+      - name: Upload new original VK photos
         env:
           GH_TOKEN: ${{ github.token }}
         shell: bash
@@ -78,9 +94,21 @@ jobs:
           git config user.email "vk-feed-bot@users.noreply.github.com"
           git add state.json docs/feed.json docs/feed.xml docs/health.json
           if git diff --cached --quiet; then
-            echo "No changes"
+            echo "No feed changes"
           else
             git commit -m "Update VK feed"
             git pull --rebase origin main
             git push
           fi
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
