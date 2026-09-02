@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-02T11:23:52.423493Z",
+  "checked_at": "2026-09-02T12:30:05.715248Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -23,14 +23,14 @@
     },
     {
       "source": "https://vk.com/club181850079",
-      "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4469,
+      "community": "Росдетцентр | РДЦ",
+      "latest_post_id": 4474,
       "fetched": 20
     },
     {
       "source": "https://vk.com/ipc_hgo_mlclass_fv_informatica",
       "community": "Ичалковский педагогический колледж",
-      "latest_post_id": 6428,
+      "latest_post_id": 6432,
       "fetched": 20
     },
     {
@@ -65,8 +65,8 @@
     },
     {
       "source": "https://vk.com/gouspt",
-      "community": "Росдетцентр | РДЦ",
-      "latest_post_id": 3755,
+      "community": "Саранский политехнический техникум",
+      "latest_post_id": 3756,
       "fetched": 20
     },
     {
@@ -96,7 +96,7 @@
     {
       "source": "https://vk.com/club7503608",
       "community": "ГБПОУ РМ \"Кемлянский аграрный колледж\"",
-      "latest_post_id": 4546,
+      "latest_post_id": 4547,
       "fetched": 20
     },
     {
@@ -138,7 +138,7 @@
     {
       "source": "https://vk.com/club59095536",
       "community": "МОУ \"Средняя школа №11\"",
-      "latest_post_id": 14843,
+      "latest_post_id": 14847,
       "fetched": 20
     },
     {
@@ -174,7 +174,7 @@
     {
       "source": "https://vk.com/public216577930",
       "community": "Гимназия №19 | г. Саранск",
-      "latest_post_id": 3274,
+      "latest_post_id": 3275,
       "fetched": 20
     },
     {
@@ -198,7 +198,7 @@
     {
       "source": "https://vk.com/public210281686",
       "community": "МАДОУ  «Детский сад № 18»",
-      "latest_post_id": 2620,
+      "latest_post_id": 2621,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 63196,
+      "latest_post_id": 63274,
       "fetched": 20
     },
     {
@@ -336,7 +336,7 @@
     {
       "source": "https://vk.com/public190001019",
       "community": "МАДОУ\"ЦРР - детский сад №17\"",
-      "latest_post_id": 3552,
+      "latest_post_id": 3553,
       "fetched": 20
     },
     {
@@ -348,7 +348,7 @@
     {
       "source": "https://vk.com/club174792280",
       "community": "МАОУ \"СОШ №10\"",
-      "latest_post_id": 8201,
+      "latest_post_id": 8202,
       "fetched": 20
     },
     {
@@ -618,7 +618,7 @@
     {
       "source": "https://vk.com/club351497",
       "community": "МОУ \"Лицей № 7\"",
-      "latest_post_id": 15321,
+      "latest_post_id": 15324,
       "fetched": 20
     },
     {
@@ -671,8 +671,8 @@
     },
     {
       "source": "https://vk.com/club166449275",
-      "community": "Росдетцентр | РДЦ",
-      "latest_post_id": 8225,
+      "community": "Школа №9 | г.Саранск",
+      "latest_post_id": 8227,
       "fetched": 20
     },
     {
@@ -816,8 +816,8 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 6,
-  "mirrored_photos": 6,
+  "new_posts": 16,
+  "mirrored_photos": 12,
   "image_errors": [],
   "note": "Ошибки здесь не содержат VK-токен. mirror_url ведёт на оригинальное фото, сохранённое в GitHub Release."
 }
