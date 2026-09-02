@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-02T15:28:36.830376Z",
+  "checked_at": "2026-09-02T15:52:25.569294Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -23,8 +23,8 @@
     },
     {
       "source": "https://vk.com/club181850079",
-      "community": "НТМ || Народное Телевидение Мордовии",
-      "latest_post_id": 4475,
+      "community": "Отвага и антитеррор",
+      "latest_post_id": 4476,
       "fetched": 20
     },
     {
@@ -54,7 +54,7 @@
     {
       "source": "https://vk.com/club202849242",
       "community": "СТЭиЭТ им. А.И. Полежаева",
-      "latest_post_id": 3614,
+      "latest_post_id": 3615,
       "fetched": 20
     },
     {
@@ -816,8 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 5,
-  "mirrored_photos": 3,
+  "new_posts": 2,
+  "mirrored_photos": 1,
+  "published_photos": 93,
   "image_errors": [],
-  "note": "Ошибки здесь не содержат VK-токен. mirror_url ведёт на оригинальное фото, сохранённое в GitHub Release."
+  "note": "Ошибки здесь не содержат VK-токен. mirror_url ведёт на фото в GitHub Pages; release_url — резервная копия в GitHub Release."
 }
