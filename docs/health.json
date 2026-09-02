@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-02T14:23:57.695318Z",
+  "checked_at": "2026-09-02T15:28:36.830376Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -54,7 +54,7 @@
     {
       "source": "https://vk.com/club202849242",
       "community": "СТЭиЭТ им. А.И. Полежаева",
-      "latest_post_id": 3613,
+      "latest_post_id": 3614,
       "fetched": 20
     },
     {
@@ -77,8 +77,8 @@
     },
     {
       "source": "https://vk.com/stppp_professionalitet",
-      "community": "Саранский техникум пищевой промышленности",
-      "latest_post_id": 4659,
+      "community": "Отвага и антитеррор",
+      "latest_post_id": 4660,
       "fetched": 20
     },
     {
@@ -396,7 +396,7 @@
     {
       "source": "https://vk.com/club203700958",
       "community": "МДОУ \"Детский сад 127 комбинированного вида\"",
-      "latest_post_id": 2129,
+      "latest_post_id": 2131,
       "fetched": 20
     },
     {
@@ -407,8 +407,8 @@
     },
     {
       "source": "https://vk.com/public203706494",
-      "community": "ГБУ РМ \"ППМС-ЦЕНТР\"",
-      "latest_post_id": 8607,
+      "community": "МДОУ \"Детский сад 99 комбинированного вида\"",
+      "latest_post_id": 8609,
       "fetched": 20
     },
     {
@@ -816,8 +816,8 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 11,
-  "mirrored_photos": 8,
+  "new_posts": 5,
+  "mirrored_photos": 3,
   "image_errors": [],
   "note": "Ошибки здесь не содержат VK-токен. mirror_url ведёт на оригинальное фото, сохранённое в GitHub Release."
 }
