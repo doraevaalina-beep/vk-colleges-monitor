@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-02T18:27:13.986350Z",
+  "checked_at": "2026-09-02T19:21:45.871903Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -30,7 +30,7 @@
     {
       "source": "https://vk.com/ipc_hgo_mlclass_fv_informatica",
       "community": "Ичалковский педагогический колледж",
-      "latest_post_id": 6432,
+      "latest_post_id": 6433,
       "fetched": 20
     },
     {
@@ -65,8 +65,8 @@
     },
     {
       "source": "https://vk.com/gouspt",
-      "community": "Саранский политехнический техникум",
-      "latest_post_id": 3756,
+      "community": "МЛСПО - Молодежная лига СПО",
+      "latest_post_id": 3757,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 63393,
+      "latest_post_id": 63397,
       "fetched": 20
     },
     {
@@ -270,7 +270,7 @@
     {
       "source": "https://vk.com/public203690288",
       "community": "МАДОУ \"Центр развития ребенка - детский сад № 9\"",
-      "latest_post_id": 4835,
+      "latest_post_id": 4837,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 14,
-  "mirrored_photos": 12,
-  "published_photos": 111,
+  "new_posts": 4,
+  "mirrored_photos": 1,
+  "published_photos": 112,
   "image_errors": [],
   "note": "Ошибки здесь не содержат VK-токен. mirror_url ведёт на фото в GitHub Pages; release_url — резервная копия в GitHub Release."
 }
