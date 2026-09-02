@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-02T06:33:22.361308Z",
+  "checked_at": "2026-09-02T07:24:02.914628Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -12,13 +12,13 @@
     {
       "source": "https://vk.com/sst_rm",
       "community": "Саранский строительный техникум",
-      "latest_post_id": 14212,
+      "latest_post_id": 14213,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10417,
+      "latest_post_id": 10420,
       "fetched": 20
     },
     {
@@ -60,7 +60,7 @@
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 76356,
+      "latest_post_id": 76391,
       "fetched": 20
     },
     {
@@ -96,19 +96,19 @@
     {
       "source": "https://vk.com/club7503608",
       "community": "ГБПОУ РМ \"Кемлянский аграрный колледж\"",
-      "latest_post_id": 4545,
+      "latest_post_id": 4546,
       "fetched": 20
     },
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 170330,
+      "latest_post_id": 170331,
       "fetched": 20
     },
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 10744,
+      "latest_post_id": 10745,
       "fetched": 20
     },
     {
@@ -126,7 +126,7 @@
     {
       "source": "https://vk.com/club34313558",
       "community": "ГБПОУ РМ \"Краснослободский аграрный техникум\"",
-      "latest_post_id": 3053,
+      "latest_post_id": 3054,
       "fetched": 20
     },
     {
@@ -138,13 +138,13 @@
     {
       "source": "https://vk.com/club59095536",
       "community": "МОУ \"Средняя школа №11\"",
-      "latest_post_id": 14841,
+      "latest_post_id": 14842,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club148125790",
-      "community": "38tv - Новости",
-      "latest_post_id": 9365,
+      "community": "Росдетцентр | РДЦ",
+      "latest_post_id": 9366,
       "fetched": 20
     },
     {
@@ -162,19 +162,19 @@
     {
       "source": "https://vk.com/club129703276",
       "community": "Средняя школа №35 | Саранск",
-      "latest_post_id": 11535,
+      "latest_post_id": 11537,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club103710305",
-      "community": "МОУ \"Школа №27\" г. Саранск Республика Мордовия",
-      "latest_post_id": 4045,
+      "community": "Росдетцентр | РДЦ",
+      "latest_post_id": 4046,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public216577930",
       "community": "Гимназия №19 | г. Саранск",
-      "latest_post_id": 3272,
+      "latest_post_id": 3273,
       "fetched": 20
     },
     {
@@ -270,7 +270,7 @@
     {
       "source": "https://vk.com/public203690288",
       "community": "МАДОУ \"Центр развития ребенка - детский сад № 9\"",
-      "latest_post_id": 4834,
+      "latest_post_id": 4835,
       "fetched": 20
     },
     {
@@ -593,8 +593,8 @@
     },
     {
       "source": "https://vk.com/club166487726",
-      "community": "Гимназия № 12 | Саранск",
-      "latest_post_id": 6778,
+      "community": "Росдетцентр | РДЦ",
+      "latest_post_id": 6779,
       "fetched": 20
     },
     {
@@ -647,8 +647,8 @@
     },
     {
       "source": "https://vk.com/club154276223",
-      "community": "МОУ \"Луховский лицей\"",
-      "latest_post_id": 5223,
+      "community": "Росдетцентр | РДЦ",
+      "latest_post_id": 5224,
       "fetched": 20
     },
     {
@@ -659,8 +659,8 @@
     },
     {
       "source": "https://vk.com/public171422852",
-      "community": "МОУ \" Средняя школа  №18\" г. Саранск",
-      "latest_post_id": 6034,
+      "community": "Росдетцентр | РДЦ",
+      "latest_post_id": 6035,
       "fetched": 20
     },
     {
@@ -677,14 +677,14 @@
     },
     {
       "source": "https://vk.com/public129692291",
-      "community": "Навигаторы Детства | Мордовия",
-      "latest_post_id": 8507,
+      "community": "Росдетцентр | РДЦ",
+      "latest_post_id": 8510,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public1571309",
-      "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26120,
+      "community": "Росдетцентр | РДЦ",
+      "latest_post_id": 26121,
       "fetched": 20
     },
     {
@@ -695,8 +695,8 @@
     },
     {
       "source": "https://vk.com/public215663353",
-      "community": "МОУ \"Средняя школа №5\" Саранск",
-      "latest_post_id": 5102,
+      "community": "Росдетцентр | РДЦ",
+      "latest_post_id": 5104,
       "fetched": 20
     },
     {
@@ -737,20 +737,20 @@
     },
     {
       "source": "https://vk.com/club186187361",
-      "community": "МОУ СОШ №2 им.Героя Советского Союза П.И.Орлова",
-      "latest_post_id": 5594,
+      "community": "Росдетцентр | РДЦ",
+      "latest_post_id": 5595,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public195089396",
-      "community": "Гимназия 29",
-      "latest_post_id": 7473,
+      "community": "Росдетцентр | РДЦ",
+      "latest_post_id": 7474,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club206918978",
-      "community": "Николаевская школа | Саранск",
-      "latest_post_id": 8227,
+      "community": "Росдетцентр | РДЦ",
+      "latest_post_id": 8228,
       "fetched": 20
     },
     {
@@ -767,8 +767,8 @@
     },
     {
       "source": "https://vk.com/club184938297",
-      "community": "Средняя общеобразовательная школа № 16",
-      "latest_post_id": 3347,
+      "community": "Росдетцентр | РДЦ",
+      "latest_post_id": 3348,
       "fetched": 20
     },
     {
@@ -816,6 +816,6 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 17,
+  "new_posts": 24,
   "note": "Ошибки здесь не содержат VK-токен."
 }
