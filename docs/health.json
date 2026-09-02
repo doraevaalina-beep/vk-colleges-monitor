@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-02T04:25:35.563840Z",
+  "checked_at": "2026-09-02T05:26:17.525970Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -24,7 +24,7 @@
     {
       "source": "https://vk.com/club181850079",
       "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4467,
+      "latest_post_id": 4469,
       "fetched": 20
     },
     {
@@ -120,7 +120,7 @@
     {
       "source": "https://vk.com/kaskrm",
       "community": "Ковылкинский аграрно-строительный колледж",
-      "latest_post_id": 14860,
+      "latest_post_id": 14881,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 63148,
+      "latest_post_id": 63159,
       "fetched": 20
     },
     {
@@ -696,7 +696,7 @@
     {
       "source": "https://vk.com/public215663353",
       "community": "МОУ \"Средняя школа №5\" Саранск",
-      "latest_post_id": 5098,
+      "latest_post_id": 5101,
       "fetched": 20
     },
     {
@@ -816,6 +816,6 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 7,
+  "new_posts": 6,
   "note": "Ошибки здесь не содержат VK-токен."
 }
