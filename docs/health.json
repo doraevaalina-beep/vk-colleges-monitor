@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-02T12:30:05.715248Z",
+  "checked_at": "2026-09-02T13:25:14.609028Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -23,8 +23,8 @@
     },
     {
       "source": "https://vk.com/club181850079",
-      "community": "Росдетцентр | РДЦ",
-      "latest_post_id": 4474,
+      "community": "НТМ || Народное Телевидение Мордовии",
+      "latest_post_id": 4475,
       "fetched": 20
     },
     {
@@ -60,7 +60,7 @@
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 76391,
+      "latest_post_id": 76396,
       "fetched": 20
     },
     {
@@ -83,8 +83,8 @@
     },
     {
       "source": "https://vk.com/club182790665",
-      "community": "ГБПОУ РМ \"Зубово-Полянский аграрный техникум\"",
-      "latest_post_id": 2607,
+      "community": "Росдетцентр | РДЦ",
+      "latest_post_id": 2612,
       "fetched": 20
     },
     {
@@ -96,7 +96,7 @@
     {
       "source": "https://vk.com/club7503608",
       "community": "ГБПОУ РМ \"Кемлянский аграрный колледж\"",
-      "latest_post_id": 4547,
+      "latest_post_id": 4550,
       "fetched": 20
     },
     {
@@ -108,7 +108,7 @@
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 10746,
+      "latest_post_id": 10748,
       "fetched": 20
     },
     {
@@ -155,8 +155,8 @@
     },
     {
       "source": "https://vk.com/public166423723",
-      "community": "Росдетцентр | РДЦ",
-      "latest_post_id": 2927,
+      "community": "МОУ \"Средняя школа № 41\"",
+      "latest_post_id": 2928,
       "fetched": 20
     },
     {
@@ -342,7 +342,7 @@
     {
       "source": "https://vk.com/public215671212",
       "community": "МАОУ \"Прогимназия № 119\" г.Саранск",
-      "latest_post_id": 1609,
+      "latest_post_id": 1610,
       "fetched": 20
     },
     {
@@ -426,7 +426,7 @@
     {
       "source": "https://vk.com/public215652474",
       "community": "МАДОУ \"Детский сад №1\"",
-      "latest_post_id": 683,
+      "latest_post_id": 684,
       "fetched": 20
     },
     {
@@ -678,7 +678,7 @@
     {
       "source": "https://vk.com/public129692291",
       "community": "МОУ \"Средняя общеобразовательная школа №28\"",
-      "latest_post_id": 8514,
+      "latest_post_id": 8515,
       "fetched": 20
     },
     {
@@ -708,7 +708,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 39361,
+      "latest_post_id": 39362,
       "fetched": 20
     },
     {
@@ -816,8 +816,8 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 16,
-  "mirrored_photos": 12,
+  "new_posts": 11,
+  "mirrored_photos": 7,
   "image_errors": [],
   "note": "Ошибки здесь не содержат VK-токен. mirror_url ведёт на оригинальное фото, сохранённое в GitHub Release."
 }
