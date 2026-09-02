@@ -4,8 +4,10 @@ import re
 import json
 import time
 import html
+import shutil
 from pathlib import Path
 from datetime import datetime, timezone, timedelta
+from urllib.parse import urlparse
 from xml.etree.ElementTree import Element, SubElement, ElementTree
 
 import requests
@@ -19,12 +21,19 @@ DOCS = ROOT / "docs"
 FEED_JSON = DOCS / "feed.json"
 FEED_XML = DOCS / "feed.xml"
 HEALTH_JSON = DOCS / "health.json"
+IMAGE_UPLOAD_DIR = ROOT / ".image_uploads"
+
+# Public GitHub Release used only as a rolling image mirror.
+RELEASE_TAG = "vk-images"
+DEFAULT_REPO = "doraevaalina-beep/vk-colleges-monitor"
 
 # VK with a service token is conservative at ~3 calls/sec.
 REQUEST_DELAY = 0.42
 POSTS_PER_SOURCE = 20
 KEEP_HOURS = 72
 MAX_ITEMS = 1000
+# One original VK photo is enough for the visual card preview.
+MAX_MIRRORED_PHOTOS_PER_POST = 1
 
 def utcnow():
     return datetime.now(timezone.utc)
@@ -90,7 +99,10 @@ def best_photo_url(photo):
     sizes = photo.get("sizes") or []
     if not sizes:
         return None
-    best = max(sizes, key=lambda x: (x.get("width", 0) * x.get("height", 0), x.get("width", 0)))
+    # Prefer a good-quality image without needlessly taking the absolute largest file.
+    suitable = [x for x in sizes if 900 <= max(x.get("width", 0), x.get("height", 0)) <= 1600]
+    pool = suitable or sizes
+    best = max(pool, key=lambda x: (x.get("width", 0) * x.get("height", 0), x.get("width", 0)))
     return best.get("url")
 
 def simplify_attachments(attachments):
@@ -150,6 +162,89 @@ def make_item(source_url, name, post, discovered_at):
         "attachments": simplify_attachments(post.get("attachments")),
     }
 
+def safe_post_key(item_id):
+    # Example: -174792280_8201 -> m174792280_8201
+    value = str(item_id or "post")
+    if value.startswith("-"):
+        value = "m" + value[1:]
+    return re.sub(r"[^A-Za-z0-9_.-]", "_", value)
+
+def image_extension(url):
+    ext = Path(urlparse(url).path).suffix.lower()
+    if ext in {".jpg", ".jpeg", ".png", ".webp"}:
+        return ".jpg" if ext == ".jpeg" else ext
+    return ".jpg"
+
+def release_asset_url(filename):
+    repo = os.environ.get("GITHUB_REPOSITORY", "").strip() or DEFAULT_REPO
+    return f"https://github.com/{repo}/releases/download/{RELEASE_TAG}/{filename}"
+
+def download_original_photo(session, source_url, target_path):
+    headers = {
+        "User-Agent": "Mozilla/5.0 (compatible; VKFeedMonitor/1.0)",
+        "Referer": "https://vk.com/",
+    }
+    r = session.get(source_url, headers=headers, timeout=30)
+    r.raise_for_status()
+    ctype = (r.headers.get("Content-Type") or "").lower()
+    if not (ctype.startswith("image/") or source_url.lower().split("?", 1)[0].endswith((".jpg", ".jpeg", ".png", ".webp"))):
+        raise RuntimeError(f"Неожиданный Content-Type: {ctype or 'unknown'}")
+    target_path.write_bytes(r.content)
+
+def mirror_feed_photos(items, session, health):
+    """
+    Save one ORIGINAL VK photo for each unique-text post into a rolling GitHub Release.
+    The original VK URL remains in attachment['url']; the stable public copy is attachment['mirror_url'].
+    Identical cross-posts are mirrored only once to avoid dozens of duplicate image files.
+    Posts without text are treated as unique because their visual may carry the whole meaning.
+    """
+    if IMAGE_UPLOAD_DIR.exists():
+        shutil.rmtree(IMAGE_UPLOAD_DIR)
+    IMAGE_UPLOAD_DIR.mkdir(parents=True, exist_ok=True)
+
+    seen_texts = set()
+    mirrored = 0
+    errors = []
+
+    for item in items:
+        text_key = re.sub(r"\s+", " ", (item.get("text") or item.get("repost_text") or "").strip()).lower()
+        is_duplicate_text = bool(text_key) and text_key in seen_texts
+        if text_key:
+            seen_texts.add(text_key)
+
+        if is_duplicate_text:
+            continue
+
+        photos = [a for a in (item.get("attachments") or []) if a.get("type") == "photo" and a.get("url")]
+        if not photos:
+            continue
+
+        done = 0
+        for idx, attachment in enumerate(photos, start=1):
+            if done >= MAX_MIRRORED_PHOTOS_PER_POST:
+                break
+            if attachment.get("mirror_url"):
+                done += 1
+                continue
+
+            original_url = attachment["url"]
+            filename = f"{safe_post_key(item.get('id'))}_{idx}{image_extension(original_url)}"
+            target = IMAGE_UPLOAD_DIR / filename
+            try:
+                download_original_photo(session, original_url, target)
+                attachment["mirror_url"] = release_asset_url(filename)
+                mirrored += 1
+                done += 1
+            except Exception as e:
+                errors.append({
+                    "post_url": item.get("post_url"),
+                    "photo_url": original_url,
+                    "error": str(e)[:300],
+                })
+
+    health["mirrored_photos"] = mirrored
+    health["image_errors"] = errors[:100]
+
 def write_rss(items):
     rss = Element("rss", {"version": "2.0"})
     channel = SubElement(rss, "channel")
@@ -173,8 +268,9 @@ def write_rss(items):
         if it.get("repost_text"):
             desc_parts.append("<hr><b>Репост:</b><br>" + html.escape(it["repost_text"]).replace("\n", "<br>"))
         for a in it.get("attachments") or []:
-            if a.get("url"):
-                desc_parts.append(f'<br><a href="{html.escape(a["url"])}">{html.escape(a.get("type","attachment"))}</a>')
+            attachment_url = a.get("mirror_url") or a.get("url")
+            if attachment_url:
+                desc_parts.append(f'<br><a href="{html.escape(attachment_url)}">{html.escape(a.get("type","attachment"))}</a>')
         SubElement(node, "description").text = "".join(desc_parts)
 
     ElementTree(rss).write(FEED_XML, encoding="utf-8", xml_declaration=True)
@@ -204,7 +300,9 @@ def main():
         "ok": [],
         "errors": [],
         "new_posts": 0,
-        "note": "Ошибки здесь не содержат VK-токен."
+        "mirrored_photos": 0,
+        "image_errors": [],
+        "note": "Ошибки здесь не содержат VK-токен. mirror_url ведёт на оригинальное фото, сохранённое в GitHub Release."
     }
 
     session = requests.Session()
@@ -270,10 +368,24 @@ def main():
     kept.sort(key=lambda x: (x.get("published_at", ""), x.get("post_url", "")), reverse=True)
     kept = kept[:MAX_ITEMS]
 
+    # Backfill current feed as well as future posts. This means the posts already
+    # collected in the last 72 hours will receive mirror_url on the first new run.
+    mirror_feed_photos(kept, session, health)
+
     save_json(STATE_FILE, state)
     save_json(FEED_JSON, {"generated_at": iso(), "items": kept})
     save_json(HEALTH_JSON, health)
     write_rss(kept)
+
+    print(
+        f"Источников: {len(sources)}; успешно: {len(health['ok'])}; "
+        f"ошибок: {len(health['errors'])}; новых постов: {health['new_posts']}; "
+        f"новых зеркал фото: {health['mirrored_photos']}; ошибок фото: {len(health['image_errors'])}"
+    )
+
+if __name__ == "__main__":
+    main()
+
 
     print(f"Источников: {len(sources)}; успешно: {len(health['ok'])}; ошибок: {len(health['errors'])}; новых постов: {health['new_posts']}")
 
