@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-02T13:25:14.609028Z",
+  "checked_at": "2026-09-02T14:23:57.695318Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -168,13 +168,13 @@
     {
       "source": "https://vk.com/club103710305",
       "community": "МОУ \"Школа №27\" г. Саранск Республика Мордовия",
-      "latest_post_id": 4047,
+      "latest_post_id": 4048,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public216577930",
       "community": "Гимназия №19 | г. Саранск",
-      "latest_post_id": 3275,
+      "latest_post_id": 3276,
       "fetched": 20
     },
     {
@@ -186,7 +186,7 @@
     {
       "source": "https://vk.com/club9874035",
       "community": "Лыжно-биатлонный комплекс. Федерация биатлона РМ",
-      "latest_post_id": 4321,
+      "latest_post_id": 4325,
       "fetched": 20
     },
     {
@@ -456,7 +456,7 @@
     {
       "source": "https://vk.com/club201381445",
       "community": "МДОУ \"Детский сад №125 комбинированного вида\"",
-      "latest_post_id": 2762,
+      "latest_post_id": 2763,
       "fetched": 20
     },
     {
@@ -504,7 +504,7 @@
     {
       "source": "https://vk.com/public209741486",
       "community": "МДОУ \"Детский сад №65 комбинированного вида\"",
-      "latest_post_id": 2268,
+      "latest_post_id": 2272,
       "fetched": 20
     },
     {
@@ -708,7 +708,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 39362,
+      "latest_post_id": 39361,
       "fetched": 20
     },
     {
@@ -755,8 +755,8 @@
     },
     {
       "source": "https://vk.com/club95243821",
-      "community": "Мордва ZAнаших!",
-      "latest_post_id": 11507,
+      "community": "Государственный фонд «Защитники Отечества»",
+      "latest_post_id": 11510,
       "fetched": 20
     },
     {
@@ -817,7 +817,7 @@
     }
   ],
   "new_posts": 11,
-  "mirrored_photos": 7,
+  "mirrored_photos": 8,
   "image_errors": [],
   "note": "Ошибки здесь не содержат VK-токен. mirror_url ведёт на оригинальное фото, сохранённое в GitHub Release."
 }
