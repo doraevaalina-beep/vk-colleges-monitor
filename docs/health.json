@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-09-03T20:23:02.306355Z",
+  "checked_at": "2026-09-03T21:23:06.366748Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
     {
       "source": "https://vk.com/samtrm",
       "community": "ГАПОУ РМ \"Саранский автомеханический техникум\"",
-      "latest_post_id": 12090,
+      "latest_post_id": 12091,
       "fetched": 20
     },
     {
@@ -96,7 +96,7 @@
     {
       "source": "https://vk.com/club7503608",
       "community": "ГБПОУ РМ \"Кемлянский аграрный колледж\"",
-      "latest_post_id": 4550,
+      "latest_post_id": 4551,
       "fetched": 20
     },
     {
@@ -816,8 +816,8 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 1,
-  "mirrored_photos": 1,
+  "new_posts": 2,
+  "mirrored_photos": 0,
   "published_photos": 315,
   "image_errors": [],
   "built_visuals": 0,
