@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-03T13:21:35.666798Z",
+  "checked_at": "2026-09-03T13:41:17.971635Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -60,7 +60,7 @@
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 76422,
+      "latest_post_id": 76423,
       "fetched": 20
     },
     {
@@ -611,8 +611,8 @@
     },
     {
       "source": "https://vk.com/public195117146",
-      "community": "ЦБС \"Библиотека №14\" село Зыково г.о.Саранск",
-      "latest_post_id": 3696,
+      "community": "МОУ \"Ялгинская СОШ\" корпус 2 г.о.Саранск",
+      "latest_post_id": 3697,
       "fetched": 20
     },
     {
@@ -659,8 +659,8 @@
     },
     {
       "source": "https://vk.com/public171422852",
-      "community": "МОУ \" Средняя школа  №18\" г. Саранск",
-      "latest_post_id": 6042,
+      "community": "Библиотека №16 им. А.М. Горького города Саранска",
+      "latest_post_id": 6043,
       "fetched": 20
     },
     {
@@ -678,7 +678,7 @@
     {
       "source": "https://vk.com/public129692291",
       "community": "МОУ \"Средняя общеобразовательная школа №28\"",
-      "latest_post_id": 8525,
+      "latest_post_id": 8526,
       "fetched": 20
     },
     {
@@ -816,15 +816,13 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 22,
-  "mirrored_photos": 20,
-  "published_photos": 256,
+  "new_posts": 4,
+  "mirrored_photos": 1,
+  "published_photos": 259,
   "image_errors": [],
-  "built_visuals": 1,
-  "built_visual_files": [
-    "m174792280_8201.png"
-  ],
-  "reused_visuals": 0,
+  "built_visuals": 0,
+  "built_visual_files": [],
+  "reused_visuals": 1,
   "deleted_visuals": 0,
   "visual_errors": [],
   "note": "Ошибки здесь не содержат VK-токен. mirror_url ведёт на фото в GitHub Pages; release_url — резервная копия в GitHub Release.",
