@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-03T18:27:40.700745Z",
+  "checked_at": "2026-09-03T19:20:45.485733Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -12,7 +12,7 @@
     {
       "source": "https://vk.com/sst_rm",
       "community": "Саранский строительный техникум",
-      "latest_post_id": 14218,
+      "latest_post_id": 14222,
       "fetched": 20
     },
     {
@@ -594,7 +594,7 @@
     {
       "source": "https://vk.com/club166487726",
       "community": "Гимназия № 12 | Саранск",
-      "latest_post_id": 6781,
+      "latest_post_id": 6782,
       "fetched": 20
     },
     {
@@ -630,7 +630,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14621,
+      "latest_post_id": 14623,
       "fetched": 20
     },
     {
@@ -690,7 +690,7 @@
     {
       "source": "https://vk.com/public203691909",
       "community": "МОУ \"Средняя школа №37\"",
-      "latest_post_id": 5404,
+      "latest_post_id": 5408,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 11,
-  "mirrored_photos": 9,
-  "published_photos": 306,
+  "new_posts": 8,
+  "mirrored_photos": 8,
+  "published_photos": 314,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
