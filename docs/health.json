@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-03T17:23:49.386935Z",
+  "checked_at": "2026-09-03T18:27:40.700745Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -90,7 +90,7 @@
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9473,
+      "latest_post_id": 9474,
       "fetched": 20
     },
     {
@@ -150,7 +150,7 @@
     {
       "source": "https://vk.com/public194762632",
       "community": "«Средняя школа № 36» Саранск",
-      "latest_post_id": 4872,
+      "latest_post_id": 4874,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 63584,
+      "latest_post_id": 63619,
       "fetched": 20
     },
     {
@@ -269,8 +269,8 @@
     },
     {
       "source": "https://vk.com/public203690288",
-      "community": "МАДОУ \"Центр развития ребенка - детский сад № 9\"",
-      "latest_post_id": 4838,
+      "community": "АНО \"Центр поддержки и защиты детства\"",
+      "latest_post_id": 4839,
       "fetched": 20
     },
     {
@@ -504,7 +504,7 @@
     {
       "source": "https://vk.com/public209741486",
       "community": "МДОУ \"Детский сад №65 комбинированного вида\"",
-      "latest_post_id": 2273,
+      "latest_post_id": 2276,
       "fetched": 20
     },
     {
@@ -594,7 +594,7 @@
     {
       "source": "https://vk.com/club166487726",
       "community": "Гимназия № 12 | Саранск",
-      "latest_post_id": 6780,
+      "latest_post_id": 6781,
       "fetched": 20
     },
     {
@@ -630,7 +630,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14619,
+      "latest_post_id": 14621,
       "fetched": 20
     },
     {
@@ -708,7 +708,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 39375,
+      "latest_post_id": 39381,
       "fetched": 20
     },
     {
@@ -774,7 +774,7 @@
     {
       "source": "https://vk.com/club48794793",
       "community": "Средняя общеобразовательная школа №1 г.о.Саранск",
-      "latest_post_id": 4528,
+      "latest_post_id": 4529,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 6,
-  "mirrored_photos": 5,
-  "published_photos": 298,
+  "new_posts": 11,
+  "mirrored_photos": 9,
+  "published_photos": 306,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
