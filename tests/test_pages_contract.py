@@ -12,6 +12,12 @@ class PagesContractTests(unittest.TestCase):
         self.assertIn("feed.json", html)
         self.assertIn("health.json", html)
 
+    def test_pages_has_ready_to_publish_section(self):
+        html = (ROOT / "docs" / "index.html").read_text(encoding="utf-8")
+        self.assertIn("Готово к публикации", html)
+        self.assertIn("editorial_status==='ready'", html)
+        self.assertIn('id="ready"', html)
+
 
 if __name__ == "__main__":
     unittest.main()
