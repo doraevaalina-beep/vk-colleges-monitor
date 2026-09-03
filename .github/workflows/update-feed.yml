@@ -24,7 +24,12 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
+      # A queued run keeps the SHA that existed when it was created. Because
+      # concurrency can make it wait for an earlier feed run, explicitly
+      # checkout the current main tip when execution actually starts.
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: actions/setup-python@v5
         with:
@@ -143,8 +148,7 @@ jobs:
             echo "No feed changes"
           else
             git commit -m "Update VK feed"
-            git pull --rebase origin main
-            git push
+            git push origin HEAD:main
           fi
 
       - name: Configure GitHub Pages
