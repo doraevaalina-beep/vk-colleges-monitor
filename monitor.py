@@ -2,6 +2,7 @@
 import os
 import re
 import json
+import hashlib
 import time
 import html
 import shutil
@@ -23,6 +24,10 @@ FEED_XML = DOCS / "feed.xml"
 HEALTH_JSON = DOCS / "health.json"
 IMAGE_UPLOAD_DIR = ROOT / ".image_uploads"
 PUBLIC_IMAGE_DIR = DOCS / "images"
+PUBLIC_VISUAL_DIR = DOCS / "visuals"
+VISUAL_ARCHIVE = ROOT / "MLSPO_Codex_sources_under25MB.zip"
+VISUAL_FONT = ROOT / "onest-cyrillic-wght-normal.woff2"
+VISUAL_BUILDER_SOURCE = ROOT / "visual_builder.py"
 PUBLIC_SITE_BASE = os.environ.get(
     "PUBLIC_SITE_BASE",
     "https://doraevaalina-beep.github.io/vk-colleges-monitor",
@@ -187,6 +192,96 @@ def release_asset_url(filename):
 def pages_asset_url(filename):
     return f"{PUBLIC_SITE_BASE}/images/{filename}"
 
+def pages_visual_url(filename):
+    return f"{PUBLIC_SITE_BASE}/visuals/{filename}"
+
+def _file_sha256(path):
+    digest = hashlib.sha256()
+    with Path(path).open("rb") as source:
+        for chunk in iter(lambda: source.read(1024 * 1024), b""):
+            digest.update(chunk)
+    return digest.hexdigest()
+
+def visual_fingerprint(item, request):
+    photo = Path(request["original_photo"])
+    if not photo.is_absolute():
+        photo = ROOT / photo
+    inputs = {
+        "id": str(item.get("id")),
+        "template": request["template"],
+        "headline": request["headline"],
+        "detail": request["detail"],
+        "photo_sha256": _file_sha256(photo),
+        "archive_sha256": _file_sha256(VISUAL_ARCHIVE),
+        "font_sha256": _file_sha256(VISUAL_FONT),
+        "builder_sha256": _file_sha256(VISUAL_BUILDER_SOURCE),
+    }
+    encoded = json.dumps(inputs, ensure_ascii=False, sort_keys=True, separators=(",", ":"))
+    return hashlib.sha256(encoded.encode("utf-8")).hexdigest()
+
+def build_feed_visuals(items, health, builder=None, output_dir=PUBLIC_VISUAL_DIR,
+                       fingerprint=visual_fingerprint):
+    """Build explicitly configured cards without allowing one failure to stop the feed."""
+    if builder is None:
+        from visual_builder import build_visual
+        builder = build_visual
+    output_dir = Path(output_dir)
+    errors = []
+    built = 0
+    built_files = []
+    reused = 0
+    needed_files = set()
+    for item in items:
+        request = item.get("visual")
+        if not isinstance(request, dict):
+            continue
+        item.pop("visual_url", None)
+        filename = f"{safe_post_key(item.get('id'))}.png"
+        needed_files.add(filename)
+        expected_output = output_dir / filename
+        required = ("template", "original_photo", "headline", "detail")
+        missing = [name for name in required if not request.get(name)]
+        if missing:
+            item.pop("visual_fingerprint", None)
+            errors.append({"item_id": item.get("id"), "error": "Нет полей: " + ", ".join(missing)})
+            continue
+        try:
+            current_fingerprint = fingerprint(item, request)
+            if item.get("visual_fingerprint") == current_fingerprint and expected_output.is_file():
+                item["visual_url"] = pages_visual_url(filename)
+                reused += 1
+                continue
+            output = builder(
+                item_id=item.get("id"),
+                template=request["template"],
+                original_photo=request["original_photo"],
+                headline=request["headline"],
+                detail=request["detail"],
+                output_dir=output_dir,
+            )
+            # Publish the URL only after the builder returned an existing PNG.
+            output = Path(output)
+            if not output.is_file():
+                raise RuntimeError("Сборщик не создал PNG")
+            item["visual_url"] = pages_visual_url(output.name)
+            item["visual_fingerprint"] = current_fingerprint
+            built += 1
+            built_files.append(output.name)
+        except Exception as exc:
+            item.pop("visual_fingerprint", None)
+            errors.append({"item_id": item.get("id"), "error": str(exc)[:500]})
+    deleted = 0
+    if output_dir.exists():
+        for output in output_dir.glob("*.png"):
+            if output.name not in needed_files:
+                output.unlink()
+                deleted += 1
+    health["built_visuals"] = built
+    health["built_visual_files"] = built_files
+    health["reused_visuals"] = reused
+    health["deleted_visuals"] = deleted
+    health["visual_errors"] = errors[:100]
+
 def download_original_photo(session, source_url, target_path):
     headers = {
         "User-Agent": "Mozilla/5.0 (compatible; VKFeedMonitor/1.0)",
@@ -326,6 +421,11 @@ def main():
         "mirrored_photos": 0,
         "published_photos": 0,
         "image_errors": [],
+        "built_visuals": 0,
+        "built_visual_files": [],
+        "reused_visuals": 0,
+        "deleted_visuals": 0,
+        "visual_errors": [],
         "note": "Ошибки здесь не содержат VK-токен. mirror_url ведёт на фото в GitHub Pages; release_url — резервная копия в GitHub Release."
     }
 
@@ -395,6 +495,7 @@ def main():
     # Backfill current feed as well as future posts. This means the posts already
     # collected in the last 72 hours will receive mirror_url on the first new run.
     mirror_feed_photos(kept, session, health)
+    build_feed_visuals(kept, health)
 
     save_json(STATE_FILE, state)
     save_json(FEED_JSON, {"generated_at": iso(), "items": kept})

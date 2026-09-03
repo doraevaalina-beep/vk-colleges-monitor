@@ -142,3 +142,40 @@ VK-токен ChatGPT не нужен и передавать его сюда н
 - Никогда не коммитьте сервисный ключ в Git.
 - Храните его только в `VK_SERVICE_TOKEN` (GitHub Secrets).
 - Если ключ случайно оказался публичным — отзовите его в VK и создайте новый.
+
+## Визуалы МЛСПО
+
+`visual_builder.py` собирает карточку строго из оригинального SVG внутри
+`MLSPO_Codex_sources_under25MB.zip`, оригинальной фотографии и готовых текстов.
+Шрифт `onest-cyrillic-wght-normal.woff2` подключается к CairoSVG через Fontconfig;
+перед рендерингом проверяется, что для семейства `Onest` выбран именно этот файл.
+
+Пример ручного вызова:
+
+```bash
+python visual_builder.py \
+  --item-id=-174792280_8201 \
+  --template templates/01_glavnoe.svg \
+  --original-photo docs/images/m174792280_8201_1.jpg \
+  --headline "Студенты запустили новый проект" \
+  --detail "Подробности — в публикации"
+```
+
+Результат: `docs/visuals/m174792280_8201.png` размером 1080×1080.
+
+Мониторинг собирает визуал только для записи с готовым объектом `visual`:
+
+```json
+{
+  "visual": {
+    "template": "templates/01_glavnoe.svg",
+    "original_photo": "docs/images/m174792280_8201_1.jpg",
+    "headline": "Студенты запустили новый проект",
+    "detail": "Подробности — в публикации"
+  }
+}
+```
+
+После успешной записи PNG элемент получает `visual_url` вида
+`https://…/visuals/m174792280_8201.png`. Ошибка сборки записывается в
+`docs/health.json.visual_errors` и не удаляет публикацию из ленты.
