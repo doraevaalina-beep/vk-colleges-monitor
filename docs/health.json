@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-03T16:25:55.595520Z",
+  "checked_at": "2026-09-03T17:23:49.386935Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -65,8 +65,8 @@
     },
     {
       "source": "https://vk.com/gouspt",
-      "community": "Саранский политехнический техникум",
-      "latest_post_id": 3759,
+      "community": "Мордовский краеведческий музей им. И.Д. Воронина",
+      "latest_post_id": 3760,
       "fetched": 20
     },
     {
@@ -90,7 +90,7 @@
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9472,
+      "latest_post_id": 9473,
       "fetched": 20
     },
     {
@@ -162,7 +162,7 @@
     {
       "source": "https://vk.com/club129703276",
       "community": "Средняя школа №35 | Саранск",
-      "latest_post_id": 11547,
+      "latest_post_id": 11548,
       "fetched": 20
     },
     {
@@ -630,7 +630,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14617,
+      "latest_post_id": 14619,
       "fetched": 20
     },
     {
@@ -708,7 +708,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 39374,
+      "latest_post_id": 39375,
       "fetched": 20
     },
     {
@@ -726,7 +726,7 @@
     {
       "source": "https://vk.com/club526150",
       "community": "МОУ «Школа № 30» г. Саранск Республика Мордовия",
-      "latest_post_id": 6558,
+      "latest_post_id": 6559,
       "fetched": 20
     },
     {
@@ -816,18 +816,13 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 12,
-  "mirrored_photos": 9,
-  "published_photos": 293,
+  "new_posts": 6,
+  "mirrored_photos": 5,
+  "published_photos": 298,
   "image_errors": [],
-  "built_visuals": 4,
-  "built_visual_files": [
-    "m154501666_2015.png",
-    "m129692291_8526.png",
-    "m182790665_2616.png",
-    "m216577930_3280.png"
-  ],
-  "reused_visuals": 0,
+  "built_visuals": 0,
+  "built_visual_files": [],
+  "reused_visuals": 4,
   "deleted_visuals": 0,
   "visual_errors": [],
   "note": "Ошибки здесь не содержат VK-токен. mirror_url ведёт на фото в GitHub Pages; release_url — резервная копия в GitHub Release.",
