@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-03T14:29:37.386468Z",
+  "checked_at": "2026-09-03T14:40:40.368600Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -18,7 +18,7 @@
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10424,
+      "latest_post_id": 10426,
       "fetched": 20
     },
     {
@@ -612,7 +612,7 @@
     {
       "source": "https://vk.com/public195117146",
       "community": "МОУ \"Ялгинская СОШ\" корпус 2 г.о.Саранск",
-      "latest_post_id": 3703,
+      "latest_post_id": 3705,
       "fetched": 20
     },
     {
@@ -756,7 +756,7 @@
     {
       "source": "https://vk.com/club95243821",
       "community": "Мордва ZAнаших!",
-      "latest_post_id": 11514,
+      "latest_post_id": 11515,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 2,
+  "new_posts": 5,
   "mirrored_photos": 2,
-  "published_photos": 266,
+  "published_photos": 271,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
