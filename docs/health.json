@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-03T05:06:28.914744Z",
+  "checked_at": "2026-09-03T05:42:29.233973Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -30,7 +30,7 @@
     {
       "source": "https://vk.com/ipc_hgo_mlclass_fv_informatica",
       "community": "Ичалковский педагогический колледж",
-      "latest_post_id": 6433,
+      "latest_post_id": 6434,
       "fetched": 20
     },
     {
@@ -156,7 +156,7 @@
     {
       "source": "https://vk.com/public166423723",
       "community": "МОУ \"Средняя школа № 41\"",
-      "latest_post_id": 2928,
+      "latest_post_id": 2929,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 63449,
+      "latest_post_id": 63481,
       "fetched": 20
     },
     {
@@ -660,7 +660,7 @@
     {
       "source": "https://vk.com/public171422852",
       "community": "МОУ \" Средняя школа  №18\" г. Саранск",
-      "latest_post_id": 6037,
+      "latest_post_id": 6038,
       "fetched": 20
     },
     {
@@ -696,7 +696,7 @@
     {
       "source": "https://vk.com/public215663353",
       "community": "МОУ \"Средняя школа №5\" Саранск",
-      "latest_post_id": 5106,
+      "latest_post_id": 5108,
       "fetched": 20
     },
     {
@@ -755,8 +755,8 @@
     },
     {
       "source": "https://vk.com/club95243821",
-      "community": "Государственный фонд «Защитники Отечества»",
-      "latest_post_id": 11510,
+      "community": "Мордва ZAнаших!",
+      "latest_post_id": 11511,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 33,
-  "mirrored_photos": 3,
-  "published_photos": 115,
+  "new_posts": 6,
+  "mirrored_photos": 4,
+  "published_photos": 119,
   "image_errors": [],
   "note": "Ошибки здесь не содержат VK-токен. mirror_url ведёт на фото в GitHub Pages; release_url — резервная копия в GitHub Release."
 }
