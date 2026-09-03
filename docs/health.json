@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-03T14:08:44.097013Z",
+  "checked_at": "2026-09-03T14:29:37.386468Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -612,7 +612,7 @@
     {
       "source": "https://vk.com/public195117146",
       "community": "МОУ \"Ялгинская СОШ\" корпус 2 г.о.Саранск",
-      "latest_post_id": 3702,
+      "latest_post_id": 3703,
       "fetched": 20
     },
     {
@@ -798,7 +798,7 @@
     {
       "source": "https://vk.com/club175038308",
       "community": "Школа №39 | Саранск",
-      "latest_post_id": 11412,
+      "latest_post_id": 11413,
       "fetched": 20
     }
   ],
@@ -816,18 +816,14 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 5,
-  "mirrored_photos": 5,
-  "published_photos": 264,
+  "new_posts": 2,
+  "mirrored_photos": 2,
+  "published_photos": 266,
   "image_errors": [],
-  "built_visuals": 3,
-  "built_visual_files": [
-    "m129692291_8526.png",
-    "m182790665_2616.png",
-    "m216577930_3280.png"
-  ],
-  "reused_visuals": 0,
-  "deleted_visuals": 1,
+  "built_visuals": 0,
+  "built_visual_files": [],
+  "reused_visuals": 3,
+  "deleted_visuals": 0,
   "visual_errors": [],
   "note": "Ошибки здесь не содержат VK-токен. mirror_url ведёт на фото в GitHub Pages; release_url — резервная копия в GitHub Release.",
   "editorial_errors": [],
