@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-03T12:30:48.108158Z",
+  "checked_at": "2026-09-03T13:21:35.666798Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -12,7 +12,7 @@
     {
       "source": "https://vk.com/sst_rm",
       "community": "Саранский строительный техникум",
-      "latest_post_id": 14217,
+      "latest_post_id": 14218,
       "fetched": 20
     },
     {
@@ -60,7 +60,7 @@
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 76420,
+      "latest_post_id": 76422,
       "fetched": 20
     },
     {
@@ -72,25 +72,25 @@
     {
       "source": "https://vk.com/public198480547",
       "community": "Инсарский аграрный техникум",
-      "latest_post_id": 2051,
+      "latest_post_id": 2052,
       "fetched": 20
     },
     {
       "source": "https://vk.com/stppp_professionalitet",
-      "community": "Отвага и антитеррор",
-      "latest_post_id": 4660,
+      "community": "Саранский техникум пищевой промышленности",
+      "latest_post_id": 4665,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club182790665",
-      "community": "Росдетцентр | РДЦ",
-      "latest_post_id": 2612,
+      "community": "ГБПОУ РМ \"Зубово-Полянский аграрный техникум\"",
+      "latest_post_id": 2616,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9471,
+      "latest_post_id": 9472,
       "fetched": 20
     },
     {
@@ -102,7 +102,7 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 170417,
+      "latest_post_id": 170424,
       "fetched": 20
     },
     {
@@ -114,7 +114,7 @@
     {
       "source": "https://vk.com/technical_ait",
       "community": "ГБПОУ РМ Алексеевский индустриальный техникум\"",
-      "latest_post_id": 2260,
+      "latest_post_id": 2262,
       "fetched": 20
     },
     {
@@ -162,7 +162,7 @@
     {
       "source": "https://vk.com/club129703276",
       "community": "Средняя школа №35 | Саранск",
-      "latest_post_id": 11545,
+      "latest_post_id": 11546,
       "fetched": 20
     },
     {
@@ -324,7 +324,7 @@
     {
       "source": "https://vk.com/public215627488",
       "community": "МАДОУ «Центр развития ребенка - детский сад №90»",
-      "latest_post_id": 4617,
+      "latest_post_id": 4619,
       "fetched": 20
     },
     {
@@ -611,14 +611,14 @@
     },
     {
       "source": "https://vk.com/public195117146",
-      "community": "МОУ \"Ялгинская СОШ\" корпус 2 г.о.Саранск",
-      "latest_post_id": 3695,
+      "community": "ЦБС \"Библиотека №14\" село Зыково г.о.Саранск",
+      "latest_post_id": 3696,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club351497",
       "community": "МОУ \"Лицей № 7\"",
-      "latest_post_id": 15334,
+      "latest_post_id": 15336,
       "fetched": 20
     },
     {
@@ -630,7 +630,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14613,
+      "latest_post_id": 14616,
       "fetched": 20
     },
     {
@@ -666,7 +666,7 @@
     {
       "source": "https://vk.com/public92799833",
       "community": "МОУ \"Средняя школа №33\"",
-      "latest_post_id": 7610,
+      "latest_post_id": 7611,
       "fetched": 20
     },
     {
@@ -708,7 +708,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 39371,
+      "latest_post_id": 39373,
       "fetched": 20
     },
     {
@@ -816,26 +816,22 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 34,
-  "mirrored_photos": 27,
-  "published_photos": 237,
-  "image_errors": [
-    {
-      "post_url": "https://vk.com/wall-154501666_2014",
-      "photo_url": "https://sun9-4.userapi.com/s/v1/ig2/QTrQHLJq7V14amGqcS9vden9U0mpan-Cm5j-AgM9di9y_8aPHZXTeAx3AMMDqIqGt4yUjpRExVdxpobHVTW4EeEA.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&from=bu&cs=1280x0",
-      "error": "500 Server Error: Internal Server Error for url: https://sun9-4.userapi.com/s/v1/ig2/QTrQHLJq7V14amGqcS9vden9U0mpan-Cm5j-AgM9di9y_8aPHZXTeAx3AMMDqIqGt4yUjpRExVdxpobHVTW4EeEA.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080"
-    }
+  "new_posts": 22,
+  "mirrored_photos": 20,
+  "published_photos": 256,
+  "image_errors": [],
+  "built_visuals": 1,
+  "built_visual_files": [
+    "m174792280_8201.png"
   ],
-  "built_visuals": 0,
-  "built_visual_files": [],
   "reused_visuals": 0,
   "deleted_visuals": 0,
   "visual_errors": [],
   "note": "Ошибки здесь не содержат VK-токен. mirror_url ведёт на фото в GitHub Pages; release_url — резервная копия в GitHub Release.",
   "editorial_errors": [],
   "editorial_queue_loaded": true,
-  "editorial_items_total": 0,
-  "editorial_ready_items": 0,
+  "editorial_items_total": 1,
+  "editorial_ready_items": 1,
   "editorial_sent_items": 0,
   "editorial_skipped_items": 0
 }
