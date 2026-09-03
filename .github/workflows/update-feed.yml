@@ -76,7 +76,7 @@ jobs:
           VK_SERVICE_TOKEN: ${{ secrets.VK_SERVICE_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
           PUBLIC_SITE_BASE: https://doraevaalina-beep.github.io/vk-colleges-monitor
-        run: python monitor.py
+        run: python editorial_runner.py
 
       - name: Upload new original VK photos
         env:
