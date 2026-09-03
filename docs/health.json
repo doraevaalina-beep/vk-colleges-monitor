@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-03T19:20:45.485733Z",
+  "checked_at": "2026-09-03T20:23:02.306355Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -372,7 +372,7 @@
     {
       "source": "https://vk.com/public190232482",
       "community": "МАДОУ \"ДЕТСКИЙ САД 87 КОМБИНИРОВАННОГО ВИДА\"",
-      "latest_post_id": 2477,
+      "latest_post_id": 2478,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 8,
-  "mirrored_photos": 8,
-  "published_photos": 314,
+  "new_posts": 1,
+  "mirrored_photos": 1,
+  "published_photos": 315,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
