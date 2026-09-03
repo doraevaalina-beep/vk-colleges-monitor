@@ -1,0 +1,36 @@
+name: Test MLSPO visuals
+
+on:
+  push:
+    branches:
+      - feature/mlspo-visual-builder-final
+  pull_request:
+    paths:
+      - "visual_builder.py"
+      - "monitor.py"
+      - "tests/**"
+      - "requirements.txt"
+      - ".github/workflows/test-mlspo-visuals.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install system rendering dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install --yes --no-install-recommends fontconfig libcairo2
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
+      - name: Compile Python files
+        run: python -m py_compile monitor.py visual_builder.py tests/*.py
