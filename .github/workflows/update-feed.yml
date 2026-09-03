@@ -30,6 +30,11 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install system rendering dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install --yes --no-install-recommends fontconfig libcairo2
+
       - name: Install
         run: pip install -r requirements.txt
 
@@ -42,6 +47,11 @@ jobs:
               --title "VK post images" \
               --notes "Automatic rolling mirror of original VK post photos used by the feed."
           fi
+          if ! gh release view mlspo-visuals >/dev/null 2>&1; then
+            gh release create mlspo-visuals \
+              --title "MLSPO visuals" \
+              --notes "Automatic rolling storage for current MLSPO visual cards."
+          fi
 
       - name: Restore current VK photos for Pages
         env:
@@ -51,6 +61,15 @@ jobs:
           mkdir -p docs/images
           gh release download vk-images --dir docs/images || true
           echo "Restored $(find docs/images -maxdepth 1 -type f | wc -l) photo(s)"
+
+      - name: Restore current MLSPO visuals for Pages and reuse
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          mkdir -p docs/visuals
+          gh release download mlspo-visuals --dir docs/visuals || true
+          echo "Restored $(find docs/visuals -maxdepth 1 -type f -name '*.png' | wc -l) visual(s)"
 
       - name: Fetch VK posts and original photos
         env:
@@ -84,6 +103,33 @@ jobs:
           while IFS=$'\t' read -r asset_id asset_name; do
             if ! grep -Fq "$asset_name" docs/feed.json; then
               echo "Deleting old image asset: $asset_name"
+              gh api --method DELETE "repos/${GITHUB_REPOSITORY}/releases/assets/${asset_id}"
+            fi
+          done
+
+      - name: Publish rolling MLSPO visuals
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          mapfile -t names < <(jq -r '.built_visual_files[]' docs/health.json)
+          files=()
+          for name in "${names[@]}"; do
+            [[ -f "docs/visuals/$name" ]] && files+=("docs/visuals/$name")
+          done
+          if (( ${#files[@]} )); then
+            gh release upload mlspo-visuals "${files[@]}" --clobber
+            echo "Published ${#files[@]} new or changed visual(s)"
+          else
+            echo "No new or changed visuals to publish"
+          fi
+
+          release_id=$(gh api "repos/${GITHUB_REPOSITORY}/releases/tags/mlspo-visuals" --jq '.id')
+          gh api --paginate "repos/${GITHUB_REPOSITORY}/releases/${release_id}/assets?per_page=100" \
+            --jq '.[] | [.id, .name] | @tsv' | \
+          while IFS=$'\t' read -r asset_id asset_name; do
+            if [[ ! -f "docs/visuals/$asset_name" ]]; then
+              echo "Deleting old visual asset: $asset_name"
               gh api --method DELETE "repos/${GITHUB_REPOSITORY}/releases/assets/${asset_id}"
             fi
           done
