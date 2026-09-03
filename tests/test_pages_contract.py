@@ -12,6 +12,13 @@ class PagesContractTests(unittest.TestCase):
         self.assertIn("feed.json", html)
         self.assertIn("health.json", html)
 
+    def test_ready_posts_are_rendered_in_separate_section_with_visuals(self):
+        html = (ROOT / "docs" / "index.html").read_text(encoding="utf-8")
+        self.assertIn("Готово к публикации", html)
+        self.assertIn('id="ready"', html)
+        self.assertIn("editorial_status==='ready'", html)
+        self.assertIn("item.visual_url", html)
+
 
 if __name__ == "__main__":
     unittest.main()
