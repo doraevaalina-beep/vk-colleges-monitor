@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-03T05:42:29.233973Z",
+  "checked_at": "2026-09-03T06:30:32.582057Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -18,7 +18,7 @@
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10423,
+      "latest_post_id": 10424,
       "fetched": 20
     },
     {
@@ -126,7 +126,7 @@
     {
       "source": "https://vk.com/club34313558",
       "community": "ГБПОУ РМ \"Краснослободский аграрный техникум\"",
-      "latest_post_id": 3056,
+      "latest_post_id": 3057,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 63481,
+      "latest_post_id": 63483,
       "fetched": 20
     },
     {
@@ -288,7 +288,7 @@
     {
       "source": "https://vk.com/public203694036",
       "community": "МАДОУ \"Центр развития ребенка - детский сад №46\"",
-      "latest_post_id": 5979,
+      "latest_post_id": 5980,
       "fetched": 20
     },
     {
@@ -738,7 +738,7 @@
     {
       "source": "https://vk.com/club186187361",
       "community": "МОУ СОШ №2 им.Героя Советского Союза П.И.Орлова",
-      "latest_post_id": 5598,
+      "latest_post_id": 5599,
       "fetched": 20
     },
     {
@@ -750,7 +750,7 @@
     {
       "source": "https://vk.com/club206918978",
       "community": "Николаевская школа | Саранск",
-      "latest_post_id": 8232,
+      "latest_post_id": 8233,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 6,
-  "mirrored_photos": 4,
-  "published_photos": 119,
+  "new_posts": 7,
+  "mirrored_photos": 5,
+  "published_photos": 124,
   "image_errors": [],
   "note": "Ошибки здесь не содержат VK-токен. mirror_url ведёт на фото в GitHub Pages; release_url — резервная копия в GitHub Release."
 }
