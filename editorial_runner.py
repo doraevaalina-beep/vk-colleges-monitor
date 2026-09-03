@@ -11,6 +11,9 @@ import monitor
 
 EDITORIAL_QUEUE_FILE = monitor.ROOT / "editorial_queue.json"
 EDITORIAL_STATUSES = {"new", "ready", "sent", "skip"}
+DETAIL_MIN_WORDS = 2
+DETAIL_MAX_WORDS = 4
+DETAIL_MAX_CHARS = 32
 
 
 def load_editorial_queue(path, health):
@@ -79,6 +82,25 @@ def _clear_editorial_fields(item):
         item.pop(field, None)
 
 
+def detail_validation_error(detail):
+    """Return a human-readable error when a visual subtitle is too long."""
+    if not isinstance(detail, str) or not detail.strip():
+        return None
+    normalized = re.sub(r"\s+", " ", detail.strip())
+    words = re.findall(r"[A-Za-zА-Яа-яЁё0-9№]+(?:[-.][A-Za-zА-Яа-яЁё0-9№]+)*", normalized)
+    if len(words) < DETAIL_MIN_WORDS or len(words) > DETAIL_MAX_WORDS:
+        return (
+            f"Подзаголовок должен содержать {DETAIL_MIN_WORDS}–{DETAIL_MAX_WORDS} слова; "
+            f"сейчас {len(words)}"
+        )
+    if len(normalized) > DETAIL_MAX_CHARS:
+        return (
+            f"Подзаголовок должен быть не длиннее {DETAIL_MAX_CHARS} символов; "
+            f"сейчас {len(normalized)}"
+        )
+    return None
+
+
 def apply_editorial_queue(items, queue, health, image_dir=None):
     """Attach public editorial fields and ready-to-build visual requests to feed items."""
     errors = health.setdefault("editorial_errors", [])
@@ -138,6 +160,14 @@ def apply_editorial_queue(items, queue, health, image_dir=None):
             errors.append(
                 {"item_id": item_id, "error": "Нет данных для визуала: " + ", ".join(missing)}
             )
+            continue
+
+        detail_error = detail_validation_error(entry["detail"])
+        if detail_error:
+            item.pop("visual", None)
+            item.pop("visual_url", None)
+            item.pop("visual_fingerprint", None)
+            errors.append({"item_id": item_id, "error": detail_error})
             continue
 
         item["visual"] = {
