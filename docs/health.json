@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-03T15:27:34.283393Z",
+  "checked_at": "2026-09-03T15:40:18.156599Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -228,7 +228,7 @@
     {
       "source": "https://vk.com/public172429704",
       "community": "МАДОУ \"Детский сад № 80\"",
-      "latest_post_id": 4005,
+      "latest_post_id": 4004,
       "fetched": 20
     },
     {
@@ -816,20 +816,25 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 34,
-  "mirrored_photos": 13,
+  "new_posts": 0,
+  "mirrored_photos": 0,
   "published_photos": 284,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
   "reused_visuals": 3,
   "deleted_visuals": 0,
-  "visual_errors": [],
+  "visual_errors": [
+    {
+      "item_id": "-154501666_2015",
+      "error": "DETAIL_TEXT: текст не помещается (2 строк)"
+    }
+  ],
   "note": "Ошибки здесь не содержат VK-токен. mirror_url ведёт на фото в GitHub Pages; release_url — резервная копия в GitHub Release.",
   "editorial_errors": [],
   "editorial_queue_loaded": true,
-  "editorial_items_total": 3,
-  "editorial_ready_items": 3,
+  "editorial_items_total": 4,
+  "editorial_ready_items": 4,
   "editorial_sent_items": 0,
   "editorial_skipped_items": 0
 }
