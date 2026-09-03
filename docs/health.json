@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-03T06:30:32.582057Z",
+  "checked_at": "2026-09-03T07:25:14.088702Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -90,7 +90,7 @@
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9470,
+      "latest_post_id": 9471,
       "fetched": 20
     },
     {
@@ -180,7 +180,7 @@
     {
       "source": "https://vk.com/public144012777",
       "community": "Лицей №43, г. Саранск",
-      "latest_post_id": 6621,
+      "latest_post_id": 6627,
       "fetched": 20
     },
     {
@@ -546,13 +546,13 @@
     {
       "source": "https://vk.com/public190325366",
       "community": "МДОУ \"Детский сад №91 компенсирующего вида\"",
-      "latest_post_id": 2316,
+      "latest_post_id": 2324,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club170916138",
       "community": "МДОУ \"Детский сад №93\"",
-      "latest_post_id": 2188,
+      "latest_post_id": 2189,
       "fetched": 20
     },
     {
@@ -660,7 +660,7 @@
     {
       "source": "https://vk.com/public171422852",
       "community": "МОУ \" Средняя школа  №18\" г. Саранск",
-      "latest_post_id": 6038,
+      "latest_post_id": 6039,
       "fetched": 20
     },
     {
@@ -690,7 +690,7 @@
     {
       "source": "https://vk.com/public203691909",
       "community": "МОУ \"Средняя школа №37\"",
-      "latest_post_id": 5396,
+      "latest_post_id": 5399,
       "fetched": 20
     },
     {
@@ -714,7 +714,7 @@
     {
       "source": "https://vk.com/public171854359",
       "community": "МОУ «СОШ №22»",
-      "latest_post_id": 8555,
+      "latest_post_id": 8557,
       "fetched": 20
     },
     {
@@ -750,13 +750,13 @@
     {
       "source": "https://vk.com/club206918978",
       "community": "Николаевская школа | Саранск",
-      "latest_post_id": 8233,
+      "latest_post_id": 8235,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club95243821",
       "community": "Мордва ZAнаших!",
-      "latest_post_id": 11511,
+      "latest_post_id": 11512,
       "fetched": 20
     },
     {
@@ -816,9 +816,14 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 7,
-  "mirrored_photos": 5,
-  "published_photos": 124,
+  "new_posts": 12,
+  "mirrored_photos": 10,
+  "published_photos": 134,
   "image_errors": [],
+  "built_visuals": 0,
+  "built_visual_files": [],
+  "reused_visuals": 0,
+  "deleted_visuals": 0,
+  "visual_errors": [],
   "note": "Ошибки здесь не содержат VK-токен. mirror_url ведёт на фото в GitHub Pages; release_url — резервная копия в GitHub Release."
 }
