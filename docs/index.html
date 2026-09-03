@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>МЛСПО — монитор публикаций</title>
+  <style>
+    :root{font-family:Arial,sans-serif;color:#171717;background:#f5f5f5}body{margin:0}.wrap{max-width:900px;margin:auto;padding:28px 18px 60px}header{display:flex;gap:16px;justify-content:space-between;align-items:end;margin-bottom:24px}h1{margin:0;font-size:30px}.meta{color:#666;font-size:14px}.feed{display:grid;gap:16px}.card{background:white;border-radius:18px;padding:18px;box-shadow:0 1px 8px #00000012}.community{font-weight:700;margin-bottom:6px}.date{font-size:13px;color:#777}.text{white-space:pre-wrap;line-height:1.45;margin:12px 0;max-height:240px;overflow:hidden}.photo,.visual{width:100%;max-height:520px;object-fit:cover;border-radius:12px;margin-top:10px}.rewrite{background:#f0f4ff;border-radius:12px;padding:12px;margin-top:12px;white-space:pre-wrap}.actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:14px}a{color:#175cd3}.status{font-size:13px;padding:5px 8px;background:#eee;border-radius:8px}.error{background:#fff1f0;padding:14px;border-radius:12px}.empty{color:#666}</style>
+</head>
+<body><main class="wrap">
+<header><div><h1>МЛСПО — свежие публикации</h1><div class="meta" id="updated">Загрузка…</div></div><a href="health.json">health.json</a></header>
+<div id="health"></div><section class="feed" id="feed"></section>
+</main>
+<script>
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const firstPhoto=item=>(item.attachments||[]).find(a=>a.type==='photo'&&(a.mirror_url||a.url));
+async function load(){
+ try{
+  const [feedRes,healthRes]=await Promise.all([fetch('feed.json',{cache:'no-store'}),fetch('health.json',{cache:'no-store'})]);
+  if(!feedRes.ok) throw new Error(`feed.json: HTTP ${feedRes.status}`);
+  const data=await feedRes.json(); const health=healthRes.ok?await healthRes.json():null;
+  document.getElementById('updated').textContent=`Обновлено: ${new Date(data.generated_at).toLocaleString('ru-RU')} · публикаций: ${(data.items||[]).length}`;
+  if(health){document.getElementById('health').innerHTML=`<p class="meta">Источников: ${health.source_count??'—'} · новых: ${health.new_posts??'—'} · ошибок источников: ${(health.errors||[]).length} · визуалов собрано: ${health.built_visuals??0}</p>`}
+  const items=data.items||[]; const root=document.getElementById('feed');
+  if(!items.length){root.innerHTML='<p class="empty">Свежих публикаций пока нет.</p>';return}
+  root.innerHTML=items.map(item=>{const photo=firstPhoto(item);return `<article class="card"><div class="community">${esc(item.community)}</div><div class="date">${new Date(item.published_at).toLocaleString('ru-RU')}</div><div class="text">${esc(item.text||item.repost_text||'(без подписи)')}</div>${photo?`<img class="photo" loading="lazy" src="${esc(photo.mirror_url||photo.url)}" alt="">`:''}${item.rewrite?`<div class="rewrite"><strong>Готовый текст</strong><br>${esc(item.rewrite)}</div>`:''}${item.visual_url?`<img class="visual" loading="lazy" src="${esc(item.visual_url)}" alt="Готовый визуал">`:''}<div class="actions"><a href="${esc(item.post_url)}" target="_blank" rel="noopener">Оригинал VK</a>${item.editorial_status?`<span class="status">${esc(item.editorial_status)}</span>`:''}</div></article>`}).join('');
+ }catch(e){document.getElementById('updated').textContent='Не удалось загрузить ленту';document.getElementById('feed').innerHTML=`<div class="error">${esc(e.message)}</div>`}
+}
+load();
+</script></body></html>
