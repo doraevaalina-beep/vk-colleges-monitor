@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-09-03T15:40:18.156599Z",
+  "checked_at": "2026-09-03T16:25:55.595520Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
     {
       "source": "https://vk.com/samtrm",
       "community": "ГАПОУ РМ \"Саранский автомеханический техникум\"",
-      "latest_post_id": 12089,
+      "latest_post_id": 12090,
       "fetched": 20
     },
     {
@@ -24,7 +24,7 @@
     {
       "source": "https://vk.com/club181850079",
       "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4481,
+      "latest_post_id": 4480,
       "fetched": 20
     },
     {
@@ -114,7 +114,7 @@
     {
       "source": "https://vk.com/technical_ait",
       "community": "ГБПОУ РМ Алексеевский индустриальный техникум\"",
-      "latest_post_id": 2262,
+      "latest_post_id": 2263,
       "fetched": 20
     },
     {
@@ -144,7 +144,7 @@
     {
       "source": "https://vk.com/club148125790",
       "community": "38tv - Новости",
-      "latest_post_id": 9379,
+      "latest_post_id": 9380,
       "fetched": 20
     },
     {
@@ -156,7 +156,7 @@
     {
       "source": "https://vk.com/public166423723",
       "community": "МОУ \"Средняя школа № 41\"",
-      "latest_post_id": 2929,
+      "latest_post_id": 2930,
       "fetched": 20
     },
     {
@@ -168,7 +168,7 @@
     {
       "source": "https://vk.com/club103710305",
       "community": "МОУ \"Школа №27\" г. Саранск Республика Мордовия",
-      "latest_post_id": 4053,
+      "latest_post_id": 4058,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 63540,
+      "latest_post_id": 63584,
       "fetched": 20
     },
     {
@@ -798,7 +798,7 @@
     {
       "source": "https://vk.com/club175038308",
       "community": "Школа №39 | Саранск",
-      "latest_post_id": 11414,
+      "latest_post_id": 11415,
       "fetched": 20
     }
   ],
@@ -816,20 +816,20 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 0,
-  "mirrored_photos": 0,
-  "published_photos": 284,
+  "new_posts": 12,
+  "mirrored_photos": 9,
+  "published_photos": 293,
   "image_errors": [],
-  "built_visuals": 0,
-  "built_visual_files": [],
-  "reused_visuals": 3,
-  "deleted_visuals": 0,
-  "visual_errors": [
-    {
-      "item_id": "-154501666_2015",
-      "error": "DETAIL_TEXT: текст не помещается (2 строк)"
-    }
+  "built_visuals": 4,
+  "built_visual_files": [
+    "m154501666_2015.png",
+    "m129692291_8526.png",
+    "m182790665_2616.png",
+    "m216577930_3280.png"
   ],
+  "reused_visuals": 0,
+  "deleted_visuals": 0,
+  "visual_errors": [],
   "note": "Ошибки здесь не содержат VK-токен. mirror_url ведёт на фото в GitHub Pages; release_url — резервная копия в GitHub Release.",
   "editorial_errors": [],
   "editorial_queue_loaded": true,
