@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-04T21:22:41.445313Z",
+  "checked_at": "2026-09-04T22:22:18.909883Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -90,7 +90,7 @@
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9474,
+      "latest_post_id": 9476,
       "fetched": 20
     },
     {
@@ -818,7 +818,7 @@
   ],
   "new_posts": 1,
   "mirrored_photos": 1,
-  "published_photos": 423,
+  "published_photos": 424,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
