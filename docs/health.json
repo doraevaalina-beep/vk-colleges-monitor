@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-04T16:24:50.058315Z",
+  "checked_at": "2026-09-04T17:22:09.752313Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -60,7 +60,7 @@
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 76442,
+      "latest_post_id": 76446,
       "fetched": 20
     },
     {
@@ -102,7 +102,7 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 170510,
+      "latest_post_id": 170529,
       "fetched": 20
     },
     {
@@ -168,7 +168,7 @@
     {
       "source": "https://vk.com/club103710305",
       "community": "МОУ \"Школа №27\" г. Саранск Республика Мордовия",
-      "latest_post_id": 4058,
+      "latest_post_id": 4059,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 63720,
+      "latest_post_id": 63730,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 3,
-  "mirrored_photos": 3,
-  "published_photos": 413,
+  "new_posts": 7,
+  "mirrored_photos": 7,
+  "published_photos": 420,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
