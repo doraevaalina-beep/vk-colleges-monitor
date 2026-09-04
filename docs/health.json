@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-04T03:23:19.010426Z",
+  "checked_at": "2026-09-04T04:24:18.797691Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -138,7 +138,7 @@
     {
       "source": "https://vk.com/club59095536",
       "community": "МОУ \"Средняя школа №11\"",
-      "latest_post_id": 14858,
+      "latest_post_id": 14861,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 63619,
+      "latest_post_id": 63655,
       "fetched": 20
     },
     {
@@ -648,7 +648,7 @@
     {
       "source": "https://vk.com/club154276223",
       "community": "МОУ \"Луховский лицей\"",
-      "latest_post_id": 5234,
+      "latest_post_id": 5235,
       "fetched": 20
     },
     {
@@ -817,8 +817,8 @@
     }
   ],
   "new_posts": 3,
-  "mirrored_photos": 2,
-  "published_photos": 318,
+  "mirrored_photos": 3,
+  "published_photos": 320,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
