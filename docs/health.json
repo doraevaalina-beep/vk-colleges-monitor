@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-04T19:19:51.848657Z",
+  "checked_at": "2026-09-04T20:24:15.542179Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -174,7 +174,7 @@
     {
       "source": "https://vk.com/public216577930",
       "community": "Гимназия №19 | г. Саранск",
-      "latest_post_id": 3287,
+      "latest_post_id": 3288,
       "fetched": 20
     },
     {
@@ -817,7 +817,7 @@
     }
   ],
   "new_posts": 1,
-  "mirrored_photos": 1,
+  "mirrored_photos": 0,
   "published_photos": 423,
   "image_errors": [],
   "built_visuals": 0,
