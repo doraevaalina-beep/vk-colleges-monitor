@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-04T14:23:47.618372Z",
+  "checked_at": "2026-09-04T15:25:04.749480Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -684,7 +684,7 @@
     {
       "source": "https://vk.com/public1571309",
       "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26133,
+      "latest_post_id": 26134,
       "fetched": 20
     },
     {
@@ -708,7 +708,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 39399,
+      "latest_post_id": 39410,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 33,
-  "mirrored_photos": 7,
-  "published_photos": 408,
+  "new_posts": 2,
+  "mirrored_photos": 2,
+  "published_photos": 410,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
