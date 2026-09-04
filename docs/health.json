@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-04T17:22:09.752313Z",
+  "checked_at": "2026-09-04T18:24:48.143366Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -77,8 +77,8 @@
     },
     {
       "source": "https://vk.com/stppp_professionalitet",
-      "community": "МЛСПО - Молодежная лига СПО",
-      "latest_post_id": 4666,
+      "community": "Саранский техникум пищевой промышленности",
+      "latest_post_id": 4669,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 63730,
+      "latest_post_id": 63736,
       "fetched": 20
     },
     {
@@ -725,8 +725,8 @@
     },
     {
       "source": "https://vk.com/club526150",
-      "community": "МОУ «Школа № 30» г. Саранск Республика Мордовия",
-      "latest_post_id": 6562,
+      "community": "НТМ || Народное Телевидение Мордовии",
+      "latest_post_id": 6563,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 7,
-  "mirrored_photos": 7,
-  "published_photos": 420,
+  "new_posts": 4,
+  "mirrored_photos": 2,
+  "published_photos": 422,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
