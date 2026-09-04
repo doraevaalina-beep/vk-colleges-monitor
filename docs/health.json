@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-09-04T04:24:18.797691Z",
+  "checked_at": "2026-09-04T05:22:46.301135Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
     {
       "source": "https://vk.com/samtrm",
       "community": "ГАПОУ РМ \"Саранский автомеханический техникум\"",
-      "latest_post_id": 12091,
+      "latest_post_id": 12092,
       "fetched": 20
     },
     {
       "source": "https://vk.com/sst_rm",
       "community": "Саранский строительный техникум",
-      "latest_post_id": 14222,
+      "latest_post_id": 14224,
       "fetched": 20
     },
     {
@@ -23,8 +23,8 @@
     },
     {
       "source": "https://vk.com/club181850079",
-      "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4480,
+      "community": "МЛСПО - Молодежная лига СПО",
+      "latest_post_id": 4482,
       "fetched": 20
     },
     {
@@ -48,13 +48,13 @@
     {
       "source": "https://vk.com/public80925441",
       "community": "Атяшевский аграрный техникум",
-      "latest_post_id": 1602,
+      "latest_post_id": 1603,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club202849242",
       "community": "СТЭиЭТ им. А.И. Полежаева",
-      "latest_post_id": 3618,
+      "latest_post_id": 3620,
       "fetched": 20
     },
     {
@@ -72,19 +72,19 @@
     {
       "source": "https://vk.com/public198480547",
       "community": "Инсарский аграрный техникум",
-      "latest_post_id": 2052,
+      "latest_post_id": 2053,
       "fetched": 20
     },
     {
       "source": "https://vk.com/stppp_professionalitet",
-      "community": "Саранский техникум пищевой промышленности",
-      "latest_post_id": 4665,
+      "community": "МЛСПО - Молодежная лига СПО",
+      "latest_post_id": 4666,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club182790665",
-      "community": "ГБПОУ РМ \"Зубово-Полянский аграрный техникум\"",
-      "latest_post_id": 2616,
+      "community": "МЛСПО - Молодежная лига СПО",
+      "latest_post_id": 2617,
       "fetched": 20
     },
     {
@@ -102,7 +102,7 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 170424,
+      "latest_post_id": 170472,
       "fetched": 20
     },
     {
@@ -114,13 +114,13 @@
     {
       "source": "https://vk.com/technical_ait",
       "community": "ГБПОУ РМ Алексеевский индустриальный техникум\"",
-      "latest_post_id": 2263,
+      "latest_post_id": 2264,
       "fetched": 20
     },
     {
       "source": "https://vk.com/kaskrm",
       "community": "Ковылкинский аграрно-строительный колледж",
-      "latest_post_id": 14900,
+      "latest_post_id": 14928,
       "fetched": 20
     },
     {
@@ -138,7 +138,7 @@
     {
       "source": "https://vk.com/club59095536",
       "community": "МОУ \"Средняя школа №11\"",
-      "latest_post_id": 14861,
+      "latest_post_id": 14862,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 63655,
+      "latest_post_id": 63656,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 3,
-  "mirrored_photos": 3,
-  "published_photos": 320,
+  "new_posts": 13,
+  "mirrored_photos": 2,
+  "published_photos": 321,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
