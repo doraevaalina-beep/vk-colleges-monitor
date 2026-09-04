@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-04T09:24:46.529403Z",
+  "checked_at": "2026-09-04T10:25:47.479143Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -54,7 +54,7 @@
     {
       "source": "https://vk.com/club202849242",
       "community": "СТЭиЭТ им. А.И. Полежаева",
-      "latest_post_id": 3620,
+      "latest_post_id": 3621,
       "fetched": 20
     },
     {
@@ -144,7 +144,7 @@
     {
       "source": "https://vk.com/club148125790",
       "community": "38tv - Новости",
-      "latest_post_id": 9390,
+      "latest_post_id": 9392,
       "fetched": 20
     },
     {
@@ -324,13 +324,13 @@
     {
       "source": "https://vk.com/public215627488",
       "community": "МАДОУ «Центр развития ребенка - детский сад №90»",
-      "latest_post_id": 4619,
+      "latest_post_id": 4624,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public202712770",
       "community": "МАДОУ «Центр развития ребёнка - детский сад №6»",
-      "latest_post_id": 4723,
+      "latest_post_id": 4725,
       "fetched": 20
     },
     {
@@ -342,7 +342,7 @@
     {
       "source": "https://vk.com/public215671212",
       "community": "МАОУ \"Прогимназия № 119\" г.Саранск",
-      "latest_post_id": 1612,
+      "latest_post_id": 1613,
       "fetched": 20
     },
     {
@@ -564,7 +564,7 @@
     {
       "source": "https://vk.com/club190273034",
       "community": "МДОУ \"Детский сад №98\"",
-      "latest_post_id": 3691,
+      "latest_post_id": 3692,
       "fetched": 20
     },
     {
@@ -696,7 +696,7 @@
     {
       "source": "https://vk.com/public215663353",
       "community": "МОУ \"Средняя школа №5\" Саранск",
-      "latest_post_id": 5120,
+      "latest_post_id": 5121,
       "fetched": 20
     },
     {
@@ -750,7 +750,7 @@
     {
       "source": "https://vk.com/club206918978",
       "community": "Николаевская школа | Саранск",
-      "latest_post_id": 8237,
+      "latest_post_id": 8238,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 36,
-  "mirrored_photos": 7,
-  "published_photos": 371,
+  "new_posts": 12,
+  "mirrored_photos": 11,
+  "published_photos": 382,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
