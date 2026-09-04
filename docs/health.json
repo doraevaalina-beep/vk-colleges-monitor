@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-04T15:25:04.749480Z",
+  "checked_at": "2026-09-04T16:24:50.058315Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -72,7 +72,7 @@
     {
       "source": "https://vk.com/public198480547",
       "community": "Инсарский аграрный техникум",
-      "latest_post_id": 2053,
+      "latest_post_id": 2054,
       "fetched": 20
     },
     {
@@ -684,7 +684,7 @@
     {
       "source": "https://vk.com/public1571309",
       "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26134,
+      "latest_post_id": 26135,
       "fetched": 20
     },
     {
@@ -696,7 +696,7 @@
     {
       "source": "https://vk.com/public215663353",
       "community": "МОУ \"Средняя школа №5\" Саранск",
-      "latest_post_id": 5123,
+      "latest_post_id": 5124,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 2,
-  "mirrored_photos": 2,
-  "published_photos": 410,
+  "new_posts": 3,
+  "mirrored_photos": 3,
+  "published_photos": 413,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
