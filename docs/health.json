@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-04T20:24:15.542179Z",
+  "checked_at": "2026-09-04T21:22:41.445313Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -18,7 +18,7 @@
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10428,
+      "latest_post_id": 10429,
       "fetched": 20
     },
     {
@@ -817,7 +817,7 @@
     }
   ],
   "new_posts": 1,
-  "mirrored_photos": 0,
+  "mirrored_photos": 1,
   "published_photos": 423,
   "image_errors": [],
   "built_visuals": 0,
