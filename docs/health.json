@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-05T15:22:01.781366Z",
+  "checked_at": "2026-09-05T16:22:41.395920Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -24,7 +24,7 @@
     {
       "source": "https://vk.com/club181850079",
       "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4484,
+      "latest_post_id": 4485,
       "fetched": 20
     },
     {
@@ -594,7 +594,7 @@
     {
       "source": "https://vk.com/club166487726",
       "community": "Гимназия № 12 | Саранск",
-      "latest_post_id": 6782,
+      "latest_post_id": 6784,
       "fetched": 20
     },
     {
@@ -818,7 +818,7 @@
   ],
   "new_posts": 2,
   "mirrored_photos": 2,
-  "published_photos": 376,
+  "published_photos": 374,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
