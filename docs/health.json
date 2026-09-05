@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-05T12:26:40.268462Z",
+  "checked_at": "2026-09-05T13:21:38.653220Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -24,13 +24,13 @@
     {
       "source": "https://vk.com/club181850079",
       "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4483,
+      "latest_post_id": 4484,
       "fetched": 20
     },
     {
       "source": "https://vk.com/ipc_hgo_mlclass_fv_informatica",
       "community": "Ичалковский педагогический колледж",
-      "latest_post_id": 6436,
+      "latest_post_id": 6437,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 63875,
+      "latest_post_id": 63877,
       "fetched": 20
     },
     {
@@ -756,7 +756,7 @@
     {
       "source": "https://vk.com/club95243821",
       "community": "Мордва ZAнаших!",
-      "latest_post_id": 11521,
+      "latest_post_id": 11522,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 34,
-  "mirrored_photos": 5,
-  "published_photos": 395,
+  "new_posts": 4,
+  "mirrored_photos": 4,
+  "published_photos": 387,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
