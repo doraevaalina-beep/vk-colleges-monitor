@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-05T06:27:13.863053Z",
+  "checked_at": "2026-09-05T07:21:37.804648Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 63792,
+      "latest_post_id": 63794,
       "fetched": 20
     },
     {
@@ -282,7 +282,7 @@
     {
       "source": "https://vk.com/public190278465",
       "community": "МАДОУ \"Центр развития ребёнка - детский сад №3\"",
-      "latest_post_id": 11936,
+      "latest_post_id": 11937,
       "fetched": 20
     },
     {
@@ -612,7 +612,7 @@
     {
       "source": "https://vk.com/public195117146",
       "community": "МОУ \"Ялгинская СОШ\" корпус 2 г.о.Саранск",
-      "latest_post_id": 3707,
+      "latest_post_id": 3708,
       "fetched": 20
     },
     {
@@ -696,7 +696,7 @@
     {
       "source": "https://vk.com/public215663353",
       "community": "МОУ \"Средняя школа №5\" Саранск",
-      "latest_post_id": 5127,
+      "latest_post_id": 5128,
       "fetched": 20
     },
     {
@@ -708,7 +708,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 39434,
+      "latest_post_id": 39436,
       "fetched": 20
     },
     {
@@ -756,7 +756,7 @@
     {
       "source": "https://vk.com/club95243821",
       "community": "Мордва ZAнаших!",
-      "latest_post_id": 11516,
+      "latest_post_id": 11520,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 30,
-  "mirrored_photos": 4,
-  "published_photos": 421,
+  "new_posts": 7,
+  "mirrored_photos": 5,
+  "published_photos": 408,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
