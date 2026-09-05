@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-05T07:21:37.804648Z",
+  "checked_at": "2026-09-05T08:23:06.500619Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -12,7 +12,7 @@
     {
       "source": "https://vk.com/sst_rm",
       "community": "Саранский строительный техникум",
-      "latest_post_id": 14226,
+      "latest_post_id": 14229,
       "fetched": 20
     },
     {
@@ -798,7 +798,7 @@
     {
       "source": "https://vk.com/club175038308",
       "community": "Школа №39 | Саранск",
-      "latest_post_id": 11421,
+      "latest_post_id": 11424,
       "fetched": 20
     }
   ],
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 7,
-  "mirrored_photos": 5,
-  "published_photos": 408,
+  "new_posts": 4,
+  "mirrored_photos": 3,
+  "published_photos": 411,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
