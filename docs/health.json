@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-05T16:22:41.395920Z",
+  "checked_at": "2026-09-05T17:20:54.081348Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -360,7 +360,7 @@
     {
       "source": "https://vk.com/club37973095",
       "community": "МБОУ \"СОШ №10\"",
-      "latest_post_id": 4467,
+      "latest_post_id": 4468,
       "fetched": 20
     },
     {
@@ -750,7 +750,7 @@
     {
       "source": "https://vk.com/club206918978",
       "community": "Николаевская школа | Саранск",
-      "latest_post_id": 8240,
+      "latest_post_id": 8242,
       "fetched": 20
     },
     {
@@ -817,8 +817,8 @@
     }
   ],
   "new_posts": 2,
-  "mirrored_photos": 2,
-  "published_photos": 374,
+  "mirrored_photos": 1,
+  "published_photos": 369,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
