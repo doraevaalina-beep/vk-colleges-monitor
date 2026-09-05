@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-05T10:21:47.103980Z",
+  "checked_at": "2026-09-05T11:21:24.562827Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -23,8 +23,8 @@
     },
     {
       "source": "https://vk.com/club181850079",
-      "community": "МЛСПО - Молодежная лига СПО",
-      "latest_post_id": 4482,
+      "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
+      "latest_post_id": 4483,
       "fetched": 20
     },
     {
@@ -186,7 +186,7 @@
     {
       "source": "https://vk.com/club9874035",
       "community": "Лыжно-биатлонный комплекс. Федерация биатлона РМ",
-      "latest_post_id": 4328,
+      "latest_post_id": 4329,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 63851,
+      "latest_post_id": 63875,
       "fetched": 20
     },
     {
@@ -629,8 +629,8 @@
     },
     {
       "source": "https://vk.com/club129705914",
-      "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14629,
+      "community": "Институт воспитания | ФГБНУ ИИДСВ",
+      "latest_post_id": 14632,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 56,
-  "mirrored_photos": 4,
-  "published_photos": 402,
+  "new_posts": 7,
+  "mirrored_photos": 6,
+  "published_photos": 390,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
