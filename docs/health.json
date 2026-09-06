@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-06T05:22:24.308114Z",
+  "checked_at": "2026-09-06T06:27:35.819574Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -65,8 +65,8 @@
     },
     {
       "source": "https://vk.com/gouspt",
-      "community": "Мордовский краеведческий музей им. И.Д. Воронина",
-      "latest_post_id": 3760,
+      "community": "Саранский политехнический техникум",
+      "latest_post_id": 3762,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 63958,
+      "latest_post_id": 63981,
       "fetched": 20
     },
     {
@@ -444,7 +444,7 @@
     {
       "source": "https://vk.com/public202722758",
       "community": "МДОУ \"Детский сад №122 комбинированного вида\"",
-      "latest_post_id": 4635,
+      "latest_post_id": 4637,
       "fetched": 20
     },
     {
@@ -816,8 +816,8 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 1,
-  "mirrored_photos": 1,
+  "new_posts": 6,
+  "mirrored_photos": 4,
   "published_photos": 357,
   "image_errors": [],
   "built_visuals": 0,
