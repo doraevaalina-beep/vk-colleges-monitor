@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-06T13:22:20.267017Z",
+  "checked_at": "2026-09-06T14:22:32.790491Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 64121,
+      "latest_post_id": 64132,
       "fetched": 20
     },
     {
@@ -816,13 +816,13 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 2,
-  "mirrored_photos": 2,
-  "published_photos": 227,
+  "new_posts": 1,
+  "mirrored_photos": 1,
+  "published_photos": 220,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
-  "reused_visuals": 2,
+  "reused_visuals": 1,
   "deleted_visuals": 1,
   "visual_errors": [],
   "note": "Ошибки здесь не содержат VK-токен. mirror_url ведёт на фото в GitHub Pages; release_url — резервная копия в GitHub Release.",
