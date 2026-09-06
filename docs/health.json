@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-06T08:24:30.040328Z",
+  "checked_at": "2026-09-06T09:23:10.397875Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -348,7 +348,7 @@
     {
       "source": "https://vk.com/club174792280",
       "community": "МАОУ \"СОШ №10\"",
-      "latest_post_id": 8212,
+      "latest_post_id": 8213,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 2,
-  "mirrored_photos": 2,
-  "published_photos": 333,
+  "new_posts": 1,
+  "mirrored_photos": 1,
+  "published_photos": 321,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
