@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-06T14:22:32.790491Z",
+  "checked_at": "2026-09-06T15:22:49.093237Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -144,7 +144,7 @@
     {
       "source": "https://vk.com/club148125790",
       "community": "38tv - Новости",
-      "latest_post_id": 9398,
+      "latest_post_id": 9400,
       "fetched": 20
     },
     {
@@ -818,12 +818,12 @@
   ],
   "new_posts": 1,
   "mirrored_photos": 1,
-  "published_photos": 220,
+  "published_photos": 214,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
   "reused_visuals": 1,
-  "deleted_visuals": 1,
+  "deleted_visuals": 0,
   "visual_errors": [],
   "note": "Ошибки здесь не содержат VK-токен. mirror_url ведёт на фото в GitHub Pages; release_url — резервная копия в GitHub Release.",
   "editorial_errors": [],
