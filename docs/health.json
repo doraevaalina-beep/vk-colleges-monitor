@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-06T10:22:51.541906Z",
+  "checked_at": "2026-09-06T11:22:08.187368Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -816,14 +816,14 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 1,
+  "new_posts": 0,
   "mirrored_photos": 0,
-  "published_photos": 321,
+  "published_photos": 269,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
-  "reused_visuals": 4,
-  "deleted_visuals": 0,
+  "reused_visuals": 3,
+  "deleted_visuals": 1,
   "visual_errors": [],
   "note": "Ошибки здесь не содержат VK-токен. mirror_url ведёт на фото в GitHub Pages; release_url — резервная копия в GitHub Release.",
   "editorial_errors": [],
