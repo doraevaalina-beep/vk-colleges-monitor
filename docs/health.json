@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-06T16:23:46.953576Z",
+  "checked_at": "2026-09-06T17:20:57.155819Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -138,7 +138,7 @@
     {
       "source": "https://vk.com/club59095536",
       "community": "МОУ \"Средняя школа №11\"",
-      "latest_post_id": 14874,
+      "latest_post_id": 14876,
       "fetched": 20
     },
     {
@@ -708,7 +708,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 39439,
+      "latest_post_id": 39478,
       "fetched": 20
     },
     {
@@ -817,13 +817,13 @@
     }
   ],
   "new_posts": 2,
-  "mirrored_photos": 1,
-  "published_photos": 193,
+  "mirrored_photos": 2,
+  "published_photos": 190,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
   "reused_visuals": 0,
-  "deleted_visuals": 1,
+  "deleted_visuals": 0,
   "visual_errors": [],
   "note": "Ошибки здесь не содержат VK-токен. mirror_url ведёт на фото в GitHub Pages; release_url — резервная копия в GitHub Release.",
   "editorial_errors": [],
