@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-07T18:26:59.851068Z",
+  "checked_at": "2026-09-07T19:22:24.063179Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -24,7 +24,7 @@
     {
       "source": "https://vk.com/club181850079",
       "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4488,
+      "latest_post_id": 4489,
       "fetched": 20
     },
     {
@@ -96,7 +96,7 @@
     {
       "source": "https://vk.com/club7503608",
       "community": "ГБПОУ РМ \"Кемлянский аграрный колледж\"",
-      "latest_post_id": 4554,
+      "latest_post_id": 4555,
       "fetched": 20
     },
     {
@@ -514,12 +514,6 @@
       "fetched": 20
     },
     {
-      "source": "https://vk.com/public202709928",
-      "community": "Группа бывшего \"Детский сад №70\" Саранск",
-      "latest_post_id": 312,
-      "fetched": 20
-    },
-    {
       "source": "https://vk.com/club209729369",
       "community": "МДОУ \"Детский сад №71\"",
       "latest_post_id": 2667,
@@ -812,20 +806,18 @@
       "error": "VK error 15: Access denied: this wall available only for community members"
     },
     {
+      "source": "https://vk.com/public202709928",
+      "error": "HTTPSConnectionPool(host='api.vk.com', port=443): Read timed out. (read timeout=20)"
+    },
+    {
       "source": "https://vk.com/club172415002",
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 5,
-  "mirrored_photos": 4,
+  "new_posts": 2,
+  "mirrored_photos": 2,
   "published_photos": 203,
-  "image_errors": [
-    {
-      "post_url": "https://vk.com/wall-202711145_2580",
-      "photo_url": "https://sun9-73.userapi.com/s/v1/ig2/Kwwv_JlSKh3dHZnhYTh939v0HuA5o8w1TaIgaHNMgeA3btJFBZJEnpUXGjDtYyJDXydzh94A_F-AeukBWBIV6x-E.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,1920x1440&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-73.userapi.com/s/v1/ig2/Kwwv_JlSKh3dHZnhYTh939v0HuA5o8w1TaIgaHNMgeA3btJFBZJEnpUXGjDtYyJDXydzh94A_F-AeukBWBIV6x-E.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,1920x1440&"
-    }
-  ],
+  "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
   "reused_visuals": 0,
