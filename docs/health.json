@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-07T06:32:09.361149Z",
+  "checked_at": "2026-09-07T07:26:45.650118Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -678,7 +678,7 @@
     {
       "source": "https://vk.com/public129692291",
       "community": "МОУ \"Средняя общеобразовательная школа №28\"",
-      "latest_post_id": 8538,
+      "latest_post_id": 8539,
       "fetched": 20
     },
     {
@@ -750,7 +750,7 @@
     {
       "source": "https://vk.com/club206918978",
       "community": "Николаевская школа | Саранск",
-      "latest_post_id": 8244,
+      "latest_post_id": 8246,
       "fetched": 20
     },
     {
@@ -762,7 +762,7 @@
     {
       "source": "https://vk.com/club153457218",
       "community": "Средняя школа №40 | Саранск",
-      "latest_post_id": 11744,
+      "latest_post_id": 11745,
       "fetched": 20
     },
     {
@@ -798,7 +798,7 @@
     {
       "source": "https://vk.com/club175038308",
       "community": "Школа №39 | Саранск",
-      "latest_post_id": 11432,
+      "latest_post_id": 11439,
       "fetched": 20
     }
   ],
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 12,
-  "mirrored_photos": 12,
-  "published_photos": 173,
+  "new_posts": 4,
+  "mirrored_photos": 4,
+  "published_photos": 160,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
