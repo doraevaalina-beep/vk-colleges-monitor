@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-07T17:23:26.473167Z",
+  "checked_at": "2026-09-07T18:26:59.851068Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -30,7 +30,7 @@
     {
       "source": "https://vk.com/ipc_hgo_mlclass_fv_informatica",
       "community": "Ичалковский педагогический колледж",
-      "latest_post_id": 6442,
+      "latest_post_id": 6443,
       "fetched": 20
     },
     {
@@ -48,7 +48,7 @@
     {
       "source": "https://vk.com/public80925441",
       "community": "Атяшевский аграрный техникум",
-      "latest_post_id": 1606,
+      "latest_post_id": 1607,
       "fetched": 20
     },
     {
@@ -108,7 +108,7 @@
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 10753,
+      "latest_post_id": 10754,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 64436,
+      "latest_post_id": 64445,
       "fetched": 20
     },
     {
@@ -366,7 +366,7 @@
     {
       "source": "https://vk.com/public202711145",
       "community": "МДОУ \" Детский сад 5\", Саранск",
-      "latest_post_id": 2579,
+      "latest_post_id": 2580,
       "fetched": 20
     },
     {
@@ -816,10 +816,16 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 11,
-  "mirrored_photos": 9,
-  "published_photos": 201,
-  "image_errors": [],
+  "new_posts": 5,
+  "mirrored_photos": 4,
+  "published_photos": 203,
+  "image_errors": [
+    {
+      "post_url": "https://vk.com/wall-202711145_2580",
+      "photo_url": "https://sun9-73.userapi.com/s/v1/ig2/Kwwv_JlSKh3dHZnhYTh939v0HuA5o8w1TaIgaHNMgeA3btJFBZJEnpUXGjDtYyJDXydzh94A_F-AeukBWBIV6x-E.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,1920x1440&from=bu&cs=1280x0",
+      "error": "404 Client Error: Not Found for url: https://sun9-73.userapi.com/s/v1/ig2/Kwwv_JlSKh3dHZnhYTh939v0HuA5o8w1TaIgaHNMgeA3btJFBZJEnpUXGjDtYyJDXydzh94A_F-AeukBWBIV6x-E.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,1920x1440&"
+    }
+  ],
   "built_visuals": 0,
   "built_visual_files": [],
   "reused_visuals": 0,
