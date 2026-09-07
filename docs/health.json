@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-07T03:25:04.011837Z",
+  "checked_at": "2026-09-07T04:24:51.919071Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -138,13 +138,13 @@
     {
       "source": "https://vk.com/club59095536",
       "community": "МОУ \"Средняя школа №11\"",
-      "latest_post_id": 14879,
+      "latest_post_id": 14880,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club148125790",
       "community": "38tv - Новости",
-      "latest_post_id": 9400,
+      "latest_post_id": 9403,
       "fetched": 20
     },
     {
@@ -216,7 +216,7 @@
     {
       "source": "https://vk.com/public202707820",
       "community": "МАДОУ \"Детский сад № 104 комбинированного вида\"",
-      "latest_post_id": 4784,
+      "latest_post_id": 4785,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 64158,
+      "latest_post_id": 64192,
       "fetched": 20
     },
     {
@@ -588,7 +588,7 @@
     {
       "source": "https://vk.com/club203390062",
       "community": "МДОУ\"Детский сад №86 комбинированного вида\"",
-      "latest_post_id": 2577,
+      "latest_post_id": 2579,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 1,
-  "mirrored_photos": 0,
-  "published_photos": 172,
+  "new_posts": 5,
+  "mirrored_photos": 4,
+  "published_photos": 173,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
