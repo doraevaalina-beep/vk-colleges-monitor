@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-07T14:25:47.787264Z",
+  "checked_at": "2026-09-07T15:24:56.309979Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -60,7 +60,7 @@
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 76456,
+      "latest_post_id": 76477,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 64345,
+      "latest_post_id": 64406,
       "fetched": 20
     },
     {
@@ -366,7 +366,7 @@
     {
       "source": "https://vk.com/public202711145",
       "community": "МДОУ \" Детский сад 5\", Саранск",
-      "latest_post_id": 2578,
+      "latest_post_id": 2579,
       "fetched": 20
     },
     {
@@ -701,8 +701,8 @@
     },
     {
       "source": "https://vk.com/public215673429",
-      "community": "Навигаторы Детства | Мордовия",
-      "latest_post_id": 4250,
+      "community": "МОУ \"Средняя школа №8\" гор. Саранск",
+      "latest_post_id": 4251,
       "fetched": 20
     },
     {
@@ -714,7 +714,7 @@
     {
       "source": "https://vk.com/public171854359",
       "community": "МОУ «СОШ №22»",
-      "latest_post_id": 8579,
+      "latest_post_id": 8580,
       "fetched": 20
     },
     {
@@ -749,8 +749,8 @@
     },
     {
       "source": "https://vk.com/club206918978",
-      "community": "Первые МОУ \"Николаевская СОШ\" г.о. Саранск",
-      "latest_post_id": 8250,
+      "community": "Николаевская школа | Саранск",
+      "latest_post_id": 8252,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 42,
-  "mirrored_photos": 10,
-  "published_photos": 195,
+  "new_posts": 6,
+  "mirrored_photos": 6,
+  "published_photos": 199,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
