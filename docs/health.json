@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-07T04:24:51.919071Z",
+  "checked_at": "2026-09-07T05:23:43.166239Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -66,7 +66,7 @@
     {
       "source": "https://vk.com/gouspt",
       "community": "Саранский политехнический техникум",
-      "latest_post_id": 3762,
+      "latest_post_id": 3769,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 64192,
+      "latest_post_id": 64193,
       "fetched": 20
     },
     {
@@ -630,7 +630,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14634,
+      "latest_post_id": 14638,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 5,
-  "mirrored_photos": 4,
-  "published_photos": 173,
+  "new_posts": 3,
+  "mirrored_photos": 3,
+  "published_photos": 175,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
