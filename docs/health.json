@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-08T20:24:22.580347Z",
+  "checked_at": "2026-09-08T21:22:33.148395Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -630,7 +630,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14668,
+      "latest_post_id": 14670,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 5,
-  "mirrored_photos": 0,
-  "published_photos": 402,
+  "new_posts": 1,
+  "mirrored_photos": 1,
+  "published_photos": 403,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
