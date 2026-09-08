@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-08T04:25:15.015097Z",
+  "checked_at": "2026-09-08T05:24:10.867209Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -17,14 +17,14 @@
     },
     {
       "source": "https://vk.com/club53727363",
-      "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10431,
+      "community": "Отвага и антитеррор",
+      "latest_post_id": 10432,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club181850079",
       "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4489,
+      "latest_post_id": 4490,
       "fetched": 20
     },
     {
@@ -144,7 +144,7 @@
     {
       "source": "https://vk.com/club148125790",
       "community": "38tv - Новости",
-      "latest_post_id": 9410,
+      "latest_post_id": 9412,
       "fetched": 20
     },
     {
@@ -180,7 +180,7 @@
     {
       "source": "https://vk.com/public144012777",
       "community": "Лицей №43, г. Саранск",
-      "latest_post_id": 6627,
+      "latest_post_id": 6631,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 64487,
+      "latest_post_id": 64527,
       "fetched": 20
     },
     {
@@ -600,7 +600,7 @@
     {
       "source": "https://vk.com/club819936",
       "community": "МОУ \"Гимназия № 23\" г. о. Саранск",
-      "latest_post_id": 11031,
+      "latest_post_id": 11032,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 1,
-  "mirrored_photos": 1,
-  "published_photos": 201,
+  "new_posts": 8,
+  "mirrored_photos": 7,
+  "published_photos": 208,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
