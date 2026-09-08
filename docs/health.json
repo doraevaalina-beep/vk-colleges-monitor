@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-08T18:28:12.781084Z",
+  "checked_at": "2026-09-08T19:23:03.989573Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -90,7 +90,7 @@
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9486,
+      "latest_post_id": 9487,
       "fetched": 20
     },
     {
@@ -174,7 +174,7 @@
     {
       "source": "https://vk.com/public216577930",
       "community": "Гимназия №19 | г. Саранск",
-      "latest_post_id": 3298,
+      "latest_post_id": 3299,
       "fetched": 20
     },
     {
@@ -503,8 +503,8 @@
     },
     {
       "source": "https://vk.com/public209741486",
-      "community": "МДОУ \"Детский сад №65 комбинированного вида\"",
-      "latest_post_id": 2289,
+      "community": "Библиотека №4 города Саранска",
+      "latest_post_id": 2290,
       "fetched": 20
     },
     {
@@ -689,8 +689,8 @@
     },
     {
       "source": "https://vk.com/public203691909",
-      "community": "МОУ \"Средняя школа №37\"",
-      "latest_post_id": 5437,
+      "community": "Центр детского творчества № 2 г.о.Саранск",
+      "latest_post_id": 5439,
       "fetched": 20
     },
     {
@@ -798,7 +798,7 @@
     {
       "source": "https://vk.com/club175038308",
       "community": "Школа №39 | Саранск",
-      "latest_post_id": 11471,
+      "latest_post_id": 11479,
       "fetched": 20
     }
   ],
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 11,
-  "mirrored_photos": 9,
-  "published_photos": 402,
+  "new_posts": 6,
+  "mirrored_photos": 2,
+  "published_photos": 403,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
