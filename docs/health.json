@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-08T17:25:09.130957Z",
+  "checked_at": "2026-09-08T18:28:12.781084Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -78,7 +78,7 @@
     {
       "source": "https://vk.com/stppp_professionalitet",
       "community": "Медиацентр СТППП «Фокус13»",
-      "latest_post_id": 4675,
+      "latest_post_id": 4676,
       "fetched": 20
     },
     {
@@ -90,7 +90,7 @@
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9485,
+      "latest_post_id": 9486,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 64707,
+      "latest_post_id": 64869,
       "fetched": 20
     },
     {
@@ -324,7 +324,7 @@
     {
       "source": "https://vk.com/public215627488",
       "community": "МАДОУ «Центр развития ребенка - детский сад №90»",
-      "latest_post_id": 4632,
+      "latest_post_id": 4634,
       "fetched": 20
     },
     {
@@ -486,7 +486,7 @@
     {
       "source": "https://vk.com/club194961488",
       "community": "МДОУ \"Детский сад №40\" г.о. Саранск",
-      "latest_post_id": 1579,
+      "latest_post_id": 1580,
       "fetched": 20
     },
     {
@@ -540,7 +540,7 @@
     {
       "source": "https://vk.com/public203696837",
       "community": "МДОУ \"Детский сад №85 комбинированного вида\"",
-      "latest_post_id": 7498,
+      "latest_post_id": 7499,
       "fetched": 20
     },
     {
@@ -582,7 +582,7 @@
     {
       "source": "https://vk.com/club210719786",
       "community": "МДОУ\"Детский сад №117\"",
-      "latest_post_id": 995,
+      "latest_post_id": 996,
       "fetched": 20
     },
     {
@@ -684,7 +684,7 @@
     {
       "source": "https://vk.com/public1571309",
       "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26150,
+      "latest_post_id": 26152,
       "fetched": 20
     },
     {
@@ -708,7 +708,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 39532,
+      "latest_post_id": 39544,
       "fetched": 20
     },
     {
@@ -818,7 +818,7 @@
   ],
   "new_posts": 11,
   "mirrored_photos": 9,
-  "published_photos": 395,
+  "published_photos": 402,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
