@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-08T14:27:14.608905Z",
+  "checked_at": "2026-09-08T15:28:28.246597Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -90,7 +90,7 @@
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9484,
+      "latest_post_id": 9485,
       "fetched": 20
     },
     {
@@ -108,7 +108,7 @@
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 10754,
+      "latest_post_id": 10755,
       "fetched": 20
     },
     {
@@ -270,7 +270,7 @@
     {
       "source": "https://vk.com/public203690288",
       "community": "МАДОУ \"Центр развития ребенка - детский сад № 9\"",
-      "latest_post_id": 4846,
+      "latest_post_id": 4847,
       "fetched": 20
     },
     {
@@ -324,13 +324,13 @@
     {
       "source": "https://vk.com/public215627488",
       "community": "МАДОУ «Центр развития ребенка - детский сад №90»",
-      "latest_post_id": 4631,
+      "latest_post_id": 4632,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public202712770",
       "community": "МАДОУ «Центр развития ребёнка - детский сад №6»",
-      "latest_post_id": 4731,
+      "latest_post_id": 4732,
       "fetched": 20
     },
     {
@@ -540,7 +540,7 @@
     {
       "source": "https://vk.com/public203696837",
       "community": "МДОУ \"Детский сад №85 комбинированного вида\"",
-      "latest_post_id": 7496,
+      "latest_post_id": 7498,
       "fetched": 20
     },
     {
@@ -630,7 +630,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14666,
+      "latest_post_id": 14668,
       "fetched": 20
     },
     {
@@ -642,7 +642,7 @@
     {
       "source": "https://vk.com/public200835009",
       "community": "МОУ \"Лицей №4\" г.Саранск",
-      "latest_post_id": 5255,
+      "latest_post_id": 5256,
       "fetched": 20
     },
     {
@@ -725,8 +725,8 @@
     },
     {
       "source": "https://vk.com/club526150",
-      "community": "МОУ «Школа № 30» г. Саранск Республика Мордовия",
-      "latest_post_id": 6565,
+      "community": "Известия Мордовии",
+      "latest_post_id": 6566,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 40,
-  "mirrored_photos": 24,
-  "published_photos": 369,
+  "new_posts": 10,
+  "mirrored_photos": 9,
+  "published_photos": 376,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
