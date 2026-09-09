@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-09T14:25:18.114651Z",
+  "checked_at": "2026-09-09T15:25:16.146836Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -204,7 +204,7 @@
     {
       "source": "https://vk.com/public215681007",
       "community": "МАДОУ \" Детский сад № 76 \" г.о.Саранск",
-      "latest_post_id": 5512,
+      "latest_post_id": 5520,
       "fetched": 20
     },
     {
@@ -678,7 +678,7 @@
     {
       "source": "https://vk.com/public129692291",
       "community": "МОУ \"Средняя общеобразовательная школа №28\"",
-      "latest_post_id": 8585,
+      "latest_post_id": 8589,
       "fetched": 20
     },
     {
@@ -695,8 +695,8 @@
     },
     {
       "source": "https://vk.com/public215663353",
-      "community": "МОУ \"Средняя школа №5\" Саранск",
-      "latest_post_id": 5152,
+      "community": "Лучший учитель родного языка и родной литературы",
+      "latest_post_id": 5153,
       "fetched": 20
     },
     {
@@ -707,8 +707,8 @@
     },
     {
       "source": "https://vk.com/public153117774",
-      "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 39544,
+      "community": "ВИДЯЕВА НА СВЯЗИ",
+      "latest_post_id": 39549,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 15,
-  "mirrored_photos": 12,
-  "published_photos": 469,
+  "new_posts": 10,
+  "mirrored_photos": 2,
+  "published_photos": 470,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
