@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-09T16:26:38.456860Z",
+  "checked_at": "2026-09-09T17:24:21.599950Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -23,8 +23,8 @@
     },
     {
       "source": "https://vk.com/club181850079",
-      "community": "Росдетцентр | РДЦ",
-      "latest_post_id": 4492,
+      "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
+      "latest_post_id": 4493,
       "fetched": 20
     },
     {
@@ -66,7 +66,7 @@
     {
       "source": "https://vk.com/gouspt",
       "community": "Саранский политехнический техникум",
-      "latest_post_id": 3773,
+      "latest_post_id": 3775,
       "fetched": 20
     },
     {
@@ -185,8 +185,8 @@
     },
     {
       "source": "https://vk.com/club9874035",
-      "community": "Лыжно-биатлонный комплекс. Федерация биатлона РМ",
-      "latest_post_id": 4337,
+      "community": "Минспорт Республики Мордовия",
+      "latest_post_id": 4338,
       "fetched": 20
     },
     {
@@ -324,7 +324,7 @@
     {
       "source": "https://vk.com/public215627488",
       "community": "МАДОУ «Центр развития ребенка - детский сад №90»",
-      "latest_post_id": 4638,
+      "latest_post_id": 4640,
       "fetched": 20
     },
     {
@@ -486,7 +486,7 @@
     {
       "source": "https://vk.com/club194961488",
       "community": "МДОУ \"Детский сад №40\" г.о. Саранск",
-      "latest_post_id": 1584,
+      "latest_post_id": 1585,
       "fetched": 20
     },
     {
@@ -642,7 +642,7 @@
     {
       "source": "https://vk.com/public200835009",
       "community": "МОУ \"Лицей №4\" г.Саранск",
-      "latest_post_id": 5258,
+      "latest_post_id": 5259,
       "fetched": 20
     },
     {
@@ -678,7 +678,7 @@
     {
       "source": "https://vk.com/public129692291",
       "community": "МОУ \"Средняя общеобразовательная школа №28\"",
-      "latest_post_id": 8592,
+      "latest_post_id": 8593,
       "fetched": 20
     },
     {
@@ -689,8 +689,8 @@
     },
     {
       "source": "https://vk.com/public203691909",
-      "community": "Центр детского творчества № 2 г.о.Саранск",
-      "latest_post_id": 5439,
+      "community": "МОУ \"Средняя школа №37\"",
+      "latest_post_id": 5440,
       "fetched": 20
     },
     {
@@ -818,7 +818,7 @@
   ],
   "new_posts": 9,
   "mirrored_photos": 6,
-  "published_photos": 474,
+  "published_photos": 478,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
