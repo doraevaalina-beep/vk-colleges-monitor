@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-09T06:30:48.106353Z",
+  "checked_at": "2026-09-09T07:26:17.320051Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -12,13 +12,13 @@
     {
       "source": "https://vk.com/sst_rm",
       "community": "Саранский строительный техникум",
-      "latest_post_id": 14230,
+      "latest_post_id": 14231,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10435,
+      "latest_post_id": 10438,
       "fetched": 20
     },
     {
@@ -30,7 +30,7 @@
     {
       "source": "https://vk.com/ipc_hgo_mlclass_fv_informatica",
       "community": "Ичалковский педагогический колледж",
-      "latest_post_id": 6449,
+      "latest_post_id": 6450,
       "fetched": 20
     },
     {
@@ -41,20 +41,20 @@
     },
     {
       "source": "https://vk.com/zppk_official",
-      "community": "Навигаторы детства ЗППК",
-      "latest_post_id": 4718,
+      "community": "Зубово-Полянский педагогический колледж",
+      "latest_post_id": 4719,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public80925441",
       "community": "Атяшевский аграрный техникум",
-      "latest_post_id": 1608,
+      "latest_post_id": 1610,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club202849242",
       "community": "СТЭиЭТ им. А.И. Полежаева",
-      "latest_post_id": 3627,
+      "latest_post_id": 3628,
       "fetched": 20
     },
     {
@@ -66,7 +66,7 @@
     {
       "source": "https://vk.com/gouspt",
       "community": "Саранский политехнический техникум",
-      "latest_post_id": 3772,
+      "latest_post_id": 3773,
       "fetched": 20
     },
     {
@@ -84,13 +84,13 @@
     {
       "source": "https://vk.com/club182790665",
       "community": "ГБПОУ РМ \"Зубово-Полянский аграрный техникум\"",
-      "latest_post_id": 2621,
+      "latest_post_id": 2623,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9487,
+      "latest_post_id": 9488,
       "fetched": 20
     },
     {
@@ -102,19 +102,19 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 170563,
+      "latest_post_id": 170588,
       "fetched": 20
     },
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 10757,
+      "latest_post_id": 10758,
       "fetched": 20
     },
     {
       "source": "https://vk.com/technical_ait",
       "community": "ГБПОУ РМ Алексеевский индустриальный техникум\"",
-      "latest_post_id": 2267,
+      "latest_post_id": 2268,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 64920,
+      "latest_post_id": 64931,
       "fetched": 20
     },
     {
@@ -342,7 +342,7 @@
     {
       "source": "https://vk.com/public215671212",
       "community": "МАОУ \"Прогимназия № 119\" г.Саранск",
-      "latest_post_id": 1619,
+      "latest_post_id": 1622,
       "fetched": 20
     },
     {
@@ -366,7 +366,7 @@
     {
       "source": "https://vk.com/public202711145",
       "community": "МДОУ \" Детский сад 5\", Саранск",
-      "latest_post_id": 2589,
+      "latest_post_id": 2590,
       "fetched": 20
     },
     {
@@ -755,8 +755,8 @@
     },
     {
       "source": "https://vk.com/club95243821",
-      "community": "Мордва ZAнаших!",
-      "latest_post_id": 11529,
+      "community": "ЭМПАТИЯ МАНУЧИ",
+      "latest_post_id": 11530,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 8,
-  "mirrored_photos": 5,
-  "published_photos": 409,
+  "new_posts": 19,
+  "mirrored_photos": 4,
+  "published_photos": 413,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
