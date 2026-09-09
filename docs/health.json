@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-09T18:28:21.362897Z",
+  "checked_at": "2026-09-09T19:23:01.991435Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -23,8 +23,8 @@
     },
     {
       "source": "https://vk.com/club181850079",
-      "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4493,
+      "community": "НТМ || Народное Телевидение Мордовии",
+      "latest_post_id": 4494,
       "fetched": 20
     },
     {
@@ -66,7 +66,7 @@
     {
       "source": "https://vk.com/gouspt",
       "community": "Саранский политехнический техникум",
-      "latest_post_id": 3775,
+      "latest_post_id": 3776,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 65147,
+      "latest_post_id": 65169,
       "fetched": 20
     },
     {
@@ -666,7 +666,7 @@
     {
       "source": "https://vk.com/public92799833",
       "community": "МОУ \"Средняя школа №33\"",
-      "latest_post_id": 7629,
+      "latest_post_id": 7630,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 7,
-  "mirrored_photos": 4,
-  "published_photos": 479,
+  "new_posts": 4,
+  "mirrored_photos": 3,
+  "published_photos": 481,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
