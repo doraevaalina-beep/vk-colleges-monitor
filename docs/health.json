@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-08T23:22:49.236578Z",
+  "checked_at": "2026-09-09T00:35:08.686229Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -817,7 +817,7 @@
     }
   ],
   "new_posts": 0,
-  "mirrored_photos": 0,
+  "mirrored_photos": 1,
   "published_photos": 403,
   "image_errors": [],
   "built_visuals": 0,
