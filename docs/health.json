@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-09T17:24:21.599950Z",
+  "checked_at": "2026-09-09T18:28:21.362897Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 65048,
+      "latest_post_id": 65147,
       "fetched": 20
     },
     {
@@ -269,8 +269,8 @@
     },
     {
       "source": "https://vk.com/public203690288",
-      "community": "МАДОУ \"Центр развития ребенка - детский сад № 9\"",
-      "latest_post_id": 4849,
+      "community": "АНО \"Центр поддержки и защиты детства\"",
+      "latest_post_id": 4850,
       "fetched": 20
     },
     {
@@ -666,7 +666,7 @@
     {
       "source": "https://vk.com/public92799833",
       "community": "МОУ \"Средняя школа №33\"",
-      "latest_post_id": 7628,
+      "latest_post_id": 7629,
       "fetched": 20
     },
     {
@@ -678,13 +678,13 @@
     {
       "source": "https://vk.com/public129692291",
       "community": "МОУ \"Средняя общеобразовательная школа №28\"",
-      "latest_post_id": 8593,
+      "latest_post_id": 8594,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public1571309",
-      "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26152,
+      "community": "Музей им.П.И.Ботина",
+      "latest_post_id": 26156,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 9,
-  "mirrored_photos": 6,
-  "published_photos": 478,
+  "new_posts": 7,
+  "mirrored_photos": 4,
+  "published_photos": 479,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
