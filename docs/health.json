@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-09T19:23:01.991435Z",
+  "checked_at": "2026-09-09T20:25:02.975711Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -174,7 +174,7 @@
     {
       "source": "https://vk.com/public216577930",
       "community": "Гимназия №19 | г. Саранск",
-      "latest_post_id": 3301,
+      "latest_post_id": 3302,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 4,
-  "mirrored_photos": 3,
-  "published_photos": 481,
+  "new_posts": 1,
+  "mirrored_photos": 1,
+  "published_photos": 482,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
