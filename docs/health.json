@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-09T07:26:17.320051Z",
+  "checked_at": "2026-09-09T08:26:13.146254Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -185,8 +185,8 @@
     },
     {
       "source": "https://vk.com/club9874035",
-      "community": "Минспорт Республики Мордовия",
-      "latest_post_id": 4334,
+      "community": "Лыжно-биатлонный комплекс. Федерация биатлона РМ",
+      "latest_post_id": 4337,
       "fetched": 20
     },
     {
@@ -204,7 +204,7 @@
     {
       "source": "https://vk.com/public215681007",
       "community": "МАДОУ \" Детский сад № 76 \" г.о.Саранск",
-      "latest_post_id": 5504,
+      "latest_post_id": 5512,
       "fetched": 20
     },
     {
@@ -366,7 +366,7 @@
     {
       "source": "https://vk.com/public202711145",
       "community": "МДОУ \" Детский сад 5\", Саранск",
-      "latest_post_id": 2590,
+      "latest_post_id": 2591,
       "fetched": 20
     },
     {
@@ -503,8 +503,8 @@
     },
     {
       "source": "https://vk.com/public209741486",
-      "community": "Библиотека №4 города Саранска",
-      "latest_post_id": 2290,
+      "community": "МДОУ \"Детский сад №65 комбинированного вида\"",
+      "latest_post_id": 2291,
       "fetched": 20
     },
     {
@@ -642,7 +642,7 @@
     {
       "source": "https://vk.com/public200835009",
       "community": "МОУ \"Лицей №4\" г.Саранск",
-      "latest_post_id": 5256,
+      "latest_post_id": 5257,
       "fetched": 20
     },
     {
@@ -774,7 +774,7 @@
     {
       "source": "https://vk.com/club48794793",
       "community": "Средняя общеобразовательная школа №1 г.о.Саранск",
-      "latest_post_id": 4544,
+      "latest_post_id": 4545,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 19,
-  "mirrored_photos": 4,
-  "published_photos": 413,
+  "new_posts": 6,
+  "mirrored_photos": 6,
+  "published_photos": 417,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
