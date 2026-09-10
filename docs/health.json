@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-10T19:20:48.129633Z",
+  "checked_at": "2026-09-10T20:22:55.293711Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -761,8 +761,8 @@
     },
     {
       "source": "https://vk.com/club153457218",
-      "community": "Средняя школа №40 | Саранск",
-      "latest_post_id": 11753,
+      "community": "Школа Настоящих",
+      "latest_post_id": 11754,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 3,
+  "new_posts": 1,
   "mirrored_photos": 0,
-  "published_photos": 468,
+  "published_photos": 467,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
