@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-10T03:25:08.911120Z",
+  "checked_at": "2026-09-10T04:25:38.815312Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -23,8 +23,8 @@
     },
     {
       "source": "https://vk.com/club181850079",
-      "community": "НТМ || Народное Телевидение Мордовии",
-      "latest_post_id": 4494,
+      "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
+      "latest_post_id": 4496,
       "fetched": 20
     },
     {
@@ -240,13 +240,13 @@
     {
       "source": "https://vk.com/club192448163",
       "community": "МАДОУ \"Детский сад №59\"",
-      "latest_post_id": 3949,
+      "latest_post_id": 3958,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 65169,
+      "latest_post_id": 65202,
       "fetched": 20
     },
     {
@@ -630,7 +630,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14671,
+      "latest_post_id": 14673,
       "fetched": 20
     },
     {
@@ -659,8 +659,8 @@
     },
     {
       "source": "https://vk.com/public171422852",
-      "community": "МОУ \" Средняя школа  №18\" г. Саранск",
-      "latest_post_id": 6060,
+      "community": "Школа Настоящих",
+      "latest_post_id": 6061,
       "fetched": 20
     },
     {
@@ -678,7 +678,7 @@
     {
       "source": "https://vk.com/public129692291",
       "community": "МОУ \"Средняя общеобразовательная школа №28\"",
-      "latest_post_id": 8594,
+      "latest_post_id": 8595,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 1,
-  "mirrored_photos": 1,
-  "published_photos": 485,
+  "new_posts": 12,
+  "mirrored_photos": 7,
+  "published_photos": 488,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
