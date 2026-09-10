@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-10T01:23:29.784883Z",
+  "checked_at": "2026-09-10T02:25:21.554544Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -185,8 +185,8 @@
     },
     {
       "source": "https://vk.com/club9874035",
-      "community": "Минспорт Республики Мордовия",
-      "latest_post_id": 4338,
+      "community": "Лыжно-биатлонный комплекс. Федерация биатлона РМ",
+      "latest_post_id": 4340,
       "fetched": 20
     },
     {
@@ -689,8 +689,8 @@
     },
     {
       "source": "https://vk.com/public203691909",
-      "community": "МОУ \"Средняя школа №37\"",
-      "latest_post_id": 5440,
+      "community": "«Язык предков» - Фонд поддержки родных языков",
+      "latest_post_id": 5441,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 0,
-  "mirrored_photos": 0,
-  "published_photos": 483,
+  "new_posts": 2,
+  "mirrored_photos": 1,
+  "published_photos": 484,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
