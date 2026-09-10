@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-10T15:25:56.618466Z",
+  "checked_at": "2026-09-10T16:24:40.159837Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -77,8 +77,8 @@
     },
     {
       "source": "https://vk.com/stppp_professionalitet",
-      "community": "МЛСПО - Молодежная лига СПО",
-      "latest_post_id": 4683,
+      "community": "Медиацентр СТППП «Фокус13»",
+      "latest_post_id": 4684,
       "fetched": 20
     },
     {
@@ -108,7 +108,7 @@
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 10775,
+      "latest_post_id": 10776,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 65332,
+      "latest_post_id": 65335,
       "fetched": 20
     },
     {
@@ -270,7 +270,7 @@
     {
       "source": "https://vk.com/public203690288",
       "community": "МАДОУ \"Центр развития ребенка - детский сад № 9\"",
-      "latest_post_id": 4851,
+      "latest_post_id": 4853,
       "fetched": 20
     },
     {
@@ -456,7 +456,7 @@
     {
       "source": "https://vk.com/club201381445",
       "community": "МДОУ \"Детский сад №125 комбинированного вида\"",
-      "latest_post_id": 2769,
+      "latest_post_id": 2770,
       "fetched": 20
     },
     {
@@ -612,7 +612,7 @@
     {
       "source": "https://vk.com/public195117146",
       "community": "МОУ \"Ялгинская СОШ\" корпус 2 г.о.Саранск",
-      "latest_post_id": 3718,
+      "latest_post_id": 3720,
       "fetched": 20
     },
     {
@@ -714,7 +714,7 @@
     {
       "source": "https://vk.com/public171854359",
       "community": "МОУ «СОШ №22»",
-      "latest_post_id": 8586,
+      "latest_post_id": 8587,
       "fetched": 20
     },
     {
@@ -725,8 +725,8 @@
     },
     {
       "source": "https://vk.com/club526150",
-      "community": "МОУ «Школа № 30» г. Саранск Республика Мордовия",
-      "latest_post_id": 6569,
+      "community": "\"Медиацентр ЮИД\" школа 30",
+      "latest_post_id": 6571,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 33,
-  "mirrored_photos": 6,
-  "published_photos": 470,
+  "new_posts": 8,
+  "mirrored_photos": 7,
+  "published_photos": 471,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
