@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-10T06:30:43.982024Z",
+  "checked_at": "2026-09-10T07:26:18.797522Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -54,7 +54,7 @@
     {
       "source": "https://vk.com/club202849242",
       "community": "СТЭиЭТ им. А.И. Полежаева",
-      "latest_post_id": 3629,
+      "latest_post_id": 3631,
       "fetched": 20
     },
     {
@@ -78,7 +78,7 @@
     {
       "source": "https://vk.com/stppp_professionalitet",
       "community": "Медиацентр СТППП «Фокус13»",
-      "latest_post_id": 4676,
+      "latest_post_id": 4677,
       "fetched": 20
     },
     {
@@ -168,7 +168,7 @@
     {
       "source": "https://vk.com/club103710305",
       "community": "МОУ \"Школа №27\" г. Саранск Республика Мордовия",
-      "latest_post_id": 4059,
+      "latest_post_id": 4062,
       "fetched": 20
     },
     {
@@ -198,7 +198,7 @@
     {
       "source": "https://vk.com/public210281686",
       "community": "МАДОУ  «Детский сад № 18»",
-      "latest_post_id": 2626,
+      "latest_post_id": 2627,
       "fetched": 20
     },
     {
@@ -324,7 +324,7 @@
     {
       "source": "https://vk.com/public215627488",
       "community": "МАДОУ «Центр развития ребенка - детский сад №90»",
-      "latest_post_id": 4640,
+      "latest_post_id": 4642,
       "fetched": 20
     },
     {
@@ -576,7 +576,7 @@
     {
       "source": "https://vk.com/public212900662",
       "community": "МДОУ «Детский сад N83 комбинированного вида»",
-      "latest_post_id": 2622,
+      "latest_post_id": 2627,
       "fetched": 20
     },
     {
@@ -678,7 +678,7 @@
     {
       "source": "https://vk.com/public129692291",
       "community": "МОУ \"Средняя общеобразовательная школа №28\"",
-      "latest_post_id": 8596,
+      "latest_post_id": 8601,
       "fetched": 20
     },
     {
@@ -732,7 +732,7 @@
     {
       "source": "https://vk.com/public142331459",
       "community": "МОУ «Ялгинская СОШ» корпус 1 | Саранск",
-      "latest_post_id": 7122,
+      "latest_post_id": 7123,
       "fetched": 20
     },
     {
@@ -755,8 +755,8 @@
     },
     {
       "source": "https://vk.com/club95243821",
-      "community": "Мордва ZAнаших!",
-      "latest_post_id": 11532,
+      "community": "Государственный фонд «Защитники Отечества»",
+      "latest_post_id": 11533,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 16,
-  "mirrored_photos": 10,
-  "published_photos": 487,
+  "new_posts": 12,
+  "mirrored_photos": 8,
+  "published_photos": 490,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
