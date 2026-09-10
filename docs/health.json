@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-10T18:26:21.066673Z",
+  "checked_at": "2026-09-10T19:20:48.129633Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -60,7 +60,7 @@
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 76563,
+      "latest_post_id": 76577,
       "fetched": 20
     },
     {
@@ -690,7 +690,7 @@
     {
       "source": "https://vk.com/public203691909",
       "community": "Региональный центр «Мира» | Республика Мордовия",
-      "latest_post_id": 5443,
+      "latest_post_id": 5445,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 10,
-  "mirrored_photos": 6,
-  "published_photos": 469,
+  "new_posts": 3,
+  "mirrored_photos": 0,
+  "published_photos": 468,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
