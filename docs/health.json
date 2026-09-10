@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-10T10:25:52.329080Z",
+  "checked_at": "2026-09-10T11:24:45.183111Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -96,7 +96,7 @@
     {
       "source": "https://vk.com/club7503608",
       "community": "ГБПОУ РМ \"Кемлянский аграрный колледж\"",
-      "latest_post_id": 4557,
+      "latest_post_id": 4558,
       "fetched": 20
     },
     {
@@ -162,7 +162,7 @@
     {
       "source": "https://vk.com/club129703276",
       "community": "Средняя школа №35 | Саранск",
-      "latest_post_id": 11568,
+      "latest_post_id": 11569,
       "fetched": 20
     },
     {
@@ -252,7 +252,7 @@
     {
       "source": "https://vk.com/club204178388",
       "community": "МАДОУ \"Детский сад №89 комбинированного вида\"",
-      "latest_post_id": 3585,
+      "latest_post_id": 3586,
       "fetched": 20
     },
     {
@@ -414,7 +414,7 @@
     {
       "source": "https://vk.com/club198991558",
       "community": "МДОУ \"Детский сад № 101\"",
-      "latest_post_id": 4726,
+      "latest_post_id": 4727,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 8,
-  "mirrored_photos": 7,
-  "published_photos": 481,
+  "new_posts": 4,
+  "mirrored_photos": 3,
+  "published_photos": 475,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
