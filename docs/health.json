@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-09-10T12:30:29.491976Z",
+  "checked_at": "2026-09-10T13:23:57.700812Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
     {
       "source": "https://vk.com/samtrm",
       "community": "ГАПОУ РМ \"Саранский автомеханический техникум\"",
-      "latest_post_id": 12100,
+      "latest_post_id": 12103,
       "fetched": 20
     },
     {
       "source": "https://vk.com/sst_rm",
       "community": "Саранский строительный техникум",
-      "latest_post_id": 14233,
+      "latest_post_id": 14234,
       "fetched": 20
     },
     {
@@ -23,14 +23,14 @@
     },
     {
       "source": "https://vk.com/club181850079",
-      "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4496,
+      "community": "МЛСПО - Молодежная лига СПО",
+      "latest_post_id": 4498,
       "fetched": 20
     },
     {
       "source": "https://vk.com/ipc_hgo_mlclass_fv_informatica",
       "community": "Ичалковский педагогический колледж",
-      "latest_post_id": 6450,
+      "latest_post_id": 6452,
       "fetched": 20
     },
     {
@@ -48,13 +48,13 @@
     {
       "source": "https://vk.com/public80925441",
       "community": "Атяшевский аграрный техникум",
-      "latest_post_id": 1610,
+      "latest_post_id": 1611,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club202849242",
-      "community": "СТЭиЭТ им. А.И. Полежаева",
-      "latest_post_id": 3631,
+      "community": "МЛСПО - Молодежная лига СПО",
+      "latest_post_id": 3632,
       "fetched": 20
     },
     {
@@ -65,26 +65,26 @@
     },
     {
       "source": "https://vk.com/gouspt",
-      "community": "Саранский политехнический техникум",
-      "latest_post_id": 3779,
+      "community": "МЛСПО - Молодежная лига СПО",
+      "latest_post_id": 3782,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public198480547",
       "community": "Инсарский аграрный техникум",
-      "latest_post_id": 2059,
+      "latest_post_id": 2060,
       "fetched": 20
     },
     {
       "source": "https://vk.com/stppp_professionalitet",
-      "community": "Саранский техникум пищевой промышленности",
-      "latest_post_id": 4682,
+      "community": "МЛСПО - Молодежная лига СПО",
+      "latest_post_id": 4683,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club182790665",
-      "community": "ГБПОУ РМ \"Зубово-Полянский аграрный техникум\"",
-      "latest_post_id": 2623,
+      "community": "МЛСПО - Молодежная лига СПО",
+      "latest_post_id": 2625,
       "fetched": 20
     },
     {
@@ -96,31 +96,31 @@
     {
       "source": "https://vk.com/club7503608",
       "community": "ГБПОУ РМ \"Кемлянский аграрный колледж\"",
-      "latest_post_id": 4558,
+      "latest_post_id": 4559,
       "fetched": 20
     },
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 170588,
+      "latest_post_id": 170599,
       "fetched": 20
     },
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 10767,
+      "latest_post_id": 10770,
       "fetched": 20
     },
     {
       "source": "https://vk.com/technical_ait",
       "community": "ГБПОУ РМ Алексеевский индустриальный техникум\"",
-      "latest_post_id": 2268,
+      "latest_post_id": 2269,
       "fetched": 20
     },
     {
       "source": "https://vk.com/kaskrm",
       "community": "Ковылкинский аграрно-строительный колледж",
-      "latest_post_id": 15084,
+      "latest_post_id": 15147,
       "fetched": 20
     },
     {
@@ -144,7 +144,7 @@
     {
       "source": "https://vk.com/club148125790",
       "community": "38tv - Новости",
-      "latest_post_id": 9427,
+      "latest_post_id": 9428,
       "fetched": 20
     },
     {
@@ -186,7 +186,7 @@
     {
       "source": "https://vk.com/club9874035",
       "community": "Лыжно-биатлонный комплекс. Федерация биатлона РМ",
-      "latest_post_id": 4340,
+      "latest_post_id": 4341,
       "fetched": 20
     },
     {
@@ -252,7 +252,7 @@
     {
       "source": "https://vk.com/club204178388",
       "community": "МАДОУ \"Детский сад №89 комбинированного вида\"",
-      "latest_post_id": 3587,
+      "latest_post_id": 3588,
       "fetched": 20
     },
     {
@@ -342,7 +342,7 @@
     {
       "source": "https://vk.com/public215671212",
       "community": "МАОУ \"Прогимназия № 119\" г.Саранск",
-      "latest_post_id": 1625,
+      "latest_post_id": 1626,
       "fetched": 20
     },
     {
@@ -408,13 +408,13 @@
     {
       "source": "https://vk.com/public203706494",
       "community": "МДОУ \"Детский сад 99 комбинированного вида\"",
-      "latest_post_id": 8644,
+      "latest_post_id": 8646,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club198991558",
       "community": "МДОУ \"Детский сад № 101\"",
-      "latest_post_id": 4727,
+      "latest_post_id": 4729,
       "fetched": 20
     },
     {
@@ -438,7 +438,7 @@
     {
       "source": "https://vk.com/public215652250",
       "community": "МДОУ \"Детский сад №116\" г.о. Саранск",
-      "latest_post_id": 1915,
+      "latest_post_id": 1916,
       "fetched": 20
     },
     {
@@ -624,7 +624,7 @@
     {
       "source": "https://vk.com/club154501666",
       "community": "МОУ \"Лицей №25\"",
-      "latest_post_id": 2032,
+      "latest_post_id": 2034,
       "fetched": 20
     },
     {
@@ -672,7 +672,7 @@
     {
       "source": "https://vk.com/club166449275",
       "community": "Школа №9 | г.Саранск",
-      "latest_post_id": 8247,
+      "latest_post_id": 8251,
       "fetched": 20
     },
     {
@@ -695,8 +695,8 @@
     },
     {
       "source": "https://vk.com/public215663353",
-      "community": "МОУ \"Средняя школа №5\" Саранск",
-      "latest_post_id": 5158,
+      "community": "НТМ || Народное Телевидение Мордовии",
+      "latest_post_id": 5159,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 11,
-  "mirrored_photos": 8,
-  "published_photos": 470,
+  "new_posts": 30,
+  "mirrored_photos": 14,
+  "published_photos": 484,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
