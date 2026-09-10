@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-10T04:25:38.815312Z",
+  "checked_at": "2026-09-10T05:23:47.088400Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -138,13 +138,13 @@
     {
       "source": "https://vk.com/club59095536",
       "community": "МОУ \"Средняя школа №11\"",
-      "latest_post_id": 14901,
+      "latest_post_id": 14902,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club148125790",
       "community": "38tv - Новости",
-      "latest_post_id": 9419,
+      "latest_post_id": 9425,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 65202,
+      "latest_post_id": 65207,
       "fetched": 20
     },
     {
@@ -695,8 +695,8 @@
     },
     {
       "source": "https://vk.com/public215663353",
-      "community": "Лучший учитель родного языка и родной литературы",
-      "latest_post_id": 5153,
+      "community": "МОУ \"Средняя школа №5\" Саранск",
+      "latest_post_id": 5154,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 12,
-  "mirrored_photos": 7,
-  "published_photos": 488,
+  "new_posts": 4,
+  "mirrored_photos": 4,
+  "published_photos": 489,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
