@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-10T20:22:55.293711Z",
+  "checked_at": "2026-09-10T21:21:49.714058Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 65385,
+      "latest_post_id": 65526,
       "fetched": 20
     },
     {
@@ -817,8 +817,8 @@
     }
   ],
   "new_posts": 1,
-  "mirrored_photos": 0,
-  "published_photos": 467,
+  "mirrored_photos": 1,
+  "published_photos": 468,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
