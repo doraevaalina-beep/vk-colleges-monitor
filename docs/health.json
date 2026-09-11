@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-11T16:25:28.468920Z",
+  "checked_at": "2026-09-11T17:23:25.441125Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -78,7 +78,7 @@
     {
       "source": "https://vk.com/stppp_professionalitet",
       "community": "Саранский техникум пищевой промышленности",
-      "latest_post_id": 4687,
+      "latest_post_id": 4689,
       "fetched": 20
     },
     {
@@ -174,7 +174,7 @@
     {
       "source": "https://vk.com/public216577930",
       "community": "Гимназия №19 | г. Саранск",
-      "latest_post_id": 3311,
+      "latest_post_id": 3312,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 65807,
+      "latest_post_id": 65829,
       "fetched": 20
     },
     {
@@ -324,7 +324,7 @@
     {
       "source": "https://vk.com/public215627488",
       "community": "МАДОУ «Центр развития ребенка - детский сад №90»",
-      "latest_post_id": 4666,
+      "latest_post_id": 4669,
       "fetched": 20
     },
     {
@@ -708,7 +708,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 39563,
+      "latest_post_id": 39578,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 16,
-  "mirrored_photos": 14,
-  "published_photos": 379,
+  "new_posts": 7,
+  "mirrored_photos": 6,
+  "published_photos": 376,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
