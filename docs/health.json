@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-11T04:25:36.219424Z",
+  "checked_at": "2026-09-11T05:23:42.229868Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -143,8 +143,8 @@
     },
     {
       "source": "https://vk.com/club148125790",
-      "community": "38tv - Новости",
-      "latest_post_id": 9429,
+      "community": "Отвага и антитеррор",
+      "latest_post_id": 9430,
       "fetched": 20
     },
     {
@@ -180,7 +180,7 @@
     {
       "source": "https://vk.com/public144012777",
       "community": "Лицей №43, г. Саранск",
-      "latest_post_id": 6635,
+      "latest_post_id": 6639,
       "fetched": 20
     },
     {
@@ -228,7 +228,7 @@
     {
       "source": "https://vk.com/public172429704",
       "community": "МАДОУ \"Детский сад № 80\"",
-      "latest_post_id": 4026,
+      "latest_post_id": 4027,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 65529,
+      "latest_post_id": 65551,
       "fetched": 20
     },
     {
@@ -324,7 +324,7 @@
     {
       "source": "https://vk.com/public215627488",
       "community": "МАДОУ «Центр развития ребенка - детский сад №90»",
-      "latest_post_id": 4643,
+      "latest_post_id": 4653,
       "fetched": 20
     },
     {
@@ -737,8 +737,8 @@
     },
     {
       "source": "https://vk.com/club186187361",
-      "community": "Академия балета «Виктория»",
-      "latest_post_id": 5611,
+      "community": "МОУ СОШ №2 им.Героя Советского Союза П.И.Орлова",
+      "latest_post_id": 5612,
       "fetched": 20
     },
     {
@@ -786,7 +786,7 @@
     {
       "source": "https://vk.com/club153679543",
       "community": "СОШ №2 им. Героя Советского Союза П.И.Орлова к.2",
-      "latest_post_id": 5155,
+      "latest_post_id": 5156,
       "fetched": 20
     },
     {
@@ -797,8 +797,8 @@
     },
     {
       "source": "https://vk.com/club175038308",
-      "community": "Юные Инспекторы Движения",
-      "latest_post_id": 11489,
+      "community": "Школа №39 | Саранск",
+      "latest_post_id": 11491,
       "fetched": 20
     }
   ],
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 4,
-  "mirrored_photos": 3,
-  "published_photos": 470,
+  "new_posts": 17,
+  "mirrored_photos": 7,
+  "published_photos": 468,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
