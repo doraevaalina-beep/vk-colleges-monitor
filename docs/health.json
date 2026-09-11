@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-11T18:27:03.352444Z",
+  "checked_at": "2026-09-11T19:22:34.762041Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -216,13 +216,13 @@
     {
       "source": "https://vk.com/public202707820",
       "community": "МАДОУ \"Детский сад № 104 комбинированного вида\"",
-      "latest_post_id": 4802,
+      "latest_post_id": 4803,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public215721033",
       "community": "МАДОУ \"Детский сад № 36\" Г.О. Саранск",
-      "latest_post_id": 2746,
+      "latest_post_id": 2748,
       "fetched": 20
     },
     {
@@ -306,7 +306,7 @@
     {
       "source": "https://vk.com/public215649429",
       "community": "МАДОУ \"Центр развития ребёнка- детский сад № 14\"",
-      "latest_post_id": 2282,
+      "latest_post_id": 2278,
       "fetched": 20
     },
     {
@@ -324,13 +324,13 @@
     {
       "source": "https://vk.com/public215627488",
       "community": "МАДОУ «Центр развития ребенка - детский сад №90»",
-      "latest_post_id": 4671,
+      "latest_post_id": 4674,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public202712770",
       "community": "МАДОУ «Центр развития ребёнка - детский сад №6»",
-      "latest_post_id": 4756,
+      "latest_post_id": 4761,
       "fetched": 20
     },
     {
@@ -624,7 +624,7 @@
     {
       "source": "https://vk.com/club154501666",
       "community": "МОУ \"Лицей №25\"",
-      "latest_post_id": 2040,
+      "latest_post_id": 2041,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 12,
-  "mirrored_photos": 10,
-  "published_photos": 377,
+  "new_posts": 6,
+  "mirrored_photos": 3,
+  "published_photos": 378,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
