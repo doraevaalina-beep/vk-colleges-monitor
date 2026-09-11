@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-11T19:22:34.762041Z",
+  "checked_at": "2026-09-11T20:24:31.194493Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -408,7 +408,7 @@
     {
       "source": "https://vk.com/public203706494",
       "community": "МДОУ \"Детский сад 99 комбинированного вида\"",
-      "latest_post_id": 8649,
+      "latest_post_id": 8651,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 6,
-  "mirrored_photos": 3,
-  "published_photos": 378,
+  "new_posts": 1,
+  "mirrored_photos": 1,
+  "published_photos": 379,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
