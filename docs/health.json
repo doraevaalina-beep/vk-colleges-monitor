@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-11T10:25:10.357491Z",
+  "checked_at": "2026-09-11T11:24:00.924316Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -36,7 +36,7 @@
     {
       "source": "https://vk.com/rjpt_baikuzova",
       "community": "ГБПОУ РМ  \"РТЖГТ им. А.П. Байкузова\"",
-      "latest_post_id": 2411,
+      "latest_post_id": 2412,
       "fetched": 20
     },
     {
@@ -54,7 +54,7 @@
     {
       "source": "https://vk.com/club202849242",
       "community": "СТЭиЭТ им. А.И. Полежаева",
-      "latest_post_id": 3633,
+      "latest_post_id": 3635,
       "fetched": 20
     },
     {
@@ -77,8 +77,8 @@
     },
     {
       "source": "https://vk.com/stppp_professionalitet",
-      "community": "Медиацентр СТППП «Фокус13»",
-      "latest_post_id": 4684,
+      "community": "Саранский техникум пищевой промышленности",
+      "latest_post_id": 4687,
       "fetched": 20
     },
     {
@@ -144,7 +144,7 @@
     {
       "source": "https://vk.com/club148125790",
       "community": "38tv - Новости",
-      "latest_post_id": 9434,
+      "latest_post_id": 9435,
       "fetched": 20
     },
     {
@@ -162,7 +162,7 @@
     {
       "source": "https://vk.com/club129703276",
       "community": "Средняя школа №35 | Саранск",
-      "latest_post_id": 11572,
+      "latest_post_id": 11573,
       "fetched": 20
     },
     {
@@ -185,8 +185,8 @@
     },
     {
       "source": "https://vk.com/club9874035",
-      "community": "Лыжно-биатлонный комплекс. Федерация биатлона РМ",
-      "latest_post_id": 4343,
+      "community": "Отвага и антитеррор",
+      "latest_post_id": 4344,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 65636,
+      "latest_post_id": 65681,
       "fetched": 20
     },
     {
@@ -282,7 +282,7 @@
     {
       "source": "https://vk.com/public190278465",
       "community": "МАДОУ \"Центр развития ребёнка - детский сад №3\"",
-      "latest_post_id": 11998,
+      "latest_post_id": 11999,
       "fetched": 20
     },
     {
@@ -474,7 +474,7 @@
     {
       "source": "https://vk.com/public215674623",
       "community": "МДОУ \"Детский сад №22 \" г. Саранск",
-      "latest_post_id": 1759,
+      "latest_post_id": 1762,
       "fetched": 20
     },
     {
@@ -552,7 +552,7 @@
     {
       "source": "https://vk.com/club170916138",
       "community": "МДОУ \"Детский сад №93\"",
-      "latest_post_id": 2199,
+      "latest_post_id": 2200,
       "fetched": 20
     },
     {
@@ -630,7 +630,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14681,
+      "latest_post_id": 14682,
       "fetched": 20
     },
     {
@@ -642,13 +642,13 @@
     {
       "source": "https://vk.com/public200835009",
       "community": "МОУ \"Лицей №4\" г.Саранск",
-      "latest_post_id": 5264,
+      "latest_post_id": 5265,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club154276223",
       "community": "МОУ \"Луховский лицей\"",
-      "latest_post_id": 5256,
+      "latest_post_id": 5257,
       "fetched": 20
     },
     {
@@ -672,7 +672,7 @@
     {
       "source": "https://vk.com/club166449275",
       "community": "Школа №9 | г.Саранск",
-      "latest_post_id": 8252,
+      "latest_post_id": 8253,
       "fetched": 20
     },
     {
@@ -696,7 +696,7 @@
     {
       "source": "https://vk.com/public215663353",
       "community": "МОУ \"Средняя школа №5\" Саранск",
-      "latest_post_id": 5165,
+      "latest_post_id": 5167,
       "fetched": 20
     },
     {
@@ -738,7 +738,7 @@
     {
       "source": "https://vk.com/club186187361",
       "community": "МОУ СОШ №2 им.Героя Советского Союза П.И.Орлова",
-      "latest_post_id": 5612,
+      "latest_post_id": 5613,
       "fetched": 20
     },
     {
@@ -750,7 +750,7 @@
     {
       "source": "https://vk.com/club206918978",
       "community": "Николаевская школа | Саранск",
-      "latest_post_id": 8258,
+      "latest_post_id": 8259,
       "fetched": 20
     },
     {
@@ -786,7 +786,7 @@
     {
       "source": "https://vk.com/club153679543",
       "community": "СОШ №2 им. Героя Советского Союза П.И.Орлова к.2",
-      "latest_post_id": 5156,
+      "latest_post_id": 5157,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 16,
-  "mirrored_photos": 13,
-  "published_photos": 440,
+  "new_posts": 24,
+  "mirrored_photos": 19,
+  "published_photos": 419,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
