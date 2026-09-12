@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-12T14:23:39.944912Z",
+  "checked_at": "2026-09-12T15:22:26.295029Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -186,7 +186,7 @@
     {
       "source": "https://vk.com/club9874035",
       "community": "Лыжно-биатлонный комплекс. Федерация биатлона РМ",
-      "latest_post_id": 4444,
+      "latest_post_id": 4454,
       "fetched": 20
     },
     {
@@ -288,7 +288,7 @@
     {
       "source": "https://vk.com/public203694036",
       "community": "МАДОУ \"Центр развития ребенка - детский сад №46\"",
-      "latest_post_id": 5994,
+      "latest_post_id": 5995,
       "fetched": 20
     },
     {
@@ -456,7 +456,7 @@
     {
       "source": "https://vk.com/club201381445",
       "community": "МДОУ \"Детский сад №125 комбинированного вида\"",
-      "latest_post_id": 2773,
+      "latest_post_id": 2774,
       "fetched": 20
     },
     {
@@ -594,7 +594,7 @@
     {
       "source": "https://vk.com/club166487726",
       "community": "Гимназия № 12 | Саранск",
-      "latest_post_id": 6795,
+      "latest_post_id": 6796,
       "fetched": 20
     },
     {
@@ -611,8 +611,8 @@
     },
     {
       "source": "https://vk.com/public195117146",
-      "community": "Региональный центр «Мира» | Республика Мордовия",
-      "latest_post_id": 3721,
+      "community": "МОУ \"Ялгинская СОШ\" корпус 2 г.о.Саранск",
+      "latest_post_id": 3722,
       "fetched": 20
     },
     {
@@ -816,16 +816,10 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 7,
-  "mirrored_photos": 6,
-  "published_photos": 358,
-  "image_errors": [
-    {
-      "post_url": "https://vk.com/wall-216577930_3315",
-      "photo_url": "https://sun9-43.userapi.com/s/v1/ig2/A3NNV2E9mKF54SFU6jknKQSMm5yQldSnNVchgRiMf8EZMymbJ9zjjadk3eSfgN4i1JcfkiD89MaIGt6pD1BfeIjH.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&from=bu&cs=1280x0",
-      "error": "500 Server Error: Internal Server Error for url: https://sun9-43.userapi.com/s/v1/ig2/A3NNV2E9mKF54SFU6jknKQSMm5yQldSnNVchgRiMf8EZMymbJ9zjjadk3eSfgN4i1JcfkiD89MaIGt6pD1BfeIjH.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x108"
-    }
-  ],
+  "new_posts": 5,
+  "mirrored_photos": 5,
+  "published_photos": 360,
+  "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
   "reused_visuals": 0,
