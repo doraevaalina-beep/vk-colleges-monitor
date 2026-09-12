@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-12T13:22:02.715747Z",
+  "checked_at": "2026-09-12T14:23:39.944912Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -120,7 +120,7 @@
     {
       "source": "https://vk.com/kaskrm",
       "community": "Ковылкинский аграрно-строительный колледж",
-      "latest_post_id": 15165,
+      "latest_post_id": 15177,
       "fetched": 20
     },
     {
@@ -174,7 +174,7 @@
     {
       "source": "https://vk.com/public216577930",
       "community": "Гимназия №19 | г. Саранск",
-      "latest_post_id": 3314,
+      "latest_post_id": 3315,
       "fetched": 20
     },
     {
@@ -348,7 +348,7 @@
     {
       "source": "https://vk.com/club174792280",
       "community": "МАОУ \"СОШ №10\"",
-      "latest_post_id": 8238,
+      "latest_post_id": 8239,
       "fetched": 20
     },
     {
@@ -695,8 +695,8 @@
     },
     {
       "source": "https://vk.com/public215663353",
-      "community": "Отвага и антитеррор",
-      "latest_post_id": 5170,
+      "community": "МОУ \"Средняя школа №5\" Саранск",
+      "latest_post_id": 5173,
       "fetched": 20
     },
     {
@@ -708,7 +708,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 39618,
+      "latest_post_id": 39621,
       "fetched": 20
     },
     {
@@ -816,10 +816,16 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 11,
-  "mirrored_photos": 12,
-  "published_photos": 373,
-  "image_errors": [],
+  "new_posts": 7,
+  "mirrored_photos": 6,
+  "published_photos": 358,
+  "image_errors": [
+    {
+      "post_url": "https://vk.com/wall-216577930_3315",
+      "photo_url": "https://sun9-43.userapi.com/s/v1/ig2/A3NNV2E9mKF54SFU6jknKQSMm5yQldSnNVchgRiMf8EZMymbJ9zjjadk3eSfgN4i1JcfkiD89MaIGt6pD1BfeIjH.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&from=bu&cs=1280x0",
+      "error": "500 Server Error: Internal Server Error for url: https://sun9-43.userapi.com/s/v1/ig2/A3NNV2E9mKF54SFU6jknKQSMm5yQldSnNVchgRiMf8EZMymbJ9zjjadk3eSfgN4i1JcfkiD89MaIGt6pD1BfeIjH.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x108"
+    }
+  ],
   "built_visuals": 0,
   "built_visual_files": [],
   "reused_visuals": 0,
