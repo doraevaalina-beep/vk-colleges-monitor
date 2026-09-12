@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-12T08:23:48.131585Z",
+  "checked_at": "2026-09-12T09:23:04.442750Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -186,7 +186,7 @@
     {
       "source": "https://vk.com/club9874035",
       "community": "Лыжно-биатлонный комплекс. Федерация биатлона РМ",
-      "latest_post_id": 4348,
+      "latest_post_id": 4385,
       "fetched": 20
     },
     {
@@ -198,13 +198,13 @@
     {
       "source": "https://vk.com/public210281686",
       "community": "МАДОУ  «Детский сад № 18»",
-      "latest_post_id": 2629,
+      "latest_post_id": 2630,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public215681007",
       "community": "МАДОУ \" Детский сад № 76 \" г.о.Саранск",
-      "latest_post_id": 5530,
+      "latest_post_id": 5531,
       "fetched": 20
     },
     {
@@ -216,19 +216,19 @@
     {
       "source": "https://vk.com/public202707820",
       "community": "МАДОУ \"Детский сад № 104 комбинированного вида\"",
-      "latest_post_id": 4803,
+      "latest_post_id": 4804,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public215721033",
       "community": "МАДОУ \"Детский сад № 36\" Г.О. Саранск",
-      "latest_post_id": 2748,
+      "latest_post_id": 2749,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public172429704",
-      "community": "Журнал «СЯТКО»",
-      "latest_post_id": 4031,
+      "community": "МАДОУ \"Детский сад № 80\"",
+      "latest_post_id": 4032,
       "fetched": 20
     },
     {
@@ -240,91 +240,91 @@
     {
       "source": "https://vk.com/club192448163",
       "community": "МАДОУ \"Детский сад №59\"",
-      "latest_post_id": 3962,
+      "latest_post_id": 3965,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 65973,
+      "latest_post_id": 65974,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club204178388",
       "community": "МАДОУ \"Детский сад №89 комбинированного вида\"",
-      "latest_post_id": 3594,
+      "latest_post_id": 3597,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public200569622",
       "community": "МАДОУ \"ЦРР - детский сад №4\"",
-      "latest_post_id": 9500,
+      "latest_post_id": 9501,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public209745083",
       "community": "МАДОУ \"Центр развития ребенка - детский сад № 58",
-      "latest_post_id": 2044,
+      "latest_post_id": 2045,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public203690288",
-      "community": "Республика Мордовия",
-      "latest_post_id": 4858,
+      "community": "МАДОУ \"Центр развития ребенка - детский сад № 9\"",
+      "latest_post_id": 4859,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public199029660",
       "community": "МАДОУ \"Центр развития ребенка - детский сад №10\"",
-      "latest_post_id": 2895,
+      "latest_post_id": 2896,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public190278465",
       "community": "МАДОУ \"Центр развития ребёнка - детский сад №3\"",
-      "latest_post_id": 12001,
+      "latest_post_id": 12007,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public203694036",
       "community": "МАДОУ \"Центр развития ребенка - детский сад №46\"",
-      "latest_post_id": 5993,
+      "latest_post_id": 5994,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club209740282",
       "community": "МАДОУ \"Центр развития ребенка-детский сад №2\"\"",
-      "latest_post_id": 2154,
+      "latest_post_id": 2155,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club200695555",
       "community": "МАДОУ \"Центр развития ребёнка - детский сад №73\"",
-      "latest_post_id": 1364,
+      "latest_post_id": 1365,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public215649429",
       "community": "МАДОУ \"Центр развития ребёнка- детский сад № 14\"",
-      "latest_post_id": 2278,
+      "latest_post_id": 2283,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club203705834",
       "community": "МАДОУ \"Центр развития ребёнка-детский сад 8\"",
-      "latest_post_id": 1513,
+      "latest_post_id": 1514,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public215650437",
       "community": "МАДОУ \"Центр развития ребёнка-детский сад №13\"",
-      "latest_post_id": 2002,
+      "latest_post_id": 2003,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public215627488",
       "community": "МАДОУ «Центр развития ребенка - детский сад №90»",
-      "latest_post_id": 4674,
+      "latest_post_id": 4676,
       "fetched": 20
     },
     {
@@ -336,13 +336,13 @@
     {
       "source": "https://vk.com/public190001019",
       "community": "МАДОУ\"ЦРР - детский сад №17\"",
-      "latest_post_id": 3560,
+      "latest_post_id": 3561,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public215671212",
       "community": "МАОУ \"Прогимназия № 119\" г.Саранск",
-      "latest_post_id": 1631,
+      "latest_post_id": 1633,
       "fetched": 20
     },
     {
@@ -354,7 +354,7 @@
     {
       "source": "https://vk.com/public210120789",
       "community": "МБДОУ «Детский сад № 15»",
-      "latest_post_id": 1448,
+      "latest_post_id": 1449,
       "fetched": 20
     },
     {
@@ -366,25 +366,25 @@
     {
       "source": "https://vk.com/public202711145",
       "community": "МДОУ \" Детский сад 5\", Саранск",
-      "latest_post_id": 2597,
+      "latest_post_id": 2598,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public190232482",
       "community": "МАДОУ \"ДЕТСКИЙ САД 87 КОМБИНИРОВАННОГО ВИДА\"",
-      "latest_post_id": 2489,
+      "latest_post_id": 2490,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public215647525",
       "community": "МДОУ \"ДЕТСКИЙ САД№88\"",
-      "latest_post_id": 1494,
+      "latest_post_id": 1495,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club194955245",
       "community": "МАДОУ \"Детский сад 103\"",
-      "latest_post_id": 3046,
+      "latest_post_id": 3047,
       "fetched": 20
     },
     {
@@ -396,25 +396,25 @@
     {
       "source": "https://vk.com/club203700958",
       "community": "МДОУ \"Детский сад 127 комбинированного вида\"",
-      "latest_post_id": 2149,
+      "latest_post_id": 2150,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public198735544",
-      "community": "Региональный центр «Мира» | Республика Мордовия",
-      "latest_post_id": 3501,
+      "community": "МДОУ \"Детский сад 29\"",
+      "latest_post_id": 3502,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public203706494",
       "community": "МДОУ \"Детский сад 99 комбинированного вида\"",
-      "latest_post_id": 8651,
+      "latest_post_id": 8652,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club198991558",
       "community": "МДОУ \"Детский сад № 101\"",
-      "latest_post_id": 4732,
+      "latest_post_id": 4733,
       "fetched": 20
     },
     {
@@ -426,19 +426,19 @@
     {
       "source": "https://vk.com/public215652474",
       "community": "МАДОУ \"Детский сад №1\"",
-      "latest_post_id": 690,
+      "latest_post_id": 691,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public203708526",
       "community": "МДОУ \"Детский сад №114\"",
-      "latest_post_id": 650,
+      "latest_post_id": 651,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public215652250",
       "community": "МДОУ \"Детский сад №116\" г.о. Саранск",
-      "latest_post_id": 1917,
+      "latest_post_id": 1918,
       "fetched": 20
     },
     {
@@ -450,31 +450,31 @@
     {
       "source": "https://vk.com/public215650649",
       "community": "МДОУ \"Детский сад №124 комбинированного вида\"",
-      "latest_post_id": 3387,
+      "latest_post_id": 3388,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club201381445",
       "community": "МДОУ \"Детский сад №125 комбинированного вида\"",
-      "latest_post_id": 2772,
+      "latest_post_id": 2773,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public216614291",
       "community": "МДОУ \"Детский сад №16\"",
-      "latest_post_id": 919,
+      "latest_post_id": 920,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public203720864",
       "community": "МДОУ \"Детский сад №20 комбинированного вида\"",
-      "latest_post_id": 1363,
+      "latest_post_id": 1364,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public215674623",
       "community": "МДОУ \"Детский сад №22 \" г. Саранск",
-      "latest_post_id": 1763,
+      "latest_post_id": 1764,
       "fetched": 20
     },
     {
@@ -492,7 +492,7 @@
     {
       "source": "https://vk.com/public215646287",
       "community": "МДОУ \"Детский сад №55 комбинированного вида\"",
-      "latest_post_id": 1442,
+      "latest_post_id": 1443,
       "fetched": 20
     },
     {
@@ -504,13 +504,13 @@
     {
       "source": "https://vk.com/public209741486",
       "community": "МДОУ \"Детский сад №65 комбинированного вида\"",
-      "latest_post_id": 2301,
+      "latest_post_id": 2302,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club209745196",
       "community": "МДОУ \"Детский сад №68\"",
-      "latest_post_id": 1202,
+      "latest_post_id": 1203,
       "fetched": 20
     },
     {
@@ -522,49 +522,49 @@
     {
       "source": "https://vk.com/club209729369",
       "community": "МДОУ \"Детский сад №71\"",
-      "latest_post_id": 2682,
+      "latest_post_id": 2683,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public203695892",
       "community": "МДОУ \"Детский сад №78 комбинированного вида\"",
-      "latest_post_id": 2439,
+      "latest_post_id": 2441,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public203712659",
       "community": "МДОУ \"Детский сад №79 комбинированного вида\"",
-      "latest_post_id": 3832,
+      "latest_post_id": 3833,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public203696837",
       "community": "МДОУ \"Детский сад №85 комбинированного вида\"",
-      "latest_post_id": 7511,
+      "latest_post_id": 7512,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public190325366",
       "community": "МДОУ \"Детский сад №91 компенсирующего вида\"",
-      "latest_post_id": 2351,
+      "latest_post_id": 2353,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club170916138",
       "community": "МДОУ \"Детский сад №93\"",
-      "latest_post_id": 2201,
+      "latest_post_id": 2202,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club201164476",
       "community": "МДОУ \"Детский сад №97 комбинированного вида\"",
-      "latest_post_id": 5500,
+      "latest_post_id": 5501,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club190273034",
       "community": "МДОУ \"Детский сад №98\"",
-      "latest_post_id": 3703,
+      "latest_post_id": 3705,
       "fetched": 20
     },
     {
@@ -576,19 +576,19 @@
     {
       "source": "https://vk.com/public212900662",
       "community": "МДОУ «Детский сад N83 комбинированного вида»",
-      "latest_post_id": 2632,
+      "latest_post_id": 2633,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club210719786",
       "community": "МДОУ\"Детский сад №117\"",
-      "latest_post_id": 998,
+      "latest_post_id": 999,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club203390062",
       "community": "МДОУ\"Детский сад №86 комбинированного вида\"",
-      "latest_post_id": 2594,
+      "latest_post_id": 2595,
       "fetched": 20
     },
     {
@@ -684,7 +684,7 @@
     {
       "source": "https://vk.com/public1571309",
       "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26166,
+      "latest_post_id": 26167,
       "fetched": 20
     },
     {
@@ -695,8 +695,8 @@
     },
     {
       "source": "https://vk.com/public215663353",
-      "community": "МОУ \"Средняя школа №5\" Саранск",
-      "latest_post_id": 5169,
+      "community": "Отвага и антитеррор",
+      "latest_post_id": 5170,
       "fetched": 20
     },
     {
@@ -780,7 +780,7 @@
     {
       "source": "https://vk.com/club205295806",
       "community": "Структурное подразделение \"Детский сад №16 \"",
-      "latest_post_id": 1406,
+      "latest_post_id": 1407,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 32,
-  "mirrored_photos": 6,
-  "published_photos": 377,
+  "new_posts": 57,
+  "mirrored_photos": 3,
+  "published_photos": 380,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
