@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-12T17:21:35.980207Z",
+  "checked_at": "2026-09-12T18:24:37.117586Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -12,13 +12,13 @@
     {
       "source": "https://vk.com/sst_rm",
       "community": "Саранский строительный техникум",
-      "latest_post_id": 14236,
+      "latest_post_id": 14238,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10456,
+      "latest_post_id": 10457,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 66096,
+      "latest_post_id": 66133,
       "fetched": 20
     },
     {
@@ -564,7 +564,7 @@
     {
       "source": "https://vk.com/club190273034",
       "community": "МДОУ \"Детский сад №98\"",
-      "latest_post_id": 3705,
+      "latest_post_id": 3706,
       "fetched": 20
     },
     {
@@ -690,7 +690,7 @@
     {
       "source": "https://vk.com/public203691909",
       "community": "МОУ \"Средняя школа №37\"",
-      "latest_post_id": 5450,
+      "latest_post_id": 5454,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 6,
-  "mirrored_photos": 6,
-  "published_photos": 370,
+  "new_posts": 8,
+  "mirrored_photos": 8,
+  "published_photos": 371,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
