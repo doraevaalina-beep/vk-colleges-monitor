@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-12T04:23:48.190444Z",
+  "checked_at": "2026-09-12T05:22:31.173808Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -41,8 +41,8 @@
     },
     {
       "source": "https://vk.com/zppk_official",
-      "community": "Навигаторы детства ЗППК",
-      "latest_post_id": 4722,
+      "community": "Зубово-Полянский педагогический колледж",
+      "latest_post_id": 4723,
       "fetched": 20
     },
     {
@@ -60,7 +60,7 @@
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 76611,
+      "latest_post_id": 76656,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 65931,
+      "latest_post_id": 65963,
       "fetched": 20
     },
     {
@@ -714,7 +714,7 @@
     {
       "source": "https://vk.com/public171854359",
       "community": "МОУ «СОШ №22»",
-      "latest_post_id": 8592,
+      "latest_post_id": 8593,
       "fetched": 20
     },
     {
@@ -774,7 +774,7 @@
     {
       "source": "https://vk.com/club48794793",
       "community": "Средняя общеобразовательная школа №1 г.о.Саранск",
-      "latest_post_id": 4553,
+      "latest_post_id": 4555,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 3,
-  "mirrored_photos": 1,
-  "published_photos": 374,
+  "new_posts": 6,
+  "mirrored_photos": 6,
+  "published_photos": 377,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
