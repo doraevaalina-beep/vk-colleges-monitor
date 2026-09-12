@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-12T10:22:33.913967Z",
+  "checked_at": "2026-09-12T11:22:02.480818Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -30,7 +30,7 @@
     {
       "source": "https://vk.com/ipc_hgo_mlclass_fv_informatica",
       "community": "Ичалковский педагогический колледж",
-      "latest_post_id": 6458,
+      "latest_post_id": 6460,
       "fetched": 20
     },
     {
@@ -186,7 +186,7 @@
     {
       "source": "https://vk.com/club9874035",
       "community": "Лыжно-биатлонный комплекс. Федерация биатлона РМ",
-      "latest_post_id": 4385,
+      "latest_post_id": 4422,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 65996,
+      "latest_post_id": 65997,
       "fetched": 20
     },
     {
@@ -324,7 +324,7 @@
     {
       "source": "https://vk.com/public215627488",
       "community": "МАДОУ «Центр развития ребенка - детский сад №90»",
-      "latest_post_id": 4676,
+      "latest_post_id": 4679,
       "fetched": 20
     },
     {
@@ -600,13 +600,13 @@
     {
       "source": "https://vk.com/club819936",
       "community": "МОУ \"Гимназия № 23\" г. о. Саранск",
-      "latest_post_id": 11047,
+      "latest_post_id": 11048,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public92009976",
       "community": "Гимназия №20",
-      "latest_post_id": 9644,
+      "latest_post_id": 9645,
       "fetched": 20
     },
     {
@@ -818,7 +818,7 @@
   ],
   "new_posts": 9,
   "mirrored_photos": 8,
-  "published_photos": 380,
+  "published_photos": 381,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
