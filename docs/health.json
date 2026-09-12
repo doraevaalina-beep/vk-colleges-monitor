@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-09-12T19:20:08.642235Z",
+  "checked_at": "2026-09-12T20:24:25.712684Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
     {
       "source": "https://vk.com/samtrm",
       "community": "ГАПОУ РМ \"Саранский автомеханический техникум\"",
-      "latest_post_id": 12104,
+      "latest_post_id": 12105,
       "fetched": 20
     },
     {
       "source": "https://vk.com/sst_rm",
       "community": "Саранский строительный техникум",
-      "latest_post_id": 14238,
+      "latest_post_id": 14241,
       "fetched": 20
     },
     {
@@ -23,8 +23,8 @@
     },
     {
       "source": "https://vk.com/club181850079",
-      "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4506,
+      "community": "МЛСПО - Молодежная лига СПО",
+      "latest_post_id": 4507,
       "fetched": 20
     },
     {
@@ -48,7 +48,7 @@
     {
       "source": "https://vk.com/public80925441",
       "community": "Атяшевский аграрный техникум",
-      "latest_post_id": 1612,
+      "latest_post_id": 1613,
       "fetched": 20
     },
     {
@@ -65,26 +65,26 @@
     },
     {
       "source": "https://vk.com/gouspt",
-      "community": "Саранский политехнический техникум",
-      "latest_post_id": 3790,
+      "community": "МЛСПО - Молодежная лига СПО",
+      "latest_post_id": 3791,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public198480547",
       "community": "Инсарский аграрный техникум",
-      "latest_post_id": 2060,
+      "latest_post_id": 2061,
       "fetched": 20
     },
     {
       "source": "https://vk.com/stppp_professionalitet",
-      "community": "Саранский техникум пищевой промышленности",
-      "latest_post_id": 4692,
+      "community": "МЛСПО - Молодежная лига СПО",
+      "latest_post_id": 4694,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club182790665",
-      "community": "ГБПОУ РМ \"Зубово-Полянский аграрный техникум\"",
-      "latest_post_id": 2629,
+      "community": "МЛСПО - Молодежная лига СПО",
+      "latest_post_id": 2631,
       "fetched": 20
     },
     {
@@ -96,13 +96,13 @@
     {
       "source": "https://vk.com/club7503608",
       "community": "ГБПОУ РМ \"Кемлянский аграрный колледж\"",
-      "latest_post_id": 4560,
+      "latest_post_id": 4561,
       "fetched": 20
     },
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 170623,
+      "latest_post_id": 170639,
       "fetched": 20
     },
     {
@@ -114,13 +114,13 @@
     {
       "source": "https://vk.com/technical_ait",
       "community": "ГБПОУ РМ Алексеевский индустриальный техникум\"",
-      "latest_post_id": 2269,
+      "latest_post_id": 2270,
       "fetched": 20
     },
     {
       "source": "https://vk.com/kaskrm",
       "community": "Ковылкинский аграрно-строительный колледж",
-      "latest_post_id": 15177,
+      "latest_post_id": 15205,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 2,
-  "mirrored_photos": 2,
-  "published_photos": 370,
+  "new_posts": 12,
+  "mirrored_photos": 0,
+  "published_photos": 367,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
