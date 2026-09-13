@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-13T15:23:03.471623Z",
+  "checked_at": "2026-09-13T16:23:31.956344Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -786,7 +786,7 @@
     {
       "source": "https://vk.com/club153679543",
       "community": "СОШ №2 им. Героя Советского Союза П.И.Орлова к.2",
-      "latest_post_id": 5157,
+      "latest_post_id": 5159,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 4,
-  "mirrored_photos": 4,
-  "published_photos": 314,
+  "new_posts": 2,
+  "mirrored_photos": 2,
+  "published_photos": 304,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
