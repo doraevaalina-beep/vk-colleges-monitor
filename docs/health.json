@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-13T06:32:12.289115Z",
+  "checked_at": "2026-09-13T07:23:14.476737Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -227,8 +227,8 @@
     },
     {
       "source": "https://vk.com/public172429704",
-      "community": "МАДОУ \"Детский сад № 80\"",
-      "latest_post_id": 4032,
+      "community": "ВАЛ",
+      "latest_post_id": 4033,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 66247,
+      "latest_post_id": 66267,
       "fetched": 20
     },
     {
@@ -444,7 +444,7 @@
     {
       "source": "https://vk.com/public202722758",
       "community": "МДОУ \"Детский сад №122 комбинированного вида\"",
-      "latest_post_id": 4673,
+      "latest_post_id": 4675,
       "fetched": 20
     },
     {
@@ -522,7 +522,7 @@
     {
       "source": "https://vk.com/club209729369",
       "community": "МДОУ \"Детский сад №71\"",
-      "latest_post_id": 2683,
+      "latest_post_id": 2684,
       "fetched": 20
     },
     {
@@ -708,7 +708,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 39621,
+      "latest_post_id": 39645,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 3,
-  "mirrored_photos": 2,
-  "published_photos": 359,
+  "new_posts": 7,
+  "mirrored_photos": 5,
+  "published_photos": 364,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
