@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-13T14:22:21.405723Z",
+  "checked_at": "2026-09-13T15:23:03.471623Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -162,7 +162,7 @@
     {
       "source": "https://vk.com/club129703276",
       "community": "Средняя школа №35 | Саранск",
-      "latest_post_id": 11581,
+      "latest_post_id": 11583,
       "fetched": 20
     },
     {
@@ -186,7 +186,7 @@
     {
       "source": "https://vk.com/club9874035",
       "community": "Лыжно-биатлонный комплекс. Федерация биатлона РМ",
-      "latest_post_id": 4511,
+      "latest_post_id": 4517,
       "fetched": 20
     },
     {
@@ -534,7 +534,7 @@
     {
       "source": "https://vk.com/public203712659",
       "community": "МДОУ \"Детский сад №79 комбинированного вида\"",
-      "latest_post_id": 3833,
+      "latest_post_id": 3834,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 3,
-  "mirrored_photos": 3,
-  "published_photos": 321,
+  "new_posts": 4,
+  "mirrored_photos": 4,
+  "published_photos": 314,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
