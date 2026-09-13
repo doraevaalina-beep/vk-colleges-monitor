@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-13T11:22:30.123597Z",
+  "checked_at": "2026-09-13T12:27:48.595725Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -186,7 +186,7 @@
     {
       "source": "https://vk.com/club9874035",
       "community": "Лыжно-биатлонный комплекс. Федерация биатлона РМ",
-      "latest_post_id": 4500,
+      "latest_post_id": 4511,
       "fetched": 20
     },
     {
@@ -348,7 +348,7 @@
     {
       "source": "https://vk.com/club174792280",
       "community": "МАОУ \"СОШ №10\"",
-      "latest_post_id": 8244,
+      "latest_post_id": 8245,
       "fetched": 20
     },
     {
@@ -594,7 +594,7 @@
     {
       "source": "https://vk.com/club166487726",
       "community": "Гимназия № 12 | Саранск",
-      "latest_post_id": 6798,
+      "latest_post_id": 6799,
       "fetched": 20
     },
     {
@@ -611,8 +611,8 @@
     },
     {
       "source": "https://vk.com/public195117146",
-      "community": "МОУ \"Ялгинская СОШ\" корпус 2 г.о.Саранск",
-      "latest_post_id": 3725,
+      "community": "Минспорт Республики Мордовия",
+      "latest_post_id": 3727,
       "fetched": 20
     },
     {
@@ -798,7 +798,7 @@
     {
       "source": "https://vk.com/club175038308",
       "community": "Школа №39 | Саранск",
-      "latest_post_id": 11502,
+      "latest_post_id": 11503,
       "fetched": 20
     }
   ],
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 1,
-  "mirrored_photos": 1,
-  "published_photos": 334,
+  "new_posts": 6,
+  "mirrored_photos": 4,
+  "published_photos": 330,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
