@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-13T04:23:57.432609Z",
+  "checked_at": "2026-09-13T05:22:08.178875Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -108,7 +108,7 @@
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 10782,
+      "latest_post_id": 10785,
       "fetched": 20
     },
     {
@@ -150,13 +150,13 @@
     {
       "source": "https://vk.com/public194762632",
       "community": "«Средняя школа № 36» Саранск",
-      "latest_post_id": 4894,
+      "latest_post_id": 4896,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public166423723",
       "community": "МОУ \"Средняя школа № 41\"",
-      "latest_post_id": 2934,
+      "latest_post_id": 2935,
       "fetched": 20
     },
     {
@@ -180,7 +180,7 @@
     {
       "source": "https://vk.com/public144012777",
       "community": "Лицей №43, г. Саранск",
-      "latest_post_id": 6643,
+      "latest_post_id": 6645,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 66244,
+      "latest_post_id": 66247,
       "fetched": 20
     },
     {
@@ -600,7 +600,7 @@
     {
       "source": "https://vk.com/club819936",
       "community": "МОУ \"Гимназия № 23\" г. о. Саранск",
-      "latest_post_id": 11048,
+      "latest_post_id": 11050,
       "fetched": 20
     },
     {
@@ -816,8 +816,8 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 1,
-  "mirrored_photos": 1,
+  "new_posts": 6,
+  "mirrored_photos": 5,
   "published_photos": 359,
   "image_errors": [],
   "built_visuals": 0,
