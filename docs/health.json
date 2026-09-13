@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-13T07:23:14.476737Z",
+  "checked_at": "2026-09-13T08:24:18.728582Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -72,7 +72,7 @@
     {
       "source": "https://vk.com/public198480547",
       "community": "Инсарский аграрный техникум",
-      "latest_post_id": 2061,
+      "latest_post_id": 2063,
       "fetched": 20
     },
     {
@@ -186,7 +186,7 @@
     {
       "source": "https://vk.com/club9874035",
       "community": "Лыжно-биатлонный комплекс. Федерация биатлона РМ",
-      "latest_post_id": 4454,
+      "latest_post_id": 4465,
       "fetched": 20
     },
     {
@@ -348,7 +348,7 @@
     {
       "source": "https://vk.com/club174792280",
       "community": "МАОУ \"СОШ №10\"",
-      "latest_post_id": 8241,
+      "latest_post_id": 8242,
       "fetched": 20
     },
     {
@@ -636,7 +636,7 @@
     {
       "source": "https://vk.com/public215664590",
       "community": "МОУ \"Лицей №31\"",
-      "latest_post_id": 1777,
+      "latest_post_id": 1780,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 7,
-  "mirrored_photos": 5,
-  "published_photos": 364,
+  "new_posts": 6,
+  "mirrored_photos": 6,
+  "published_photos": 363,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
