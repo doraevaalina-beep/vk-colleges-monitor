@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-14T10:25:35.037899Z",
+  "checked_at": "2026-09-14T11:25:04.793495Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -65,14 +65,14 @@
     },
     {
       "source": "https://vk.com/gouspt",
-      "community": "МЛСПО - Молодежная лига СПО",
-      "latest_post_id": 3791,
+      "community": "Саранский политехнический техникум",
+      "latest_post_id": 3792,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public198480547",
       "community": "Инсарский аграрный техникум",
-      "latest_post_id": 2063,
+      "latest_post_id": 2064,
       "fetched": 20
     },
     {
@@ -150,7 +150,7 @@
     {
       "source": "https://vk.com/public194762632",
       "community": "«Средняя школа № 36» Саранск",
-      "latest_post_id": 4898,
+      "latest_post_id": 4900,
       "fetched": 20
     },
     {
@@ -174,7 +174,7 @@
     {
       "source": "https://vk.com/public216577930",
       "community": "Гимназия №19 | г. Саранск",
-      "latest_post_id": 3319,
+      "latest_post_id": 3320,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 66513,
+      "latest_post_id": 66526,
       "fetched": 20
     },
     {
@@ -611,8 +611,8 @@
     },
     {
       "source": "https://vk.com/public195117146",
-      "community": "Минспорт Республики Мордовия",
-      "latest_post_id": 3727,
+      "community": "МОУ \"Ялгинская СОШ\" корпус 2 г.о.Саранск",
+      "latest_post_id": 3728,
       "fetched": 20
     },
     {
@@ -642,7 +642,7 @@
     {
       "source": "https://vk.com/public200835009",
       "community": "МОУ \"Лицей №4\" г.Саранск",
-      "latest_post_id": 5269,
+      "latest_post_id": 5270,
       "fetched": 20
     },
     {
@@ -672,7 +672,7 @@
     {
       "source": "https://vk.com/club166449275",
       "community": "Школа №9 | г.Саранск",
-      "latest_post_id": 8257,
+      "latest_post_id": 8260,
       "fetched": 20
     },
     {
@@ -714,7 +714,7 @@
     {
       "source": "https://vk.com/public171854359",
       "community": "МОУ «СОШ №22»",
-      "latest_post_id": 8605,
+      "latest_post_id": 8607,
       "fetched": 20
     },
     {
@@ -756,7 +756,7 @@
     {
       "source": "https://vk.com/club95243821",
       "community": "Мордва ZAнаших!",
-      "latest_post_id": 11538,
+      "latest_post_id": 11539,
       "fetched": 20
     },
     {
@@ -798,7 +798,7 @@
     {
       "source": "https://vk.com/club175038308",
       "community": "Школа №39 | Саранск",
-      "latest_post_id": 11510,
+      "latest_post_id": 11514,
       "fetched": 20
     }
   ],
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 13,
-  "mirrored_photos": 13,
-  "published_photos": 311,
+  "new_posts": 18,
+  "mirrored_photos": 16,
+  "published_photos": 308,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
