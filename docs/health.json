@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-14T04:25:59.844581Z",
+  "checked_at": "2026-09-14T05:24:08.389470Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -144,7 +144,7 @@
     {
       "source": "https://vk.com/club148125790",
       "community": "38tv - Новости",
-      "latest_post_id": 9439,
+      "latest_post_id": 9440,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 66415,
+      "latest_post_id": 66417,
       "fetched": 20
     },
     {
@@ -744,7 +744,7 @@
     {
       "source": "https://vk.com/public195089396",
       "community": "Гимназия 29",
-      "latest_post_id": 7484,
+      "latest_post_id": 7485,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 2,
-  "mirrored_photos": 2,
-  "published_photos": 297,
+  "new_posts": 4,
+  "mirrored_photos": 4,
+  "published_photos": 296,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
