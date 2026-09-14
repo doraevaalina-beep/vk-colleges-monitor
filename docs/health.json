@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-14T16:24:58.590844Z",
+  "checked_at": "2026-09-14T17:23:18.248375Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -114,7 +114,7 @@
     {
       "source": "https://vk.com/technical_ait",
       "community": "ГБПОУ РМ Алексеевский индустриальный техникум\"",
-      "latest_post_id": 2270,
+      "latest_post_id": 2273,
       "fetched": 20
     },
     {
@@ -612,7 +612,7 @@
     {
       "source": "https://vk.com/public195117146",
       "community": "МОУ \"Ялгинская СОШ\" корпус 2 г.о.Саранск",
-      "latest_post_id": 3729,
+      "latest_post_id": 3730,
       "fetched": 20
     },
     {
@@ -684,7 +684,7 @@
     {
       "source": "https://vk.com/public1571309",
       "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26172,
+      "latest_post_id": 26173,
       "fetched": 20
     },
     {
@@ -762,7 +762,7 @@
     {
       "source": "https://vk.com/club153457218",
       "community": "Средняя школа №40 | Саранск",
-      "latest_post_id": 11768,
+      "latest_post_id": 11769,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 5,
+  "new_posts": 6,
   "mirrored_photos": 5,
-  "published_photos": 294,
+  "published_photos": 293,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
