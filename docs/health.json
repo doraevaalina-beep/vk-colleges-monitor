@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-14T17:23:18.248375Z",
+  "checked_at": "2026-09-14T18:27:52.309123Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -30,7 +30,7 @@
     {
       "source": "https://vk.com/ipc_hgo_mlclass_fv_informatica",
       "community": "Ичалковский педагогический колледж",
-      "latest_post_id": 6460,
+      "latest_post_id": 6461,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 66652,
+      "latest_post_id": 66753,
       "fetched": 20
     },
     {
@@ -737,8 +737,8 @@
     },
     {
       "source": "https://vk.com/club186187361",
-      "community": "Региональный центр «Мира» | Республика Мордовия",
-      "latest_post_id": 5617,
+      "community": "МОУ СОШ №2 им.Героя Советского Союза П.И.Орлова",
+      "latest_post_id": 5618,
       "fetched": 20
     },
     {
@@ -762,7 +762,7 @@
     {
       "source": "https://vk.com/club153457218",
       "community": "Средняя школа №40 | Саранск",
-      "latest_post_id": 11769,
+      "latest_post_id": 11770,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 6,
+  "new_posts": 5,
   "mirrored_photos": 5,
-  "published_photos": 293,
+  "published_photos": 289,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
