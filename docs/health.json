@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-14T02:25:31.852433Z",
+  "checked_at": "2026-09-14T03:25:35.428768Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -138,7 +138,7 @@
     {
       "source": "https://vk.com/club59095536",
       "community": "МОУ \"Средняя школа №11\"",
-      "latest_post_id": 14920,
+      "latest_post_id": 14921,
       "fetched": 20
     },
     {
@@ -818,7 +818,7 @@
   ],
   "new_posts": 1,
   "mirrored_photos": 1,
-  "published_photos": 297,
+  "published_photos": 298,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
