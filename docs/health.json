@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-14T11:25:04.793495Z",
+  "checked_at": "2026-09-14T12:31:37.104635Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -48,13 +48,13 @@
     {
       "source": "https://vk.com/public80925441",
       "community": "Атяшевский аграрный техникум",
-      "latest_post_id": 1613,
+      "latest_post_id": 1614,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club202849242",
       "community": "СТЭиЭТ им. А.И. Полежаева",
-      "latest_post_id": 3637,
+      "latest_post_id": 3638,
       "fetched": 20
     },
     {
@@ -66,7 +66,7 @@
     {
       "source": "https://vk.com/gouspt",
       "community": "Саранский политехнический техникум",
-      "latest_post_id": 3792,
+      "latest_post_id": 3793,
       "fetched": 20
     },
     {
@@ -83,8 +83,8 @@
     },
     {
       "source": "https://vk.com/club182790665",
-      "community": "МЛСПО - Молодежная лига СПО",
-      "latest_post_id": 2631,
+      "community": "ГБПОУ РМ \"Зубово-Полянский аграрный техникум\"",
+      "latest_post_id": 2632,
       "fetched": 20
     },
     {
@@ -102,13 +102,13 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 170639,
+      "latest_post_id": 170646,
       "fetched": 20
     },
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 10785,
+      "latest_post_id": 10786,
       "fetched": 20
     },
     {
@@ -162,7 +162,7 @@
     {
       "source": "https://vk.com/club129703276",
       "community": "Средняя школа №35 | Саранск",
-      "latest_post_id": 11585,
+      "latest_post_id": 11587,
       "fetched": 20
     },
     {
@@ -179,8 +179,8 @@
     },
     {
       "source": "https://vk.com/public144012777",
-      "community": "Лицей №43, г. Саранск",
-      "latest_post_id": 6648,
+      "community": "Музей фронтового кинооператора В. А. Сущинского",
+      "latest_post_id": 6649,
       "fetched": 20
     },
     {
@@ -197,8 +197,8 @@
     },
     {
       "source": "https://vk.com/public210281686",
-      "community": "МАДОУ  «Детский сад № 18»",
-      "latest_post_id": 2630,
+      "community": "ГТРК \"Мордовия\"",
+      "latest_post_id": 2631,
       "fetched": 20
     },
     {
@@ -246,13 +246,13 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 66526,
+      "latest_post_id": 66557,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club204178388",
       "community": "МАДОУ \"Детский сад №89 комбинированного вида\"",
-      "latest_post_id": 3598,
+      "latest_post_id": 3600,
       "fetched": 20
     },
     {
@@ -330,7 +330,7 @@
     {
       "source": "https://vk.com/public202712770",
       "community": "МАДОУ «Центр развития ребёнка - детский сад №6»",
-      "latest_post_id": 4763,
+      "latest_post_id": 4773,
       "fetched": 20
     },
     {
@@ -408,7 +408,7 @@
     {
       "source": "https://vk.com/public203706494",
       "community": "МДОУ \"Детский сад 99 комбинированного вида\"",
-      "latest_post_id": 8652,
+      "latest_post_id": 8655,
       "fetched": 20
     },
     {
@@ -528,7 +528,7 @@
     {
       "source": "https://vk.com/public203695892",
       "community": "МДОУ \"Детский сад №78 комбинированного вида\"",
-      "latest_post_id": 2442,
+      "latest_post_id": 2443,
       "fetched": 20
     },
     {
@@ -726,7 +726,7 @@
     {
       "source": "https://vk.com/club526150",
       "community": "МОУ «Школа № 30» г. Саранск Республика Мордовия",
-      "latest_post_id": 6591,
+      "latest_post_id": 6592,
       "fetched": 20
     },
     {
@@ -756,7 +756,7 @@
     {
       "source": "https://vk.com/club95243821",
       "community": "Мордва ZAнаших!",
-      "latest_post_id": 11539,
+      "latest_post_id": 11540,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 18,
-  "mirrored_photos": 16,
-  "published_photos": 308,
+  "new_posts": 17,
+  "mirrored_photos": 15,
+  "published_photos": 310,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
