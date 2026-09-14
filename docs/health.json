@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-14T07:26:27.283732Z",
+  "checked_at": "2026-09-14T08:27:07.241479Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -18,7 +18,7 @@
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10457,
+      "latest_post_id": 10466,
       "fetched": 20
     },
     {
@@ -144,7 +144,7 @@
     {
       "source": "https://vk.com/club148125790",
       "community": "38tv - Новости",
-      "latest_post_id": 9440,
+      "latest_post_id": 9442,
       "fetched": 20
     },
     {
@@ -162,7 +162,7 @@
     {
       "source": "https://vk.com/club129703276",
       "community": "Средняя школа №35 | Саранск",
-      "latest_post_id": 11583,
+      "latest_post_id": 11584,
       "fetched": 20
     },
     {
@@ -636,7 +636,7 @@
     {
       "source": "https://vk.com/public215664590",
       "community": "МОУ \"Лицей №31\"",
-      "latest_post_id": 1781,
+      "latest_post_id": 1783,
       "fetched": 20
     },
     {
@@ -683,14 +683,14 @@
     },
     {
       "source": "https://vk.com/public1571309",
-      "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26169,
+      "community": "Музей им.П.И.Ботина",
+      "latest_post_id": 26171,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public203691909",
       "community": "МОУ \"Средняя школа №37\"",
-      "latest_post_id": 5461,
+      "latest_post_id": 5462,
       "fetched": 20
     },
     {
@@ -726,19 +726,19 @@
     {
       "source": "https://vk.com/club526150",
       "community": "МОУ «Школа № 30» г. Саранск Республика Мордовия",
-      "latest_post_id": 6589,
+      "latest_post_id": 6591,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public142331459",
       "community": "МОУ «Ялгинская СОШ» корпус 1 | Саранск",
-      "latest_post_id": 7138,
+      "latest_post_id": 7140,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club186187361",
       "community": "МОУ СОШ №2 им.Героя Советского Союза П.И.Орлова",
-      "latest_post_id": 5613,
+      "latest_post_id": 5616,
       "fetched": 20
     },
     {
@@ -774,7 +774,7 @@
     {
       "source": "https://vk.com/club48794793",
       "community": "Средняя общеобразовательная школа №1 г.о.Саранск",
-      "latest_post_id": 4558,
+      "latest_post_id": 4560,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 12,
+  "new_posts": 15,
   "mirrored_photos": 11,
-  "published_photos": 302,
+  "published_photos": 300,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
