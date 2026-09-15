@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-15T12:29:28.056391Z",
+  "checked_at": "2026-09-15T13:26:07.183119Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -186,7 +186,7 @@
     {
       "source": "https://vk.com/club9874035",
       "community": "Лыжно-биатлонный комплекс. Федерация биатлона РМ",
-      "latest_post_id": 4518,
+      "latest_post_id": 4519,
       "fetched": 20
     },
     {
@@ -216,7 +216,7 @@
     {
       "source": "https://vk.com/public202707820",
       "community": "МАДОУ \"Детский сад № 104 комбинированного вида\"",
-      "latest_post_id": 4806,
+      "latest_post_id": 4807,
       "fetched": 20
     },
     {
@@ -366,7 +366,7 @@
     {
       "source": "https://vk.com/public202711145",
       "community": "МДОУ \" Детский сад 5\", Саранск",
-      "latest_post_id": 2601,
+      "latest_post_id": 2602,
       "fetched": 20
     },
     {
@@ -732,7 +732,7 @@
     {
       "source": "https://vk.com/public142331459",
       "community": "МОУ «Ялгинская СОШ» корпус 1 | Саранск",
-      "latest_post_id": 7143,
+      "latest_post_id": 7147,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 38,
-  "mirrored_photos": 13,
-  "published_photos": 323,
+  "new_posts": 5,
+  "mirrored_photos": 5,
+  "published_photos": 317,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
