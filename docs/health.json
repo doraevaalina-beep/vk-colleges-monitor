@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-15T20:23:45.022032Z",
+  "checked_at": "2026-09-15T21:23:03.124004Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -270,7 +270,7 @@
     {
       "source": "https://vk.com/public203690288",
       "community": "МАДОУ \"Центр развития ребенка - детский сад № 9\"",
-      "latest_post_id": 4860,
+      "latest_post_id": 4861,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 0,
-  "mirrored_photos": 0,
-  "published_photos": 313,
+  "new_posts": 1,
+  "mirrored_photos": 1,
+  "published_photos": 314,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
