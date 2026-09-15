@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-15T18:25:13.033142Z",
+  "checked_at": "2026-09-15T19:23:13.374264Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -330,7 +330,7 @@
     {
       "source": "https://vk.com/public202712770",
       "community": "МАДОУ «Центр развития ребёнка - детский сад №6»",
-      "latest_post_id": 4773,
+      "latest_post_id": 4779,
       "fetched": 20
     },
     {
@@ -540,7 +540,7 @@
     {
       "source": "https://vk.com/public203696837",
       "community": "МДОУ \"Детский сад №85 комбинированного вида\"",
-      "latest_post_id": 7517,
+      "latest_post_id": 7519,
       "fetched": 20
     },
     {
@@ -750,7 +750,7 @@
     {
       "source": "https://vk.com/club206918978",
       "community": "Николаевская школа | Саранск",
-      "latest_post_id": 8264,
+      "latest_post_id": 8266,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 5,
-  "mirrored_photos": 4,
-  "published_photos": 312,
+  "new_posts": 3,
+  "mirrored_photos": 3,
+  "published_photos": 313,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
