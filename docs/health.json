@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-15T16:25:04.267231Z",
+  "checked_at": "2026-09-15T17:22:38.240386Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -60,7 +60,7 @@
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 76757,
+      "latest_post_id": 76786,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 67102,
+      "latest_post_id": 67147,
       "fetched": 20
     },
     {
@@ -558,7 +558,7 @@
     {
       "source": "https://vk.com/club201164476",
       "community": "МДОУ \"Детский сад №97 комбинированного вида\"",
-      "latest_post_id": 5504,
+      "latest_post_id": 5507,
       "fetched": 20
     },
     {
@@ -690,7 +690,7 @@
     {
       "source": "https://vk.com/public203691909",
       "community": "МОУ \"Средняя школа №37\"",
-      "latest_post_id": 5469,
+      "latest_post_id": 5470,
       "fetched": 20
     },
     {
@@ -708,7 +708,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 39687,
+      "latest_post_id": 39690,
       "fetched": 20
     },
     {
@@ -774,7 +774,7 @@
     {
       "source": "https://vk.com/club48794793",
       "community": "Средняя общеобразовательная школа №1 г.о.Саранск",
-      "latest_post_id": 4564,
+      "latest_post_id": 4565,
       "fetched": 20
     },
     {
@@ -816,8 +816,8 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 3,
-  "mirrored_photos": 3,
+  "new_posts": 9,
+  "mirrored_photos": 7,
   "published_photos": 316,
   "image_errors": [],
   "built_visuals": 0,
