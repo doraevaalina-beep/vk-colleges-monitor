@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-15T04:26:27.367415Z",
+  "checked_at": "2026-09-15T05:25:17.800788Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -53,8 +53,8 @@
     },
     {
       "source": "https://vk.com/club202849242",
-      "community": "СТЭиЭТ им. А.И. Полежаева",
-      "latest_post_id": 3639,
+      "community": "Группа компаний \"Талина\"",
+      "latest_post_id": 3640,
       "fetched": 20
     },
     {
@@ -138,7 +138,7 @@
     {
       "source": "https://vk.com/club59095536",
       "community": "МОУ \"Средняя школа №11\"",
-      "latest_post_id": 14932,
+      "latest_post_id": 14934,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 66789,
+      "latest_post_id": 66811,
       "fetched": 20
     },
     {
@@ -306,7 +306,7 @@
     {
       "source": "https://vk.com/public215649429",
       "community": "МАДОУ \"Центр развития ребёнка- детский сад № 14\"",
-      "latest_post_id": 2291,
+      "latest_post_id": 2293,
       "fetched": 20
     },
     {
@@ -486,7 +486,7 @@
     {
       "source": "https://vk.com/club194961488",
       "community": "МДОУ \"Детский сад №40\" г.о. Саранск",
-      "latest_post_id": 1591,
+      "latest_post_id": 1592,
       "fetched": 20
     },
     {
@@ -600,13 +600,13 @@
     {
       "source": "https://vk.com/club819936",
       "community": "МОУ \"Гимназия № 23\" г. о. Саранск",
-      "latest_post_id": 11055,
+      "latest_post_id": 11057,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public92009976",
       "community": "Гимназия №20",
-      "latest_post_id": 9648,
+      "latest_post_id": 9652,
       "fetched": 20
     },
     {
@@ -696,7 +696,7 @@
     {
       "source": "https://vk.com/public215663353",
       "community": "МОУ \"Средняя школа №5\" Саранск",
-      "latest_post_id": 5176,
+      "latest_post_id": 5177,
       "fetched": 20
     },
     {
@@ -714,7 +714,7 @@
     {
       "source": "https://vk.com/public171854359",
       "community": "МОУ «СОШ №22»",
-      "latest_post_id": 8608,
+      "latest_post_id": 8613,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 1,
-  "mirrored_photos": 1,
-  "published_photos": 293,
+  "new_posts": 11,
+  "mirrored_photos": 10,
+  "published_photos": 297,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
