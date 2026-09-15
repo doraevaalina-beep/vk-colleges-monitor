@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-15T02:26:54.153017Z",
+  "checked_at": "2026-09-15T03:26:39.408667Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -24,7 +24,7 @@
     {
       "source": "https://vk.com/club181850079",
       "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4508,
+      "latest_post_id": 4509,
       "fetched": 20
     },
     {
@@ -228,7 +228,7 @@
     {
       "source": "https://vk.com/public172429704",
       "community": "МАДОУ \"Детский сад № 80\"",
-      "latest_post_id": 4037,
+      "latest_post_id": 4038,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 0,
-  "mirrored_photos": 0,
-  "published_photos": 292,
+  "new_posts": 2,
+  "mirrored_photos": 1,
+  "published_photos": 293,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
