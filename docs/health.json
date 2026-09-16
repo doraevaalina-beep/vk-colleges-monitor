@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-16T10:25:44.349458Z",
+  "checked_at": "2026-09-16T11:24:59.914013Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -348,7 +348,7 @@
     {
       "source": "https://vk.com/club174792280",
       "community": "МАОУ \"СОШ №10\"",
-      "latest_post_id": 8254,
+      "latest_post_id": 8255,
       "fetched": 20
     },
     {
@@ -378,7 +378,7 @@
     {
       "source": "https://vk.com/public215647525",
       "community": "МДОУ \"ДЕТСКИЙ САД№88\"",
-      "latest_post_id": 1497,
+      "latest_post_id": 1498,
       "fetched": 20
     },
     {
@@ -522,7 +522,7 @@
     {
       "source": "https://vk.com/club209729369",
       "community": "МДОУ \"Детский сад №71\"",
-      "latest_post_id": 2686,
+      "latest_post_id": 2688,
       "fetched": 20
     },
     {
@@ -648,7 +648,7 @@
     {
       "source": "https://vk.com/club154276223",
       "community": "МОУ \"Луховский лицей\"",
-      "latest_post_id": 5275,
+      "latest_post_id": 5276,
       "fetched": 20
     },
     {
@@ -678,7 +678,7 @@
     {
       "source": "https://vk.com/public129692291",
       "community": "МОУ \"Средняя общеобразовательная школа №28\"",
-      "latest_post_id": 8632,
+      "latest_post_id": 8636,
       "fetched": 20
     },
     {
@@ -690,13 +690,13 @@
     {
       "source": "https://vk.com/public203691909",
       "community": "МОУ \"Средняя школа №37\"",
-      "latest_post_id": 5471,
+      "latest_post_id": 5472,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public215663353",
       "community": "МОУ \"Средняя школа №5\" Саранск",
-      "latest_post_id": 5181,
+      "latest_post_id": 5184,
       "fetched": 20
     },
     {
@@ -725,8 +725,8 @@
     },
     {
       "source": "https://vk.com/club526150",
-      "community": "Росмолодёжь",
-      "latest_post_id": 6593,
+      "community": "МОУ «Школа № 30» г. Саранск Республика Мордовия",
+      "latest_post_id": 6594,
       "fetched": 20
     },
     {
@@ -738,7 +738,7 @@
     {
       "source": "https://vk.com/club186187361",
       "community": "МОУ СОШ №2 им.Героя Советского Союза П.И.Орлова",
-      "latest_post_id": 5619,
+      "latest_post_id": 5620,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 13,
-  "mirrored_photos": 10,
-  "published_photos": 310,
+  "new_posts": 11,
+  "mirrored_photos": 11,
+  "published_photos": 320,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
