@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-16T12:30:29.642669Z",
+  "checked_at": "2026-09-16T13:26:45.250988Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -77,8 +77,8 @@
     },
     {
       "source": "https://vk.com/stppp_professionalitet",
-      "community": "МЛСПО - Молодежная лига СПО",
-      "latest_post_id": 4694,
+      "community": "Отвага и антитеррор",
+      "latest_post_id": 4696,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 67293,
+      "latest_post_id": 67294,
       "fetched": 20
     },
     {
@@ -318,13 +318,13 @@
     {
       "source": "https://vk.com/public215650437",
       "community": "МАДОУ \"Центр развития ребёнка-детский сад №13\"",
-      "latest_post_id": 2006,
+      "latest_post_id": 2007,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public215627488",
       "community": "МАДОУ «Центр развития ребенка - детский сад №90»",
-      "latest_post_id": 4694,
+      "latest_post_id": 4696,
       "fetched": 20
     },
     {
@@ -396,7 +396,7 @@
     {
       "source": "https://vk.com/club203700958",
       "community": "МДОУ \"Детский сад 127 комбинированного вида\"",
-      "latest_post_id": 2163,
+      "latest_post_id": 2165,
       "fetched": 20
     },
     {
@@ -678,7 +678,7 @@
     {
       "source": "https://vk.com/public129692291",
       "community": "МОУ \"Средняя общеобразовательная школа №28\"",
-      "latest_post_id": 8636,
+      "latest_post_id": 8637,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 19,
-  "mirrored_photos": 14,
-  "published_photos": 330,
+  "new_posts": 7,
+  "mirrored_photos": 6,
+  "published_photos": 334,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
