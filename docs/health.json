@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-16T11:24:59.914013Z",
+  "checked_at": "2026-09-16T12:30:29.642669Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -18,7 +18,7 @@
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10491,
+      "latest_post_id": 10496,
       "fetched": 20
     },
     {
@@ -180,7 +180,7 @@
     {
       "source": "https://vk.com/public144012777",
       "community": "Лицей №43, г. Саранск",
-      "latest_post_id": 6655,
+      "latest_post_id": 6659,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 67245,
+      "latest_post_id": 67293,
       "fetched": 20
     },
     {
@@ -264,13 +264,13 @@
     {
       "source": "https://vk.com/public209745083",
       "community": "МАДОУ \"Центр развития ребенка - детский сад № 58",
-      "latest_post_id": 2047,
+      "latest_post_id": 2049,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public203690288",
       "community": "МАДОУ \"Центр развития ребенка - детский сад № 9\"",
-      "latest_post_id": 4864,
+      "latest_post_id": 4870,
       "fetched": 20
     },
     {
@@ -282,13 +282,13 @@
     {
       "source": "https://vk.com/public190278465",
       "community": "МАДОУ \"Центр развития ребёнка - детский сад №3\"",
-      "latest_post_id": 12026,
+      "latest_post_id": 12030,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public203694036",
       "community": "МАДОУ \"Центр развития ребенка - детский сад №46\"",
-      "latest_post_id": 5998,
+      "latest_post_id": 6000,
       "fetched": 20
     },
     {
@@ -396,7 +396,7 @@
     {
       "source": "https://vk.com/club203700958",
       "community": "МДОУ \"Детский сад 127 комбинированного вида\"",
-      "latest_post_id": 2159,
+      "latest_post_id": 2163,
       "fetched": 20
     },
     {
@@ -492,7 +492,7 @@
     {
       "source": "https://vk.com/public215646287",
       "community": "МДОУ \"Детский сад №55 комбинированного вида\"",
-      "latest_post_id": 1446,
+      "latest_post_id": 1447,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 11,
-  "mirrored_photos": 11,
-  "published_photos": 320,
+  "new_posts": 19,
+  "mirrored_photos": 14,
+  "published_photos": 330,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
