@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-16T19:23:29.820926Z",
+  "checked_at": "2026-09-16T20:25:07.419004Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -18,7 +18,7 @@
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10496,
+      "latest_post_id": 10500,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 2,
+  "new_posts": 1,
   "mirrored_photos": 1,
-  "published_photos": 342,
+  "published_photos": 343,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
