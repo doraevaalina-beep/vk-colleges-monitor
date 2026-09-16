@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-16T16:25:03.428240Z",
+  "checked_at": "2026-09-16T17:22:55.165040Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -23,8 +23,8 @@
     },
     {
       "source": "https://vk.com/club181850079",
-      "community": "Навигаторы детства|Ардатовский район",
-      "latest_post_id": 4511,
+      "community": "Отвага и антитеррор",
+      "latest_post_id": 4512,
       "fetched": 20
     },
     {
@@ -90,7 +90,7 @@
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9505,
+      "latest_post_id": 9511,
       "fetched": 20
     },
     {
@@ -108,7 +108,7 @@
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 10792,
+      "latest_post_id": 10794,
       "fetched": 20
     },
     {
@@ -408,7 +408,7 @@
     {
       "source": "https://vk.com/public203706494",
       "community": "МДОУ \"Детский сад 99 комбинированного вида\"",
-      "latest_post_id": 8658,
+      "latest_post_id": 8659,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 3,
-  "mirrored_photos": 3,
-  "published_photos": 339,
+  "new_posts": 8,
+  "mirrored_photos": 7,
+  "published_photos": 342,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
