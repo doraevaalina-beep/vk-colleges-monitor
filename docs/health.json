@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-16T18:27:05.347384Z",
+  "checked_at": "2026-09-16T19:23:29.820926Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -90,7 +90,7 @@
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9511,
+      "latest_post_id": 9513,
       "fetched": 20
     },
     {
@@ -258,7 +258,7 @@
     {
       "source": "https://vk.com/public200569622",
       "community": "МАДОУ \"ЦРР - детский сад №4\"",
-      "latest_post_id": 9508,
+      "latest_post_id": 9509,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 4,
-  "mirrored_photos": 2,
-  "published_photos": 341,
+  "new_posts": 2,
+  "mirrored_photos": 1,
+  "published_photos": 342,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
