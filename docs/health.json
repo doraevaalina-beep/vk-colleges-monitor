@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-16T06:30:37.912445Z",
+  "checked_at": "2026-09-16T07:25:36.859936Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -18,7 +18,7 @@
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10481,
+      "latest_post_id": 10491,
       "fetched": 20
     },
     {
@@ -120,7 +120,7 @@
     {
       "source": "https://vk.com/kaskrm",
       "community": "Ковылкинский аграрно-строительный колледж",
-      "latest_post_id": 15336,
+      "latest_post_id": 15345,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 67215,
+      "latest_post_id": 67227,
       "fetched": 20
     },
     {
@@ -366,7 +366,7 @@
     {
       "source": "https://vk.com/public202711145",
       "community": "МДОУ \" Детский сад 5\", Саранск",
-      "latest_post_id": 2603,
+      "latest_post_id": 2604,
       "fetched": 20
     },
     {
@@ -444,7 +444,7 @@
     {
       "source": "https://vk.com/public202722758",
       "community": "МДОУ \"Детский сад №122 комбинированного вида\"",
-      "latest_post_id": 4679,
+      "latest_post_id": 4682,
       "fetched": 20
     },
     {
@@ -611,8 +611,8 @@
     },
     {
       "source": "https://vk.com/public195117146",
-      "community": "МОУ \"Ялгинская СОШ\" корпус 2 г.о.Саранск",
-      "latest_post_id": 3730,
+      "community": "Региональный центр «Мира» | Республика Мордовия",
+      "latest_post_id": 3731,
       "fetched": 20
     },
     {
@@ -816,8 +816,8 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 4,
-  "mirrored_photos": 4,
+  "new_posts": 7,
+  "mirrored_photos": 6,
   "published_photos": 303,
   "image_errors": [],
   "built_visuals": 0,
