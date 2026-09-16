@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-16T13:26:45.250988Z",
+  "checked_at": "2026-09-16T14:25:57.737671Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -60,7 +60,7 @@
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 76786,
+      "latest_post_id": 76802,
       "fetched": 20
     },
     {
@@ -174,19 +174,19 @@
     {
       "source": "https://vk.com/public216577930",
       "community": "Гимназия №19 | г. Саранск",
-      "latest_post_id": 3324,
+      "latest_post_id": 3325,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public144012777",
       "community": "Лицей №43, г. Саранск",
-      "latest_post_id": 6659,
+      "latest_post_id": 6660,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club9874035",
-      "community": "РУСАДА: Российское антидопинговое агентство",
-      "latest_post_id": 4521,
+      "community": "Лыжно-биатлонный комплекс. Федерация биатлона РМ",
+      "latest_post_id": 4522,
       "fetched": 20
     },
     {
@@ -222,7 +222,7 @@
     {
       "source": "https://vk.com/public215721033",
       "community": "МАДОУ \"Детский сад № 36\" Г.О. Саранск",
-      "latest_post_id": 2753,
+      "latest_post_id": 2754,
       "fetched": 20
     },
     {
@@ -324,7 +324,7 @@
     {
       "source": "https://vk.com/public215627488",
       "community": "МАДОУ «Центр развития ребенка - детский сад №90»",
-      "latest_post_id": 4696,
+      "latest_post_id": 4700,
       "fetched": 20
     },
     {
@@ -438,7 +438,7 @@
     {
       "source": "https://vk.com/public215652250",
       "community": "МДОУ \"Детский сад №116\" г.о. Саранск",
-      "latest_post_id": 1924,
+      "latest_post_id": 1925,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 7,
-  "mirrored_photos": 6,
-  "published_photos": 334,
+  "new_posts": 9,
+  "mirrored_photos": 11,
+  "published_photos": 338,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
