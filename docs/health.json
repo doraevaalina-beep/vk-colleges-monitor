@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-16T03:24:59.391826Z",
+  "checked_at": "2026-09-16T04:25:13.827288Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -120,7 +120,7 @@
     {
       "source": "https://vk.com/kaskrm",
       "community": "Ковылкинский аграрно-строительный колледж",
-      "latest_post_id": 15279,
+      "latest_post_id": 15336,
       "fetched": 20
     },
     {
@@ -817,7 +817,7 @@
     }
   ],
   "new_posts": 1,
-  "mirrored_photos": 1,
+  "mirrored_photos": 0,
   "published_photos": 314,
   "image_errors": [],
   "built_visuals": 0,
