@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-17T08:26:41.388613Z",
+  "checked_at": "2026-09-17T09:25:11.658909Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -18,7 +18,7 @@
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10502,
+      "latest_post_id": 10503,
       "fetched": 20
     },
     {
@@ -53,8 +53,8 @@
     },
     {
       "source": "https://vk.com/club202849242",
-      "community": "Отвага и антитеррор",
-      "latest_post_id": 3643,
+      "community": "СТЭиЭТ им. А.И. Полежаева",
+      "latest_post_id": 3644,
       "fetched": 20
     },
     {
@@ -83,8 +83,8 @@
     },
     {
       "source": "https://vk.com/club182790665",
-      "community": "ГБПОУ РМ \"Зубово-Полянский аграрный техникум\"",
-      "latest_post_id": 2635,
+      "community": "Разговоры о важном",
+      "latest_post_id": 2637,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 67442,
+      "latest_post_id": 67455,
       "fetched": 20
     },
     {
@@ -330,7 +330,7 @@
     {
       "source": "https://vk.com/public202712770",
       "community": "МАДОУ «Центр развития ребёнка - детский сад №6»",
-      "latest_post_id": 4780,
+      "latest_post_id": 4782,
       "fetched": 20
     },
     {
@@ -600,7 +600,7 @@
     {
       "source": "https://vk.com/club819936",
       "community": "МОУ \"Гимназия № 23\" г. о. Саранск",
-      "latest_post_id": 11062,
+      "latest_post_id": 11063,
       "fetched": 20
     },
     {
@@ -642,7 +642,7 @@
     {
       "source": "https://vk.com/public200835009",
       "community": "МОУ \"Лицей №4\" г.Саранск",
-      "latest_post_id": 5273,
+      "latest_post_id": 5275,
       "fetched": 20
     },
     {
@@ -683,8 +683,8 @@
     },
     {
       "source": "https://vk.com/public1571309",
-      "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26179,
+      "community": "Разговоры о важном",
+      "latest_post_id": 26180,
       "fetched": 20
     },
     {
@@ -695,8 +695,8 @@
     },
     {
       "source": "https://vk.com/public215663353",
-      "community": "МОУ \"Средняя школа №5\" Саранск",
-      "latest_post_id": 5187,
+      "community": "Разговоры о важном",
+      "latest_post_id": 5188,
       "fetched": 20
     },
     {
@@ -713,8 +713,8 @@
     },
     {
       "source": "https://vk.com/public171854359",
-      "community": "МОУ «СОШ №22»",
-      "latest_post_id": 8631,
+      "community": "Разговоры о важном",
+      "latest_post_id": 8632,
       "fetched": 20
     },
     {
@@ -756,7 +756,7 @@
     {
       "source": "https://vk.com/club95243821",
       "community": "Мордва ZAнаших!",
-      "latest_post_id": 11546,
+      "latest_post_id": 11547,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 43,
-  "mirrored_photos": 8,
-  "published_photos": 321,
+  "new_posts": 11,
+  "mirrored_photos": 10,
+  "published_photos": 308,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
