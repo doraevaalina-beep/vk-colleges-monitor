@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-17T13:25:28.550088Z",
+  "checked_at": "2026-09-17T14:26:47.477712Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -65,8 +65,8 @@
     },
     {
       "source": "https://vk.com/gouspt",
-      "community": "Разговоры о важном",
-      "latest_post_id": 3803,
+      "community": "Саранский политехнический техникум",
+      "latest_post_id": 3805,
       "fetched": 20
     },
     {
@@ -102,7 +102,7 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 170738,
+      "latest_post_id": 170741,
       "fetched": 20
     },
     {
@@ -228,7 +228,7 @@
     {
       "source": "https://vk.com/public172429704",
       "community": "МАДОУ \"Детский сад № 80\"",
-      "latest_post_id": 4053,
+      "latest_post_id": 4046,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 67580,
+      "latest_post_id": 67596,
       "fetched": 20
     },
     {
@@ -306,7 +306,7 @@
     {
       "source": "https://vk.com/public215649429",
       "community": "МАДОУ \"Центр развития ребёнка- детский сад № 14\"",
-      "latest_post_id": 2297,
+      "latest_post_id": 2293,
       "fetched": 20
     },
     {
@@ -713,8 +713,8 @@
     },
     {
       "source": "https://vk.com/public171854359",
-      "community": "Разговоры о важном",
-      "latest_post_id": 8632,
+      "community": "МОУ «СОШ №22»",
+      "latest_post_id": 8636,
       "fetched": 20
     },
     {
@@ -756,7 +756,7 @@
     {
       "source": "https://vk.com/club95243821",
       "community": "Мордва ZAнаших!",
-      "latest_post_id": 11547,
+      "latest_post_id": 11548,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 6,
-  "mirrored_photos": 5,
-  "published_photos": 285,
+  "new_posts": 7,
+  "mirrored_photos": 7,
+  "published_photos": 287,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
