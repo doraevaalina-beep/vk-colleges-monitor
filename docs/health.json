@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-17T18:27:22.760801Z",
+  "checked_at": "2026-09-17T19:22:04.890778Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -150,7 +150,7 @@
     {
       "source": "https://vk.com/public194762632",
       "community": "«Средняя школа № 36» Саранск",
-      "latest_post_id": 4901,
+      "latest_post_id": 4902,
       "fetched": 20
     },
     {
@@ -366,7 +366,7 @@
     {
       "source": "https://vk.com/public202711145",
       "community": "МДОУ \" Детский сад 5\", Саранск",
-      "latest_post_id": 2610,
+      "latest_post_id": 2611,
       "fetched": 20
     },
     {
@@ -816,8 +816,8 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 8,
-  "mirrored_photos": 7,
+  "new_posts": 2,
+  "mirrored_photos": 0,
   "published_photos": 302,
   "image_errors": [],
   "built_visuals": 0,
