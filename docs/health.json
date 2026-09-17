@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-17T16:25:04.588228Z",
+  "checked_at": "2026-09-17T17:21:45.439780Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -53,8 +53,8 @@
     },
     {
       "source": "https://vk.com/club202849242",
-      "community": "Молодёжный телефон доверия Республики Мордовия",
-      "latest_post_id": 3645,
+      "community": "СТЭиЭТ им. А.И. Полежаева",
+      "latest_post_id": 3646,
       "fetched": 20
     },
     {
@@ -90,7 +90,7 @@
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9523,
+      "latest_post_id": 9524,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 67616,
+      "latest_post_id": 67692,
       "fetched": 20
     },
     {
@@ -324,7 +324,7 @@
     {
       "source": "https://vk.com/public215627488",
       "community": "МАДОУ «Центр развития ребенка - детский сад №90»",
-      "latest_post_id": 4709,
+      "latest_post_id": 4711,
       "fetched": 20
     },
     {
@@ -522,7 +522,7 @@
     {
       "source": "https://vk.com/club209729369",
       "community": "МДОУ \"Детский сад №71\"",
-      "latest_post_id": 2690,
+      "latest_post_id": 2691,
       "fetched": 20
     },
     {
@@ -666,13 +666,13 @@
     {
       "source": "https://vk.com/public92799833",
       "community": "МОУ \"Средняя школа №33\"",
-      "latest_post_id": 7645,
+      "latest_post_id": 7646,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club166449275",
       "community": "Школа №9 | г.Саранск",
-      "latest_post_id": 8262,
+      "latest_post_id": 8263,
       "fetched": 20
     },
     {
@@ -714,7 +714,7 @@
     {
       "source": "https://vk.com/public171854359",
       "community": "МОУ «СОШ №22»",
-      "latest_post_id": 8636,
+      "latest_post_id": 8638,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 13,
-  "mirrored_photos": 12,
-  "published_photos": 296,
+  "new_posts": 10,
+  "mirrored_photos": 9,
+  "published_photos": 300,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
