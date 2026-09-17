@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-17T15:25:17.395395Z",
+  "checked_at": "2026-09-17T16:25:04.588228Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -18,7 +18,7 @@
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10503,
+      "latest_post_id": 10512,
       "fetched": 20
     },
     {
@@ -90,7 +90,7 @@
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9514,
+      "latest_post_id": 9523,
       "fetched": 20
     },
     {
@@ -240,7 +240,7 @@
     {
       "source": "https://vk.com/club192448163",
       "community": "МАДОУ \"Детский сад №59\"",
-      "latest_post_id": 3974,
+      "latest_post_id": 3976,
       "fetched": 20
     },
     {
@@ -252,7 +252,7 @@
     {
       "source": "https://vk.com/club204178388",
       "community": "МАДОУ \"Детский сад №89 комбинированного вида\"",
-      "latest_post_id": 3605,
+      "latest_post_id": 3606,
       "fetched": 20
     },
     {
@@ -456,7 +456,7 @@
     {
       "source": "https://vk.com/club201381445",
       "community": "МДОУ \"Детский сад №125 комбинированного вида\"",
-      "latest_post_id": 2777,
+      "latest_post_id": 2778,
       "fetched": 20
     },
     {
@@ -522,7 +522,7 @@
     {
       "source": "https://vk.com/club209729369",
       "community": "МДОУ \"Детский сад №71\"",
-      "latest_post_id": 2689,
+      "latest_post_id": 2690,
       "fetched": 20
     },
     {
@@ -630,7 +630,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14707,
+      "latest_post_id": 14710,
       "fetched": 20
     },
     {
@@ -689,8 +689,8 @@
     },
     {
       "source": "https://vk.com/public203691909",
-      "community": "Региональный центр «Мира» | Республика Мордовия",
-      "latest_post_id": 5477,
+      "community": "МОУ \"Средняя школа №37\"",
+      "latest_post_id": 5478,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 12,
-  "mirrored_photos": 6,
-  "published_photos": 290,
+  "new_posts": 13,
+  "mirrored_photos": 12,
+  "published_photos": 296,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
