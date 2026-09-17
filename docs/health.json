@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-17T06:30:42.776135Z",
+  "checked_at": "2026-09-17T07:26:17.246760Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -12,7 +12,7 @@
     {
       "source": "https://vk.com/sst_rm",
       "community": "Саранский строительный техникум",
-      "latest_post_id": 14262,
+      "latest_post_id": 14263,
       "fetched": 20
     },
     {
@@ -155,8 +155,8 @@
     },
     {
       "source": "https://vk.com/public166423723",
-      "community": "МОУ \"Средняя школа № 41\"",
-      "latest_post_id": 2936,
+      "community": "Разговоры о важном",
+      "latest_post_id": 2937,
       "fetched": 20
     },
     {
@@ -167,14 +167,14 @@
     },
     {
       "source": "https://vk.com/club103710305",
-      "community": "МОУ \"Школа №27\" г. Саранск Республика Мордовия",
-      "latest_post_id": 4067,
+      "community": "Разговоры о важном",
+      "latest_post_id": 4068,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public216577930",
       "community": "Гимназия №19 | г. Саранск",
-      "latest_post_id": 3325,
+      "latest_post_id": 3326,
       "fetched": 20
     },
     {
@@ -204,7 +204,7 @@
     {
       "source": "https://vk.com/public215681007",
       "community": "МАДОУ \" Детский сад № 76 \" г.о.Саранск",
-      "latest_post_id": 5540,
+      "latest_post_id": 5542,
       "fetched": 20
     },
     {
@@ -593,8 +593,8 @@
     },
     {
       "source": "https://vk.com/club166487726",
-      "community": "Гимназия № 12 | Саранск",
-      "latest_post_id": 6813,
+      "community": "Разговоры о важном",
+      "latest_post_id": 6814,
       "fetched": 20
     },
     {
@@ -618,13 +618,13 @@
     {
       "source": "https://vk.com/club351497",
       "community": "МОУ \"Лицей № 7\"",
-      "latest_post_id": 15435,
+      "latest_post_id": 15436,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club154501666",
-      "community": "МОУ \"Лицей №25\"",
-      "latest_post_id": 2049,
+      "community": "Разговоры о важном",
+      "latest_post_id": 2050,
       "fetched": 20
     },
     {
@@ -642,7 +642,7 @@
     {
       "source": "https://vk.com/public200835009",
       "community": "МОУ \"Лицей №4\" г.Саранск",
-      "latest_post_id": 5272,
+      "latest_post_id": 5273,
       "fetched": 20
     },
     {
@@ -678,7 +678,7 @@
     {
       "source": "https://vk.com/public129692291",
       "community": "МОУ \"Средняя общеобразовательная школа №28\"",
-      "latest_post_id": 8640,
+      "latest_post_id": 8641,
       "fetched": 20
     },
     {
@@ -725,8 +725,8 @@
     },
     {
       "source": "https://vk.com/club526150",
-      "community": "МОУ «Школа № 30» г. Саранск Республика Мордовия",
-      "latest_post_id": 6594,
+      "community": "Разговоры о важном",
+      "latest_post_id": 6597,
       "fetched": 20
     },
     {
@@ -749,14 +749,14 @@
     },
     {
       "source": "https://vk.com/club206918978",
-      "community": "Николаевская школа | Саранск",
-      "latest_post_id": 8266,
+      "community": "Разговоры о важном",
+      "latest_post_id": 8269,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club95243821",
       "community": "Мордва ZAнаших!",
-      "latest_post_id": 11543,
+      "latest_post_id": 11546,
       "fetched": 20
     },
     {
@@ -798,7 +798,7 @@
     {
       "source": "https://vk.com/club175038308",
       "community": "Школа №39 | Саранск",
-      "latest_post_id": 11541,
+      "latest_post_id": 11542,
       "fetched": 20
     }
   ],
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 7,
+  "new_posts": 14,
   "mirrored_photos": 4,
-  "published_photos": 331,
+  "published_photos": 324,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
