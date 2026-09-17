@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-17T12:29:45.821757Z",
+  "checked_at": "2026-09-17T13:25:28.550088Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -102,7 +102,7 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 170708,
+      "latest_post_id": 170738,
       "fetched": 20
     },
     {
@@ -216,7 +216,7 @@
     {
       "source": "https://vk.com/public202707820",
       "community": "МАДОУ \"Детский сад № 104 комбинированного вида\"",
-      "latest_post_id": 4811,
+      "latest_post_id": 4813,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 67517,
+      "latest_post_id": 67580,
       "fetched": 20
     },
     {
@@ -288,7 +288,7 @@
     {
       "source": "https://vk.com/public203694036",
       "community": "МАДОУ \"Центр развития ребенка - детский сад №46\"",
-      "latest_post_id": 6002,
+      "latest_post_id": 6004,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 9,
-  "mirrored_photos": 6,
-  "published_photos": 290,
+  "new_posts": 6,
+  "mirrored_photos": 5,
+  "published_photos": 285,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
