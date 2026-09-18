@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-18T06:28:52.445065Z",
+  "checked_at": "2026-09-18T07:24:09.500758Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -23,14 +23,14 @@
     },
     {
       "source": "https://vk.com/club181850079",
-      "community": "Разговоры о важном",
-      "latest_post_id": 4513,
+      "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
+      "latest_post_id": 4514,
       "fetched": 20
     },
     {
       "source": "https://vk.com/ipc_hgo_mlclass_fv_informatica",
       "community": "Ичалковский педагогический колледж",
-      "latest_post_id": 6463,
+      "latest_post_id": 6464,
       "fetched": 20
     },
     {
@@ -167,8 +167,8 @@
     },
     {
       "source": "https://vk.com/club103710305",
-      "community": "Разговоры о важном",
-      "latest_post_id": 4068,
+      "community": "МОУ \"Школа №27\" г. Саранск Республика Мордовия",
+      "latest_post_id": 4070,
       "fetched": 20
     },
     {
@@ -414,7 +414,7 @@
     {
       "source": "https://vk.com/club198991558",
       "community": "МДОУ \"Детский сад № 101\"",
-      "latest_post_id": 4738,
+      "latest_post_id": 4739,
       "fetched": 20
     },
     {
@@ -588,7 +588,7 @@
     {
       "source": "https://vk.com/club203390062",
       "community": "МДОУ\"Детский сад №86 комбинированного вида\"",
-      "latest_post_id": 2595,
+      "latest_post_id": 2596,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 4,
-  "mirrored_photos": 3,
-  "published_photos": 279,
+  "new_posts": 5,
+  "mirrored_photos": 4,
+  "published_photos": 283,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
