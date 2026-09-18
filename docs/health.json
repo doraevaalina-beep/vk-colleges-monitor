@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-18T05:22:38.761813Z",
+  "checked_at": "2026-09-18T06:28:52.445065Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -108,7 +108,7 @@
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 10794,
+      "latest_post_id": 10795,
       "fetched": 20
     },
     {
@@ -318,7 +318,7 @@
     {
       "source": "https://vk.com/public215650437",
       "community": "МАДОУ \"Центр развития ребёнка-детский сад №13\"",
-      "latest_post_id": 2008,
+      "latest_post_id": 2009,
       "fetched": 20
     },
     {
@@ -528,7 +528,7 @@
     {
       "source": "https://vk.com/public203695892",
       "community": "МДОУ \"Детский сад №78 комбинированного вида\"",
-      "latest_post_id": 2452,
+      "latest_post_id": 2453,
       "fetched": 20
     },
     {
@@ -630,7 +630,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14710,
+      "latest_post_id": 14711,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 3,
+  "new_posts": 4,
   "mirrored_photos": 3,
-  "published_photos": 288,
+  "published_photos": 279,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
