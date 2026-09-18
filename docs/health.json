@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-18T08:25:23.452351Z",
+  "checked_at": "2026-09-18T09:24:49.822282Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -12,13 +12,13 @@
     {
       "source": "https://vk.com/sst_rm",
       "community": "Саранский строительный техникум",
-      "latest_post_id": 14264,
+      "latest_post_id": 14265,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10517,
+      "latest_post_id": 10519,
       "fetched": 20
     },
     {
@@ -30,7 +30,7 @@
     {
       "source": "https://vk.com/ipc_hgo_mlclass_fv_informatica",
       "community": "Ичалковский педагогический колледж",
-      "latest_post_id": 6467,
+      "latest_post_id": 6470,
       "fetched": 20
     },
     {
@@ -42,19 +42,19 @@
     {
       "source": "https://vk.com/zppk_official",
       "community": "Зубово-Полянский педагогический колледж",
-      "latest_post_id": 4728,
+      "latest_post_id": 4729,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public80925441",
       "community": "Атяшевский аграрный техникум",
-      "latest_post_id": 1616,
+      "latest_post_id": 1617,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club202849242",
       "community": "СТЭиЭТ им. А.И. Полежаева",
-      "latest_post_id": 3646,
+      "latest_post_id": 3647,
       "fetched": 20
     },
     {
@@ -66,7 +66,7 @@
     {
       "source": "https://vk.com/gouspt",
       "community": "Саранский политехнический техникум",
-      "latest_post_id": 3805,
+      "latest_post_id": 3806,
       "fetched": 20
     },
     {
@@ -84,13 +84,13 @@
     {
       "source": "https://vk.com/club182790665",
       "community": "ГБПОУ РМ \"Зубово-Полянский аграрный техникум\"",
-      "latest_post_id": 2638,
+      "latest_post_id": 2640,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9524,
+      "latest_post_id": 9529,
       "fetched": 20
     },
     {
@@ -102,19 +102,19 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 170741,
+      "latest_post_id": 170761,
       "fetched": 20
     },
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 10795,
+      "latest_post_id": 10796,
       "fetched": 20
     },
     {
       "source": "https://vk.com/technical_ait",
       "community": "ГБПОУ РМ Алексеевский индустриальный техникум\"",
-      "latest_post_id": 2275,
+      "latest_post_id": 2276,
       "fetched": 20
     },
     {
@@ -198,7 +198,7 @@
     {
       "source": "https://vk.com/public210281686",
       "community": "МАДОУ  «Детский сад № 18»",
-      "latest_post_id": 2635,
+      "latest_post_id": 2636,
       "fetched": 20
     },
     {
@@ -282,13 +282,13 @@
     {
       "source": "https://vk.com/public190278465",
       "community": "МАДОУ \"Центр развития ребёнка - детский сад №3\"",
-      "latest_post_id": 12031,
+      "latest_post_id": 12036,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public203694036",
       "community": "МАДОУ \"Центр развития ребенка - детский сад №46\"",
-      "latest_post_id": 6004,
+      "latest_post_id": 6005,
       "fetched": 20
     },
     {
@@ -396,7 +396,7 @@
     {
       "source": "https://vk.com/club203700958",
       "community": "МДОУ \"Детский сад 127 комбинированного вида\"",
-      "latest_post_id": 2166,
+      "latest_post_id": 2167,
       "fetched": 20
     },
     {
@@ -756,7 +756,7 @@
     {
       "source": "https://vk.com/club95243821",
       "community": "Мордва ZAнаших!",
-      "latest_post_id": 11550,
+      "latest_post_id": 11551,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 10,
-  "mirrored_photos": 10,
-  "published_photos": 288,
+  "new_posts": 19,
+  "mirrored_photos": 7,
+  "published_photos": 282,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
