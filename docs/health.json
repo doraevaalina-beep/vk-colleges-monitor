@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-18T15:23:56.751360Z",
+  "checked_at": "2026-09-18T16:22:56.288357Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -23,14 +23,14 @@
     },
     {
       "source": "https://vk.com/club181850079",
-      "community": "Навигаторы детства|Ардатовский район",
-      "latest_post_id": 4516,
+      "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
+      "latest_post_id": 4517,
       "fetched": 20
     },
     {
       "source": "https://vk.com/ipc_hgo_mlclass_fv_informatica",
       "community": "Ичалковский педагогический колледж",
-      "latest_post_id": 6472,
+      "latest_post_id": 6475,
       "fetched": 20
     },
     {
@@ -216,7 +216,7 @@
     {
       "source": "https://vk.com/public202707820",
       "community": "МАДОУ \"Детский сад № 104 комбинированного вида\"",
-      "latest_post_id": 4815,
+      "latest_post_id": 4817,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 67967,
+      "latest_post_id": 67975,
       "fetched": 20
     },
     {
@@ -504,7 +504,7 @@
     {
       "source": "https://vk.com/public209741486",
       "community": "МДОУ \"Детский сад №65 комбинированного вида\"",
-      "latest_post_id": 2308,
+      "latest_post_id": 2309,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 7,
+  "new_posts": 6,
   "mirrored_photos": 4,
-  "published_photos": 288,
+  "published_photos": 289,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
