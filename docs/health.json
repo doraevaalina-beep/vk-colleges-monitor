@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-18T12:28:13.550938Z",
+  "checked_at": "2026-09-18T13:23:19.598476Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -108,7 +108,7 @@
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 10796,
+      "latest_post_id": 10798,
       "fetched": 20
     },
     {
@@ -179,8 +179,8 @@
     },
     {
       "source": "https://vk.com/public144012777",
-      "community": "Школа Настоящих",
-      "latest_post_id": 6663,
+      "community": "Лицей №43, г. Саранск",
+      "latest_post_id": 6664,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 67858,
+      "latest_post_id": 67884,
       "fetched": 20
     },
     {
@@ -288,7 +288,7 @@
     {
       "source": "https://vk.com/public203694036",
       "community": "МАДОУ \"Центр развития ребенка - детский сад №46\"",
-      "latest_post_id": 6007,
+      "latest_post_id": 6010,
       "fetched": 20
     },
     {
@@ -593,8 +593,8 @@
     },
     {
       "source": "https://vk.com/club166487726",
-      "community": "Разговоры о важном",
-      "latest_post_id": 6814,
+      "community": "Гимназия № 12 | Саранск",
+      "latest_post_id": 6820,
       "fetched": 20
     },
     {
@@ -708,7 +708,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 39780,
+      "latest_post_id": 39784,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 59,
-  "mirrored_photos": 8,
-  "published_photos": 286,
+  "new_posts": 10,
+  "mirrored_photos": 9,
+  "published_photos": 290,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
