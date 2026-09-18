@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-18T14:24:03.778477Z",
+  "checked_at": "2026-09-18T15:23:56.751360Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -23,8 +23,8 @@
     },
     {
       "source": "https://vk.com/club181850079",
-      "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4515,
+      "community": "Навигаторы детства|Ардатовский район",
+      "latest_post_id": 4516,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 67921,
+      "latest_post_id": 67967,
       "fetched": 20
     },
     {
@@ -276,7 +276,7 @@
     {
       "source": "https://vk.com/public199029660",
       "community": "МАДОУ \"Центр развития ребенка - детский сад №10\"",
-      "latest_post_id": 2905,
+      "latest_post_id": 2907,
       "fetched": 20
     },
     {
@@ -564,7 +564,7 @@
     {
       "source": "https://vk.com/club190273034",
       "community": "МДОУ \"Детский сад №98\"",
-      "latest_post_id": 3716,
+      "latest_post_id": 3717,
       "fetched": 20
     },
     {
@@ -708,7 +708,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 39784,
+      "latest_post_id": 39787,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 11,
-  "mirrored_photos": 9,
-  "published_photos": 292,
+  "new_posts": 7,
+  "mirrored_photos": 4,
+  "published_photos": 288,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
