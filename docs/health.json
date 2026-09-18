@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-18T16:22:56.288357Z",
+  "checked_at": "2026-09-18T17:21:08.075640Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -30,7 +30,7 @@
     {
       "source": "https://vk.com/ipc_hgo_mlclass_fv_informatica",
       "community": "Ичалковский педагогический колледж",
-      "latest_post_id": 6475,
+      "latest_post_id": 6476,
       "fetched": 20
     },
     {
@@ -180,7 +180,7 @@
     {
       "source": "https://vk.com/public144012777",
       "community": "Лицей №43, г. Саранск",
-      "latest_post_id": 6667,
+      "latest_post_id": 6670,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 67975,
+      "latest_post_id": 68016,
       "fetched": 20
     },
     {
@@ -522,7 +522,7 @@
     {
       "source": "https://vk.com/club209729369",
       "community": "МДОУ \"Детский сад №71\"",
-      "latest_post_id": 2696,
+      "latest_post_id": 2697,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 6,
+  "new_posts": 5,
   "mirrored_photos": 4,
-  "published_photos": 289,
+  "published_photos": 287,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
