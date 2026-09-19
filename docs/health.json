@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-19T10:22:29.773743Z",
+  "checked_at": "2026-09-19T11:21:43.940149Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -48,7 +48,7 @@
     {
       "source": "https://vk.com/public80925441",
       "community": "Атяшевский аграрный техникум",
-      "latest_post_id": 1618,
+      "latest_post_id": 1619,
       "fetched": 20
     },
     {
@@ -114,13 +114,13 @@
     {
       "source": "https://vk.com/technical_ait",
       "community": "ГБПОУ РМ Алексеевский индустриальный техникум\"",
-      "latest_post_id": 2276,
+      "latest_post_id": 2277,
       "fetched": 20
     },
     {
       "source": "https://vk.com/kaskrm",
       "community": "Ковылкинский аграрно-строительный колледж",
-      "latest_post_id": 15386,
+      "latest_post_id": 15453,
       "fetched": 20
     },
     {
@@ -180,7 +180,7 @@
     {
       "source": "https://vk.com/public144012777",
       "community": "Лицей №43, г. Саранск",
-      "latest_post_id": 6670,
+      "latest_post_id": 6671,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 68088,
+      "latest_post_id": 68142,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 4,
-  "mirrored_photos": 2,
-  "published_photos": 291,
+  "new_posts": 5,
+  "mirrored_photos": 3,
+  "published_photos": 283,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
