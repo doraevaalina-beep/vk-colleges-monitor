@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-19T16:23:10.625914Z",
+  "checked_at": "2026-09-19T17:21:01.863092Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -174,13 +174,13 @@
     {
       "source": "https://vk.com/public216577930",
       "community": "Гимназия №19 | г. Саранск",
-      "latest_post_id": 3328,
+      "latest_post_id": 3329,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public144012777",
       "community": "Лицей №43, г. Саранск",
-      "latest_post_id": 6675,
+      "latest_post_id": 6676,
       "fetched": 20
     },
     {
@@ -270,7 +270,7 @@
     {
       "source": "https://vk.com/public203690288",
       "community": "МАДОУ \"Центр развития ребенка - детский сад № 9\"",
-      "latest_post_id": 4873,
+      "latest_post_id": 4876,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 0,
-  "mirrored_photos": 0,
-  "published_photos": 252,
+  "new_posts": 3,
+  "mirrored_photos": 3,
+  "published_photos": 248,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
