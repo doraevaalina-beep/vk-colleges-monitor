@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-19T18:24:48.653726Z",
+  "checked_at": "2026-09-19T19:19:51.133198Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -30,7 +30,7 @@
     {
       "source": "https://vk.com/ipc_hgo_mlclass_fv_informatica",
       "community": "Ичалковский педагогический колледж",
-      "latest_post_id": 6480,
+      "latest_post_id": 6481,
       "fetched": 20
     },
     {
@@ -90,7 +90,7 @@
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9535,
+      "latest_post_id": 9537,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 1,
+  "new_posts": 2,
   "mirrored_photos": 1,
-  "published_photos": 247,
+  "published_photos": 248,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
