@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-19T12:27:16.664937Z",
+  "checked_at": "2026-09-19T13:22:40.809187Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -180,7 +180,7 @@
     {
       "source": "https://vk.com/public144012777",
       "community": "Лицей №43, г. Саранск",
-      "latest_post_id": 6671,
+      "latest_post_id": 6675,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 3,
-  "mirrored_photos": 3,
-  "published_photos": 275,
+  "new_posts": 2,
+  "mirrored_photos": 2,
+  "published_photos": 263,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
