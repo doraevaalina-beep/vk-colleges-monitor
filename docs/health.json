@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-19T08:24:22.496287Z",
+  "checked_at": "2026-09-19T09:22:58.550871Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -48,7 +48,7 @@
     {
       "source": "https://vk.com/public80925441",
       "community": "Атяшевский аграрный техникум",
-      "latest_post_id": 1617,
+      "latest_post_id": 1618,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 5,
-  "mirrored_photos": 5,
-  "published_photos": 297,
+  "new_posts": 1,
+  "mirrored_photos": 0,
+  "published_photos": 289,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
