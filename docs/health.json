@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-20T07:22:25.774131Z",
+  "checked_at": "2026-09-20T08:24:12.340830Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 68295,
+      "latest_post_id": 68302,
       "fetched": 20
     },
     {
@@ -486,7 +486,7 @@
     {
       "source": "https://vk.com/club194961488",
       "community": "МДОУ \"Детский сад №40\" г.о. Саранск",
-      "latest_post_id": 1594,
+      "latest_post_id": 1595,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 3,
-  "mirrored_photos": 2,
-  "published_photos": 245,
+  "new_posts": 4,
+  "mirrored_photos": 4,
+  "published_photos": 237,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
