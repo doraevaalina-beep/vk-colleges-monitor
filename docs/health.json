@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-20T15:22:12.161773Z",
+  "checked_at": "2026-09-20T16:23:30.731522Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -534,7 +534,7 @@
     {
       "source": "https://vk.com/public203712659",
       "community": "МДОУ \"Детский сад №79 комбинированного вида\"",
-      "latest_post_id": 3842,
+      "latest_post_id": 3844,
       "fetched": 20
     },
     {
@@ -714,7 +714,7 @@
     {
       "source": "https://vk.com/public171854359",
       "community": "МОУ «СОШ №22»",
-      "latest_post_id": 8638,
+      "latest_post_id": 8644,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 0,
-  "mirrored_photos": 0,
-  "published_photos": 199,
+  "new_posts": 2,
+  "mirrored_photos": 2,
+  "published_photos": 183,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
