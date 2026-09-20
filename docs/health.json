@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-20T10:22:39.278990Z",
+  "checked_at": "2026-09-20T11:22:01.565538Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -611,8 +611,8 @@
     },
     {
       "source": "https://vk.com/public195117146",
-      "community": "МОУ \"Ялгинская СОШ\" корпус 2 г.о.Саранск",
-      "latest_post_id": 3735,
+      "community": "Минкультнац Республики Мордовия",
+      "latest_post_id": 3738,
       "fetched": 20
     },
     {
@@ -780,7 +780,7 @@
     {
       "source": "https://vk.com/club205295806",
       "community": "Структурное подразделение \"Детский сад №16 \"",
-      "latest_post_id": 1413,
+      "latest_post_id": 1414,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 1,
+  "new_posts": 2,
   "mirrored_photos": 1,
-  "published_photos": 226,
+  "published_photos": 214,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
