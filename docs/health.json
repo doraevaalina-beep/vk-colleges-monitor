@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-20T05:22:26.398007Z",
+  "checked_at": "2026-09-20T06:27:41.187639Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -84,7 +84,7 @@
     {
       "source": "https://vk.com/club182790665",
       "community": "ГБПОУ РМ \"Зубово-Полянский аграрный техникум\"",
-      "latest_post_id": 2642,
+      "latest_post_id": 2644,
       "fetched": 20
     },
     {
@@ -108,7 +108,7 @@
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 10803,
+      "latest_post_id": 10809,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 68285,
+      "latest_post_id": 68295,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 6,
-  "mirrored_photos": 5,
-  "published_photos": 244,
+  "new_posts": 3,
+  "mirrored_photos": 3,
+  "published_photos": 247,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
