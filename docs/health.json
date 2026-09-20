@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-20T12:27:17.798168Z",
+  "checked_at": "2026-09-20T13:22:31.313301Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -186,7 +186,7 @@
     {
       "source": "https://vk.com/club9874035",
       "community": "Лыжно-биатлонный комплекс. Федерация биатлона РМ",
-      "latest_post_id": 4524,
+      "latest_post_id": 4527,
       "fetched": 20
     },
     {
@@ -817,8 +817,8 @@
     }
   ],
   "new_posts": 1,
-  "mirrored_photos": 0,
-  "published_photos": 208,
+  "mirrored_photos": 1,
+  "published_photos": 204,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
