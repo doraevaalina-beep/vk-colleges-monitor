@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-20T13:22:31.313301Z",
+  "checked_at": "2026-09-20T14:22:13.981569Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 68302,
+      "latest_post_id": 68362,
       "fetched": 20
     },
     {
@@ -629,8 +629,8 @@
     },
     {
       "source": "https://vk.com/club129705914",
-      "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14714,
+      "community": "Институт воспитания | ФГБНУ ИИДСВ",
+      "latest_post_id": 14718,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 1,
+  "new_posts": 2,
   "mirrored_photos": 1,
-  "published_photos": 204,
+  "published_photos": 205,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
