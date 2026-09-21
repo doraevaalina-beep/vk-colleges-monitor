@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-21T12:27:27.969410Z",
+  "checked_at": "2026-09-21T13:24:35.349029Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -78,7 +78,7 @@
     {
       "source": "https://vk.com/stppp_professionalitet",
       "community": "Саранский техникум пищевой промышленности",
-      "latest_post_id": 4699,
+      "latest_post_id": 4701,
       "fetched": 20
     },
     {
@@ -102,7 +102,7 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 170823,
+      "latest_post_id": 170826,
       "fetched": 20
     },
     {
@@ -114,7 +114,7 @@
     {
       "source": "https://vk.com/technical_ait",
       "community": "ГБПОУ РМ Алексеевский индустриальный техникум\"",
-      "latest_post_id": 2278,
+      "latest_post_id": 2281,
       "fetched": 20
     },
     {
@@ -180,7 +180,7 @@
     {
       "source": "https://vk.com/public144012777",
       "community": "Лицей №43, г. Саранск",
-      "latest_post_id": 6678,
+      "latest_post_id": 6680,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 68500,
+      "latest_post_id": 68559,
       "fetched": 20
     },
     {
@@ -318,7 +318,7 @@
     {
       "source": "https://vk.com/public215650437",
       "community": "МАДОУ \"Центр развития ребёнка-детский сад №13\"",
-      "latest_post_id": 2011,
+      "latest_post_id": 2012,
       "fetched": 20
     },
     {
@@ -330,7 +330,7 @@
     {
       "source": "https://vk.com/public202712770",
       "community": "МАДОУ «Центр развития ребёнка - детский сад №6»",
-      "latest_post_id": 4787,
+      "latest_post_id": 4792,
       "fetched": 20
     },
     {
@@ -396,7 +396,7 @@
     {
       "source": "https://vk.com/club203700958",
       "community": "МДОУ \"Детский сад 127 комбинированного вида\"",
-      "latest_post_id": 2175,
+      "latest_post_id": 2176,
       "fetched": 20
     },
     {
@@ -594,7 +594,7 @@
     {
       "source": "https://vk.com/club166487726",
       "community": "Гимназия № 12 | Саранск",
-      "latest_post_id": 6821,
+      "latest_post_id": 6822,
       "fetched": 20
     },
     {
@@ -618,7 +618,7 @@
     {
       "source": "https://vk.com/club351497",
       "community": "МОУ \"Лицей № 7\"",
-      "latest_post_id": 15451,
+      "latest_post_id": 15454,
       "fetched": 20
     },
     {
@@ -629,8 +629,8 @@
     },
     {
       "source": "https://vk.com/club129705914",
-      "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14728,
+      "community": "Республиканский центр | Патриоты Мордовии",
+      "latest_post_id": 14732,
       "fetched": 20
     },
     {
@@ -714,7 +714,7 @@
     {
       "source": "https://vk.com/public171854359",
       "community": "МОУ «СОШ №22»",
-      "latest_post_id": 8647,
+      "latest_post_id": 8648,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 16,
-  "mirrored_photos": 13,
-  "published_photos": 209,
+  "new_posts": 14,
+  "mirrored_photos": 12,
+  "published_photos": 212,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
