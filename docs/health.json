@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-21T07:26:10.895518Z",
+  "checked_at": "2026-09-21T08:26:02.372430Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -162,7 +162,7 @@
     {
       "source": "https://vk.com/club129703276",
       "community": "Средняя школа №35 | Саранск",
-      "latest_post_id": 11594,
+      "latest_post_id": 11599,
       "fetched": 20
     },
     {
@@ -342,13 +342,13 @@
     {
       "source": "https://vk.com/public215671212",
       "community": "МАОУ \"Прогимназия № 119\" г.Саранск",
-      "latest_post_id": 1639,
+      "latest_post_id": 1640,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club174792280",
       "community": "МАОУ \"СОШ №10\"",
-      "latest_post_id": 8257,
+      "latest_post_id": 8258,
       "fetched": 20
     },
     {
@@ -528,7 +528,7 @@
     {
       "source": "https://vk.com/public203695892",
       "community": "МДОУ \"Детский сад №78 комбинированного вида\"",
-      "latest_post_id": 2455,
+      "latest_post_id": 2456,
       "fetched": 20
     },
     {
@@ -558,7 +558,7 @@
     {
       "source": "https://vk.com/club201164476",
       "community": "МДОУ \"Детский сад №97 комбинированного вида\"",
-      "latest_post_id": 5512,
+      "latest_post_id": 5513,
       "fetched": 20
     },
     {
@@ -600,7 +600,7 @@
     {
       "source": "https://vk.com/club819936",
       "community": "МОУ \"Гимназия № 23\" г. о. Саранск",
-      "latest_post_id": 11064,
+      "latest_post_id": 11067,
       "fetched": 20
     },
     {
@@ -666,19 +666,19 @@
     {
       "source": "https://vk.com/public92799833",
       "community": "МОУ \"Средняя школа №33\"",
-      "latest_post_id": 7649,
+      "latest_post_id": 7650,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club166449275",
       "community": "Школа №9 | г.Саранск",
-      "latest_post_id": 8263,
+      "latest_post_id": 8264,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public129692291",
       "community": "МОУ \"Средняя общеобразовательная школа №28\"",
-      "latest_post_id": 8643,
+      "latest_post_id": 8647,
       "fetched": 20
     },
     {
@@ -690,7 +690,7 @@
     {
       "source": "https://vk.com/public203691909",
       "community": "МОУ \"Средняя школа №37\"",
-      "latest_post_id": 5480,
+      "latest_post_id": 5481,
       "fetched": 20
     },
     {
@@ -720,13 +720,13 @@
     {
       "source": "https://vk.com/public164250189",
       "community": "Школа №24| Саранск",
-      "latest_post_id": 5071,
+      "latest_post_id": 5072,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club526150",
       "community": "МОУ «Школа № 30» г. Саранск Республика Мордовия",
-      "latest_post_id": 6602,
+      "latest_post_id": 6603,
       "fetched": 20
     },
     {
@@ -756,7 +756,7 @@
     {
       "source": "https://vk.com/club95243821",
       "community": "Мордва ZAнаших!",
-      "latest_post_id": 11555,
+      "latest_post_id": 11556,
       "fetched": 20
     },
     {
@@ -780,7 +780,7 @@
     {
       "source": "https://vk.com/club205295806",
       "community": "Структурное подразделение \"Детский сад №16 \"",
-      "latest_post_id": 1414,
+      "latest_post_id": 1415,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 7,
-  "mirrored_photos": 6,
-  "published_photos": 181,
+  "new_posts": 14,
+  "mirrored_photos": 14,
+  "published_photos": 185,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
