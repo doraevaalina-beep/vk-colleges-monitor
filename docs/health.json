@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-21T15:22:49.857552Z",
+  "checked_at": "2026-09-21T16:25:33.581263Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -30,7 +30,7 @@
     {
       "source": "https://vk.com/ipc_hgo_mlclass_fv_informatica",
       "community": "Ичалковский педагогический колледж",
-      "latest_post_id": 6484,
+      "latest_post_id": 6485,
       "fetched": 20
     },
     {
@@ -72,7 +72,7 @@
     {
       "source": "https://vk.com/public198480547",
       "community": "Инсарский аграрный техникум",
-      "latest_post_id": 2065,
+      "latest_post_id": 2066,
       "fetched": 20
     },
     {
@@ -257,8 +257,8 @@
     },
     {
       "source": "https://vk.com/public200569622",
-      "community": "МАДОУ \"ЦРР - детский сад №4\"",
-      "latest_post_id": 9524,
+      "community": "Как Маме вернуть Себя, ресурс и гармонию в жизни",
+      "latest_post_id": 9527,
       "fetched": 20
     },
     {
@@ -306,7 +306,7 @@
     {
       "source": "https://vk.com/public215649429",
       "community": "МАДОУ \"Центр развития ребёнка- детский сад № 14\"",
-      "latest_post_id": 2301,
+      "latest_post_id": 2300,
       "fetched": 20
     },
     {
@@ -629,8 +629,8 @@
     },
     {
       "source": "https://vk.com/club129705914",
-      "community": "Республиканский центр | Патриоты Мордовии",
-      "latest_post_id": 14732,
+      "community": "ГТРК \"Мордовия\"",
+      "latest_post_id": 14735,
       "fetched": 20
     },
     {
@@ -648,7 +648,7 @@
     {
       "source": "https://vk.com/club154276223",
       "community": "МОУ \"Луховский лицей\"",
-      "latest_post_id": 5278,
+      "latest_post_id": 5279,
       "fetched": 20
     },
     {
@@ -696,7 +696,7 @@
     {
       "source": "https://vk.com/public215663353",
       "community": "МОУ \"Средняя школа №5\" Саранск",
-      "latest_post_id": 5194,
+      "latest_post_id": 5196,
       "fetched": 20
     },
     {
@@ -816,8 +816,8 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 9,
-  "mirrored_photos": 9,
+  "new_posts": 6,
+  "mirrored_photos": 4,
   "published_photos": 221,
   "image_errors": [],
   "built_visuals": 0,
