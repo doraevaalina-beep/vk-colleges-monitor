@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-21T20:23:39.992460Z",
+  "checked_at": "2026-09-21T21:23:12.323634Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -306,7 +306,7 @@
     {
       "source": "https://vk.com/public215649429",
       "community": "МАДОУ \"Центр развития ребёнка- детский сад № 14\"",
-      "latest_post_id": 2300,
+      "latest_post_id": 2305,
       "fetched": 20
     },
     {
@@ -390,7 +390,7 @@
     {
       "source": "https://vk.com/public215650109",
       "community": "МДОУ \"Детский сад 115\"",
-      "latest_post_id": 673,
+      "latest_post_id": 674,
       "fetched": 20
     },
     {
@@ -818,7 +818,7 @@
   ],
   "new_posts": 2,
   "mirrored_photos": 2,
-  "published_photos": 231,
+  "published_photos": 232,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
