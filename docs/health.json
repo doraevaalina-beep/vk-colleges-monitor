@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-21T16:25:33.581263Z",
+  "checked_at": "2026-09-21T17:20:59.968444Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -18,7 +18,7 @@
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10531,
+      "latest_post_id": 10534,
       "fetched": 20
     },
     {
@@ -90,7 +90,7 @@
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9537,
+      "latest_post_id": 9541,
       "fetched": 20
     },
     {
@@ -156,7 +156,7 @@
     {
       "source": "https://vk.com/public166423723",
       "community": "МОУ \"Средняя школа № 41\"",
-      "latest_post_id": 2939,
+      "latest_post_id": 2941,
       "fetched": 20
     },
     {
@@ -696,7 +696,7 @@
     {
       "source": "https://vk.com/public215663353",
       "community": "МОУ \"Средняя школа №5\" Саранск",
-      "latest_post_id": 5196,
+      "latest_post_id": 5202,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 6,
-  "mirrored_photos": 4,
-  "published_photos": 221,
+  "new_posts": 8,
+  "mirrored_photos": 8,
+  "published_photos": 225,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
