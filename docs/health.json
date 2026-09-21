@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-21T06:31:29.661304Z",
+  "checked_at": "2026-09-21T07:26:10.895518Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -306,7 +306,7 @@
     {
       "source": "https://vk.com/public215649429",
       "community": "МАДОУ \"Центр развития ребёнка- детский сад № 14\"",
-      "latest_post_id": 2298,
+      "latest_post_id": 2300,
       "fetched": 20
     },
     {
@@ -444,7 +444,7 @@
     {
       "source": "https://vk.com/public202722758",
       "community": "МДОУ \"Детский сад №122 комбинированного вида\"",
-      "latest_post_id": 4696,
+      "latest_post_id": 4697,
       "fetched": 20
     },
     {
@@ -630,7 +630,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14722,
+      "latest_post_id": 14723,
       "fetched": 20
     },
     {
@@ -690,7 +690,7 @@
     {
       "source": "https://vk.com/public203691909",
       "community": "МОУ \"Средняя школа №37\"",
-      "latest_post_id": 5478,
+      "latest_post_id": 5480,
       "fetched": 20
     },
     {
@@ -720,13 +720,13 @@
     {
       "source": "https://vk.com/public164250189",
       "community": "Школа №24| Саранск",
-      "latest_post_id": 5070,
+      "latest_post_id": 5071,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club526150",
       "community": "МОУ «Школа № 30» г. Саранск Республика Мордовия",
-      "latest_post_id": 6601,
+      "latest_post_id": 6602,
       "fetched": 20
     },
     {
@@ -798,7 +798,7 @@
     {
       "source": "https://vk.com/club175038308",
       "community": "Школа №39 | Саранск",
-      "latest_post_id": 11549,
+      "latest_post_id": 11550,
       "fetched": 20
     }
   ],
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 14,
-  "mirrored_photos": 13,
-  "published_photos": 179,
+  "new_posts": 7,
+  "mirrored_photos": 6,
+  "published_photos": 181,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
