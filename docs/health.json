@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-21T13:24:35.349029Z",
+  "checked_at": "2026-09-21T14:24:59.859175Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -54,19 +54,19 @@
     {
       "source": "https://vk.com/club202849242",
       "community": "СТЭиЭТ им. А.И. Полежаева",
-      "latest_post_id": 3649,
+      "latest_post_id": 3650,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 77083,
+      "latest_post_id": 77102,
       "fetched": 20
     },
     {
       "source": "https://vk.com/gouspt",
       "community": "Саранский политехнический техникум",
-      "latest_post_id": 3809,
+      "latest_post_id": 3815,
       "fetched": 20
     },
     {
@@ -222,7 +222,7 @@
     {
       "source": "https://vk.com/public215721033",
       "community": "МАДОУ \"Детский сад № 36\" Г.О. Саранск",
-      "latest_post_id": 2761,
+      "latest_post_id": 2762,
       "fetched": 20
     },
     {
@@ -258,7 +258,7 @@
     {
       "source": "https://vk.com/public200569622",
       "community": "МАДОУ \"ЦРР - детский сад №4\"",
-      "latest_post_id": 9523,
+      "latest_post_id": 9524,
       "fetched": 20
     },
     {
@@ -288,7 +288,7 @@
     {
       "source": "https://vk.com/public203694036",
       "community": "МАДОУ \"Центр развития ребенка - детский сад №46\"",
-      "latest_post_id": 6014,
+      "latest_post_id": 6016,
       "fetched": 20
     },
     {
@@ -342,13 +342,13 @@
     {
       "source": "https://vk.com/public215671212",
       "community": "МАОУ \"Прогимназия № 119\" г.Саранск",
-      "latest_post_id": 1641,
+      "latest_post_id": 1642,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club174792280",
       "community": "МАОУ \"СОШ №10\"",
-      "latest_post_id": 8259,
+      "latest_post_id": 8260,
       "fetched": 20
     },
     {
@@ -396,13 +396,13 @@
     {
       "source": "https://vk.com/club203700958",
       "community": "МДОУ \"Детский сад 127 комбинированного вида\"",
-      "latest_post_id": 2176,
+      "latest_post_id": 2177,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public198735544",
       "community": "МДОУ \"Детский сад 29\"",
-      "latest_post_id": 3516,
+      "latest_post_id": 3518,
       "fetched": 20
     },
     {
@@ -707,8 +707,8 @@
     },
     {
       "source": "https://vk.com/public153117774",
-      "community": "Музей военного и трудового подвига",
-      "latest_post_id": 39838,
+      "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
+      "latest_post_id": 39842,
       "fetched": 20
     },
     {
@@ -817,8 +817,8 @@
     }
   ],
   "new_posts": 14,
-  "mirrored_photos": 12,
-  "published_photos": 212,
+  "mirrored_photos": 13,
+  "published_photos": 216,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
