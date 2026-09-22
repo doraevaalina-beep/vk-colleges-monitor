@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-09-22T12:28:56.580458Z",
+  "checked_at": "2026-09-22T13:25:41.551414Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
     {
       "source": "https://vk.com/samtrm",
       "community": "ГАПОУ РМ \"Саранский автомеханический техникум\"",
-      "latest_post_id": 12107,
+      "latest_post_id": 12108,
       "fetched": 20
     },
     {
@@ -23,8 +23,8 @@
     },
     {
       "source": "https://vk.com/club181850079",
-      "community": "Росдетцентр | РДЦ",
-      "latest_post_id": 4526,
+      "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
+      "latest_post_id": 4527,
       "fetched": 20
     },
     {
@@ -42,13 +42,13 @@
     {
       "source": "https://vk.com/zppk_official",
       "community": "Зубово-Полянский педагогический колледж",
-      "latest_post_id": 4731,
+      "latest_post_id": 4732,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public80925441",
       "community": "Атяшевский аграрный техникум",
-      "latest_post_id": 1623,
+      "latest_post_id": 1624,
       "fetched": 20
     },
     {
@@ -84,7 +84,7 @@
     {
       "source": "https://vk.com/club182790665",
       "community": "ГБПОУ РМ \"Зубово-Полянский аграрный техникум\"",
-      "latest_post_id": 2652,
+      "latest_post_id": 2653,
       "fetched": 20
     },
     {
@@ -102,7 +102,7 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 170826,
+      "latest_post_id": 170855,
       "fetched": 20
     },
     {
@@ -186,7 +186,7 @@
     {
       "source": "https://vk.com/club9874035",
       "community": "Лыжно-биатлонный комплекс. Федерация биатлона РМ",
-      "latest_post_id": 4529,
+      "latest_post_id": 4530,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 68672,
+      "latest_post_id": 68727,
       "fetched": 20
     },
     {
@@ -502,6 +502,12 @@
       "fetched": 20
     },
     {
+      "source": "https://vk.com/public209741486",
+      "community": "МДОУ \"Детский сад №65 комбинированного вида\"",
+      "latest_post_id": 2316,
+      "fetched": 20
+    },
+    {
       "source": "https://vk.com/club209745196",
       "community": "МДОУ \"Детский сад №68\"",
       "latest_post_id": 1208,
@@ -534,7 +540,7 @@
     {
       "source": "https://vk.com/public203696837",
       "community": "МДОУ \"Детский сад №85 комбинированного вида\"",
-      "latest_post_id": 7533,
+      "latest_post_id": 7535,
       "fetched": 20
     },
     {
@@ -642,7 +648,7 @@
     {
       "source": "https://vk.com/club154276223",
       "community": "МОУ \"Луховский лицей\"",
-      "latest_post_id": 5280,
+      "latest_post_id": 5281,
       "fetched": 20
     },
     {
@@ -806,17 +812,13 @@
       "error": "VK error 15: Access denied: this wall available only for community members"
     },
     {
-      "source": "https://vk.com/public209741486",
-      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
-    },
-    {
       "source": "https://vk.com/club172415002",
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 11,
+  "new_posts": 14,
   "mirrored_photos": 11,
-  "published_photos": 285,
+  "published_photos": 294,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
