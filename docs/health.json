@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-22T04:24:07.056694Z",
+  "checked_at": "2026-09-22T05:23:17.196227Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -150,7 +150,7 @@
     {
       "source": "https://vk.com/public194762632",
       "community": "«Средняя школа № 36» Саранск",
-      "latest_post_id": 4904,
+      "latest_post_id": 4906,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 68667,
+      "latest_post_id": 68668,
       "fetched": 20
     },
     {
@@ -818,7 +818,7 @@
   ],
   "new_posts": 2,
   "mirrored_photos": 2,
-  "published_photos": 232,
+  "published_photos": 231,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
