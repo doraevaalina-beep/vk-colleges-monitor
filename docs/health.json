@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-22T03:24:26.231933Z",
+  "checked_at": "2026-09-22T04:24:07.056694Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 68644,
+      "latest_post_id": 68667,
       "fetched": 20
     },
     {
@@ -348,7 +348,7 @@
     {
       "source": "https://vk.com/club174792280",
       "community": "МАОУ \"СОШ №10\"",
-      "latest_post_id": 8260,
+      "latest_post_id": 8261,
       "fetched": 20
     },
     {
@@ -816,8 +816,8 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 1,
-  "mirrored_photos": 0,
+  "new_posts": 2,
+  "mirrored_photos": 2,
   "published_photos": 232,
   "image_errors": [],
   "built_visuals": 0,
