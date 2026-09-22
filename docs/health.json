@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-22T17:23:17.341012Z",
+  "checked_at": "2026-09-22T18:27:38.769088Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -174,7 +174,7 @@
     {
       "source": "https://vk.com/public216577930",
       "community": "Гимназия №19 | г. Саранск",
-      "latest_post_id": 3330,
+      "latest_post_id": 3331,
       "fetched": 20
     },
     {
@@ -270,7 +270,7 @@
     {
       "source": "https://vk.com/public203690288",
       "community": "МАДОУ \"Центр развития ребенка - детский сад № 9\"",
-      "latest_post_id": 4879,
+      "latest_post_id": 4881,
       "fetched": 20
     },
     {
@@ -324,7 +324,7 @@
     {
       "source": "https://vk.com/public215627488",
       "community": "МАДОУ «Центр развития ребенка - детский сад №90»",
-      "latest_post_id": 4722,
+      "latest_post_id": 4724,
       "fetched": 20
     },
     {
@@ -408,7 +408,7 @@
     {
       "source": "https://vk.com/public203706494",
       "community": "МДОУ \"Детский сад 99 комбинированного вида\"",
-      "latest_post_id": 8667,
+      "latest_post_id": 8670,
       "fetched": 20
     },
     {
@@ -696,7 +696,7 @@
     {
       "source": "https://vk.com/public215663353",
       "community": "МОУ \"Средняя школа №5\" Саранск",
-      "latest_post_id": 5209,
+      "latest_post_id": 5211,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 5,
-  "mirrored_photos": 3,
-  "published_photos": 309,
+  "new_posts": 6,
+  "mirrored_photos": 5,
+  "published_photos": 314,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
