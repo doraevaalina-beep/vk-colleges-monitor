@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-22T11:23:50.024977Z",
+  "checked_at": "2026-09-22T12:28:56.580458Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -18,7 +18,7 @@
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10534,
+      "latest_post_id": 10537,
       "fetched": 20
     },
     {
@@ -30,7 +30,7 @@
     {
       "source": "https://vk.com/ipc_hgo_mlclass_fv_informatica",
       "community": "Ичалковский педагогический колледж",
-      "latest_post_id": 6486,
+      "latest_post_id": 6487,
       "fetched": 20
     },
     {
@@ -108,7 +108,7 @@
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 10809,
+      "latest_post_id": 10811,
       "fetched": 20
     },
     {
@@ -132,7 +132,7 @@
     {
       "source": "https://vk.com/public207172998",
       "community": "#ПрямойЭфир «МОУ Озерная ООШ»",
-      "latest_post_id": 3092,
+      "latest_post_id": 3094,
       "fetched": 20
     },
     {
@@ -162,7 +162,7 @@
     {
       "source": "https://vk.com/club129703276",
       "community": "Средняя школа №35 | Саранск",
-      "latest_post_id": 11601,
+      "latest_post_id": 11603,
       "fetched": 20
     },
     {
@@ -502,12 +502,6 @@
       "fetched": 20
     },
     {
-      "source": "https://vk.com/public209741486",
-      "community": "МДОУ \"Детский сад №65 комбинированного вида\"",
-      "latest_post_id": 2315,
-      "fetched": 20
-    },
-    {
       "source": "https://vk.com/club209745196",
       "community": "МДОУ \"Детский сад №68\"",
       "latest_post_id": 1208,
@@ -648,7 +642,7 @@
     {
       "source": "https://vk.com/club154276223",
       "community": "МОУ \"Луховский лицей\"",
-      "latest_post_id": 5279,
+      "latest_post_id": 5280,
       "fetched": 20
     },
     {
@@ -672,7 +666,7 @@
     {
       "source": "https://vk.com/club166449275",
       "community": "Школа №9 | г.Саранск",
-      "latest_post_id": 8268,
+      "latest_post_id": 8269,
       "fetched": 20
     },
     {
@@ -780,7 +774,7 @@
     {
       "source": "https://vk.com/club205295806",
       "community": "Структурное подразделение \"Детский сад №16 \"",
-      "latest_post_id": 1420,
+      "latest_post_id": 1421,
       "fetched": 20
     },
     {
@@ -812,13 +806,17 @@
       "error": "VK error 15: Access denied: this wall available only for community members"
     },
     {
+      "source": "https://vk.com/public209741486",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
       "source": "https://vk.com/club172415002",
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 7,
-  "mirrored_photos": 7,
-  "published_photos": 277,
+  "new_posts": 11,
+  "mirrored_photos": 11,
+  "published_photos": 285,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
