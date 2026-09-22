@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-22T10:25:25.445649Z",
+  "checked_at": "2026-09-22T11:23:50.024977Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -126,7 +126,7 @@
     {
       "source": "https://vk.com/club34313558",
       "community": "ГБПОУ РМ \"Краснослободский аграрный техникум\"",
-      "latest_post_id": 3069,
+      "latest_post_id": 3070,
       "fetched": 20
     },
     {
@@ -198,7 +198,7 @@
     {
       "source": "https://vk.com/public210281686",
       "community": "МАДОУ  «Детский сад № 18»",
-      "latest_post_id": 2638,
+      "latest_post_id": 2639,
       "fetched": 20
     },
     {
@@ -257,8 +257,8 @@
     },
     {
       "source": "https://vk.com/public200569622",
-      "community": "Как Маме вернуть Себя, ресурс и гармонию в жизни",
-      "latest_post_id": 9527,
+      "community": "МАДОУ \"ЦРР - детский сад №4\"",
+      "latest_post_id": 9530,
       "fetched": 20
     },
     {
@@ -282,7 +282,7 @@
     {
       "source": "https://vk.com/public190278465",
       "community": "МАДОУ \"Центр развития ребёнка - детский сад №3\"",
-      "latest_post_id": 12100,
+      "latest_post_id": 12102,
       "fetched": 20
     },
     {
@@ -438,7 +438,7 @@
     {
       "source": "https://vk.com/public215652250",
       "community": "МДОУ \"Детский сад №116\" г.о. Саранск",
-      "latest_post_id": 1931,
+      "latest_post_id": 1932,
       "fetched": 20
     },
     {
@@ -714,7 +714,7 @@
     {
       "source": "https://vk.com/public171854359",
       "community": "МОУ «СОШ №22»",
-      "latest_post_id": 8649,
+      "latest_post_id": 8650,
       "fetched": 20
     },
     {
@@ -744,7 +744,7 @@
     {
       "source": "https://vk.com/public195089396",
       "community": "Гимназия 29",
-      "latest_post_id": 7488,
+      "latest_post_id": 7490,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 10,
-  "mirrored_photos": 8,
-  "published_photos": 273,
+  "new_posts": 7,
+  "mirrored_photos": 7,
+  "published_photos": 277,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
