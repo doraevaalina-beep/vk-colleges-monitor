@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-22T15:24:12.292743Z",
+  "checked_at": "2026-09-22T16:25:15.793934Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -60,13 +60,13 @@
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 77157,
+      "latest_post_id": 77178,
       "fetched": 20
     },
     {
       "source": "https://vk.com/gouspt",
-      "community": "Саранский политехнический техникум",
-      "latest_post_id": 3816,
+      "community": "НТМ || Народное Телевидение Мордовии",
+      "latest_post_id": 3817,
       "fetched": 20
     },
     {
@@ -156,7 +156,7 @@
     {
       "source": "https://vk.com/public166423723",
       "community": "МОУ \"Средняя школа № 41\"",
-      "latest_post_id": 2941,
+      "latest_post_id": 2942,
       "fetched": 20
     },
     {
@@ -666,7 +666,7 @@
     {
       "source": "https://vk.com/public92799833",
       "community": "МОУ \"Средняя школа №33\"",
-      "latest_post_id": 7651,
+      "latest_post_id": 7654,
       "fetched": 20
     },
     {
@@ -708,7 +708,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 39842,
+      "latest_post_id": 39907,
       "fetched": 20
     },
     {
@@ -774,7 +774,7 @@
     {
       "source": "https://vk.com/club48794793",
       "community": "Средняя общеобразовательная школа №1 г.о.Саранск",
-      "latest_post_id": 4571,
+      "latest_post_id": 4572,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 11,
-  "mirrored_photos": 10,
-  "published_photos": 302,
+  "new_posts": 8,
+  "mirrored_photos": 7,
+  "published_photos": 309,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
