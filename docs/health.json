@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-23T04:25:11.006398Z",
+  "checked_at": "2026-09-23T05:23:42.388912Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -18,7 +18,7 @@
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10538,
+      "latest_post_id": 10539,
       "fetched": 20
     },
     {
@@ -84,7 +84,7 @@
     {
       "source": "https://vk.com/club182790665",
       "community": "ГБПОУ РМ \"Зубово-Полянский аграрный техникум\"",
-      "latest_post_id": 2653,
+      "latest_post_id": 2655,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 68827,
+      "latest_post_id": 68828,
       "fetched": 20
     },
     {
@@ -282,7 +282,7 @@
     {
       "source": "https://vk.com/public190278465",
       "community": "МАДОУ \"Центр развития ребёнка - детский сад №3\"",
-      "latest_post_id": 12102,
+      "latest_post_id": 12114,
       "fetched": 20
     },
     {
@@ -558,7 +558,7 @@
     {
       "source": "https://vk.com/club201164476",
       "community": "МДОУ \"Детский сад №97 комбинированного вида\"",
-      "latest_post_id": 5516,
+      "latest_post_id": 5517,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 5,
-  "mirrored_photos": 5,
-  "published_photos": 318,
+  "new_posts": 10,
+  "mirrored_photos": 9,
+  "published_photos": 321,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
