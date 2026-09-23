@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-23T06:30:02.965052Z",
+  "checked_at": "2026-09-23T07:25:01.788871Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -36,7 +36,7 @@
     {
       "source": "https://vk.com/rjpt_baikuzova",
       "community": "ГБПОУ РМ  \"РТЖГТ им. А.П. Байкузова\"",
-      "latest_post_id": 2413,
+      "latest_post_id": 2414,
       "fetched": 20
     },
     {
@@ -186,7 +186,7 @@
     {
       "source": "https://vk.com/club9874035",
       "community": "Лыжно-биатлонный комплекс. Федерация биатлона РМ",
-      "latest_post_id": 4530,
+      "latest_post_id": 4535,
       "fetched": 20
     },
     {
@@ -258,7 +258,7 @@
     {
       "source": "https://vk.com/public200569622",
       "community": "МАДОУ \"ЦРР - детский сад №4\"",
-      "latest_post_id": 9530,
+      "latest_post_id": 9533,
       "fetched": 20
     },
     {
@@ -414,7 +414,7 @@
     {
       "source": "https://vk.com/club198991558",
       "community": "МДОУ \"Детский сад № 101\"",
-      "latest_post_id": 4742,
+      "latest_post_id": 4743,
       "fetched": 20
     },
     {
@@ -600,7 +600,7 @@
     {
       "source": "https://vk.com/club819936",
       "community": "МОУ \"Гимназия № 23\" г. о. Саранск",
-      "latest_post_id": 11070,
+      "latest_post_id": 11072,
       "fetched": 20
     },
     {
@@ -630,7 +630,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14736,
+      "latest_post_id": 14737,
       "fetched": 20
     },
     {
@@ -732,7 +732,7 @@
     {
       "source": "https://vk.com/public142331459",
       "community": "МОУ «Ялгинская СОШ» корпус 1 | Саранск",
-      "latest_post_id": 7160,
+      "latest_post_id": 7161,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 12,
-  "mirrored_photos": 10,
-  "published_photos": 328,
+  "new_posts": 8,
+  "mirrored_photos": 8,
+  "published_photos": 334,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
