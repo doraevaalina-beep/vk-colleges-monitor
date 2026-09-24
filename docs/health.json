@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-24T07:25:03.608845Z",
+  "checked_at": "2026-09-24T08:26:45.117731Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -156,7 +156,7 @@
     {
       "source": "https://vk.com/public166423723",
       "community": "МОУ \"Средняя школа № 41\"",
-      "latest_post_id": 2943,
+      "latest_post_id": 2944,
       "fetched": 20
     },
     {
@@ -186,7 +186,7 @@
     {
       "source": "https://vk.com/club9874035",
       "community": "Лыжно-биатлонный комплекс. Федерация биатлона РМ",
-      "latest_post_id": 4540,
+      "latest_post_id": 4541,
       "fetched": 20
     },
     {
@@ -240,7 +240,7 @@
     {
       "source": "https://vk.com/club192448163",
       "community": "МАДОУ \"Детский сад №59\"",
-      "latest_post_id": 3983,
+      "latest_post_id": 3986,
       "fetched": 20
     },
     {
@@ -576,7 +576,7 @@
     {
       "source": "https://vk.com/public212900662",
       "community": "МДОУ «Детский сад N83 комбинированного вида»",
-      "latest_post_id": 2645,
+      "latest_post_id": 2652,
       "fetched": 20
     },
     {
@@ -678,7 +678,7 @@
     {
       "source": "https://vk.com/public129692291",
       "community": "МОУ \"Средняя общеобразовательная школа №28\"",
-      "latest_post_id": 8657,
+      "latest_post_id": 8658,
       "fetched": 20
     },
     {
@@ -732,7 +732,7 @@
     {
       "source": "https://vk.com/public142331459",
       "community": "МОУ «Ялгинская СОШ» корпус 1 | Саранск",
-      "latest_post_id": 7164,
+      "latest_post_id": 7165,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 39,
-  "mirrored_photos": 12,
-  "published_photos": 467,
+  "new_posts": 11,
+  "mirrored_photos": 8,
+  "published_photos": 460,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
