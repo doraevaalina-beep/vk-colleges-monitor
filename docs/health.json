@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-24T05:23:50.610864Z",
+  "checked_at": "2026-09-24T06:29:59.262318Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -77,8 +77,8 @@
     },
     {
       "source": "https://vk.com/stppp_professionalitet",
-      "community": "Саранский техникум пищевой промышленности",
-      "latest_post_id": 4707,
+      "community": "Медиацентр СТППП «Фокус13»",
+      "latest_post_id": 4708,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 69010,
+      "latest_post_id": 69011,
       "fetched": 20
     },
     {
@@ -270,7 +270,7 @@
     {
       "source": "https://vk.com/public203690288",
       "community": "МАДОУ \"Центр развития ребенка - детский сад № 9\"",
-      "latest_post_id": 4884,
+      "latest_post_id": 4886,
       "fetched": 20
     },
     {
@@ -282,7 +282,7 @@
     {
       "source": "https://vk.com/public190278465",
       "community": "МАДОУ \"Центр развития ребёнка - детский сад №3\"",
-      "latest_post_id": 12139,
+      "latest_post_id": 12143,
       "fetched": 20
     },
     {
@@ -306,7 +306,7 @@
     {
       "source": "https://vk.com/public215649429",
       "community": "МАДОУ \"Центр развития ребёнка- детский сад № 14\"",
-      "latest_post_id": 2311,
+      "latest_post_id": 2313,
       "fetched": 20
     },
     {
@@ -450,7 +450,7 @@
     {
       "source": "https://vk.com/public215650649",
       "community": "МДОУ \"Детский сад №124 комбинированного вида\"",
-      "latest_post_id": 3405,
+      "latest_post_id": 3407,
       "fetched": 20
     },
     {
@@ -696,7 +696,7 @@
     {
       "source": "https://vk.com/public215663353",
       "community": "МОУ \"Средняя школа №5\" Саранск",
-      "latest_post_id": 5219,
+      "latest_post_id": 5220,
       "fetched": 20
     },
     {
@@ -738,7 +738,7 @@
     {
       "source": "https://vk.com/club186187361",
       "community": "МОУ СОШ №2 им.Героя Советского Союза П.И.Орлова",
-      "latest_post_id": 5621,
+      "latest_post_id": 5622,
       "fetched": 20
     },
     {
@@ -749,8 +749,8 @@
     },
     {
       "source": "https://vk.com/club206918978",
-      "community": "Первые МОУ \"Николаевская СОШ\" г.о. Саранск",
-      "latest_post_id": 8277,
+      "community": "Николаевская школа | Саранск",
+      "latest_post_id": 8278,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 11,
-  "mirrored_photos": 10,
-  "published_photos": 468,
+  "new_posts": 10,
+  "mirrored_photos": 7,
+  "published_photos": 461,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
