@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-24T13:26:16.251519Z",
+  "checked_at": "2026-09-24T14:26:14.721464Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -90,7 +90,7 @@
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9543,
+      "latest_post_id": 9547,
       "fetched": 20
     },
     {
@@ -102,7 +102,7 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 170933,
+      "latest_post_id": 170981,
       "fetched": 20
     },
     {
@@ -132,19 +132,19 @@
     {
       "source": "https://vk.com/public207172998",
       "community": "#ПрямойЭфир «МОУ Озерная ООШ»",
-      "latest_post_id": 3094,
+      "latest_post_id": 3096,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club59095536",
       "community": "МОУ \"Средняя школа №11\"",
-      "latest_post_id": 15095,
+      "latest_post_id": 15097,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club148125790",
       "community": "38tv - Новости",
-      "latest_post_id": 9478,
+      "latest_post_id": 9481,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 69054,
+      "latest_post_id": 69075,
       "fetched": 20
     },
     {
@@ -366,7 +366,7 @@
     {
       "source": "https://vk.com/public202711145",
       "community": "МДОУ \" Детский сад 5\", Саранск",
-      "latest_post_id": 2622,
+      "latest_post_id": 2624,
       "fetched": 20
     },
     {
@@ -408,7 +408,7 @@
     {
       "source": "https://vk.com/public203706494",
       "community": "МДОУ \"Детский сад 99 комбинированного вида\"",
-      "latest_post_id": 8677,
+      "latest_post_id": 8680,
       "fetched": 20
     },
     {
@@ -486,7 +486,7 @@
     {
       "source": "https://vk.com/club194961488",
       "community": "МДОУ \"Детский сад №40\" г.о. Саранск",
-      "latest_post_id": 1599,
+      "latest_post_id": 1600,
       "fetched": 20
     },
     {
@@ -534,13 +534,13 @@
     {
       "source": "https://vk.com/public203712659",
       "community": "МДОУ \"Детский сад №79 комбинированного вида\"",
-      "latest_post_id": 3850,
+      "latest_post_id": 3853,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public203696837",
       "community": "МДОУ \"Детский сад №85 комбинированного вида\"",
-      "latest_post_id": 7535,
+      "latest_post_id": 7537,
       "fetched": 20
     },
     {
@@ -678,7 +678,7 @@
     {
       "source": "https://vk.com/public129692291",
       "community": "МОУ \"Средняя общеобразовательная школа №28\"",
-      "latest_post_id": 8664,
+      "latest_post_id": 8665,
       "fetched": 20
     },
     {
@@ -708,7 +708,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 39944,
+      "latest_post_id": 39948,
       "fetched": 20
     },
     {
@@ -762,7 +762,7 @@
     {
       "source": "https://vk.com/club153457218",
       "community": "Средняя школа №40 | Саранск",
-      "latest_post_id": 11792,
+      "latest_post_id": 11793,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 19,
+  "new_posts": 21,
   "mirrored_photos": 17,
-  "published_photos": 474,
+  "published_photos": 478,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
