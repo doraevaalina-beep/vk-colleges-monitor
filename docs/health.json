@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-24T03:24:37.837561Z",
+  "checked_at": "2026-09-24T04:25:25.857241Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -126,7 +126,7 @@
     {
       "source": "https://vk.com/club34313558",
       "community": "ГБПОУ РМ \"Краснослободский аграрный техникум\"",
-      "latest_post_id": 3070,
+      "latest_post_id": 3071,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 68943,
+      "latest_post_id": 69007,
       "fetched": 20
     },
     {
@@ -312,7 +312,7 @@
     {
       "source": "https://vk.com/club203705834",
       "community": "МАДОУ \"Центр развития ребёнка-детский сад 8\"",
-      "latest_post_id": 1520,
+      "latest_post_id": 1519,
       "fetched": 20
     },
     {
@@ -629,8 +629,8 @@
     },
     {
       "source": "https://vk.com/club129705914",
-      "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14741,
+      "community": "Республика Мордовия",
+      "latest_post_id": 14742,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 2,
-  "mirrored_photos": 1,
-  "published_photos": 461,
+  "new_posts": 3,
+  "mirrored_photos": 2,
+  "published_photos": 462,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
