@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-24T15:26:04.682911Z",
+  "checked_at": "2026-09-24T16:26:39.753724Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -24,7 +24,7 @@
     {
       "source": "https://vk.com/club181850079",
       "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4528,
+      "latest_post_id": 4529,
       "fetched": 20
     },
     {
@@ -90,7 +90,7 @@
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9548,
+      "latest_post_id": 9549,
       "fetched": 20
     },
     {
@@ -288,7 +288,7 @@
     {
       "source": "https://vk.com/public203694036",
       "community": "МАДОУ \"Центр развития ребенка - детский сад №46\"",
-      "latest_post_id": 6023,
+      "latest_post_id": 6024,
       "fetched": 20
     },
     {
@@ -684,7 +684,7 @@
     {
       "source": "https://vk.com/public1571309",
       "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26205,
+      "latest_post_id": 26208,
       "fetched": 20
     },
     {
@@ -708,7 +708,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 39948,
+      "latest_post_id": 39954,
       "fetched": 20
     },
     {
@@ -749,8 +749,8 @@
     },
     {
       "source": "https://vk.com/club206918978",
-      "community": "Николаевская школа | Саранск",
-      "latest_post_id": 8278,
+      "community": "Первые МОУ \"Николаевская СОШ\" г.о. Саранск",
+      "latest_post_id": 8279,
       "fetched": 20
     },
     {
@@ -816,8 +816,8 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 8,
-  "mirrored_photos": 7,
+  "new_posts": 6,
+  "mirrored_photos": 5,
   "published_photos": 476,
   "image_errors": [],
   "built_visuals": 0,
