@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-24T18:27:36.360101Z",
+  "checked_at": "2026-09-24T19:22:49.220553Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -66,7 +66,7 @@
     {
       "source": "https://vk.com/gouspt",
       "community": "Саранский политехнический техникум",
-      "latest_post_id": 3823,
+      "latest_post_id": 3827,
       "fetched": 20
     },
     {
@@ -108,7 +108,7 @@
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 10814,
+      "latest_post_id": 10815,
       "fetched": 20
     },
     {
@@ -540,7 +540,7 @@
     {
       "source": "https://vk.com/public203696837",
       "community": "МДОУ \"Детский сад №85 комбинированного вида\"",
-      "latest_post_id": 7537,
+      "latest_post_id": 7540,
       "fetched": 20
     },
     {
@@ -553,12 +553,6 @@
       "source": "https://vk.com/club170916138",
       "community": "МДОУ \"Детский сад №93\"",
       "latest_post_id": 2214,
-      "fetched": 20
-    },
-    {
-      "source": "https://vk.com/club201164476",
-      "community": "МДОУ \"Детский сад №97 комбинированного вида\"",
-      "latest_post_id": 5524,
       "fetched": 20
     },
     {
@@ -648,7 +642,7 @@
     {
       "source": "https://vk.com/club154276223",
       "community": "МОУ \"Луховский лицей\"",
-      "latest_post_id": 5283,
+      "latest_post_id": 5284,
       "fetched": 20
     },
     {
@@ -772,12 +766,6 @@
       "fetched": 20
     },
     {
-      "source": "https://vk.com/club48794793",
-      "community": "Средняя общеобразовательная школа №1 г.о.Саранск",
-      "latest_post_id": 4576,
-      "fetched": 20
-    },
-    {
       "source": "https://vk.com/club205295806",
       "community": "Структурное подразделение \"Детский сад №16 \"",
       "latest_post_id": 1423,
@@ -812,12 +800,20 @@
       "error": "VK error 15: Access denied: this wall available only for community members"
     },
     {
+      "source": "https://vk.com/club201164476",
+      "error": "504 Server Error: Gateway Time-out for url: https://api.vk.com/method/wall.get?v=5.199&count=20&filter=owner&extended=1&owner_id=-201164476"
+    },
+    {
       "source": "https://vk.com/club172415002",
       "error": "VK error 15: Access denied: wall is disabled"
+    },
+    {
+      "source": "https://vk.com/club48794793",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     }
   ],
-  "new_posts": 8,
-  "mirrored_photos": 5,
+  "new_posts": 4,
+  "mirrored_photos": 3,
   "published_photos": 479,
   "image_errors": [],
   "built_visuals": 0,
