@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-25T16:26:41.584941Z",
+  "checked_at": "2026-09-25T17:23:55.527898Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -12,19 +12,19 @@
     {
       "source": "https://vk.com/sst_rm",
       "community": "Саранский строительный техникум",
-      "latest_post_id": 14282,
+      "latest_post_id": 14283,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10560,
+      "latest_post_id": 10562,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club181850079",
       "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4532,
+      "latest_post_id": 4533,
       "fetched": 20
     },
     {
@@ -96,7 +96,7 @@
     {
       "source": "https://vk.com/club7503608",
       "community": "ГБПОУ РМ \"Кемлянский аграрный колледж\"",
-      "latest_post_id": 4568,
+      "latest_post_id": 4570,
       "fetched": 20
     },
     {
@@ -108,7 +108,7 @@
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 10823,
+      "latest_post_id": 10825,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 69385,
+      "latest_post_id": 69439,
       "fetched": 20
     },
     {
@@ -696,7 +696,7 @@
     {
       "source": "https://vk.com/public215663353",
       "community": "МОУ \"Средняя школа №5\" Саранск",
-      "latest_post_id": 5226,
+      "latest_post_id": 5227,
       "fetched": 20
     },
     {
@@ -817,8 +817,8 @@
     }
   ],
   "new_posts": 9,
-  "mirrored_photos": 7,
-  "published_photos": 503,
+  "mirrored_photos": 8,
+  "published_photos": 507,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
