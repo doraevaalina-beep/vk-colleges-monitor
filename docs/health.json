@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-09-25T18:26:06.737506Z",
+  "checked_at": "2026-09-25T19:22:32.799224Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
     {
       "source": "https://vk.com/samtrm",
       "community": "ГАПОУ РМ \"Саранский автомеханический техникум\"",
-      "latest_post_id": 12114,
+      "latest_post_id": 12115,
       "fetched": 20
     },
     {
@@ -102,7 +102,7 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 171149,
+      "latest_post_id": 171181,
       "fetched": 20
     },
     {
@@ -366,13 +366,13 @@
     {
       "source": "https://vk.com/public202711145",
       "community": "МДОУ \" Детский сад 5\", Саранск",
-      "latest_post_id": 2632,
+      "latest_post_id": 2634,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public190232482",
       "community": "МАДОУ \"ДЕТСКИЙ САД 87 КОМБИНИРОВАННОГО ВИДА\"",
-      "latest_post_id": 2503,
+      "latest_post_id": 2505,
       "fetched": 20
     },
     {
@@ -726,7 +726,7 @@
     {
       "source": "https://vk.com/club526150",
       "community": "МОУ «Школа № 30» г. Саранск Республика Мордовия",
-      "latest_post_id": 6608,
+      "latest_post_id": 6611,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 8,
-  "mirrored_photos": 7,
-  "published_photos": 508,
+  "new_posts": 6,
+  "mirrored_photos": 4,
+  "published_photos": 510,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
