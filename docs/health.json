@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-25T04:25:21.332760Z",
+  "checked_at": "2026-09-25T05:24:06.131117Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -60,7 +60,7 @@
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 77277,
+      "latest_post_id": 77331,
       "fetched": 20
     },
     {
@@ -90,7 +90,7 @@
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9549,
+      "latest_post_id": 9551,
       "fetched": 20
     },
     {
@@ -144,7 +144,7 @@
     {
       "source": "https://vk.com/club148125790",
       "community": "38tv - Новости",
-      "latest_post_id": 9484,
+      "latest_post_id": 9485,
       "fetched": 20
     },
     {
@@ -216,7 +216,7 @@
     {
       "source": "https://vk.com/public202707820",
       "community": "МАДОУ \"Детский сад № 104 комбинированного вида\"",
-      "latest_post_id": 4843,
+      "latest_post_id": 4845,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 69205,
+      "latest_post_id": 69206,
       "fetched": 20
     },
     {
@@ -282,7 +282,7 @@
     {
       "source": "https://vk.com/public190278465",
       "community": "МАДОУ \"Центр развития ребёнка - детский сад №3\"",
-      "latest_post_id": 12157,
+      "latest_post_id": 12160,
       "fetched": 20
     },
     {
@@ -444,7 +444,7 @@
     {
       "source": "https://vk.com/public202722758",
       "community": "МДОУ \"Детский сад №122 комбинированного вида\"",
-      "latest_post_id": 4708,
+      "latest_post_id": 4715,
       "fetched": 20
     },
     {
@@ -540,7 +540,7 @@
     {
       "source": "https://vk.com/public203696837",
       "community": "МДОУ \"Детский сад №85 комбинированного вида\"",
-      "latest_post_id": 7540,
+      "latest_post_id": 7542,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 8,
-  "mirrored_photos": 6,
-  "published_photos": 487,
+  "new_posts": 9,
+  "mirrored_photos": 7,
+  "published_photos": 492,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
