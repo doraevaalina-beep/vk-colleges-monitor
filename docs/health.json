@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-25T15:25:51.160261Z",
+  "checked_at": "2026-09-25T16:26:41.584941Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -23,8 +23,8 @@
     },
     {
       "source": "https://vk.com/club181850079",
-      "community": "МЛСПО - Республика Мордовия",
-      "latest_post_id": 4531,
+      "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
+      "latest_post_id": 4532,
       "fetched": 20
     },
     {
@@ -60,7 +60,7 @@
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 77361,
+      "latest_post_id": 77386,
       "fetched": 20
     },
     {
@@ -95,9 +95,9 @@
     },
     {
       "source": "https://vk.com/club7503608",
-      "community": "club7503608",
+      "community": "ГБПОУ РМ \"Кемлянский аграрный колледж\"",
       "latest_post_id": 4568,
-      "fetched": 0
+      "fetched": 20
     },
     {
       "source": "https://vk.com/tkmmp",
@@ -186,7 +186,7 @@
     {
       "source": "https://vk.com/club9874035",
       "community": "Лыжно-биатлонный комплекс. Федерация биатлона РМ",
-      "latest_post_id": 4547,
+      "latest_post_id": 4549,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 69343,
+      "latest_post_id": 69385,
       "fetched": 20
     },
     {
@@ -336,7 +336,7 @@
     {
       "source": "https://vk.com/public190001019",
       "community": "МАДОУ\"ЦРР - детский сад №17\"",
-      "latest_post_id": 3569,
+      "latest_post_id": 3570,
       "fetched": 20
     },
     {
@@ -438,7 +438,7 @@
     {
       "source": "https://vk.com/public215652250",
       "community": "МДОУ \"Детский сад №116\" г.о. Саранск",
-      "latest_post_id": 1936,
+      "latest_post_id": 1937,
       "fetched": 20
     },
     {
@@ -450,7 +450,7 @@
     {
       "source": "https://vk.com/public215650649",
       "community": "МДОУ \"Детский сад №124 комбинированного вида\"",
-      "latest_post_id": 3412,
+      "latest_post_id": 3413,
       "fetched": 20
     },
     {
@@ -600,7 +600,7 @@
     {
       "source": "https://vk.com/club819936",
       "community": "МОУ \"Гимназия № 23\" г. о. Саранск",
-      "latest_post_id": 11085,
+      "latest_post_id": 11087,
       "fetched": 20
     },
     {
@@ -816,8 +816,8 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 17,
-  "mirrored_photos": 13,
+  "new_posts": 9,
+  "mirrored_photos": 7,
   "published_photos": 503,
   "image_errors": [],
   "built_visuals": 0,
