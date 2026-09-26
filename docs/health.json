@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-09-26T19:21:51.568164Z",
+  "checked_at": "2026-09-26T20:22:56.967760Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
     {
       "source": "https://vk.com/samtrm",
       "community": "ГАПОУ РМ \"Саранский автомеханический техникум\"",
-      "latest_post_id": 12116,
+      "latest_post_id": 12117,
       "fetched": 20
     },
     {
@@ -818,7 +818,7 @@
   ],
   "new_posts": 1,
   "mirrored_photos": 1,
-  "published_photos": 438,
+  "published_photos": 436,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
