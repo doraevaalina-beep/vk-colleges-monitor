@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-26T15:23:37.899990Z",
+  "checked_at": "2026-09-26T16:24:36.793828Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -294,7 +294,7 @@
     {
       "source": "https://vk.com/club209740282",
       "community": "МАДОУ \"Центр развития ребенка-детский сад №2\"\"",
-      "latest_post_id": 2163,
+      "latest_post_id": 2165,
       "fetched": 20
     },
     {
@@ -372,7 +372,7 @@
     {
       "source": "https://vk.com/public190232482",
       "community": "МАДОУ \"ДЕТСКИЙ САД 87 КОМБИНИРОВАННОГО ВИДА\"",
-      "latest_post_id": 2506,
+      "latest_post_id": 2510,
       "fetched": 20
     },
     {
@@ -660,7 +660,7 @@
     {
       "source": "https://vk.com/public171422852",
       "community": "МОУ \" Средняя школа  №18\" г. Саранск",
-      "latest_post_id": 6095,
+      "latest_post_id": 6099,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 8,
-  "mirrored_photos": 7,
-  "published_photos": 465,
+  "new_posts": 3,
+  "mirrored_photos": 2,
+  "published_photos": 459,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
