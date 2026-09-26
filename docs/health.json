@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-26T02:23:52.152183Z",
+  "checked_at": "2026-09-26T03:23:19.542916Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -228,7 +228,7 @@
     {
       "source": "https://vk.com/public172429704",
       "community": "МАДОУ \"Детский сад № 80\"",
-      "latest_post_id": 4072,
+      "latest_post_id": 4073,
       "fetched": 20
     },
     {
@@ -816,7 +816,7 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 0,
+  "new_posts": 1,
   "mirrored_photos": 0,
   "published_photos": 513,
   "image_errors": [],
