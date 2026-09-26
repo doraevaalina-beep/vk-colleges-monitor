@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-26T17:22:24.154100Z",
+  "checked_at": "2026-09-26T18:26:17.010361Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -60,7 +60,7 @@
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 77386,
+      "latest_post_id": 77434,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 69676,
+      "latest_post_id": 69857,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 4,
-  "mirrored_photos": 3,
-  "published_photos": 448,
+  "new_posts": 2,
+  "mirrored_photos": 1,
+  "published_photos": 443,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
