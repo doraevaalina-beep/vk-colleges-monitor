@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-26T05:22:54.306728Z",
+  "checked_at": "2026-09-26T06:28:33.032959Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -108,7 +108,7 @@
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 10825,
+      "latest_post_id": 10829,
       "fetched": 20
     },
     {
@@ -486,7 +486,7 @@
     {
       "source": "https://vk.com/club194961488",
       "community": "МДОУ \"Детский сад №40\" г.о. Саранск",
-      "latest_post_id": 1600,
+      "latest_post_id": 1606,
       "fetched": 20
     },
     {
@@ -618,7 +618,7 @@
     {
       "source": "https://vk.com/club351497",
       "community": "МОУ \"Лицей № 7\"",
-      "latest_post_id": 15478,
+      "latest_post_id": 15480,
       "fetched": 20
     },
     {
@@ -660,7 +660,7 @@
     {
       "source": "https://vk.com/public171422852",
       "community": "МОУ \" Средняя школа  №18\" г. Саранск",
-      "latest_post_id": 6094,
+      "latest_post_id": 6095,
       "fetched": 20
     },
     {
@@ -708,7 +708,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 39983,
+      "latest_post_id": 39995,
       "fetched": 20
     },
     {
@@ -798,7 +798,7 @@
     {
       "source": "https://vk.com/club175038308",
       "community": "Школа №39 | Саранск",
-      "latest_post_id": 11573,
+      "latest_post_id": 11575,
       "fetched": 20
     }
   ],
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 5,
-  "mirrored_photos": 4,
-  "published_photos": 505,
+  "new_posts": 12,
+  "mirrored_photos": 12,
+  "published_photos": 506,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
