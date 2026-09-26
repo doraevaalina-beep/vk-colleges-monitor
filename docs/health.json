@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-26T20:22:56.967760Z",
+  "checked_at": "2026-09-26T21:23:30.944147Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -42,7 +42,7 @@
     {
       "source": "https://vk.com/zppk_official",
       "community": "Зубово-Полянский педагогический колледж",
-      "latest_post_id": 4736,
+      "latest_post_id": 4737,
       "fetched": 20
     },
     {
@@ -77,8 +77,8 @@
     },
     {
       "source": "https://vk.com/stppp_professionalitet",
-      "community": "Саранский техникум пищевой промышленности",
-      "latest_post_id": 4716,
+      "community": "Медиацентр СТППП «Фокус13»",
+      "latest_post_id": 4718,
       "fetched": 20
     },
     {
@@ -120,7 +120,7 @@
     {
       "source": "https://vk.com/kaskrm",
       "community": "Ковылкинский аграрно-строительный колледж",
-      "latest_post_id": 15717,
+      "latest_post_id": 15876,
       "fetched": 20
     },
     {
@@ -228,7 +228,7 @@
     {
       "source": "https://vk.com/public172429704",
       "community": "МАДОУ \"Детский сад № 80\"",
-      "latest_post_id": 4073,
+      "latest_post_id": 4076,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 1,
-  "mirrored_photos": 1,
-  "published_photos": 436,
+  "new_posts": 5,
+  "mirrored_photos": 2,
+  "published_photos": 438,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
