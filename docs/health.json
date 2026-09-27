@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-27T04:24:36.155523Z",
+  "checked_at": "2026-09-27T05:23:32.748778Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -216,7 +216,7 @@
     {
       "source": "https://vk.com/public202707820",
       "community": "МАДОУ \"Детский сад № 104 комбинированного вида\"",
-      "latest_post_id": 4857,
+      "latest_post_id": 4859,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 69945,
+      "latest_post_id": 69948,
       "fetched": 20
     },
     {
@@ -288,13 +288,13 @@
     {
       "source": "https://vk.com/public203694036",
       "community": "МАДОУ \"Центр развития ребенка - детский сад №46\"",
-      "latest_post_id": 6026,
+      "latest_post_id": 6030,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club209740282",
       "community": "МАДОУ \"Центр развития ребенка-детский сад №2\"\"",
-      "latest_post_id": 2165,
+      "latest_post_id": 2166,
       "fetched": 20
     },
     {
@@ -342,7 +342,7 @@
     {
       "source": "https://vk.com/public215671212",
       "community": "МАОУ \"Прогимназия № 119\" г.Саранск",
-      "latest_post_id": 1647,
+      "latest_post_id": 1649,
       "fetched": 20
     },
     {
@@ -540,7 +540,7 @@
     {
       "source": "https://vk.com/public203696837",
       "community": "МДОУ \"Детский сад №85 комбинированного вида\"",
-      "latest_post_id": 7562,
+      "latest_post_id": 7568,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 3,
-  "mirrored_photos": 2,
-  "published_photos": 436,
+  "new_posts": 10,
+  "mirrored_photos": 6,
+  "published_photos": 432,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
