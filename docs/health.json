@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-27T12:29:29.030246Z",
+  "checked_at": "2026-09-27T13:23:27.134092Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -156,13 +156,13 @@
     {
       "source": "https://vk.com/public166423723",
       "community": "МОУ \"Средняя школа № 41\"",
-      "latest_post_id": 2948,
+      "latest_post_id": 2949,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club129703276",
       "community": "Средняя школа №35 | Саранск",
-      "latest_post_id": 11615,
+      "latest_post_id": 11617,
       "fetched": 20
     },
     {
@@ -180,7 +180,7 @@
     {
       "source": "https://vk.com/public144012777",
       "community": "Лицей №43, г. Саранск",
-      "latest_post_id": 6692,
+      "latest_post_id": 6700,
       "fetched": 20
     },
     {
@@ -288,7 +288,7 @@
     {
       "source": "https://vk.com/public203694036",
       "community": "МАДОУ \"Центр развития ребенка - детский сад №46\"",
-      "latest_post_id": 6031,
+      "latest_post_id": 6034,
       "fetched": 20
     },
     {
@@ -414,7 +414,7 @@
     {
       "source": "https://vk.com/club198991558",
       "community": "МДОУ \"Детский сад № 101\"",
-      "latest_post_id": 4784,
+      "latest_post_id": 4792,
       "fetched": 20
     },
     {
@@ -696,7 +696,7 @@
     {
       "source": "https://vk.com/public215663353",
       "community": "МОУ \"Средняя школа №5\" Саранск",
-      "latest_post_id": 5229,
+      "latest_post_id": 5230,
       "fetched": 20
     },
     {
@@ -817,8 +817,8 @@
     }
   ],
   "new_posts": 7,
-  "mirrored_photos": 7,
-  "published_photos": 378,
+  "mirrored_photos": 6,
+  "published_photos": 367,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
