@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-27T17:22:28.996011Z",
+  "checked_at": "2026-09-27T18:26:29.680468Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -23,8 +23,8 @@
     },
     {
       "source": "https://vk.com/club181850079",
-      "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4534,
+      "community": "Отвага и антитеррор",
+      "latest_post_id": 4535,
       "fetched": 20
     },
     {
@@ -162,7 +162,7 @@
     {
       "source": "https://vk.com/club129703276",
       "community": "Средняя школа №35 | Саранск",
-      "latest_post_id": 11617,
+      "latest_post_id": 11621,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 70102,
+      "latest_post_id": 70145,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 0,
-  "mirrored_photos": 0,
-  "published_photos": 335,
+  "new_posts": 3,
+  "mirrored_photos": 2,
+  "published_photos": 332,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
