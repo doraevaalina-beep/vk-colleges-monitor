@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-27T15:23:23.143588Z",
+  "checked_at": "2026-09-27T16:24:29.790822Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -48,7 +48,7 @@
     {
       "source": "https://vk.com/public80925441",
       "community": "Атяшевский аграрный техникум",
-      "latest_post_id": 1628,
+      "latest_post_id": 1629,
       "fetched": 20
     },
     {
@@ -138,7 +138,7 @@
     {
       "source": "https://vk.com/club59095536",
       "community": "МОУ \"Средняя школа №11\"",
-      "latest_post_id": 15108,
+      "latest_post_id": 15110,
       "fetched": 20
     },
     {
@@ -270,7 +270,7 @@
     {
       "source": "https://vk.com/public203690288",
       "community": "МАДОУ \"Центр развития ребенка - детский сад № 9\"",
-      "latest_post_id": 4899,
+      "latest_post_id": 4902,
       "fetched": 20
     },
     {
@@ -288,7 +288,7 @@
     {
       "source": "https://vk.com/public203694036",
       "community": "МАДОУ \"Центр развития ребенка - детский сад №46\"",
-      "latest_post_id": 6034,
+      "latest_post_id": 6035,
       "fetched": 20
     },
     {
@@ -366,7 +366,7 @@
     {
       "source": "https://vk.com/public202711145",
       "community": "МДОУ \" Детский сад 5\", Саранск",
-      "latest_post_id": 2638,
+      "latest_post_id": 2641,
       "fetched": 20
     },
     {
@@ -762,7 +762,7 @@
     {
       "source": "https://vk.com/club153457218",
       "community": "Средняя школа №40 | Саранск",
-      "latest_post_id": 11802,
+      "latest_post_id": 11803,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 6,
-  "mirrored_photos": 4,
-  "published_photos": 359,
+  "new_posts": 7,
+  "mirrored_photos": 3,
+  "published_photos": 351,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
