@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-27T13:23:27.134092Z",
+  "checked_at": "2026-09-27T14:22:53.058482Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 70042,
+      "latest_post_id": 70099,
       "fetched": 20
     },
     {
@@ -312,7 +312,7 @@
     {
       "source": "https://vk.com/club203705834",
       "community": "МАДОУ \"Центр развития ребёнка-детский сад 8\"",
-      "latest_post_id": 1526,
+      "latest_post_id": 1527,
       "fetched": 20
     },
     {
@@ -324,7 +324,7 @@
     {
       "source": "https://vk.com/public215627488",
       "community": "МАДОУ «Центр развития ребенка - детский сад №90»",
-      "latest_post_id": 4736,
+      "latest_post_id": 4741,
       "fetched": 20
     },
     {
@@ -336,7 +336,7 @@
     {
       "source": "https://vk.com/public190001019",
       "community": "МАДОУ\"ЦРР - детский сад №17\"",
-      "latest_post_id": 3572,
+      "latest_post_id": 3573,
       "fetched": 20
     },
     {
@@ -600,7 +600,7 @@
     {
       "source": "https://vk.com/club819936",
       "community": "МОУ \"Гимназия № 23\" г. о. Саранск",
-      "latest_post_id": 11094,
+      "latest_post_id": 11096,
       "fetched": 20
     },
     {
@@ -612,7 +612,7 @@
     {
       "source": "https://vk.com/public195117146",
       "community": "МОУ \"Ялгинская СОШ\" корпус 2 г.о.Саранск",
-      "latest_post_id": 3753,
+      "latest_post_id": 3754,
       "fetched": 20
     },
     {
@@ -630,7 +630,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14746,
+      "latest_post_id": 14747,
       "fetched": 20
     },
     {
@@ -785,8 +785,8 @@
     },
     {
       "source": "https://vk.com/club153679543",
-      "community": "МОУ СОШ №2 им.Героя Советского Союза П.И.Орлова",
-      "latest_post_id": 5173,
+      "community": "СОШ №2 им. Героя Советского Союза П.И.Орлова к.2",
+      "latest_post_id": 5176,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 7,
-  "mirrored_photos": 6,
-  "published_photos": 367,
+  "new_posts": 11,
+  "mirrored_photos": 5,
+  "published_photos": 372,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
