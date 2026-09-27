@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-27T09:23:52.880200Z",
+  "checked_at": "2026-09-27T10:23:41.600571Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -144,7 +144,7 @@
     {
       "source": "https://vk.com/club148125790",
       "community": "38tv - Новости",
-      "latest_post_id": 9504,
+      "latest_post_id": 9505,
       "fetched": 20
     },
     {
@@ -276,7 +276,7 @@
     {
       "source": "https://vk.com/public199029660",
       "community": "МАДОУ \"Центр развития ребенка - детский сад №10\"",
-      "latest_post_id": 2916,
+      "latest_post_id": 2919,
       "fetched": 20
     },
     {
@@ -366,13 +366,13 @@
     {
       "source": "https://vk.com/public202711145",
       "community": "МДОУ \" Детский сад 5\", Саранск",
-      "latest_post_id": 2637,
+      "latest_post_id": 2638,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public190232482",
       "community": "МАДОУ \"ДЕТСКИЙ САД 87 КОМБИНИРОВАННОГО ВИДА\"",
-      "latest_post_id": 2511,
+      "latest_post_id": 2515,
       "fetched": 20
     },
     {
@@ -714,7 +714,7 @@
     {
       "source": "https://vk.com/public171854359",
       "community": "МОУ «СОШ №22»",
-      "latest_post_id": 8663,
+      "latest_post_id": 8664,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 11,
-  "mirrored_photos": 8,
-  "published_photos": 419,
+  "new_posts": 5,
+  "mirrored_photos": 3,
+  "published_photos": 407,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
