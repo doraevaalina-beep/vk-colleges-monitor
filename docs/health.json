@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-27T08:24:47.726588Z",
+  "checked_at": "2026-09-27T09:23:52.880200Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -48,7 +48,7 @@
     {
       "source": "https://vk.com/public80925441",
       "community": "Атяшевский аграрный техникум",
-      "latest_post_id": 1627,
+      "latest_post_id": 1628,
       "fetched": 20
     },
     {
@@ -156,7 +156,7 @@
     {
       "source": "https://vk.com/public166423723",
       "community": "МОУ \"Средняя школа № 41\"",
-      "latest_post_id": 2947,
+      "latest_post_id": 2948,
       "fetched": 20
     },
     {
@@ -408,7 +408,7 @@
     {
       "source": "https://vk.com/public203706494",
       "community": "МДОУ \"Детский сад 99 комбинированного вида\"",
-      "latest_post_id": 8691,
+      "latest_post_id": 8693,
       "fetched": 20
     },
     {
@@ -528,7 +528,7 @@
     {
       "source": "https://vk.com/public203695892",
       "community": "МДОУ \"Детский сад №78 комбинированного вида\"",
-      "latest_post_id": 2468,
+      "latest_post_id": 2469,
       "fetched": 20
     },
     {
@@ -552,7 +552,7 @@
     {
       "source": "https://vk.com/club170916138",
       "community": "МДОУ \"Детский сад №93\"",
-      "latest_post_id": 2224,
+      "latest_post_id": 2226,
       "fetched": 20
     },
     {
@@ -606,7 +606,7 @@
     {
       "source": "https://vk.com/public92009976",
       "community": "Гимназия №20",
-      "latest_post_id": 9669,
+      "latest_post_id": 9674,
       "fetched": 20
     },
     {
@@ -678,7 +678,7 @@
     {
       "source": "https://vk.com/public129692291",
       "community": "МОУ \"Средняя общеобразовательная школа №28\"",
-      "latest_post_id": 8681,
+      "latest_post_id": 8682,
       "fetched": 20
     },
     {
@@ -714,7 +714,7 @@
     {
       "source": "https://vk.com/public171854359",
       "community": "МОУ «СОШ №22»",
-      "latest_post_id": 8662,
+      "latest_post_id": 8663,
       "fetched": 20
     },
     {
@@ -785,8 +785,8 @@
     },
     {
       "source": "https://vk.com/club153679543",
-      "community": "СОШ №2 им. Героя Советского Союза П.И.Орлова к.2",
-      "latest_post_id": 5170,
+      "community": "МОУ СОШ №2 им.Героя Советского Союза П.И.Орлова",
+      "latest_post_id": 5173,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 34,
-  "mirrored_photos": 6,
-  "published_photos": 433,
+  "new_posts": 11,
+  "mirrored_photos": 8,
+  "published_photos": 419,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
