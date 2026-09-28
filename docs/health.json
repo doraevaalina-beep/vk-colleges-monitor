@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-28T16:28:52.523808Z",
+  "checked_at": "2026-09-28T17:25:48.726614Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -60,7 +60,7 @@
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 77461,
+      "latest_post_id": 77470,
       "fetched": 20
     },
     {
@@ -90,7 +90,7 @@
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9566,
+      "latest_post_id": 9567,
       "fetched": 20
     },
     {
@@ -149,8 +149,8 @@
     },
     {
       "source": "https://vk.com/public194762632",
-      "community": "«Средняя школа № 36» Саранск",
-      "latest_post_id": 4936,
+      "community": "Первичное отделение Движения Первых МОУ СОШ №36",
+      "latest_post_id": 4939,
       "fetched": 20
     },
     {
@@ -258,7 +258,7 @@
     {
       "source": "https://vk.com/public200569622",
       "community": "МАДОУ \"ЦРР - детский сад №4\"",
-      "latest_post_id": 9560,
+      "latest_post_id": 9563,
       "fetched": 20
     },
     {
@@ -630,7 +630,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14761,
+      "latest_post_id": 14762,
       "fetched": 20
     },
     {
@@ -708,7 +708,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 40051,
+      "latest_post_id": 40052,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 21,
-  "mirrored_photos": 16,
-  "published_photos": 366,
+  "new_posts": 6,
+  "mirrored_photos": 5,
+  "published_photos": 364,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
