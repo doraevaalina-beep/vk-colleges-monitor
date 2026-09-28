@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-28T10:27:43.967092Z",
+  "checked_at": "2026-09-28T11:25:25.495070Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -72,7 +72,7 @@
     {
       "source": "https://vk.com/public198480547",
       "community": "Инсарский аграрный техникум",
-      "latest_post_id": 2070,
+      "latest_post_id": 2072,
       "fetched": 20
     },
     {
@@ -126,7 +126,7 @@
     {
       "source": "https://vk.com/club34313558",
       "community": "ГБПОУ РМ \"Краснослободский аграрный техникум\"",
-      "latest_post_id": 3074,
+      "latest_post_id": 3077,
       "fetched": 20
     },
     {
@@ -150,13 +150,13 @@
     {
       "source": "https://vk.com/public194762632",
       "community": "«Средняя школа № 36» Саранск",
-      "latest_post_id": 4935,
+      "latest_post_id": 4936,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public166423723",
       "community": "МОУ \"Средняя школа № 41\"",
-      "latest_post_id": 2949,
+      "latest_post_id": 2950,
       "fetched": 20
     },
     {
@@ -186,7 +186,7 @@
     {
       "source": "https://vk.com/club9874035",
       "community": "Лыжно-биатлонный комплекс. Федерация биатлона РМ",
-      "latest_post_id": 4561,
+      "latest_post_id": 4563,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 70203,
+      "latest_post_id": 70232,
       "fetched": 20
     },
     {
@@ -294,7 +294,7 @@
     {
       "source": "https://vk.com/club209740282",
       "community": "МАДОУ \"Центр развития ребенка-детский сад №2\"\"",
-      "latest_post_id": 2168,
+      "latest_post_id": 2170,
       "fetched": 20
     },
     {
@@ -594,7 +594,7 @@
     {
       "source": "https://vk.com/club166487726",
       "community": "Гимназия № 12 | Саранск",
-      "latest_post_id": 6847,
+      "latest_post_id": 6849,
       "fetched": 20
     },
     {
@@ -624,7 +624,7 @@
     {
       "source": "https://vk.com/club154501666",
       "community": "МОУ \"Лицей №25\"",
-      "latest_post_id": 2074,
+      "latest_post_id": 2075,
       "fetched": 20
     },
     {
@@ -666,7 +666,7 @@
     {
       "source": "https://vk.com/public92799833",
       "community": "МОУ \"Средняя школа №33\"",
-      "latest_post_id": 7674,
+      "latest_post_id": 7675,
       "fetched": 20
     },
     {
@@ -695,8 +695,8 @@
     },
     {
       "source": "https://vk.com/public215663353",
-      "community": "Библиотека № 1 им. М.Е. Евсевьева г.о. Саранск",
-      "latest_post_id": 5234,
+      "community": "МОУ \"Средняя школа №5\" Саранск",
+      "latest_post_id": 5238,
       "fetched": 20
     },
     {
