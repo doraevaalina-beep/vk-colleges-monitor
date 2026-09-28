@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-28T11:25:25.495070Z",
+  "checked_at": "2026-09-28T12:32:29.669754Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -72,7 +72,7 @@
     {
       "source": "https://vk.com/public198480547",
       "community": "Инсарский аграрный техникум",
-      "latest_post_id": 2072,
+      "latest_post_id": 2073,
       "fetched": 20
     },
     {
@@ -102,7 +102,7 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 171181,
+      "latest_post_id": 171219,
       "fetched": 20
     },
     {
@@ -162,7 +162,7 @@
     {
       "source": "https://vk.com/club129703276",
       "community": "Средняя школа №35 | Саранск",
-      "latest_post_id": 11623,
+      "latest_post_id": 11625,
       "fetched": 20
     },
     {
@@ -240,7 +240,7 @@
     {
       "source": "https://vk.com/club192448163",
       "community": "МАДОУ \"Детский сад №59\"",
-      "latest_post_id": 4000,
+      "latest_post_id": 4005,
       "fetched": 20
     },
     {
@@ -348,7 +348,7 @@
     {
       "source": "https://vk.com/club174792280",
       "community": "МАОУ \"СОШ №10\"",
-      "latest_post_id": 8280,
+      "latest_post_id": 8281,
       "fetched": 20
     },
     {
@@ -366,7 +366,7 @@
     {
       "source": "https://vk.com/public202711145",
       "community": "МДОУ \" Детский сад 5\", Саранск",
-      "latest_post_id": 2641,
+      "latest_post_id": 2646,
       "fetched": 20
     },
     {
@@ -594,7 +594,7 @@
     {
       "source": "https://vk.com/club166487726",
       "community": "Гимназия № 12 | Саранск",
-      "latest_post_id": 6849,
+      "latest_post_id": 6850,
       "fetched": 20
     },
     {
@@ -666,7 +666,7 @@
     {
       "source": "https://vk.com/public92799833",
       "community": "МОУ \"Средняя школа №33\"",
-      "latest_post_id": 7675,
+      "latest_post_id": 7676,
       "fetched": 20
     },
     {
@@ -689,14 +689,14 @@
     },
     {
       "source": "https://vk.com/public203691909",
-      "community": "МОУ \"Средняя школа №37\"",
-      "latest_post_id": 5503,
+      "community": "Региональный центр «Мира» | Республика Мордовия",
+      "latest_post_id": 5504,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public215663353",
       "community": "МОУ \"Средняя школа №5\" Саранск",
-      "latest_post_id": 5238,
+      "latest_post_id": 5239,
       "fetched": 20
     },
     {
@@ -714,13 +714,13 @@
     {
       "source": "https://vk.com/public171854359",
       "community": "МОУ «СОШ №22»",
-      "latest_post_id": 8664,
+      "latest_post_id": 8665,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public164250189",
       "community": "Школа №24| Саранск",
-      "latest_post_id": 5079,
+      "latest_post_id": 5098,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 14,
+  "new_posts": 18,
   "mirrored_photos": 12,
-  "published_photos": 377,
+  "published_photos": 374,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
