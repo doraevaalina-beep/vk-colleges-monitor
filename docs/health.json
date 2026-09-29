@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29T18:30:54.748677Z",
+  "checked_at": "2026-09-29T19:26:54.216863Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -90,7 +90,7 @@
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9573,
+      "latest_post_id": 9576,
       "fetched": 20
     },
     {
@@ -120,7 +120,7 @@
     {
       "source": "https://vk.com/kaskrm",
       "community": "Ковылкинский аграрно-строительный колледж",
-      "latest_post_id": 15908,
+      "latest_post_id": 16002,
       "fetched": 20
     },
     {
@@ -174,7 +174,7 @@
     {
       "source": "https://vk.com/public216577930",
       "community": "Гимназия №19 | г. Саранск",
-      "latest_post_id": 3356,
+      "latest_post_id": 3359,
       "fetched": 20
     },
     {
@@ -402,7 +402,7 @@
     {
       "source": "https://vk.com/public198735544",
       "community": "МДОУ \"Детский сад 29\"",
-      "latest_post_id": 3537,
+      "latest_post_id": 3539,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 11,
-  "mirrored_photos": 9,
-  "published_photos": 416,
+  "new_posts": 5,
+  "mirrored_photos": 4,
+  "published_photos": 419,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
