@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29T08:29:17.105874Z",
+  "checked_at": "2026-09-29T09:27:49.538593Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -54,7 +54,7 @@
     {
       "source": "https://vk.com/club202849242",
       "community": "СТЭиЭТ им. А.И. Полежаева",
-      "latest_post_id": 3665,
+      "latest_post_id": 3669,
       "fetched": 20
     },
     {
@@ -138,7 +138,7 @@
     {
       "source": "https://vk.com/club59095536",
       "community": "МОУ \"Средняя школа №11\"",
-      "latest_post_id": 15135,
+      "latest_post_id": 15136,
       "fetched": 20
     },
     {
@@ -150,7 +150,7 @@
     {
       "source": "https://vk.com/public194762632",
       "community": "«Средняя школа № 36» Саранск",
-      "latest_post_id": 4941,
+      "latest_post_id": 4942,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 70374,
+      "latest_post_id": 70431,
       "fetched": 20
     },
     {
@@ -330,7 +330,7 @@
     {
       "source": "https://vk.com/public202712770",
       "community": "МАДОУ «Центр развития ребёнка - детский сад №6»",
-      "latest_post_id": 4813,
+      "latest_post_id": 4817,
       "fetched": 20
     },
     {
@@ -606,7 +606,7 @@
     {
       "source": "https://vk.com/public92009976",
       "community": "Гимназия №20",
-      "latest_post_id": 9676,
+      "latest_post_id": 9677,
       "fetched": 20
     },
     {
@@ -660,7 +660,7 @@
     {
       "source": "https://vk.com/public171422852",
       "community": "МОУ \" Средняя школа  №18\" г. Саранск",
-      "latest_post_id": 6102,
+      "latest_post_id": 6104,
       "fetched": 20
     },
     {
@@ -720,7 +720,7 @@
     {
       "source": "https://vk.com/public164250189",
       "community": "Школа №24| Саранск",
-      "latest_post_id": 5098,
+      "latest_post_id": 5100,
       "fetched": 20
     },
     {
@@ -762,7 +762,7 @@
     {
       "source": "https://vk.com/club153457218",
       "community": "Средняя школа №40 | Саранск",
-      "latest_post_id": 11807,
+      "latest_post_id": 11810,
       "fetched": 20
     },
     {
@@ -816,8 +816,8 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 6,
-  "mirrored_photos": 6,
+  "new_posts": 12,
+  "mirrored_photos": 11,
   "published_photos": 363,
   "image_errors": [],
   "built_visuals": 0,
