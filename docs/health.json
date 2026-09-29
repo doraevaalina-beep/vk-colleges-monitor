@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29T04:26:23.057512Z",
+  "checked_at": "2026-09-29T05:25:45.136222Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -60,7 +60,7 @@
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 77470,
+      "latest_post_id": 77504,
       "fetched": 20
     },
     {
@@ -107,8 +107,8 @@
     },
     {
       "source": "https://vk.com/official_page_sgpek",
-      "community": "Студенческий путинный отряд «Волна» | РСО",
-      "latest_post_id": 10831,
+      "community": "ГБПОУ РМ \"СГПЭК\"",
+      "latest_post_id": 10833,
       "fetched": 20
     },
     {
@@ -144,7 +144,7 @@
     {
       "source": "https://vk.com/club148125790",
       "community": "38tv - Новости",
-      "latest_post_id": 9508,
+      "latest_post_id": 9510,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 70372,
+      "latest_post_id": 70374,
       "fetched": 20
     },
     {
@@ -594,13 +594,13 @@
     {
       "source": "https://vk.com/club166487726",
       "community": "Гимназия № 12 | Саранск",
-      "latest_post_id": 6928,
+      "latest_post_id": 14413,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club819936",
       "community": "МОУ \"Гимназия № 23\" г. о. Саранск",
-      "latest_post_id": 11099,
+      "latest_post_id": 11115,
       "fetched": 20
     },
     {
@@ -738,7 +738,7 @@
     {
       "source": "https://vk.com/club186187361",
       "community": "МОУ СОШ №2 им.Героя Советского Союза П.И.Орлова",
-      "latest_post_id": 5629,
+      "latest_post_id": 5630,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 3,
-  "mirrored_photos": 3,
-  "published_photos": 364,
+  "new_posts": 8,
+  "mirrored_photos": 7,
+  "published_photos": 367,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
