@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29T12:32:41.535395Z",
+  "checked_at": "2026-09-29T13:30:51.010366Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -96,7 +96,7 @@
     {
       "source": "https://vk.com/club7503608",
       "community": "ГБПОУ РМ \"Кемлянский аграрный колледж\"",
-      "latest_post_id": 4572,
+      "latest_post_id": 4573,
       "fetched": 20
     },
     {
@@ -174,13 +174,13 @@
     {
       "source": "https://vk.com/public216577930",
       "community": "Гимназия №19 | г. Саранск",
-      "latest_post_id": 3352,
+      "latest_post_id": 3354,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public144012777",
       "community": "Лицей №43, г. Саранск",
-      "latest_post_id": 6704,
+      "latest_post_id": 6707,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 70515,
+      "latest_post_id": 70522,
       "fetched": 20
     },
     {
@@ -396,7 +396,7 @@
     {
       "source": "https://vk.com/club203700958",
       "community": "МДОУ \"Детский сад 127 комбинированного вида\"",
-      "latest_post_id": 2191,
+      "latest_post_id": 2194,
       "fetched": 20
     },
     {
@@ -522,7 +522,7 @@
     {
       "source": "https://vk.com/club209729369",
       "community": "МДОУ \"Детский сад №71\"",
-      "latest_post_id": 2715,
+      "latest_post_id": 2724,
       "fetched": 20
     },
     {
@@ -738,7 +738,7 @@
     {
       "source": "https://vk.com/club186187361",
       "community": "МОУ СОШ №2 им.Героя Советского Союза П.И.Орлова",
-      "latest_post_id": 5630,
+      "latest_post_id": 5631,
       "fetched": 20
     },
     {
@@ -756,7 +756,7 @@
     {
       "source": "https://vk.com/club95243821",
       "community": "Мордва ZAнаших!",
-      "latest_post_id": 11566,
+      "latest_post_id": 11567,
       "fetched": 20
     },
     {
@@ -774,7 +774,7 @@
     {
       "source": "https://vk.com/club48794793",
       "community": "Средняя общеобразовательная школа №1 г.о.Саранск",
-      "latest_post_id": 4585,
+      "latest_post_id": 4588,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 14,
-  "mirrored_photos": 13,
-  "published_photos": 374,
+  "new_posts": 12,
+  "mirrored_photos": 12,
+  "published_photos": 385,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
