@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29T06:31:27.937303Z",
+  "checked_at": "2026-09-29T07:28:05.795587Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -53,14 +53,14 @@
     },
     {
       "source": "https://vk.com/club202849242",
-      "community": "Музей А.И. Полежаева (Саранск)",
-      "latest_post_id": 3664,
+      "community": "СТЭиЭТ им. А.И. Полежаева",
+      "latest_post_id": 3665,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 77504,
+      "latest_post_id": 77516,
       "fetched": 20
     },
     {
@@ -126,7 +126,7 @@
     {
       "source": "https://vk.com/club34313558",
       "community": "ГБПОУ РМ \"Краснослободский аграрный техникум\"",
-      "latest_post_id": 3079,
+      "latest_post_id": 3080,
       "fetched": 20
     },
     {
@@ -162,7 +162,7 @@
     {
       "source": "https://vk.com/club129703276",
       "community": "Средняя школа №35 | Саранск",
-      "latest_post_id": 11625,
+      "latest_post_id": 11626,
       "fetched": 20
     },
     {
@@ -552,7 +552,7 @@
     {
       "source": "https://vk.com/club170916138",
       "community": "МДОУ \"Детский сад №93\"",
-      "latest_post_id": 2229,
+      "latest_post_id": 2230,
       "fetched": 20
     },
     {
@@ -606,7 +606,7 @@
     {
       "source": "https://vk.com/public92009976",
       "community": "Гимназия №20",
-      "latest_post_id": 9675,
+      "latest_post_id": 9676,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 10,
-  "mirrored_photos": 9,
-  "published_photos": 364,
+  "new_posts": 6,
+  "mirrored_photos": 6,
+  "published_photos": 360,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
