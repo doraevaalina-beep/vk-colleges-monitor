@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29T03:26:49.242533Z",
+  "checked_at": "2026-09-29T04:26:23.057512Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -126,7 +126,7 @@
     {
       "source": "https://vk.com/club34313558",
       "community": "ГБПОУ РМ \"Краснослободский аграрный техникум\"",
-      "latest_post_id": 3078,
+      "latest_post_id": 3079,
       "fetched": 20
     },
     {
@@ -144,7 +144,7 @@
     {
       "source": "https://vk.com/club148125790",
       "community": "38tv - Новости",
-      "latest_post_id": 9505,
+      "latest_post_id": 9508,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 70287,
+      "latest_post_id": 70372,
       "fetched": 20
     },
     {
@@ -818,7 +818,7 @@
   ],
   "new_posts": 3,
   "mirrored_photos": 3,
-  "published_photos": 363,
+  "published_photos": 364,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
