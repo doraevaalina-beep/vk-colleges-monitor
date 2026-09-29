@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29T02:23:44.009588Z",
+  "checked_at": "2026-09-29T03:26:49.242533Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -149,8 +149,8 @@
     },
     {
       "source": "https://vk.com/public194762632",
-      "community": "Первичное отделение Движения Первых МОУ СОШ №36",
-      "latest_post_id": 4939,
+      "community": "«Средняя школа № 36» Саранск",
+      "latest_post_id": 4941,
       "fetched": 20
     },
     {
@@ -228,7 +228,7 @@
     {
       "source": "https://vk.com/public172429704",
       "community": "МАДОУ \"Детский сад № 80\"",
-      "latest_post_id": 4080,
+      "latest_post_id": 4085,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 0,
-  "mirrored_photos": 0,
-  "published_photos": 360,
+  "new_posts": 3,
+  "mirrored_photos": 3,
+  "published_photos": 363,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
