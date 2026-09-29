@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29T05:25:45.136222Z",
+  "checked_at": "2026-09-29T06:31:27.937303Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -30,7 +30,7 @@
     {
       "source": "https://vk.com/ipc_hgo_mlclass_fv_informatica",
       "community": "Ичалковский педагогический колледж",
-      "latest_post_id": 6506,
+      "latest_post_id": 6509,
       "fetched": 20
     },
     {
@@ -53,8 +53,8 @@
     },
     {
       "source": "https://vk.com/club202849242",
-      "community": "СТЭиЭТ им. А.И. Полежаева",
-      "latest_post_id": 3661,
+      "community": "Музей А.И. Полежаева (Саранск)",
+      "latest_post_id": 3664,
       "fetched": 20
     },
     {
@@ -96,7 +96,7 @@
     {
       "source": "https://vk.com/club7503608",
       "community": "ГБПОУ РМ \"Кемлянский аграрный колледж\"",
-      "latest_post_id": 4570,
+      "latest_post_id": 4571,
       "fetched": 20
     },
     {
@@ -138,7 +138,7 @@
     {
       "source": "https://vk.com/club59095536",
       "community": "МОУ \"Средняя школа №11\"",
-      "latest_post_id": 15124,
+      "latest_post_id": 15133,
       "fetched": 20
     },
     {
@@ -282,7 +282,7 @@
     {
       "source": "https://vk.com/public190278465",
       "community": "МАДОУ \"Центр развития ребёнка - детский сад №3\"",
-      "latest_post_id": 12186,
+      "latest_post_id": 12193,
       "fetched": 20
     },
     {
@@ -528,7 +528,7 @@
     {
       "source": "https://vk.com/public203695892",
       "community": "МДОУ \"Детский сад №78 комбинированного вида\"",
-      "latest_post_id": 2471,
+      "latest_post_id": 2474,
       "fetched": 20
     },
     {
@@ -672,7 +672,7 @@
     {
       "source": "https://vk.com/club166449275",
       "community": "Школа №9 | г.Саранск",
-      "latest_post_id": 8288,
+      "latest_post_id": 8289,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 8,
-  "mirrored_photos": 7,
-  "published_photos": 367,
+  "new_posts": 10,
+  "mirrored_photos": 9,
+  "published_photos": 364,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
