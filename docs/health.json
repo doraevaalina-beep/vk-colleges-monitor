@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29T14:28:04.885309Z",
+  "checked_at": "2026-09-29T15:29:28.982690Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -66,7 +66,7 @@
     {
       "source": "https://vk.com/gouspt",
       "community": "Саранский политехнический техникум",
-      "latest_post_id": 3842,
+      "latest_post_id": 3847,
       "fetched": 20
     },
     {
@@ -90,7 +90,7 @@
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9571,
+      "latest_post_id": 9572,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 70522,
+      "latest_post_id": 70527,
       "fetched": 20
     },
     {
@@ -684,7 +684,7 @@
     {
       "source": "https://vk.com/public1571309",
       "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26238,
+      "latest_post_id": 26241,
       "fetched": 20
     },
     {
@@ -708,7 +708,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 40052,
+      "latest_post_id": 40064,
       "fetched": 20
     },
     {
@@ -732,7 +732,7 @@
     {
       "source": "https://vk.com/public142331459",
       "community": "МОУ «Ялгинская СОШ» корпус 1 | Саранск",
-      "latest_post_id": 7187,
+      "latest_post_id": 7188,
       "fetched": 20
     },
     {
@@ -749,8 +749,8 @@
     },
     {
       "source": "https://vk.com/club206918978",
-      "community": "Николаевская школа | Саранск",
-      "latest_post_id": 8307,
+      "community": "Библиотека №12 Саранск (р.п.Николаевка)",
+      "latest_post_id": 8308,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 18,
-  "mirrored_photos": 4,
-  "published_photos": 382,
+  "new_posts": 11,
+  "mirrored_photos": 9,
+  "published_photos": 384,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
