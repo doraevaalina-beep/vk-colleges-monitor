@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29T07:28:05.795587Z",
+  "checked_at": "2026-09-29T08:29:17.105874Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -138,7 +138,7 @@
     {
       "source": "https://vk.com/club59095536",
       "community": "МОУ \"Средняя школа №11\"",
-      "latest_post_id": 15133,
+      "latest_post_id": 15135,
       "fetched": 20
     },
     {
@@ -156,13 +156,13 @@
     {
       "source": "https://vk.com/public166423723",
       "community": "МОУ \"Средняя школа № 41\"",
-      "latest_post_id": 2950,
+      "latest_post_id": 2951,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club129703276",
       "community": "Средняя школа №35 | Саранск",
-      "latest_post_id": 11626,
+      "latest_post_id": 11628,
       "fetched": 20
     },
     {
@@ -258,7 +258,7 @@
     {
       "source": "https://vk.com/public200569622",
       "community": "МАДОУ \"ЦРР - детский сад №4\"",
-      "latest_post_id": 9563,
+      "latest_post_id": 9568,
       "fetched": 20
     },
     {
@@ -618,7 +618,7 @@
     {
       "source": "https://vk.com/club351497",
       "community": "МОУ \"Лицей № 7\"",
-      "latest_post_id": 15483,
+      "latest_post_id": 15485,
       "fetched": 20
     },
     {
@@ -744,7 +744,7 @@
     {
       "source": "https://vk.com/public195089396",
       "community": "Гимназия 29",
-      "latest_post_id": 7497,
+      "latest_post_id": 7498,
       "fetched": 20
     },
     {
@@ -818,7 +818,7 @@
   ],
   "new_posts": 6,
   "mirrored_photos": 6,
-  "published_photos": 360,
+  "published_photos": 363,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
