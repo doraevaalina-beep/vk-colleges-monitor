@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-30T13:29:38.130492Z",
+  "checked_at": "2026-09-30T14:30:36.996706Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -102,7 +102,7 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 171378,
+      "latest_post_id": 171385,
       "fetched": 20
     },
     {
@@ -414,7 +414,7 @@
     {
       "source": "https://vk.com/club198991558",
       "community": "МДОУ \"Детский сад № 101\"",
-      "latest_post_id": 4792,
+      "latest_post_id": 4805,
       "fetched": 20
     },
     {
@@ -672,7 +672,7 @@
     {
       "source": "https://vk.com/club166449275",
       "community": "Школа №9 | г.Саранск",
-      "latest_post_id": 8293,
+      "latest_post_id": 8295,
       "fetched": 20
     },
     {
@@ -690,7 +690,7 @@
     {
       "source": "https://vk.com/public203691909",
       "community": "МОУ \"Средняя школа №37\"",
-      "latest_post_id": 5514,
+      "latest_post_id": 5516,
       "fetched": 20
     },
     {
@@ -714,7 +714,7 @@
     {
       "source": "https://vk.com/public171854359",
       "community": "МОУ «СОШ №22»",
-      "latest_post_id": 8669,
+      "latest_post_id": 8676,
       "fetched": 20
     },
     {
@@ -738,13 +738,13 @@
     {
       "source": "https://vk.com/club186187361",
       "community": "МОУ СОШ №2 им.Героя Советского Союза П.И.Орлова",
-      "latest_post_id": 5632,
+      "latest_post_id": 5635,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public195089396",
       "community": "Гимназия 29",
-      "latest_post_id": 7498,
+      "latest_post_id": 7499,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 8,
-  "mirrored_photos": 8,
-  "published_photos": 483,
+  "new_posts": 13,
+  "mirrored_photos": 13,
+  "published_photos": 491,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
