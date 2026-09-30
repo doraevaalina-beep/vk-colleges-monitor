@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-30T15:30:26.740026Z",
+  "checked_at": "2026-09-30T16:29:48.579248Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -71,8 +71,8 @@
     },
     {
       "source": "https://vk.com/public198480547",
-      "community": "МЛСПО - Молодежная лига СПО",
-      "latest_post_id": 2075,
+      "community": "Инсарский аграрный техникум",
+      "latest_post_id": 2077,
       "fetched": 20
     },
     {
@@ -132,7 +132,7 @@
     {
       "source": "https://vk.com/public207172998",
       "community": "#ПрямойЭфир «МОУ Озерная ООШ»",
-      "latest_post_id": 3097,
+      "latest_post_id": 3098,
       "fetched": 20
     },
     {
@@ -174,7 +174,7 @@
     {
       "source": "https://vk.com/public216577930",
       "community": "Гимназия №19 | г. Саранск",
-      "latest_post_id": 3361,
+      "latest_post_id": 3364,
       "fetched": 20
     },
     {
@@ -659,8 +659,8 @@
     },
     {
       "source": "https://vk.com/public171422852",
-      "community": "МОУ \" Средняя школа  №18\" г. Саранск",
-      "latest_post_id": 6110,
+      "community": "Движение Первых l Саранск",
+      "latest_post_id": 6111,
       "fetched": 20
     },
     {
@@ -672,7 +672,7 @@
     {
       "source": "https://vk.com/club166449275",
       "community": "Школа №9 | г.Саранск",
-      "latest_post_id": 8295,
+      "latest_post_id": 8296,
       "fetched": 20
     },
     {
@@ -726,7 +726,7 @@
     {
       "source": "https://vk.com/club526150",
       "community": "МОУ «Школа № 30» г. Саранск Республика Мордовия",
-      "latest_post_id": 6616,
+      "latest_post_id": 6623,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 13,
-  "mirrored_photos": 11,
-  "published_photos": 498,
+  "new_posts": 7,
+  "mirrored_photos": 6,
+  "published_photos": 501,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
