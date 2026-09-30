@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-30T14:30:36.996706Z",
+  "checked_at": "2026-09-30T15:30:26.740026Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -18,19 +18,19 @@
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10575,
+      "latest_post_id": 10577,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club181850079",
       "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4541,
+      "latest_post_id": 4542,
       "fetched": 20
     },
     {
       "source": "https://vk.com/ipc_hgo_mlclass_fv_informatica",
       "community": "Ичалковский педагогический колледж",
-      "latest_post_id": 6520,
+      "latest_post_id": 6522,
       "fetched": 20
     },
     {
@@ -77,8 +77,8 @@
     },
     {
       "source": "https://vk.com/stppp_professionalitet",
-      "community": "МЛСПО - Молодежная лига СПО",
-      "latest_post_id": 4724,
+      "community": "Медиацентр СТППП «Фокус13»",
+      "latest_post_id": 4726,
       "fetched": 20
     },
     {
@@ -102,7 +102,7 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 171385,
+      "latest_post_id": 171394,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 70664,
+      "latest_post_id": 70676,
       "fetched": 20
     },
     {
@@ -732,7 +732,7 @@
     {
       "source": "https://vk.com/public142331459",
       "community": "МОУ «Ялгинская СОШ» корпус 1 | Саранск",
-      "latest_post_id": 7192,
+      "latest_post_id": 7193,
       "fetched": 20
     },
     {
@@ -744,7 +744,7 @@
     {
       "source": "https://vk.com/public195089396",
       "community": "Гимназия 29",
-      "latest_post_id": 7499,
+      "latest_post_id": 7500,
       "fetched": 20
     },
     {
@@ -756,7 +756,7 @@
     {
       "source": "https://vk.com/club95243821",
       "community": "Мордва ZAнаших!",
-      "latest_post_id": 11567,
+      "latest_post_id": 11568,
       "fetched": 20
     },
     {
@@ -817,8 +817,8 @@
     }
   ],
   "new_posts": 13,
-  "mirrored_photos": 13,
-  "published_photos": 491,
+  "mirrored_photos": 11,
+  "published_photos": 498,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
