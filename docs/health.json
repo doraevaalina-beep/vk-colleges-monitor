@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-30T17:27:09.907685Z",
+  "checked_at": "2026-09-30T18:29:21.085938Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -12,19 +12,19 @@
     {
       "source": "https://vk.com/sst_rm",
       "community": "Саранский строительный техникум",
-      "latest_post_id": 14331,
+      "latest_post_id": 14335,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10577,
+      "latest_post_id": 10578,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club181850079",
       "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4542,
+      "latest_post_id": 4543,
       "fetched": 20
     },
     {
@@ -54,7 +54,7 @@
     {
       "source": "https://vk.com/club202849242",
       "community": "СТЭиЭТ им. А.И. Полежаева",
-      "latest_post_id": 3675,
+      "latest_post_id": 3676,
       "fetched": 20
     },
     {
@@ -108,7 +108,7 @@
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 10841,
+      "latest_post_id": 10842,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 70676,
+      "latest_post_id": 70738,
       "fetched": 20
     },
     {
@@ -522,7 +522,7 @@
     {
       "source": "https://vk.com/club209729369",
       "community": "МДОУ \"Детский сад №71\"",
-      "latest_post_id": 2728,
+      "latest_post_id": 2730,
       "fetched": 20
     },
     {
@@ -612,7 +612,7 @@
     {
       "source": "https://vk.com/public195117146",
       "community": "МОУ \"Ялгинская СОШ\" корпус 2 г.о.Саранск",
-      "latest_post_id": 3758,
+      "latest_post_id": 3759,
       "fetched": 20
     },
     {
@@ -648,7 +648,7 @@
     {
       "source": "https://vk.com/club154276223",
       "community": "МОУ \"Луховский лицей\"",
-      "latest_post_id": 5288,
+      "latest_post_id": 5289,
       "fetched": 20
     },
     {
@@ -774,7 +774,7 @@
     {
       "source": "https://vk.com/club48794793",
       "community": "Средняя общеобразовательная школа №1 г.о.Саранск",
-      "latest_post_id": 4588,
+      "latest_post_id": 4589,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 6,
-  "mirrored_photos": 5,
-  "published_photos": 506,
+  "new_posts": 14,
+  "mirrored_photos": 13,
+  "published_photos": 516,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
