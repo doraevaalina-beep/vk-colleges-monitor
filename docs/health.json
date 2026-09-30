@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-30T12:35:56.666592Z",
+  "checked_at": "2026-09-30T13:29:38.130492Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -53,8 +53,8 @@
     },
     {
       "source": "https://vk.com/club202849242",
-      "community": "МЛСПО - Молодежная лига СПО",
-      "latest_post_id": 3674,
+      "community": "СТЭиЭТ им. А.И. Полежаева",
+      "latest_post_id": 3675,
       "fetched": 20
     },
     {
@@ -102,7 +102,7 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 171376,
+      "latest_post_id": 171378,
       "fetched": 20
     },
     {
@@ -684,13 +684,13 @@
     {
       "source": "https://vk.com/public1571309",
       "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26242,
+      "latest_post_id": 26243,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public203691909",
       "community": "МОУ \"Средняя школа №37\"",
-      "latest_post_id": 5511,
+      "latest_post_id": 5514,
       "fetched": 20
     },
     {
@@ -786,7 +786,7 @@
     {
       "source": "https://vk.com/club153679543",
       "community": "СОШ №2 им. Героя Советского Союза П.И.Орлова к.2",
-      "latest_post_id": 5183,
+      "latest_post_id": 5185,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 42,
-  "mirrored_photos": 23,
-  "published_photos": 481,
+  "new_posts": 8,
+  "mirrored_photos": 8,
+  "published_photos": 483,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
