@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-09-30T16:29:48.579248Z",
+  "checked_at": "2026-09-30T17:27:09.907685Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
     {
       "source": "https://vk.com/samtrm",
       "community": "ГАПОУ РМ \"Саранский автомеханический техникум\"",
-      "latest_post_id": 12127,
+      "latest_post_id": 12129,
       "fetched": 20
     },
     {
@@ -138,7 +138,7 @@
     {
       "source": "https://vk.com/club59095536",
       "community": "МОУ \"Средняя школа №11\"",
-      "latest_post_id": 15144,
+      "latest_post_id": 15148,
       "fetched": 20
     },
     {
@@ -294,7 +294,7 @@
     {
       "source": "https://vk.com/club209740282",
       "community": "МАДОУ \"Центр развития ребенка-детский сад №2\"\"",
-      "latest_post_id": 2172,
+      "latest_post_id": 2173,
       "fetched": 20
     },
     {
@@ -732,7 +732,7 @@
     {
       "source": "https://vk.com/public142331459",
       "community": "МОУ «Ялгинская СОШ» корпус 1 | Саранск",
-      "latest_post_id": 7193,
+      "latest_post_id": 7195,
       "fetched": 20
     },
     {
@@ -762,7 +762,7 @@
     {
       "source": "https://vk.com/club153457218",
       "community": "Средняя школа №40 | Саранск",
-      "latest_post_id": 11818,
+      "latest_post_id": 11821,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 7,
-  "mirrored_photos": 6,
-  "published_photos": 501,
+  "new_posts": 6,
+  "mirrored_photos": 5,
+  "published_photos": 506,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
