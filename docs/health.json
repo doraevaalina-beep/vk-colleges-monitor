@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-30T10:28:02.743095Z",
+  "checked_at": "2026-09-30T11:25:21.766552Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -24,7 +24,7 @@
     {
       "source": "https://vk.com/club181850079",
       "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4538,
+      "latest_post_id": 4539,
       "fetched": 20
     },
     {
@@ -318,7 +318,7 @@
     {
       "source": "https://vk.com/public215650437",
       "community": "МАДОУ \"Центр развития ребёнка-детский сад №13\"",
-      "latest_post_id": 2033,
+      "latest_post_id": 2035,
       "fetched": 20
     },
     {
@@ -696,7 +696,7 @@
     {
       "source": "https://vk.com/public215663353",
       "community": "МОУ \"Средняя школа №5\" Саранск",
-      "latest_post_id": 5243,
+      "latest_post_id": 5245,
       "fetched": 20
     },
     {
@@ -750,7 +750,7 @@
     {
       "source": "https://vk.com/club206918978",
       "community": "Николаевская школа | Саранск",
-      "latest_post_id": 8309,
+      "latest_post_id": 8311,
       "fetched": 20
     },
     {
@@ -798,7 +798,7 @@
     {
       "source": "https://vk.com/club175038308",
       "community": "Школа №39 | Саранск",
-      "latest_post_id": 11589,
+      "latest_post_id": 11591,
       "fetched": 20
     }
   ],
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 27,
-  "mirrored_photos": 16,
-  "published_photos": 462,
+  "new_posts": 5,
+  "mirrored_photos": 4,
+  "published_photos": 465,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
