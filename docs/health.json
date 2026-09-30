@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-30T05:26:39.021253Z",
+  "checked_at": "2026-09-30T06:31:57.790968Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -12,13 +12,13 @@
     {
       "source": "https://vk.com/sst_rm",
       "community": "Саранский строительный техникум",
-      "latest_post_id": 14320,
+      "latest_post_id": 14326,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10569,
+      "latest_post_id": 10573,
       "fetched": 20
     },
     {
@@ -30,7 +30,7 @@
     {
       "source": "https://vk.com/ipc_hgo_mlclass_fv_informatica",
       "community": "Ичалковский педагогический колледж",
-      "latest_post_id": 6512,
+      "latest_post_id": 6516,
       "fetched": 20
     },
     {
@@ -156,13 +156,13 @@
     {
       "source": "https://vk.com/public166423723",
       "community": "МОУ \"Средняя школа № 41\"",
-      "latest_post_id": 2952,
+      "latest_post_id": 2953,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club129703276",
       "community": "Средняя школа №35 | Саранск",
-      "latest_post_id": 11629,
+      "latest_post_id": 11630,
       "fetched": 20
     },
     {
@@ -186,7 +186,7 @@
     {
       "source": "https://vk.com/club9874035",
       "community": "Лыжно-биатлонный комплекс. Федерация биатлона РМ",
-      "latest_post_id": 4567,
+      "latest_post_id": 4568,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 70603,
+      "latest_post_id": 70616,
       "fetched": 20
     },
     {
@@ -348,7 +348,7 @@
     {
       "source": "https://vk.com/club174792280",
       "community": "МАОУ \"СОШ №10\"",
-      "latest_post_id": 8283,
+      "latest_post_id": 8286,
       "fetched": 20
     },
     {
@@ -396,7 +396,7 @@
     {
       "source": "https://vk.com/club203700958",
       "community": "МДОУ \"Детский сад 127 комбинированного вида\"",
-      "latest_post_id": 2194,
+      "latest_post_id": 2196,
       "fetched": 20
     },
     {
@@ -528,7 +528,7 @@
     {
       "source": "https://vk.com/public203695892",
       "community": "МДОУ \"Детский сад №78 комбинированного вида\"",
-      "latest_post_id": 2474,
+      "latest_post_id": 2475,
       "fetched": 20
     },
     {
@@ -660,7 +660,7 @@
     {
       "source": "https://vk.com/public171422852",
       "community": "МОУ \" Средняя школа  №18\" г. Саранск",
-      "latest_post_id": 6104,
+      "latest_post_id": 6106,
       "fetched": 20
     },
     {
@@ -749,8 +749,8 @@
     },
     {
       "source": "https://vk.com/club206918978",
-      "community": "Библиотека №12 Саранск (р.п.Николаевка)",
-      "latest_post_id": 8308,
+      "community": "Николаевская школа | Саранск",
+      "latest_post_id": 8309,
       "fetched": 20
     },
     {
@@ -786,7 +786,7 @@
     {
       "source": "https://vk.com/club153679543",
       "community": "СОШ №2 им. Героя Советского Союза П.И.Орлова к.2",
-      "latest_post_id": 5179,
+      "latest_post_id": 5180,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 6,
-  "mirrored_photos": 4,
-  "published_photos": 425,
+  "new_posts": 17,
+  "mirrored_photos": 16,
+  "published_photos": 432,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
