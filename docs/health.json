@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-01T19:26:59.761676Z",
+  "checked_at": "2026-10-01T20:28:17.292514Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -324,7 +324,7 @@
     {
       "source": "https://vk.com/public215627488",
       "community": "МАДОУ «Центр развития ребенка - детский сад №90»",
-      "latest_post_id": 4761,
+      "latest_post_id": 4763,
       "fetched": 20
     },
     {
@@ -600,7 +600,7 @@
     {
       "source": "https://vk.com/club819936",
       "community": "МОУ \"Гимназия № 23\" г. о. Саранск",
-      "latest_post_id": 11128,
+      "latest_post_id": 11131,
       "fetched": 20
     },
     {
@@ -630,7 +630,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14772,
+      "latest_post_id": 14773,
       "fetched": 20
     },
     {
