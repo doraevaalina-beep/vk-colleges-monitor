@@ -1,0 +1,17 @@
+name: Actions runner test
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/actions-test.yml"
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Runner works
+        run: echo "GitHub Actions runner is working"
