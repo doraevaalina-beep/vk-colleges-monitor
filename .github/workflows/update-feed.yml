@@ -16,9 +16,10 @@ permissions:
   pages: write
   id-token: write
 
+# Use a fresh concurrency group to bypass the stale queue that started on Sep 30.
 concurrency:
-  group: vk-feed-update
-  cancel-in-progress: false
+  group: vk-feed-update-v2
+  cancel-in-progress: true
 
 jobs:
   update:
@@ -106,7 +107,7 @@ jobs:
           while IFS=$'\t' read -r asset_id asset_name; do
             if ! grep -Fq "$asset_name" docs/feed.json; then
               echo "Deleting old image asset: $asset_name"
-              gh api --method DELETE "repos/${GITHUB_REPOSITORY}/releases/assets/${asset_id}"
+              gh api --method DELETE "repos/${GITHUB_REPOSITORY}/releases/assets/$asset_id"
             fi
           done
 
@@ -133,7 +134,7 @@ jobs:
           while IFS=$'\t' read -r asset_id asset_name; do
             if [[ ! -f "docs/visuals/$asset_name" ]]; then
               echo "Deleting old visual asset: $asset_name"
-              gh api --method DELETE "repos/${GITHUB_REPOSITORY}/releases/assets/${asset_id}"
+              gh api --method DELETE "repos/${GITHUB_REPOSITORY}/releases/assets/$asset_id"
             fi
           done
 
