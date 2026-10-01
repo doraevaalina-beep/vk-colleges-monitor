@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-01T13:37:31.078452Z",
+  "checked_at": "2026-10-01T14:30:51.105548Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -18,7 +18,7 @@
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10583,
+      "latest_post_id": 10584,
       "fetched": 20
     },
     {
@@ -60,13 +60,13 @@
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 77564,
+      "latest_post_id": 77581,
       "fetched": 20
     },
     {
       "source": "https://vk.com/gouspt",
       "community": "Саранский политехнический техникум",
-      "latest_post_id": 3853,
+      "latest_post_id": 3854,
       "fetched": 20
     },
     {
@@ -90,7 +90,7 @@
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9592,
+      "latest_post_id": 9594,
       "fetched": 20
     },
     {
@@ -108,7 +108,7 @@
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 10843,
+      "latest_post_id": 10847,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 71155,
+      "latest_post_id": 71156,
       "fetched": 20
     },
     {
@@ -288,7 +288,7 @@
     {
       "source": "https://vk.com/public203694036",
       "community": "МАДОУ \"Центр развития ребенка - детский сад №46\"",
-      "latest_post_id": 6045,
+      "latest_post_id": 6046,
       "fetched": 20
     },
     {
@@ -528,7 +528,7 @@
     {
       "source": "https://vk.com/public203695892",
       "community": "МДОУ \"Детский сад №78 комбинированного вида\"",
-      "latest_post_id": 2479,
+      "latest_post_id": 2482,
       "fetched": 20
     },
     {
@@ -540,7 +540,7 @@
     {
       "source": "https://vk.com/public203696837",
       "community": "МДОУ \"Детский сад №85 комбинированного вида\"",
-      "latest_post_id": 7594,
+      "latest_post_id": 7596,
       "fetched": 20
     },
     {
@@ -684,7 +684,7 @@
     {
       "source": "https://vk.com/public1571309",
       "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26247,
+      "latest_post_id": 26250,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 265,
-  "mirrored_photos": 169,
-  "published_photos": 535,
+  "new_posts": 15,
+  "mirrored_photos": 13,
+  "published_photos": 538,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
