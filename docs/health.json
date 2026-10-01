@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-01T16:27:05.738647Z",
+  "checked_at": "2026-10-01T17:27:30.864165Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -18,7 +18,7 @@
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10584,
+      "latest_post_id": 10589,
       "fetched": 20
     },
     {
@@ -78,7 +78,7 @@
     {
       "source": "https://vk.com/stppp_professionalitet",
       "community": "Саранский техникум пищевой промышленности",
-      "latest_post_id": 4731,
+      "latest_post_id": 4732,
       "fetched": 20
     },
     {
@@ -102,7 +102,7 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 171487,
+      "latest_post_id": 171499,
       "fetched": 20
     },
     {
@@ -612,7 +612,7 @@
     {
       "source": "https://vk.com/public195117146",
       "community": "МОУ \"Ялгинская СОШ\" корпус 2 г.о.Саранск",
-      "latest_post_id": 3764,
+      "latest_post_id": 3765,
       "fetched": 20
     },
     {
@@ -648,7 +648,7 @@
     {
       "source": "https://vk.com/club154276223",
       "community": "МОУ \"Луховский лицей\"",
-      "latest_post_id": 5294,
+      "latest_post_id": 5295,
       "fetched": 20
     },
     {
@@ -744,7 +744,7 @@
     {
       "source": "https://vk.com/public195089396",
       "community": "Гимназия 29",
-      "latest_post_id": 7500,
+      "latest_post_id": 7503,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 13,
-  "mirrored_photos": 9,
-  "published_photos": 532,
+  "new_posts": 10,
+  "mirrored_photos": 7,
+  "published_photos": 534,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
