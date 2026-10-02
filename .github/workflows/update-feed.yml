@@ -30,6 +30,12 @@ jobs:
         with:
           ref: main
 
+      - name: Record workflow start
+        shell: bash
+        run: |
+          mkdir -p docs
+          printf '{\n  "run_id": "%s",\n  "event": "%s",\n  "started_at": "%s",\n  "status": "running"\n}\n' \
+            "$GITHUB_RUN_ID" "$GITHUB_EVENT_NAME" "$(date -u +%Y-%m-%dT%H:%M:%SZ)" > docs/workflow-status.json
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -162,3 +168,18 @@ jobs:
       - name: Deploy GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Record workflow result
+        if: always()
+        shell: bash
+        run: |
+          printf '{\n  "run_id": "%s",\n  "event": "%s",\n  "finished_at": "%s",\n  "status": "%s"\n}\n' \
+            "$GITHUB_RUN_ID" "$GITHUB_EVENT_NAME" "$(date -u +%Y-%m-%dT%H:%M:%SZ)" "${{ job.status }}" > docs/workflow-status.json
+          git config user.name "vk-feed-bot"
+          git config user.email "vk-feed-bot@users.noreply.github.com"
+          git add docs/workflow-status.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Record VK feed workflow status"
+            git pull --rebase origin main
+            git push
+          fi
