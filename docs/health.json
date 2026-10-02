@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-02T12:23:17.892587Z",
+  "checked_at": "2026-10-02T12:30:19.491737Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -12,7 +12,7 @@
     {
       "source": "https://vk.com/sst_rm",
       "community": "Саранский строительный техникум",
-      "latest_post_id": 14347,
+      "latest_post_id": 14350,
       "fetched": 20
     },
     {
@@ -102,7 +102,7 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 171499,
+      "latest_post_id": 171541,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 100,
-  "mirrored_photos": 48,
-  "published_photos": 581,
+  "new_posts": 4,
+  "mirrored_photos": 4,
+  "published_photos": 574,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
