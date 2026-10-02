@@ -148,7 +148,7 @@ jobs:
         run: |
           git config user.name "vk-feed-bot"
           git config user.email "vk-feed-bot@users.noreply.github.com"
-          git add state.json docs/feed.json docs/feed.xml docs/health.json
+          git add state.json docs/feed.json docs/feed.xml docs/health.json docs/workflow-status.json
           if git diff --cached --quiet; then
             echo "No feed changes"
           else
