@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-10-03T17:14:31.655173Z",
+  "checked_at": "2026-10-03T19:51:52.604697Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
     {
       "source": "https://vk.com/samtrm",
       "community": "ГАПОУ РМ \"Саранский автомеханический техникум\"",
-      "latest_post_id": 12146,
+      "latest_post_id": 12149,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 71663,
+      "latest_post_id": 71932,
       "fetched": 20
     },
     {
@@ -312,7 +312,7 @@
     {
       "source": "https://vk.com/club203705834",
       "community": "МАДОУ \"Центр развития ребёнка-детский сад 8\"",
-      "latest_post_id": 1535,
+      "latest_post_id": 1533,
       "fetched": 20
     },
     {
@@ -336,7 +336,7 @@
     {
       "source": "https://vk.com/public190001019",
       "community": "МАДОУ\"ЦРР - детский сад №17\"",
-      "latest_post_id": 3584,
+      "latest_post_id": 3585,
       "fetched": 20
     },
     {
@@ -606,7 +606,7 @@
     {
       "source": "https://vk.com/public92009976",
       "community": "Гимназия №20",
-      "latest_post_id": 9686,
+      "latest_post_id": 9690,
       "fetched": 20
     },
     {
@@ -630,7 +630,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14781,
+      "latest_post_id": 14782,
       "fetched": 20
     },
     {
@@ -762,7 +762,7 @@
     {
       "source": "https://vk.com/club153457218",
       "community": "Средняя школа №40 | Саранск",
-      "latest_post_id": 11836,
+      "latest_post_id": 11837,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 17,
-  "mirrored_photos": 9,
-  "published_photos": 469,
+  "new_posts": 9,
+  "mirrored_photos": 8,
+  "published_photos": 459,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
