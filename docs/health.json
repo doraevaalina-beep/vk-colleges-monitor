@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-04T19:35:02.571344Z",
+  "checked_at": "2026-10-04T23:05:51.073559Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -84,7 +84,7 @@
     {
       "source": "https://vk.com/club182790665",
       "community": "ГБПОУ РМ \"Зубово-Полянский аграрный техникум\"",
-      "latest_post_id": 2682,
+      "latest_post_id": 2685,
       "fetched": 20
     },
     {
@@ -630,7 +630,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14787,
+      "latest_post_id": 14791,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 17,
-  "mirrored_photos": 13,
-  "published_photos": 286,
+  "new_posts": 2,
+  "mirrored_photos": 2,
+  "published_photos": 284,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
