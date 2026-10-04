@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-04T09:42:58.401781Z",
+  "checked_at": "2026-10-04T15:20:49.944878Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -18,7 +18,7 @@
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10597,
+      "latest_post_id": 10601,
       "fetched": 20
     },
     {
@@ -66,7 +66,7 @@
     {
       "source": "https://vk.com/gouspt",
       "community": "Саранский политехнический техникум",
-      "latest_post_id": 3854,
+      "latest_post_id": 3855,
       "fetched": 20
     },
     {
@@ -102,7 +102,7 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 171635,
+      "latest_post_id": 171655,
       "fetched": 20
     },
     {
@@ -120,7 +120,7 @@
     {
       "source": "https://vk.com/kaskrm",
       "community": "Ковылкинский аграрно-строительный колледж",
-      "latest_post_id": 16376,
+      "latest_post_id": 16408,
       "fetched": 20
     },
     {
@@ -144,7 +144,7 @@
     {
       "source": "https://vk.com/club148125790",
       "community": "38tv - Новости",
-      "latest_post_id": 9542,
+      "latest_post_id": 9544,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 71974,
+      "latest_post_id": 71979,
       "fetched": 20
     },
     {
@@ -282,7 +282,7 @@
     {
       "source": "https://vk.com/public190278465",
       "community": "МАДОУ \"Центр развития ребёнка - детский сад №3\"",
-      "latest_post_id": 12230,
+      "latest_post_id": 12231,
       "fetched": 20
     },
     {
@@ -305,7 +305,7 @@
     },
     {
       "source": "https://vk.com/public215649429",
-      "community": "МАДОУ \"Центр развития ребёнка- детский сад № 14\"",
+      "community": "Поволжский центр культур финно-угорских народов",
       "latest_post_id": 8001,
       "fetched": 20
     },
@@ -324,7 +324,7 @@
     {
       "source": "https://vk.com/public215627488",
       "community": "МАДОУ «Центр развития ребенка - детский сад №90»",
-      "latest_post_id": 4778,
+      "latest_post_id": 4780,
       "fetched": 20
     },
     {
@@ -444,7 +444,7 @@
     {
       "source": "https://vk.com/public202722758",
       "community": "МДОУ \"Детский сад №122 комбинированного вида\"",
-      "latest_post_id": 4754,
+      "latest_post_id": 4758,
       "fetched": 20
     },
     {
@@ -564,7 +564,7 @@
     {
       "source": "https://vk.com/club190273034",
       "community": "МДОУ \"Детский сад №98\"",
-      "latest_post_id": 3758,
+      "latest_post_id": 3759,
       "fetched": 20
     },
     {
@@ -606,7 +606,7 @@
     {
       "source": "https://vk.com/public92009976",
       "community": "Гимназия №20",
-      "latest_post_id": 9690,
+      "latest_post_id": 9691,
       "fetched": 20
     },
     {
@@ -648,7 +648,7 @@
     {
       "source": "https://vk.com/club154276223",
       "community": "МОУ \"Луховский лицей\"",
-      "latest_post_id": 5298,
+      "latest_post_id": 5302,
       "fetched": 20
     },
     {
@@ -684,13 +684,13 @@
     {
       "source": "https://vk.com/public1571309",
       "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26294,
+      "latest_post_id": 26300,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public203691909",
       "community": "МОУ \"Средняя школа №37\"",
-      "latest_post_id": 5524,
+      "latest_post_id": 5525,
       "fetched": 20
     },
     {
@@ -708,7 +708,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 40250,
+      "latest_post_id": 40271,
       "fetched": 20
     },
     {
@@ -738,7 +738,7 @@
     {
       "source": "https://vk.com/club186187361",
       "community": "МОУ СОШ №2 им.Героя Советского Союза П.И.Орлова",
-      "latest_post_id": 5638,
+      "latest_post_id": 5640,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 86,
-  "mirrored_photos": 27,
-  "published_photos": 484,
+  "new_posts": 19,
+  "mirrored_photos": 14,
+  "published_photos": 320,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
