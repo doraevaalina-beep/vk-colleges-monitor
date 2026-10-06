@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-05T18:23:26.140591Z",
+  "checked_at": "2026-10-06T00:47:01.775606Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -222,7 +222,7 @@
     {
       "source": "https://vk.com/public215721033",
       "community": "МАДОУ \"Детский сад № 36\" Г.О. Саранск",
-      "latest_post_id": 2773,
+      "latest_post_id": 2775,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 72195,
+      "latest_post_id": 72239,
       "fetched": 20
     },
     {
@@ -456,7 +456,7 @@
     {
       "source": "https://vk.com/club201381445",
       "community": "МДОУ \"Детский сад №125 комбинированного вида\"",
-      "latest_post_id": 2790,
+      "latest_post_id": 2792,
       "fetched": 20
     },
     {
@@ -684,13 +684,13 @@
     {
       "source": "https://vk.com/public1571309",
       "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26351,
+      "latest_post_id": 26363,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public203691909",
       "community": "МОУ \"Средняя школа №37\"",
-      "latest_post_id": 5538,
+      "latest_post_id": 5540,
       "fetched": 20
     },
     {
@@ -708,7 +708,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 40350,
+      "latest_post_id": 40363,
       "fetched": 20
     },
     {
@@ -774,7 +774,7 @@
     {
       "source": "https://vk.com/club48794793",
       "community": "Средняя общеобразовательная школа №1 г.о.Саранск",
-      "latest_post_id": 4610,
+      "latest_post_id": 4611,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 158,
-  "mirrored_photos": 85,
-  "published_photos": 304,
+  "new_posts": 9,
+  "mirrored_photos": 7,
+  "published_photos": 287,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
