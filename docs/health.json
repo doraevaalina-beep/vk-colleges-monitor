@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-06T20:15:29.621633Z",
+  "checked_at": "2026-10-06T23:50:50.323890Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -90,7 +90,7 @@
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9637,
+      "latest_post_id": 9639,
       "fetched": 20
     },
     {
@@ -558,7 +558,7 @@
     {
       "source": "https://vk.com/club201164476",
       "community": "МДОУ \"Детский сад №97 комбинированного вида\"",
-      "latest_post_id": 5538,
+      "latest_post_id": 5539,
       "fetched": 20
     },
     {
@@ -593,8 +593,8 @@
     },
     {
       "source": "https://vk.com/club166487726",
-      "community": "Ожившая история Старого Саранска",
-      "latest_post_id": 7206,
+      "community": "Гимназия № 12 | Саранск",
+      "latest_post_id": 7207,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 44,
-  "mirrored_photos": 42,
-  "published_photos": 371,
+  "new_posts": 2,
+  "mirrored_photos": 1,
+  "published_photos": 372,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
