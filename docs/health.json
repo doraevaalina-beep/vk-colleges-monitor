@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-07T19:57:57.523446Z",
+  "checked_at": "2026-10-08T00:10:34.300999Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -222,7 +222,7 @@
     {
       "source": "https://vk.com/public215721033",
       "community": "МАДОУ \"Детский сад № 36\" Г.О. Саранск",
-      "latest_post_id": 2777,
+      "latest_post_id": 2778,
       "fetched": 20
     },
     {
@@ -330,7 +330,7 @@
     {
       "source": "https://vk.com/public202712770",
       "community": "МАДОУ «Центр развития ребёнка - детский сад №6»",
-      "latest_post_id": 4833,
+      "latest_post_id": 4837,
       "fetched": 20
     },
     {
@@ -546,7 +546,7 @@
     {
       "source": "https://vk.com/public190325366",
       "community": "МДОУ \"Детский сад №91 компенсирующего вида\"",
-      "latest_post_id": 2411,
+      "latest_post_id": 2425,
       "fetched": 20
     },
     {
@@ -684,7 +684,7 @@
     {
       "source": "https://vk.com/public1571309",
       "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26373,
+      "latest_post_id": 26374,
       "fetched": 20
     },
     {
@@ -816,8 +816,8 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 70,
-  "mirrored_photos": 55,
+  "new_posts": 4,
+  "mirrored_photos": 2,
   "published_photos": 496,
   "image_errors": [],
   "built_visuals": 0,
