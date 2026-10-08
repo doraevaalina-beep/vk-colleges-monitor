@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-10-08T13:23:02.938194Z",
+  "checked_at": "2026-10-08T19:55:32.831042Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
     {
       "source": "https://vk.com/samtrm",
       "community": "ГАПОУ РМ \"Саранский автомеханический техникум\"",
-      "latest_post_id": 12150,
+      "latest_post_id": 12152,
       "fetched": 20
     },
     {
       "source": "https://vk.com/sst_rm",
       "community": "Саранский строительный техникум",
-      "latest_post_id": 14390,
+      "latest_post_id": 14391,
       "fetched": 20
     },
     {
@@ -60,7 +60,7 @@
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 77896,
+      "latest_post_id": 77921,
       "fetched": 20
     },
     {
@@ -90,13 +90,13 @@
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9649,
+      "latest_post_id": 9660,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club7503608",
       "community": "ГБПОУ РМ \"Кемлянский аграрный колледж\"",
-      "latest_post_id": 4587,
+      "latest_post_id": 4588,
       "fetched": 20
     },
     {
@@ -144,7 +144,7 @@
     {
       "source": "https://vk.com/club148125790",
       "community": "38tv - Новости",
-      "latest_post_id": 9572,
+      "latest_post_id": 9575,
       "fetched": 20
     },
     {
@@ -174,13 +174,13 @@
     {
       "source": "https://vk.com/public216577930",
       "community": "Гимназия №19 | г. Саранск",
-      "latest_post_id": 3407,
+      "latest_post_id": 3411,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public144012777",
       "community": "Лицей №43, г. Саранск",
-      "latest_post_id": 6722,
+      "latest_post_id": 6727,
       "fetched": 20
     },
     {
@@ -240,13 +240,13 @@
     {
       "source": "https://vk.com/club192448163",
       "community": "МАДОУ \"Детский сад №59\"",
-      "latest_post_id": 4026,
+      "latest_post_id": 4028,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 72904,
+      "latest_post_id": 73004,
       "fetched": 20
     },
     {
@@ -270,7 +270,7 @@
     {
       "source": "https://vk.com/public203690288",
       "community": "МАДОУ \"Центр развития ребенка - детский сад № 9\"",
-      "latest_post_id": 4927,
+      "latest_post_id": 4930,
       "fetched": 20
     },
     {
@@ -288,7 +288,7 @@
     {
       "source": "https://vk.com/public203694036",
       "community": "МАДОУ \"Центр развития ребенка - детский сад №46\"",
-      "latest_post_id": 6058,
+      "latest_post_id": 6059,
       "fetched": 20
     },
     {
@@ -324,19 +324,19 @@
     {
       "source": "https://vk.com/public215627488",
       "community": "МАДОУ «Центр развития ребенка - детский сад №90»",
-      "latest_post_id": 4797,
+      "latest_post_id": 4799,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public202712770",
       "community": "МАДОУ «Центр развития ребёнка - детский сад №6»",
-      "latest_post_id": 4840,
+      "latest_post_id": 4841,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public190001019",
       "community": "МАДОУ\"ЦРР - детский сад №17\"",
-      "latest_post_id": 3588,
+      "latest_post_id": 3589,
       "fetched": 20
     },
     {
@@ -402,7 +402,7 @@
     {
       "source": "https://vk.com/public198735544",
       "community": "МДОУ \"Детский сад 29\"",
-      "latest_post_id": 3563,
+      "latest_post_id": 3566,
       "fetched": 20
     },
     {
@@ -414,7 +414,7 @@
     {
       "source": "https://vk.com/club198991558",
       "community": "МДОУ \"Детский сад № 101\"",
-      "latest_post_id": 4813,
+      "latest_post_id": 4814,
       "fetched": 20
     },
     {
@@ -580,12 +580,6 @@
       "fetched": 20
     },
     {
-      "source": "https://vk.com/club210719786",
-      "community": "МДОУ\"Детский сад №117\"",
-      "latest_post_id": 1020,
-      "fetched": 20
-    },
-    {
       "source": "https://vk.com/club203390062",
       "community": "МДОУ\"Детский сад №86 комбинированного вида\"",
       "latest_post_id": 2621,
@@ -611,14 +605,14 @@
     },
     {
       "source": "https://vk.com/public195117146",
-      "community": "ГБОДОРМ \"РЦДОД\"",
-      "latest_post_id": 3779,
+      "community": "МОУ \"Ялгинская СОШ\" корпус 2 г.о.Саранск",
+      "latest_post_id": 3785,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club351497",
       "community": "МОУ \"Лицей № 7\"",
-      "latest_post_id": 15526,
+      "latest_post_id": 15527,
       "fetched": 20
     },
     {
@@ -629,8 +623,8 @@
     },
     {
       "source": "https://vk.com/club129705914",
-      "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14831,
+      "community": "Первые МОУ \"Лицей №26\"",
+      "latest_post_id": 14835,
       "fetched": 20
     },
     {
@@ -648,7 +642,7 @@
     {
       "source": "https://vk.com/club154276223",
       "community": "МОУ \"Луховский лицей\"",
-      "latest_post_id": 5313,
+      "latest_post_id": 5318,
       "fetched": 20
     },
     {
@@ -672,7 +666,7 @@
     {
       "source": "https://vk.com/club166449275",
       "community": "Школа №9 | г.Саранск",
-      "latest_post_id": 8392,
+      "latest_post_id": 8393,
       "fetched": 20
     },
     {
@@ -684,13 +678,13 @@
     {
       "source": "https://vk.com/public1571309",
       "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26374,
+      "latest_post_id": 26376,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public203691909",
-      "community": "МОУ \"Средняя школа №37\"",
-      "latest_post_id": 5558,
+      "community": "ДЭО \"Зелёный мир\"",
+      "latest_post_id": 5560,
       "fetched": 20
     },
     {
@@ -708,7 +702,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 40404,
+      "latest_post_id": 40415,
       "fetched": 20
     },
     {
@@ -762,7 +756,7 @@
     {
       "source": "https://vk.com/club153457218",
       "community": "Средняя школа №40 | Саранск",
-      "latest_post_id": 11863,
+      "latest_post_id": 11865,
       "fetched": 20
     },
     {
@@ -774,7 +768,7 @@
     {
       "source": "https://vk.com/club48794793",
       "community": "Средняя общеобразовательная школа №1 г.о.Саранск",
-      "latest_post_id": 4626,
+      "latest_post_id": 4627,
       "fetched": 20
     },
     {
@@ -812,13 +806,17 @@
       "error": "VK error 15: Access denied: this wall available only for community members"
     },
     {
+      "source": "https://vk.com/club210719786",
+      "error": "HTTPSConnectionPool(host='api.vk.com', port=443): Read timed out."
+    },
+    {
       "source": "https://vk.com/club172415002",
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 162,
-  "mirrored_photos": 97,
-  "published_photos": 521,
+  "new_posts": 48,
+  "mirrored_photos": 45,
+  "published_photos": 486,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
