@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-08T19:55:32.831042Z",
+  "checked_at": "2026-10-09T00:20:37.073886Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -174,7 +174,7 @@
     {
       "source": "https://vk.com/public216577930",
       "community": "Гимназия №19 | г. Саранск",
-      "latest_post_id": 3411,
+      "latest_post_id": 3414,
       "fetched": 20
     },
     {
@@ -580,6 +580,12 @@
       "fetched": 20
     },
     {
+      "source": "https://vk.com/club210719786",
+      "community": "МДОУ\"Детский сад №117\"",
+      "latest_post_id": 1020,
+      "fetched": 20
+    },
+    {
       "source": "https://vk.com/club203390062",
       "community": "МДОУ\"Детский сад №86 комбинированного вида\"",
       "latest_post_id": 2621,
@@ -743,8 +749,8 @@
     },
     {
       "source": "https://vk.com/club206918978",
-      "community": "Николаевская школа | Саранск",
-      "latest_post_id": 8336,
+      "community": "Навигаторы Детства | Мордовия",
+      "latest_post_id": 8339,
       "fetched": 20
     },
     {
@@ -780,7 +786,7 @@
     {
       "source": "https://vk.com/club153679543",
       "community": "СОШ №2 им. Героя Советского Союза П.И.Орлова к.2",
-      "latest_post_id": 5190,
+      "latest_post_id": 5191,
       "fetched": 20
     },
     {
@@ -806,17 +812,13 @@
       "error": "VK error 15: Access denied: this wall available only for community members"
     },
     {
-      "source": "https://vk.com/club210719786",
-      "error": "HTTPSConnectionPool(host='api.vk.com', port=443): Read timed out."
-    },
-    {
       "source": "https://vk.com/club172415002",
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 48,
-  "mirrored_photos": 45,
-  "published_photos": 486,
+  "new_posts": 5,
+  "mirrored_photos": 4,
+  "published_photos": 490,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
