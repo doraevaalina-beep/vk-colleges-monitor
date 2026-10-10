@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-10-10T18:32:50.761302Z",
+  "checked_at": "2026-10-10T22:28:59.250912Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
     {
       "source": "https://vk.com/samtrm",
       "community": "ГАПОУ РМ \"Саранский автомеханический техникум\"",
-      "latest_post_id": 12152,
+      "latest_post_id": 12155,
       "fetched": 20
     },
     {
@@ -324,7 +324,7 @@
     {
       "source": "https://vk.com/public215627488",
       "community": "МАДОУ «Центр развития ребенка - детский сад №90»",
-      "latest_post_id": 4803,
+      "latest_post_id": 4806,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 11,
-  "mirrored_photos": 8,
-  "published_photos": 497,
+  "new_posts": 3,
+  "mirrored_photos": 1,
+  "published_photos": 444,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
