@@ -1,6 +1,6 @@
 {
   "run_id": "38010511077",
   "event": "schedule",
-  "started_at": "2026-10-10T00:46:59Z",
-  "status": "running"
+  "finished_at": "2026-10-10T00:50:31Z",
+  "status": "success"
 }
