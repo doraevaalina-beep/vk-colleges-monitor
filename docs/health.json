@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-10T13:37:30.351558Z",
+  "checked_at": "2026-10-10T18:32:50.761302Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -12,7 +12,7 @@
     {
       "source": "https://vk.com/sst_rm",
       "community": "Саранский строительный техникум",
-      "latest_post_id": 14395,
+      "latest_post_id": 14397,
       "fetched": 20
     },
     {
@@ -72,13 +72,13 @@
     {
       "source": "https://vk.com/public198480547",
       "community": "Инсарский аграрный техникум",
-      "latest_post_id": 2099,
+      "latest_post_id": 2100,
       "fetched": 20
     },
     {
       "source": "https://vk.com/stppp_professionalitet",
       "community": "Саранский техникум пищевой промышленности",
-      "latest_post_id": 4754,
+      "latest_post_id": 4755,
       "fetched": 20
     },
     {
@@ -107,8 +107,8 @@
     },
     {
       "source": "https://vk.com/official_page_sgpek",
-      "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 10916,
+      "community": "Спортивный клуб \"Здоровое поколение\" СГПЭК",
+      "latest_post_id": 10922,
       "fetched": 20
     },
     {
@@ -120,7 +120,7 @@
     {
       "source": "https://vk.com/kaskrm",
       "community": "Ковылкинский аграрно-строительный колледж",
-      "latest_post_id": 16871,
+      "latest_post_id": 16944,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 73455,
+      "latest_post_id": 73572,
       "fetched": 20
     },
     {
@@ -593,8 +593,8 @@
     },
     {
       "source": "https://vk.com/club166487726",
-      "community": "Ожившая история Старого Саранска",
-      "latest_post_id": 7220,
+      "community": "Гимназия № 12 | Саранск",
+      "latest_post_id": 7221,
       "fetched": 20
     },
     {
@@ -611,8 +611,8 @@
     },
     {
       "source": "https://vk.com/public195117146",
-      "community": "Министерство образования Республики Мордовия",
-      "latest_post_id": 3800,
+      "community": "МОУ \"Ялгинская СОШ\" корпус 2 г.о.Саранск",
+      "latest_post_id": 3801,
       "fetched": 20
     },
     {
@@ -665,8 +665,8 @@
     },
     {
       "source": "https://vk.com/public92799833",
-      "community": "Министерство образования Республики Мордовия",
-      "latest_post_id": 7708,
+      "community": "МОУ \"Средняя школа №33\"",
+      "latest_post_id": 7710,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 28,
-  "mirrored_photos": 19,
-  "published_photos": 490,
+  "new_posts": 11,
+  "mirrored_photos": 8,
+  "published_photos": 497,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
