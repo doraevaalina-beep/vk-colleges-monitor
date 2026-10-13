@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-12T22:56:07.526373Z",
+  "checked_at": "2026-10-13T03:31:32.394355Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -19,6 +19,12 @@
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
       "latest_post_id": 10653,
+      "fetched": 20
+    },
+    {
+      "source": "https://vk.com/club181850079",
+      "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
+      "latest_post_id": 4586,
       "fetched": 20
     },
     {
@@ -73,6 +79,12 @@
       "source": "https://vk.com/stppp_professionalitet",
       "community": "Саранский техникум пищевой промышленности",
       "latest_post_id": 4759,
+      "fetched": 20
+    },
+    {
+      "source": "https://vk.com/club182790665",
+      "community": "ГБПОУ РМ \"Зубово-Полянский аграрный техникум\"",
+      "latest_post_id": 2712,
       "fetched": 20
     },
     {
@@ -216,7 +228,7 @@
     {
       "source": "https://vk.com/public172429704",
       "community": "МАДОУ \"Детский сад № 80\"",
-      "latest_post_id": 4130,
+      "latest_post_id": 4136,
       "fetched": 20
     },
     {
@@ -792,14 +804,6 @@
   ],
   "errors": [
     {
-      "source": "https://vk.com/club181850079",
-      "error": "HTTPSConnectionPool(host='api.vk.com', port=443): Read timed out. (read timeout=20)"
-    },
-    {
-      "source": "https://vk.com/club182790665",
-      "error": "HTTPSConnectionPool(host='api.vk.com', port=443): Read timed out."
-    },
-    {
       "source": "https://vk.com/public190127747",
       "error": "VK error 15: Access denied: this wall available only for community members"
     },
@@ -812,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 30,
-  "mirrored_photos": 27,
-  "published_photos": 224,
+  "new_posts": 1,
+  "mirrored_photos": 1,
+  "published_photos": 225,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
