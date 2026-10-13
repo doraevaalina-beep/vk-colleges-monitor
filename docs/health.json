@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-13T19:14:10.544144Z",
+  "checked_at": "2026-10-13T23:16:54.608151Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -144,7 +144,7 @@
     {
       "source": "https://vk.com/club148125790",
       "community": "38tv - Новости",
-      "latest_post_id": 9621,
+      "latest_post_id": 9624,
       "fetched": 20
     },
     {
@@ -816,16 +816,10 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 91,
-  "mirrored_photos": 74,
-  "published_photos": 325,
-  "image_errors": [
-    {
-      "post_url": "https://vk.com/wall-194191689_74094",
-      "photo_url": "https://sun9-81.userapi.com/s/v1/ig2/flqhnsjCHrEUlAEhYyOXek8GSBOngTAju2jPstoKXX07zjMY6HE-ImOejKelxE57zDZm5z1oVaLWIoqTp1nYtijU.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080&from=bu&cs=1080x0",
-      "error": "HTTPSConnectionPool(host='sun9-81.userapi.com', port=443): Read timed out. (read timeout=30)"
-    }
-  ],
+  "new_posts": 2,
+  "mirrored_photos": 3,
+  "published_photos": 326,
+  "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
   "reused_visuals": 0,
