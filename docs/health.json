@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-13T23:16:54.608151Z",
+  "checked_at": "2026-10-14T04:48:05.716381Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -7,12 +7,6 @@
       "source": "https://vk.com/samtrm",
       "community": "ГАПОУ РМ \"Саранский автомеханический техникум\"",
       "latest_post_id": 12160,
-      "fetched": 20
-    },
-    {
-      "source": "https://vk.com/sst_rm",
-      "community": "Саранский строительный техникум",
-      "latest_post_id": 14417,
       "fetched": 20
     },
     {
@@ -228,7 +222,7 @@
     {
       "source": "https://vk.com/public172429704",
       "community": "МАДОУ \"Детский сад № 80\"",
-      "latest_post_id": 4136,
+      "latest_post_id": 4138,
       "fetched": 20
     },
     {
@@ -246,7 +240,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 74110,
+      "latest_post_id": 74163,
       "fetched": 20
     },
     {
@@ -444,7 +438,7 @@
     {
       "source": "https://vk.com/public202722758",
       "community": "МДОУ \"Детский сад №122 комбинированного вида\"",
-      "latest_post_id": 4775,
+      "latest_post_id": 4779,
       "fetched": 20
     },
     {
@@ -678,13 +672,13 @@
     {
       "source": "https://vk.com/public129692291",
       "community": "МОУ \"Средняя общеобразовательная школа №28\"",
-      "latest_post_id": 8758,
+      "latest_post_id": 8763,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public1571309",
       "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26400,
+      "latest_post_id": 26403,
       "fetched": 20
     },
     {
@@ -804,6 +798,10 @@
   ],
   "errors": [
     {
+      "source": "https://vk.com/sst_rm",
+      "error": "HTTPSConnectionPool(host='api.vk.com', port=443): Read timed out. (read timeout=20)"
+    },
+    {
       "source": "https://vk.com/public190127747",
       "error": "VK error 15: Access denied: this wall available only for community members"
     },
@@ -816,9 +814,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 2,
-  "mirrored_photos": 3,
-  "published_photos": 326,
+  "new_posts": 6,
+  "mirrored_photos": 5,
+  "published_photos": 329,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
