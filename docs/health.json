@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-16T19:56:40.358275Z",
+  "checked_at": "2026-10-16T22:49:05.195420Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -41,8 +41,8 @@
     },
     {
       "source": "https://vk.com/zppk_official",
-      "community": "Навигаторы детства ЗППК",
-      "latest_post_id": 4769,
+      "community": "Зубово-Полянский педагогический колледж",
+      "latest_post_id": 4770,
       "fetched": 20
     },
     {
@@ -144,7 +144,7 @@
     {
       "source": "https://vk.com/club148125790",
       "community": "38tv - Новости",
-      "latest_post_id": 9727,
+      "latest_post_id": 9730,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 75420,
+      "latest_post_id": 75445,
       "fetched": 20
     },
     {
@@ -540,7 +540,7 @@
     {
       "source": "https://vk.com/public203696837",
       "community": "МДОУ \"Детский сад №85 комбинированного вида\"",
-      "latest_post_id": 7658,
+      "latest_post_id": 7661,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 47,
-  "mirrored_photos": 43,
-  "published_photos": 662,
+  "new_posts": 7,
+  "mirrored_photos": 5,
+  "published_photos": 667,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
