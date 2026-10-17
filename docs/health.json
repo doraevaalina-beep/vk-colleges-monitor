@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-17T18:28:14.849200Z",
+  "checked_at": "2026-10-17T21:26:32.549257Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -24,7 +24,7 @@
     {
       "source": "https://vk.com/club181850079",
       "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4605,
+      "latest_post_id": 4606,
       "fetched": 20
     },
     {
@@ -89,8 +89,8 @@
     },
     {
       "source": "https://vk.com/public208110632",
-      "community": "СТСУиПТ",
-      "latest_post_id": 9703,
+      "community": "Команда Промомед&Биохимик",
+      "latest_post_id": 9708,
       "fetched": 20
     },
     {
@@ -144,7 +144,7 @@
     {
       "source": "https://vk.com/club148125790",
       "community": "38tv - Новости",
-      "latest_post_id": 9733,
+      "latest_post_id": 9741,
       "fetched": 20
     },
     {
@@ -174,7 +174,7 @@
     {
       "source": "https://vk.com/public216577930",
       "community": "Гимназия №19 | г. Саранск",
-      "latest_post_id": 3450,
+      "latest_post_id": 3454,
       "fetched": 20
     },
     {
@@ -216,19 +216,19 @@
     {
       "source": "https://vk.com/public202707820",
       "community": "МАДОУ \"Детский сад № 104 комбинированного вида\"",
-      "latest_post_id": 4908,
+      "latest_post_id": 4909,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public215721033",
       "community": "МАДОУ \"Детский сад № 36\" Г.О. Саранск",
-      "latest_post_id": 2791,
+      "latest_post_id": 2792,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public172429704",
       "community": "МАДОУ \"Детский сад № 80\"",
-      "latest_post_id": 4154,
+      "latest_post_id": 4155,
       "fetched": 20
     },
     {
@@ -264,7 +264,7 @@
     {
       "source": "https://vk.com/public209745083",
       "community": "МАДОУ \"Центр развития ребенка - детский сад № 58",
-      "latest_post_id": 2084,
+      "latest_post_id": 2085,
       "fetched": 20
     },
     {
@@ -305,7 +305,7 @@
     },
     {
       "source": "https://vk.com/public215649429",
-      "community": "НТМ || Народное Телевидение Мордовии",
+      "community": "МАДОУ \"Центр развития ребёнка- детский сад № 14\"",
       "latest_post_id": 8001,
       "fetched": 20
     },
@@ -324,7 +324,7 @@
     {
       "source": "https://vk.com/public215627488",
       "community": "МАДОУ «Центр развития ребенка - детский сад №90»",
-      "latest_post_id": 4869,
+      "latest_post_id": 4882,
       "fetched": 20
     },
     {
@@ -378,7 +378,7 @@
     {
       "source": "https://vk.com/public215647525",
       "community": "МДОУ \"ДЕТСКИЙ САД№88\"",
-      "latest_post_id": 1537,
+      "latest_post_id": 1538,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 30,
-  "mirrored_photos": 25,
-  "published_photos": 688,
+  "new_posts": 17,
+  "mirrored_photos": 11,
+  "published_photos": 660,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
