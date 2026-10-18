@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-18T20:37:16.490759Z",
+  "checked_at": "2026-10-18T23:08:15.092774Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -816,111 +816,10 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 23,
-  "mirrored_photos": 29,
-  "published_photos": 601,
-  "image_errors": [
-    {
-      "post_url": "https://vk.com/wall-153457218_11940",
-      "photo_url": "https://sun9-7.userapi.com/s/v1/ig2/VWZCt-_aN0AWCjwMZ7KMjPe513suPa_gez5IvAXzNh2vNieR3bXRu-eBA2-tqYin0OWZ2Rjhgj9inJ0b920rpV3I.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&cs=1080x0",
-      "error": "429 Client Error: Too Many Requests for url: https://sun9-7.userapi.com/s/v1/ig2/VWZCt-_aN0AWCjwMZ7KMjPe513suPa_gez5IvAXzNh2vNieR3bXRu-eBA2-tqYin0OWZ2Rjhgj9inJ0b920rpV3I.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,"
-    },
-    {
-      "post_url": "https://vk.com/wall-153457218_11940",
-      "photo_url": "https://sun9-54.userapi.com/s/v1/ig2/9sDPW5j5Wao_rVzvAzB1O46PMGZCP1HfdZrm8CSJKoVIISxe4warxy5elhf3YWHtJA9nHKOPOZylQFtc9cHZiCRf.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&cs=1080x0",
-      "error": "429 Client Error: Too Many Requests for url: https://sun9-54.userapi.com/s/v1/ig2/9sDPW5j5Wao_rVzvAzB1O46PMGZCP1HfdZrm8CSJKoVIISxe4warxy5elhf3YWHtJA9nHKOPOZylQFtc9cHZiCRf.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920"
-    },
-    {
-      "post_url": "https://vk.com/wall-205295806_1452",
-      "photo_url": "https://sun9-63.userapi.com/s/v1/ig2/aUObglllal87ZhIjdEKuW7QVb0BGIDqt9JxNQrgaUKbqDugSH8oZTrPKF2iwbpZ2nJRZqHOA9LPfQXJiCwiv8rHK.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920&from=bu&cs=1080x0",
-      "error": "429 Client Error: Too Many Requests for url: https://sun9-63.userapi.com/s/v1/ig2/aUObglllal87ZhIjdEKuW7QVb0BGIDqt9JxNQrgaUKbqDugSH8oZTrPKF2iwbpZ2nJRZqHOA9LPfQXJiCwiv8rHK.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920"
-    },
-    {
-      "post_url": "https://vk.com/wall-198991558_4885",
-      "photo_url": "https://sun9-62.userapi.com/s/v1/ig2/SFnrvT9pevOEBJGwT_lbs8waxyqGGbK7t7qhzdsZzj3ztNZ_WrI-gXmODjJ-zn0DcRwL8WaGF_N62CSZEnxozaKp.jpg?quality=95&as=32x45,48x68,72x102,108x153,160x226,240x340,360x510,480x679,540x764,640x906,720x1019,763x1080&from=bu&cs=763x0",
-      "error": "429 Client Error: Too Many Requests for url: https://sun9-62.userapi.com/s/v1/ig2/SFnrvT9pevOEBJGwT_lbs8waxyqGGbK7t7qhzdsZzj3ztNZ_WrI-gXmODjJ-zn0DcRwL8WaGF_N62CSZEnxozaKp.jpg?quality=95&as=32x45,48x68,72x102,108x153,160x226,240x340,360x510,480x679,540x764,640x906,720x1019,763x1080&from=bu&cs=763x0"
-    },
-    {
-      "post_url": "https://vk.com/wall-154501666_2125",
-      "photo_url": "https://sun9-81.userapi.com/s/v1/ig2/Y4r11PtZFZgXb1oh0tyKxIlQmDMQs7fsbO9j7NLr89qjC8Yq7BD2FCk5cXsAbC0mXZ3I7WN6jM5homV_3nxJ5pHP.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,1920x1440&from=bu&cs=1280x0",
-      "error": "429 Client Error: Too Many Requests for url: https://sun9-81.userapi.com/s/v1/ig2/Y4r11PtZFZgXb1oh0tyKxIlQmDMQs7fsbO9j7NLr89qjC8Yq7BD2FCk5cXsAbC0mXZ3I7WN6jM5homV_3nxJ5pHP.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,19"
-    },
-    {
-      "post_url": "https://vk.com/wall-144012777_6766",
-      "photo_url": "https://sun9-51.userapi.com/s/v1/ig2/fylGLyjk9_ZLRBGiTDemX4R-lJKysL9Ee8HIoTeKUXc4TZ76Xsv-XR30RqSahzKMHffDKMd-9ap-YTeKf6Q4sInU.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-51.userapi.com/s/v1/ig2/fylGLyjk9_ZLRBGiTDemX4R-lJKysL9Ee8HIoTeKUXc4TZ76Xsv-XR30RqSahzKMHffDKMd-9ap-YTeKf6Q4sInU.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&"
-    },
-    {
-      "post_url": "https://vk.com/wall-144012777_6766",
-      "photo_url": "https://sun9-72.userapi.com/s/v1/ig2/-NYrtaJC8OgL9kfhzA21umBYdQPaF9SeRiCbX1zHHl-7F3GILZYyFeNBwkw_EOc-azQMOLYOeZ87CHnQ6G9lw4pP.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&from=bu&cs=1280x0",
-      "error": "429 Client Error: Too Many Requests for url: https://sun9-72.userapi.com/s/v1/ig2/-NYrtaJC8OgL9kfhzA21umBYdQPaF9SeRiCbX1zHHl-7F3GILZYyFeNBwkw_EOc-azQMOLYOeZ87CHnQ6G9lw4pP.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,25"
-    },
-    {
-      "post_url": "https://vk.com/wall-144012777_6766",
-      "photo_url": "https://sun9-49.userapi.com/s/v1/ig2/LQU-4hyJvKqyjPwDEdUd2CLhdqvBfMEsyVPtR8mV8n3tB4waZAHl6auWXcxN2VCmex258te420Xcsa6k9zxgOmkP.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&from=bu&cs=1280x0",
-      "error": "429 Client Error: Too Many Requests for url: https://sun9-49.userapi.com/s/v1/ig2/LQU-4hyJvKqyjPwDEdUd2CLhdqvBfMEsyVPtR8mV8n3tB4waZAHl6auWXcxN2VCmex258te420Xcsa6k9zxgOmkP.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,25"
-    },
-    {
-      "post_url": "https://vk.com/wall-215627488_4896",
-      "photo_url": "https://sun9-7.userapi.com/s/v1/ig2/8KkXMJoPpQ9zaO0uOkxbU2vM_ly0p-f-HwSsI7q2Mb5ADRDeA_p1HF70KPjIwncd7qmbSgjKpapkrsWfZ5NZKUxX.jpg?quality=95&crop=0,0,1920,1920&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,1920x1920&from=bu&cs=1280x0",
-      "error": "429 Client Error: Too Many Requests for url: https://sun9-7.userapi.com/s/v1/ig2/8KkXMJoPpQ9zaO0uOkxbU2vM_ly0p-f-HwSsI7q2Mb5ADRDeA_p1HF70KPjIwncd7qmbSgjKpapkrsWfZ5NZKUxX.jpg?quality=95&crop=0,0,1920,1920&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1"
-    },
-    {
-      "post_url": "https://vk.com/wall-103710305_4223",
-      "photo_url": "https://sun9-39.userapi.com/s/v1/ig2/jiAHJBT_mqFKSLktsteWnnlvflQjSx54mPUAOeMy4EzZHu7yFCaWvIs577GeIOzb4lB8Vm5M9KpC5oooHj7jA2m6.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x319,360x479,480x638,540x718,640x851,720x957,968x1287&from=bu&cs=968x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-39.userapi.com/s/v1/ig2/jiAHJBT_mqFKSLktsteWnnlvflQjSx54mPUAOeMy4EzZHu7yFCaWvIs577GeIOzb4lB8Vm5M9KpC5oooHj7jA2m6.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x319,360x479,480x638,540x718,640x851,720x957,968x1287&from=bu&cs=968x0"
-    },
-    {
-      "post_url": "https://vk.com/wall-103710305_4221",
-      "photo_url": "https://sun9-68.userapi.com/s/v1/ig2/EAxu-JLUmzwFnDfFahedu65EF1b97U8aMsBa9qZaQcJK033ELE7gBVE4LILyATs94cGrwhtlDmGwLDv2LKxFiJ_eeGVjKw.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707&from=bu&cs=1080x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-68.userapi.com/s/v1/ig2/EAxu-JLUmzwFnDfFahedu65EF1b97U8aMsBa9qZaQcJK033ELE7gBVE4LILyATs94cGrwhtlDmGwLDv2LKxFiJ_eeGVjKw.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707&from=bu&cs="
-    },
-    {
-      "post_url": "https://vk.com/wall-194961488_1633",
-      "photo_url": "https://sun9-40.userapi.com/s/v1/ig2/UvbpaCVDPPDcJgSj0kU_qT8DFhZo4l9JuQRRQLFTwKop6eMOLw5Qcm_1f8XP8jykBo2D5p1AkHlU6hHhEy3MHOMuM9aoWA.jpg?quality=95&crop=0,0,2000,2000&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2000x2000&from=bu&cs=1280x0",
-      "error": "429 Client Error: Too Many Requests for url: https://sun9-40.userapi.com/s/v1/ig2/UvbpaCVDPPDcJgSj0kU_qT8DFhZo4l9JuQRRQLFTwKop6eMOLw5Qcm_1f8XP8jykBo2D5p1AkHlU6hHhEy3MHOMuM9aoWA.jpg?quality=95&crop=0,0,2000,2000&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080"
-    },
-    {
-      "post_url": "https://vk.com/wall-194961488_1633",
-      "photo_url": "https://sun9-53.userapi.com/s/v1/ig2/nliBJPTg_1thcKHdlh1-fGdHKseIS-vlotUiMhPWVdpU7nXTyOFETrc_yaJ8oXWAejVH5dRl_RdMFWezd2q0cJVK.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2000x2000&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-53.userapi.com/s/v1/ig2/nliBJPTg_1thcKHdlh1-fGdHKseIS-vlotUiMhPWVdpU7nXTyOFETrc_yaJ8oXWAejVH5dRl_RdMFWezd2q0cJVK.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2000x20"
-    },
-    {
-      "post_url": "https://vk.com/wall-203690288_4963",
-      "photo_url": "https://sun9-71.userapi.com/s/v1/ig2/ETbY7fgOxvoHmXVeNwRrY2dr0jCvBORRSMOI0YTX0ASef5IyaXKUfF04aT9tRb2ymhrjYTzmkx7toeVnsoodujP4.jpg?quality=95&crop=0,0,1920,1920&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,1920x1920&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-71.userapi.com/s/v1/ig2/ETbY7fgOxvoHmXVeNwRrY2dr0jCvBORRSMOI0YTX0ASef5IyaXKUfF04aT9tRb2ymhrjYTzmkx7toeVnsoodujP4.jpg?quality=95&crop=0,0,1920,1920&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x128"
-    },
-    {
-      "post_url": "https://vk.com/wall-203690288_4963",
-      "photo_url": "https://sun9-81.userapi.com/s/v1/ig2/qG-Brsn08gRGzmouWnNU-tJ6BRsLsE_LQN7vvKhN-FdZByiLRmR4Ae1fJ8RZJE19oaxz4exq8j_yIbGtAb4tJ0aE.jpg?quality=95&as=32x22,48x32,72x49,108x73,160x108,240x162,360x243,480x324,540x364,640x432,720x486,1080x729,1280x863,1440x971,2560x1727&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-81.userapi.com/s/v1/ig2/qG-Brsn08gRGzmouWnNU-tJ6BRsLsE_LQN7vvKhN-FdZByiLRmR4Ae1fJ8RZJE19oaxz4exq8j_yIbGtAb4tJ0aE.jpg?quality=95&as=32x22,48x32,72x49,108x73,160x108,240x162,360x243,480x324,540x364,640x432,720x486,1080x729,1280x863,1440x971,2560x1727&f"
-    },
-    {
-      "post_url": "https://vk.com/wall-48794793_4657",
-      "photo_url": "https://sun9-70.userapi.com/s/v1/ig2/IehQM_zpgJKwMK7Hzs1wcl7ymxTuKPR_IGwuiDYw4j7JV5YAwB4A5sQR-Zkx965ZvCbN70P8NrNIW5GxKrDDMvCi.jpg?quality=95&as=32x22,48x34,72x51,108x76,160x112,240x169,360x253,480x337,540x380,640x450,720x506,1080x759,1280x900&from=bu&cs=1280x0",
-      "error": "429 Client Error: Too Many Requests for url: https://sun9-70.userapi.com/s/v1/ig2/IehQM_zpgJKwMK7Hzs1wcl7ymxTuKPR_IGwuiDYw4j7JV5YAwB4A5sQR-Zkx965ZvCbN70P8NrNIW5GxKrDDMvCi.jpg?quality=95&as=32x22,48x34,72x51,108x76,160x112,240x169,360x253,480x337,540x380,640x450,720x506,1080x759,1280x900&from=bu&cs=1"
-    },
-    {
-      "post_url": "https://vk.com/wall-194191689_76017",
-      "photo_url": "https://sun9-62.userapi.com/s/v1/ig2/12CyvsLYycQtjRSKMp43rNK60VEFJ58C-tqfxtr_wyHLu-QtUA8QY9AHMBiEz5HB3OMKUvlssxbTi0YOnfZHl39o.jpg?quality=95&crop=0,0,1129,1600&as=32x45,48x68,72x102,108x153,160x227,240x340,360x510,480x680,540x765,640x907,720x1020,1080x1531,1129x1600&from=bu&cs=1129x0",
-      "error": "429 Client Error: Too Many Requests for url: https://sun9-62.userapi.com/s/v1/ig2/12CyvsLYycQtjRSKMp43rNK60VEFJ58C-tqfxtr_wyHLu-QtUA8QY9AHMBiEz5HB3OMKUvlssxbTi0YOnfZHl39o.jpg?quality=95&crop=0,0,1129,1600&as=32x45,48x68,72x102,108x153,160x227,240x340,360x510,480x680,540x765,640x907,720x1020,1080x153"
-    },
-    {
-      "post_url": "https://vk.com/wall-142331459_7349",
-      "photo_url": "https://sun9-46.userapi.com/s/v1/ig2/JQZu7N-KScG4O9RARliWeWWDb9U0D5UwR5wNcNvaAZUf0CjL43ytTrdyJC9Sp4OrJsowkeEpsH5EFSFWMtv-7nhp.jpg?quality=95&crop=0,0,2365,2560&as=32x35,48x52,72x78,108x117,160x173,240x260,360x390,480x520,540x585,640x693,720x779,1080x1169,1280x1386,1440x1559,2365x2560&from=bu&cs=1280x0",
-      "error": "429 Client Error: Too Many Requests for url: https://sun9-46.userapi.com/s/v1/ig2/JQZu7N-KScG4O9RARliWeWWDb9U0D5UwR5wNcNvaAZUf0CjL43ytTrdyJC9Sp4OrJsowkeEpsH5EFSFWMtv-7nhp.jpg?quality=95&crop=0,0,2365,2560&as=32x35,48x52,72x78,108x117,160x173,240x260,360x390,480x520,540x585,640x693,720x779,1080x1169,"
-    },
-    {
-      "post_url": "https://vk.com/wall-203694036_6082",
-      "photo_url": "https://sun9-54.userapi.com/s/v1/ig2/cCn7diey4Vj4ySM0zDUd7EqxVOvauQgy0NsGUuM_WwAygyWSSpBop9bDEz6Crrbs2t9Z0nMq6-z1pUjdDisFllzU.jpg?quality=95&as=32x23,48x34,72x52,108x77,160x114,240x172,360x258,480x343,540x386,640x458,720x515,1080x773,1280x916,1440x1030,1920x1374&from=bu&cs=1280x0",
-      "error": "429 Client Error: Too Many Requests for url: https://sun9-54.userapi.com/s/v1/ig2/cCn7diey4Vj4ySM0zDUd7EqxVOvauQgy0NsGUuM_WwAygyWSSpBop9bDEz6Crrbs2t9Z0nMq6-z1pUjdDisFllzU.jpg?quality=95&as=32x23,48x34,72x52,108x77,160x114,240x172,360x258,480x343,540x386,640x458,720x515,1080x773,1280x916,1440x1030,19"
-    },
-    {
-      "post_url": "https://vk.com/wall-202722758_4828",
-      "photo_url": "https://sun9-39.userapi.com/s/v1/ig2/iTRBhc3Yzp6V_NVO1Eo3Bx512VKGWyr-ewb5DIZo0D3jkxIs_8OnCy9B-dpLEtrdI-ZCmzJ7d2CluCYqavL9Oz7U.jpg?quality=95&crop=0,0,1920,2560&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&cs=1080x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-39.userapi.com/s/v1/ig2/iTRBhc3Yzp6V_NVO1Eo3Bx512VKGWyr-ewb5DIZo0D3jkxIs_8OnCy9B-dpLEtrdI-ZCmzJ7d2CluCYqavL9Oz7U.jpg?quality=95&crop=0,0,1920,2560&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x170"
-    }
-  ],
+  "new_posts": 0,
+  "mirrored_photos": 15,
+  "published_photos": 594,
+  "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
   "reused_visuals": 0,
