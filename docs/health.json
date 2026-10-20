@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T15:02:31.984983Z",
+  "checked_at": "2026-10-20T19:12:54.265791Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -18,13 +18,13 @@
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10741,
+      "latest_post_id": 10742,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club181850079",
       "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4613,
+      "latest_post_id": 4615,
       "fetched": 20
     },
     {
@@ -107,8 +107,8 @@
     },
     {
       "source": "https://vk.com/official_page_sgpek",
-      "community": "Добровольцы Мордовии",
-      "latest_post_id": 10997,
+      "community": "ГБПОУ РМ \"СГПЭК\"",
+      "latest_post_id": 11002,
       "fetched": 20
     },
     {
@@ -126,7 +126,7 @@
     {
       "source": "https://vk.com/club34313558",
       "community": "ГБПОУ РМ \"Краснослободский аграрный техникум\"",
-      "latest_post_id": 3115,
+      "latest_post_id": 3116,
       "fetched": 20
     },
     {
@@ -168,7 +168,7 @@
     {
       "source": "https://vk.com/club103710305",
       "community": "МОУ \"Школа №27\" г. Саранск Республика Мордовия",
-      "latest_post_id": 4235,
+      "latest_post_id": 4236,
       "fetched": 20
     },
     {
@@ -222,13 +222,13 @@
     {
       "source": "https://vk.com/public215721033",
       "community": "МАДОУ \"Детский сад № 36\" Г.О. Саранск",
-      "latest_post_id": 2795,
+      "latest_post_id": 2796,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public172429704",
       "community": "МАДОУ \"Детский сад № 80\"",
-      "latest_post_id": 4166,
+      "latest_post_id": 4164,
       "fetched": 20
     },
     {
@@ -240,13 +240,13 @@
     {
       "source": "https://vk.com/club192448163",
       "community": "МАДОУ \"Детский сад №59\"",
-      "latest_post_id": 4069,
+      "latest_post_id": 4070,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 76599,
+      "latest_post_id": 76761,
       "fetched": 20
     },
     {
@@ -264,7 +264,7 @@
     {
       "source": "https://vk.com/public209745083",
       "community": "МАДОУ \"Центр развития ребенка - детский сад № 58",
-      "latest_post_id": 2093,
+      "latest_post_id": 2094,
       "fetched": 20
     },
     {
@@ -300,7 +300,7 @@
     {
       "source": "https://vk.com/club200695555",
       "community": "МАДОУ \"Центр развития ребёнка - детский сад №73\"",
-      "latest_post_id": 1412,
+      "latest_post_id": 1413,
       "fetched": 20
     },
     {
@@ -324,7 +324,7 @@
     {
       "source": "https://vk.com/public215627488",
       "community": "МАДОУ «Центр развития ребенка - детский сад №90»",
-      "latest_post_id": 4914,
+      "latest_post_id": 4921,
       "fetched": 20
     },
     {
@@ -336,7 +336,7 @@
     {
       "source": "https://vk.com/public190001019",
       "community": "МАДОУ\"ЦРР - детский сад №17\"",
-      "latest_post_id": 3613,
+      "latest_post_id": 3615,
       "fetched": 20
     },
     {
@@ -450,7 +450,7 @@
     {
       "source": "https://vk.com/public215650649",
       "community": "МДОУ \"Детский сад №124 комбинированного вида\"",
-      "latest_post_id": 3482,
+      "latest_post_id": 3483,
       "fetched": 20
     },
     {
@@ -486,7 +486,7 @@
     {
       "source": "https://vk.com/club194961488",
       "community": "МДОУ \"Детский сад №40\" г.о. Саранск",
-      "latest_post_id": 1633,
+      "latest_post_id": 1636,
       "fetched": 20
     },
     {
@@ -540,7 +540,7 @@
     {
       "source": "https://vk.com/public203696837",
       "community": "МДОУ \"Детский сад №85 комбинированного вида\"",
-      "latest_post_id": 7683,
+      "latest_post_id": 7689,
       "fetched": 20
     },
     {
@@ -612,7 +612,7 @@
     {
       "source": "https://vk.com/public195117146",
       "community": "МОУ \"Ялгинская СОШ\" корпус 2 г.о.Саранск",
-      "latest_post_id": 3842,
+      "latest_post_id": 3845,
       "fetched": 20
     },
     {
@@ -624,13 +624,13 @@
     {
       "source": "https://vk.com/club154501666",
       "community": "МОУ \"Лицей №25\"",
-      "latest_post_id": 2136,
+      "latest_post_id": 2137,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14895,
+      "latest_post_id": 14896,
       "fetched": 20
     },
     {
@@ -678,7 +678,7 @@
     {
       "source": "https://vk.com/public129692291",
       "community": "МОУ \"Средняя общеобразовательная школа №28\"",
-      "latest_post_id": 8791,
+      "latest_post_id": 8792,
       "fetched": 20
     },
     {
@@ -690,7 +690,7 @@
     {
       "source": "https://vk.com/public203691909",
       "community": "МОУ \"Средняя школа №37\"",
-      "latest_post_id": 5600,
+      "latest_post_id": 5601,
       "fetched": 20
     },
     {
@@ -708,7 +708,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 40856,
+      "latest_post_id": 40861,
       "fetched": 20
     },
     {
@@ -738,7 +738,7 @@
     {
       "source": "https://vk.com/club186187361",
       "community": "МОУ СОШ №2 им.Героя Советского Союза П.И.Орлова",
-      "latest_post_id": 5717,
+      "latest_post_id": 5720,
       "fetched": 20
     },
     {
@@ -762,7 +762,7 @@
     {
       "source": "https://vk.com/club153457218",
       "community": "Средняя школа №40 | Саранск",
-      "latest_post_id": 11955,
+      "latest_post_id": 11956,
       "fetched": 20
     },
     {
@@ -774,13 +774,13 @@
     {
       "source": "https://vk.com/club48794793",
       "community": "Средняя общеобразовательная школа №1 г.о.Саранск",
-      "latest_post_id": 4669,
+      "latest_post_id": 4670,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club205295806",
       "community": "Структурное подразделение \"Детский сад №16 \"",
-      "latest_post_id": 1459,
+      "latest_post_id": 1465,
       "fetched": 20
     },
     {
@@ -816,19 +816,29 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 186,
-  "mirrored_photos": 84,
-  "published_photos": 572,
+  "new_posts": 39,
+  "mirrored_photos": 36,
+  "published_photos": 577,
   "image_errors": [
     {
-      "post_url": "https://vk.com/wall-198991558_4902",
-      "photo_url": "https://sun9-7.userapi.com/s/v1/ig2/8Uj_tKWqsTRBeCQGfp_sQ_XZ2DdSS_8COmNY8BQ3H6Ft7cU5AVaL9jPZymI7tOyWXED6n6AJGs_cGqfIVDuS4lof.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2000x2000&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-7.userapi.com/s/v1/ig2/8Uj_tKWqsTRBeCQGfp_sQ_XZ2DdSS_8COmNY8BQ3H6Ft7cU5AVaL9jPZymI7tOyWXED6n6AJGs_cGqfIVDuS4lof.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2000x200"
+      "post_url": "https://vk.com/wall-48794793_4670",
+      "photo_url": "https://sun9-62.userapi.com/s/v1/ig2/L3R9odbNH63QuMyPbH7PgW8KiLrP1nXw_aoFgMHxhB_4WAGTQgnicjnBkGacWZZAFbZSc6sFgoMUvFfcaRx7U1TM.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&from=bu&cs=1280x0",
+      "error": "404 Client Error: Not Found for url: https://sun9-62.userapi.com/s/v1/ig2/L3R9odbNH63QuMyPbH7PgW8KiLrP1nXw_aoFgMHxhB_4WAGTQgnicjnBkGacWZZAFbZSc6sFgoMUvFfcaRx7U1TM.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&"
     },
     {
-      "post_url": "https://vk.com/wall-181850079_4613",
-      "photo_url": "https://sun9-40.userapi.com/s/v1/ig2/C5_Et0oYPxiteeZsZRVb-COhVNIOhxeufAAKX9YPHXf6vzj1gmPJspaFtImFWKZelkwyvl84dwC_ym6PQqP1ddGE.jpg?quality=95&crop=0,0,1920,1306&as=32x22,48x33,72x49,108x73,160x109,240x163,360x245,480x326,540x367,640x435,720x490,1080x735,1280x871,1440x979,1920x1306&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-40.userapi.com/s/v1/ig2/C5_Et0oYPxiteeZsZRVb-COhVNIOhxeufAAKX9YPHXf6vzj1gmPJspaFtImFWKZelkwyvl84dwC_ym6PQqP1ddGE.jpg?quality=95&crop=0,0,1920,1306&as=32x22,48x33,72x49,108x73,160x109,240x163,360x245,480x326,540x367,640x435,720x490,1080x735,1280x871,1"
+      "post_url": "https://vk.com/wall-203691909_5601",
+      "photo_url": "https://sun9-54.userapi.com/s/v1/ig2/GS_o-aBvdllXyTcRQ4pf46Xzgjt2ef8X2DiEFeB1taKdgo8eik_20pYBWqjnSDmd6HLng5yd8Y1aAdH7ujF2iixT.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,1920x1440&from=bu&cs=1280x0",
+      "error": "404 Client Error: Not Found for url: https://sun9-54.userapi.com/s/v1/ig2/GS_o-aBvdllXyTcRQ4pf46Xzgjt2ef8X2DiEFeB1taKdgo8eik_20pYBWqjnSDmd6HLng5yd8Y1aAdH7ujF2iixT.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,1920x1440&"
+    },
+    {
+      "post_url": "https://vk.com/wall-215650649_3483",
+      "photo_url": "https://sun9-71.userapi.com/s/v1/ig2/8YU6tGvCejlavY235tEGEgFg0QOftFwyHBPiIGnDGk4AjH_PQQ9PIWqvYrAP6roORW2Z3E7hkbApQC-iTU0QWbEZ.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&cs=1080x0",
+      "error": "404 Client Error: Not Found for url: https://sun9-71.userapi.com/s/v1/ig2/8YU6tGvCejlavY235tEGEgFg0QOftFwyHBPiIGnDGk4AjH_PQQ9PIWqvYrAP6roORW2Z3E7hkbApQC-iTU0QWbEZ.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x25"
+    },
+    {
+      "post_url": "https://vk.com/wall-195117146_3845",
+      "photo_url": "https://sun9-70.userapi.com/s/v1/ig2/qSXttTOKka5v3yapsfJkUMiO3AAiYunZYL3z7lWMsyuNSEDkFbJxeTu7F-Q-caMQGs-TbRN233A0PaJtmzaTj0Sz.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,1920x1440&from=bu&cs=1280x0",
+      "error": "404 Client Error: Not Found for url: https://sun9-70.userapi.com/s/v1/ig2/qSXttTOKka5v3yapsfJkUMiO3AAiYunZYL3z7lWMsyuNSEDkFbJxeTu7F-Q-caMQGs-TbRN233A0PaJtmzaTj0Sz.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,1920x1440&"
     },
     {
       "post_url": "https://vk.com/wall-213660027_172824",
@@ -836,49 +846,14 @@
       "error": "404 Client Error: Not Found for url: https://sun9-2.userapi.com/s/v1/ig2/pRyB7YbJcFau-e63PqbhscKZTux5jAsmwN9qY3dwl-Z715jJadsprkEOPD76I6vcbzCMQsMXZg1VERHlzmYmBvo3.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&f"
     },
     {
-      "post_url": "https://vk.com/wall-213660027_172824",
-      "photo_url": "https://sun9-87.userapi.com/s/v1/ig2/PSRw3n8DIPjJZeTfz1Z9X0wXfYqTiHIeUtqP6XII_NxykuNCHMFCIPiwBuevM3T63L3FL95ofF1ZjRCjE8H050m8.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-87.userapi.com/s/v1/ig2/PSRw3n8DIPjJZeTfz1Z9X0wXfYqTiHIeUtqP6XII_NxykuNCHMFCIPiwBuevM3T63L3FL95ofF1ZjRCjE8H050m8.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&"
-    },
-    {
-      "post_url": "https://vk.com/wall-194191689_76556",
-      "photo_url": "https://sun9-50.userapi.com/s/v1/ig2/kmcy-iGV4xCYvP0M4_TH8-EVNc7_tsaIlHxpPnrO402wRKDxMosHikufeQbYoKXqtYO56vJBZ9m4A-mORnOqVYeV.jpg?quality=95&crop=0,0,2560,1920&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-50.userapi.com/s/v1/ig2/kmcy-iGV4xCYvP0M4_TH8-EVNc7_tsaIlHxpPnrO402wRKDxMosHikufeQbYoKXqtYO56vJBZ9m4A-mORnOqVYeV.jpg?quality=95&crop=0,0,2560,1920&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1"
-    },
-    {
-      "post_url": "https://vk.com/wall-526150_6686",
-      "photo_url": "https://sun9-48.userapi.com/s/v1/ig2/Xk41F8QAWFIsU6LOjQlyv19jvivSkUv6O47lS0KI_JkFsrD4NTvNqRIXyg33Ajjvh_eahZSosvPwMSC9dL8GvORY.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707&from=bu&cs=1080x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-48.userapi.com/s/v1/ig2/Xk41F8QAWFIsU6LOjQlyv19jvivSkUv6O47lS0KI_JkFsrD4NTvNqRIXyg33Ajjvh_eahZSosvPwMSC9dL8GvORY.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707&from=bu&cs=1080x0"
-    },
-    {
-      "post_url": "https://vk.com/wall-153679543_5206",
-      "photo_url": "https://sun9-63.userapi.com/s/v1/ig2/M4M1cnahdw2Kg35l-7VU6fsXAXwNpM8GU9l5sYlLmPS7jHXmghgEf_OwI6qOehCII1RMXm5dIALZkZ6B16zgHysJ.jpg?quality=95&as=32x49,48x74,72x111,108x166,160x247,240x370,360x555,480x740,540x832,640x986,720x1109,1080x1664,1246x1920&from=bu&cs=640x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-63.userapi.com/s/v1/ig2/M4M1cnahdw2Kg35l-7VU6fsXAXwNpM8GU9l5sYlLmPS7jHXmghgEf_OwI6qOehCII1RMXm5dIALZkZ6B16zgHysJ.jpg?quality=95&as=32x49,48x74,72x111,108x166,160x247,240x370,360x555,480x740,540x832,640x986,720x1109,1080x1664,1246x1920&from=bu&cs=640x"
-    },
-    {
       "post_url": "https://vk.com/wall-153679543_5204",
       "photo_url": "https://sun9-37.userapi.com/s/v1/ig2/GLXJobgCUlKWhyaDi0xBHG7YkAFgf0Q7KLXBS5hTdMaqvh9qMii8S108yIRD_bHzdKcGfF6znykvCYXPkeprbthL.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x181,360x271,480x361,540x407,640x482,720x542,1080x813,1280x964,1440x1084,1920x1446&from=bu&cs=1280x0",
       "error": "404 Client Error: Not Found for url: https://sun9-37.userapi.com/s/v1/ig2/GLXJobgCUlKWhyaDi0xBHG7YkAFgf0Q7KLXBS5hTdMaqvh9qMii8S108yIRD_bHzdKcGfF6znykvCYXPkeprbthL.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x181,360x271,480x361,540x407,640x482,720x542,1080x813,1280x964,1440x1084,1920x1446&"
     },
     {
-      "post_url": "https://vk.com/wall-174792280_8413",
-      "photo_url": "https://sun9-46.userapi.com/s/v1/ig2/1EQCLdBtw8MOSu-bU9HIfRG-BgwHWDoS3RaiHRvRhAiJD95JPiJ1pTP09Zi-SJ25cvjm1MqNKSQ8nbZtLdK5j3M-.jpg?quality=95&as=32x41,48x61,72x92,108x138,160x204,240x306,360x458,480x611,540x688,640x815,720x917,1080x1375,1280x1630,1320x1681&from=bu&cs=1080x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-46.userapi.com/s/v1/ig2/1EQCLdBtw8MOSu-bU9HIfRG-BgwHWDoS3RaiHRvRhAiJD95JPiJ1pTP09Zi-SJ25cvjm1MqNKSQ8nbZtLdK5j3M-.jpg?quality=95&as=32x41,48x61,72x92,108x138,160x204,240x306,360x458,480x611,540x688,640x815,720x917,1080x1375,1280x1630,1320x1681&from=bu"
-    },
-    {
-      "post_url": "https://vk.com/wall-181850079_4612",
-      "photo_url": "https://sun9-63.userapi.com/s/v1/ig2/9myB1nIOC64oiioZiUgTpPZ4p3WLbZfMXsS0fUPXgxPAbjlMestPyJjb5Gj6sjyEMzcduTRwpccw1EF8cnERQU66.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x181,360x271,480x361,540x407,640x482,720x542,1080x813,1280x964,1440x1084,1920x1446&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-63.userapi.com/s/v1/ig2/9myB1nIOC64oiioZiUgTpPZ4p3WLbZfMXsS0fUPXgxPAbjlMestPyJjb5Gj6sjyEMzcduTRwpccw1EF8cnERQU66.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x181,360x271,480x361,540x407,640x482,720x542,1080x813,1280x964,1440x1084,1920x1446&"
-    },
-    {
       "post_url": "https://vk.com/wall-190278465_12453",
       "photo_url": "https://sun9-83.userapi.com/s/v1/ig2/ueVxTilrRht2IZVbaCueWPixZDu5I9K2amj4kRNrx9fUSV097G-0xFIRgSdOGMdn0fMtN7utVfjOExJ8bGhkw8jW.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&cs=1080x0",
       "error": "404 Client Error: Not Found for url: https://sun9-83.userapi.com/s/v1/ig2/ueVxTilrRht2IZVbaCueWPixZDu5I9K2amj4kRNrx9fUSV097G-0xFIRgSdOGMdn0fMtN7utVfjOExJ8bGhkw8jW.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x25"
-    },
-    {
-      "post_url": "https://vk.com/wall-190278465_12451",
-      "photo_url": "https://sun9-37.userapi.com/s/v1/ig2/0jxjmu-4FtbtYJqY6gSKIrSi2OBYP6amJzuLro_7lJ9S5VQC_Y0c8Vb3erqMaWyHHQedoaDP7Bza6PZYkFJc8qKW.jpg?quality=95&crop=0,0,2560,1920&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-37.userapi.com/s/v1/ig2/0jxjmu-4FtbtYJqY6gSKIrSi2OBYP6amJzuLro_7lJ9S5VQC_Y0c8Vb3erqMaWyHHQedoaDP7Bza6PZYkFJc8qKW.jpg?quality=95&crop=0,0,2560,1920&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1"
     },
     {
       "post_url": "https://vk.com/wall-200646547_2309",
