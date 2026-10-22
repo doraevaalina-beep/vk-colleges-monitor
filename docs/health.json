@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-22T13:45:29.013432Z",
+  "checked_at": "2026-10-22T18:30:26.529702Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -12,25 +12,25 @@
     {
       "source": "https://vk.com/sst_rm",
       "community": "Саранский строительный техникум",
-      "latest_post_id": 14453,
+      "latest_post_id": 14455,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10750,
+      "latest_post_id": 10753,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club181850079",
-      "community": "НЦПТИ",
-      "latest_post_id": 4618,
+      "community": "Отвага и антитеррор",
+      "latest_post_id": 4619,
       "fetched": 20
     },
     {
       "source": "https://vk.com/ipc_hgo_mlclass_fv_informatica",
       "community": "Ичалковский педагогический колледж",
-      "latest_post_id": 6630,
+      "latest_post_id": 6632,
       "fetched": 20
     },
     {
@@ -42,19 +42,19 @@
     {
       "source": "https://vk.com/zppk_official",
       "community": "Зубово-Полянский педагогический колледж",
-      "latest_post_id": 4776,
+      "latest_post_id": 4777,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public80925441",
       "community": "Атяшевский аграрный техникум",
-      "latest_post_id": 1669,
+      "latest_post_id": 1670,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club202849242",
       "community": "СТЭиЭТ им. А.И. Полежаева",
-      "latest_post_id": 3733,
+      "latest_post_id": 3734,
       "fetched": 20
     },
     {
@@ -66,7 +66,7 @@
     {
       "source": "https://vk.com/gouspt",
       "community": "Саранский политехнический техникум",
-      "latest_post_id": 3914,
+      "latest_post_id": 3919,
       "fetched": 20
     },
     {
@@ -77,20 +77,20 @@
     },
     {
       "source": "https://vk.com/stppp_professionalitet",
-      "community": "Медиацентр СТППП «Фокус13»",
-      "latest_post_id": 4838,
+      "community": "Музей военного и трудового подвига",
+      "latest_post_id": 4839,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club182790665",
       "community": "ГБПОУ РМ \"Зубово-Полянский аграрный техникум\"",
-      "latest_post_id": 2731,
+      "latest_post_id": 2733,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9731,
+      "latest_post_id": 9732,
       "fetched": 20
     },
     {
@@ -102,19 +102,19 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 172907,
+      "latest_post_id": 172944,
       "fetched": 20
     },
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 11021,
+      "latest_post_id": 11022,
       "fetched": 20
     },
     {
       "source": "https://vk.com/technical_ait",
       "community": "ГБПОУ РМ Алексеевский индустриальный техникум\"",
-      "latest_post_id": 2311,
+      "latest_post_id": 2312,
       "fetched": 20
     },
     {
@@ -168,7 +168,7 @@
     {
       "source": "https://vk.com/club103710305",
       "community": "МОУ \"Школа №27\" г. Саранск Республика Мордовия",
-      "latest_post_id": 4243,
+      "latest_post_id": 4244,
       "fetched": 20
     },
     {
@@ -240,19 +240,19 @@
     {
       "source": "https://vk.com/club192448163",
       "community": "МАДОУ \"Детский сад №59\"",
-      "latest_post_id": 4074,
+      "latest_post_id": 4085,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 77316,
+      "latest_post_id": 77413,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club204178388",
       "community": "МАДОУ \"Детский сад №89 комбинированного вида\"",
-      "latest_post_id": 3662,
+      "latest_post_id": 3665,
       "fetched": 20
     },
     {
@@ -282,13 +282,13 @@
     {
       "source": "https://vk.com/public190278465",
       "community": "МАДОУ \"Центр развития ребёнка - детский сад №3\"",
-      "latest_post_id": 12494,
+      "latest_post_id": 12497,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public203694036",
       "community": "МАДОУ \"Центр развития ребенка - детский сад №46\"",
-      "latest_post_id": 6125,
+      "latest_post_id": 6126,
       "fetched": 20
     },
     {
@@ -504,7 +504,7 @@
     {
       "source": "https://vk.com/public209741486",
       "community": "МДОУ \"Детский сад №65 комбинированного вида\"",
-      "latest_post_id": 2405,
+      "latest_post_id": 2410,
       "fetched": 20
     },
     {
@@ -558,7 +558,7 @@
     {
       "source": "https://vk.com/club201164476",
       "community": "МДОУ \"Детский сад №97 комбинированного вида\"",
-      "latest_post_id": 5612,
+      "latest_post_id": 5613,
       "fetched": 20
     },
     {
@@ -582,7 +582,7 @@
     {
       "source": "https://vk.com/club210719786",
       "community": "МДОУ\"Детский сад №117\"",
-      "latest_post_id": 1042,
+      "latest_post_id": 1043,
       "fetched": 20
     },
     {
@@ -593,14 +593,14 @@
     },
     {
       "source": "https://vk.com/club166487726",
-      "community": "Министерство образования Республики Мордовия",
-      "latest_post_id": 7267,
+      "community": "Ожившая история Старого Саранска",
+      "latest_post_id": 7268,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club819936",
       "community": "МОУ \"Гимназия № 23\" г. о. Саранск",
-      "latest_post_id": 11359,
+      "latest_post_id": 11361,
       "fetched": 20
     },
     {
@@ -611,8 +611,8 @@
     },
     {
       "source": "https://vk.com/public195117146",
-      "community": "Движение Первых. Патриоты",
-      "latest_post_id": 3846,
+      "community": "МОУ \"Ялгинская СОШ\" корпус 2 г.о.Саранск",
+      "latest_post_id": 3850,
       "fetched": 20
     },
     {
@@ -660,19 +660,19 @@
     {
       "source": "https://vk.com/public171422852",
       "community": "МОУ \" Средняя школа  №18\" г. Саранск",
-      "latest_post_id": 6190,
+      "latest_post_id": 6191,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public92799833",
       "community": "МОУ \"Средняя школа №33\"",
-      "latest_post_id": 7745,
+      "latest_post_id": 7746,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club166449275",
       "community": "Школа №9 | г.Саранск",
-      "latest_post_id": 8456,
+      "latest_post_id": 8457,
       "fetched": 20
     },
     {
@@ -684,13 +684,13 @@
     {
       "source": "https://vk.com/public1571309",
       "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26498,
+      "latest_post_id": 26526,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public203691909",
       "community": "МОУ \"Средняя школа №37\"",
-      "latest_post_id": 5607,
+      "latest_post_id": 5615,
       "fetched": 20
     },
     {
@@ -726,7 +726,7 @@
     {
       "source": "https://vk.com/club526150",
       "community": "МОУ «Школа № 30» г. Саранск Республика Мордовия",
-      "latest_post_id": 6692,
+      "latest_post_id": 6694,
       "fetched": 20
     },
     {
@@ -738,7 +738,7 @@
     {
       "source": "https://vk.com/club186187361",
       "community": "МОУ СОШ №2 им.Героя Советского Союза П.И.Орлова",
-      "latest_post_id": 5726,
+      "latest_post_id": 5729,
       "fetched": 20
     },
     {
@@ -774,7 +774,7 @@
     {
       "source": "https://vk.com/club48794793",
       "community": "Средняя общеобразовательная школа №1 г.о.Саранск",
-      "latest_post_id": 4679,
+      "latest_post_id": 4682,
       "fetched": 20
     },
     {
@@ -816,19 +816,34 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 100,
-  "mirrored_photos": 92,
-  "published_photos": 538,
+  "new_posts": 71,
+  "mirrored_photos": 53,
+  "published_photos": 566,
   "image_errors": [
+    {
+      "post_url": "https://vk.com/wall-48794793_4681",
+      "photo_url": "https://sun9-40.userapi.com/s/v1/ig2/TJJDk_exhsMQXTQurZNMKwUF4un9FQHfK3x7czjIjb6x1LKZikQYI0LPAvu99RH14TC-T8meRtZpGRakmruMk-uo.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x479,480x639,540x719,640x852,720x959,1080x1438,1280x1704,1440x1917,1442x1920&from=bu&cs=1080x0",
+      "error": "404 Client Error: Not Found for url: https://sun9-40.userapi.com/s/v1/ig2/TJJDk_exhsMQXTQurZNMKwUF4un9FQHfK3x7czjIjb6x1LKZikQYI0LPAvu99RH14TC-T8meRtZpGRakmruMk-uo.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x479,480x639,540x719,640x852,720x959,1080x1438,1280x1704,1440x1917,1442x19"
+    },
+    {
+      "post_url": "https://vk.com/wall-213660027_172943",
+      "photo_url": "https://sun9-53.userapi.com/s/v1/ig2/0aF6Us0_nLNj1yj86Gr7ls7EH3vuVjvICUtj1ZjKigoPqE5-G8SYXnueoRi4eOWVbk6pORL1nuaFPf1Y54LpLj7p.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960&from=bu&cs=1280x0",
+      "error": "404 Client Error: Not Found for url: https://sun9-53.userapi.com/s/v1/ig2/0aF6Us0_nLNj1yj86Gr7ls7EH3vuVjvICUtj1ZjKigoPqE5-G8SYXnueoRi4eOWVbk6pORL1nuaFPf1Y54LpLj7p.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960&from=bu&cs=1280x0"
+    },
+    {
+      "post_url": "https://vk.com/wall-1571309_26515",
+      "photo_url": "https://sun9-87.userapi.com/s/v1/ig2/aR5WMSbKVvoeAQS7T15hpT5L-_Vnm_xLeOufWhRi4yjkCFA2wtGIisoKoJ-NWHRqETej642RB7TGOqY9Bi2qbwiE.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&cs=1080x0",
+      "error": "404 Client Error: Not Found for url: https://sun9-87.userapi.com/s/v1/ig2/aR5WMSbKVvoeAQS7T15hpT5L-_Vnm_xLeOufWhRi4yjkCFA2wtGIisoKoJ-NWHRqETej642RB7TGOqY9Bi2qbwiE.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x25"
+    },
+    {
+      "post_url": "https://vk.com/wall-194191689_77342",
+      "photo_url": "https://sun9-67.userapi.com/s/v1/ig2/1VSqV2atNIVKeQH02cO_wOrz_rtuxwhh00CNuwQabZ-LR7AENmTTbY2ZTvEmPyG6RgP10Z_0BrRPK8xWbdIxyySL.jpg?quality=95&crop=0,0,2560,2560&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&from=bu&cs=1280x0",
+      "error": "404 Client Error: Not Found for url: https://sun9-67.userapi.com/s/v1/ig2/1VSqV2atNIVKeQH02cO_wOrz_rtuxwhh00CNuwQabZ-LR7AENmTTbY2ZTvEmPyG6RgP10Z_0BrRPK8xWbdIxyySL.jpg?quality=95&crop=0,0,2560,2560&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x128"
+    },
     {
       "post_url": "https://vk.com/wall-190278465_12486",
       "photo_url": "https://sun9-15.userapi.com/s/v1/ig2/4WG53fVweWDwrhh5R17QV3AvNT8suG8N9AzpuDla8dNQSHrjs-pbfdbK5ChXUJ2S_49Ia0DZ_-OkvcNQyhY_3ZHx.jpg?quality=95&crop=0,0,2201,2560&as=32x37,48x56,72x84,108x126,160x186,240x279,360x419,480x558,540x628,640x744,720x837,1080x1256,1280x1489,1440x1675,2201x2560&from=bu&cs=1280x0",
       "error": "404 Client Error: Not Found for url: https://sun9-15.userapi.com/s/v1/ig2/4WG53fVweWDwrhh5R17QV3AvNT8suG8N9AzpuDla8dNQSHrjs-pbfdbK5ChXUJ2S_49Ia0DZ_-OkvcNQyhY_3ZHx.jpg?quality=95&crop=0,0,2201,2560&as=32x37,48x56,72x84,108x126,160x186,240x279,360x419,480x558,540x628,640x744,720x837,1080x1256,1280x148"
-    },
-    {
-      "post_url": "https://vk.com/wall-80925441_1669",
-      "photo_url": "https://sun9-68.userapi.com/s/v1/ig2/TT5C7fhPjC7FlTLXKO6YM08uZ72YVaCHjzQfp49cIOg-M8zv42ybMKZl9OT3XjEqMZh0Tn1KchVC3GIVQzs2uPo8.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,1920x1920&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-68.userapi.com/s/v1/ig2/TT5C7fhPjC7FlTLXKO6YM08uZ72YVaCHjzQfp49cIOg-M8zv42ybMKZl9OT3XjEqMZh0Tn1KchVC3GIVQzs2uPo8.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,1920x19"
     }
   ],
   "built_visuals": 0,
