@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-22T18:30:26.529702Z",
+  "checked_at": "2026-10-22T22:17:53.210742Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -42,7 +42,7 @@
     {
       "source": "https://vk.com/zppk_official",
       "community": "Зубово-Полянский педагогический колледж",
-      "latest_post_id": 4777,
+      "latest_post_id": 4778,
       "fetched": 20
     },
     {
@@ -60,7 +60,7 @@
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 78408,
+      "latest_post_id": 78427,
       "fetched": 20
     },
     {
@@ -102,13 +102,13 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 172944,
+      "latest_post_id": 172945,
       "fetched": 20
     },
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 11022,
+      "latest_post_id": 11024,
       "fetched": 20
     },
     {
@@ -144,7 +144,7 @@
     {
       "source": "https://vk.com/club148125790",
       "community": "38tv - Новости",
-      "latest_post_id": 9796,
+      "latest_post_id": 9801,
       "fetched": 20
     },
     {
@@ -216,7 +216,7 @@
     {
       "source": "https://vk.com/public202707820",
       "community": "МАДОУ \"Детский сад № 104 комбинированного вида\"",
-      "latest_post_id": 4924,
+      "latest_post_id": 4927,
       "fetched": 20
     },
     {
@@ -576,7 +576,7 @@
     {
       "source": "https://vk.com/public212900662",
       "community": "МДОУ «Детский сад N83 комбинированного вида»",
-      "latest_post_id": 2669,
+      "latest_post_id": 2682,
       "fetched": 20
     },
     {
@@ -666,7 +666,7 @@
     {
       "source": "https://vk.com/public92799833",
       "community": "МОУ \"Средняя школа №33\"",
-      "latest_post_id": 7746,
+      "latest_post_id": 7747,
       "fetched": 20
     },
     {
@@ -708,13 +708,13 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 40977,
+      "latest_post_id": 41006,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public171854359",
       "community": "МОУ «СОШ №22»",
-      "latest_post_id": 8810,
+      "latest_post_id": 8813,
       "fetched": 20
     },
     {
@@ -816,36 +816,10 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 71,
-  "mirrored_photos": 53,
-  "published_photos": 566,
-  "image_errors": [
-    {
-      "post_url": "https://vk.com/wall-48794793_4681",
-      "photo_url": "https://sun9-40.userapi.com/s/v1/ig2/TJJDk_exhsMQXTQurZNMKwUF4un9FQHfK3x7czjIjb6x1LKZikQYI0LPAvu99RH14TC-T8meRtZpGRakmruMk-uo.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x479,480x639,540x719,640x852,720x959,1080x1438,1280x1704,1440x1917,1442x1920&from=bu&cs=1080x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-40.userapi.com/s/v1/ig2/TJJDk_exhsMQXTQurZNMKwUF4un9FQHfK3x7czjIjb6x1LKZikQYI0LPAvu99RH14TC-T8meRtZpGRakmruMk-uo.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x479,480x639,540x719,640x852,720x959,1080x1438,1280x1704,1440x1917,1442x19"
-    },
-    {
-      "post_url": "https://vk.com/wall-213660027_172943",
-      "photo_url": "https://sun9-53.userapi.com/s/v1/ig2/0aF6Us0_nLNj1yj86Gr7ls7EH3vuVjvICUtj1ZjKigoPqE5-G8SYXnueoRi4eOWVbk6pORL1nuaFPf1Y54LpLj7p.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-53.userapi.com/s/v1/ig2/0aF6Us0_nLNj1yj86Gr7ls7EH3vuVjvICUtj1ZjKigoPqE5-G8SYXnueoRi4eOWVbk6pORL1nuaFPf1Y54LpLj7p.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960&from=bu&cs=1280x0"
-    },
-    {
-      "post_url": "https://vk.com/wall-1571309_26515",
-      "photo_url": "https://sun9-87.userapi.com/s/v1/ig2/aR5WMSbKVvoeAQS7T15hpT5L-_Vnm_xLeOufWhRi4yjkCFA2wtGIisoKoJ-NWHRqETej642RB7TGOqY9Bi2qbwiE.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&cs=1080x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-87.userapi.com/s/v1/ig2/aR5WMSbKVvoeAQS7T15hpT5L-_Vnm_xLeOufWhRi4yjkCFA2wtGIisoKoJ-NWHRqETej642RB7TGOqY9Bi2qbwiE.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x25"
-    },
-    {
-      "post_url": "https://vk.com/wall-194191689_77342",
-      "photo_url": "https://sun9-67.userapi.com/s/v1/ig2/1VSqV2atNIVKeQH02cO_wOrz_rtuxwhh00CNuwQabZ-LR7AENmTTbY2ZTvEmPyG6RgP10Z_0BrRPK8xWbdIxyySL.jpg?quality=95&crop=0,0,2560,2560&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-67.userapi.com/s/v1/ig2/1VSqV2atNIVKeQH02cO_wOrz_rtuxwhh00CNuwQabZ-LR7AENmTTbY2ZTvEmPyG6RgP10Z_0BrRPK8xWbdIxyySL.jpg?quality=95&crop=0,0,2560,2560&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x128"
-    },
-    {
-      "post_url": "https://vk.com/wall-190278465_12486",
-      "photo_url": "https://sun9-15.userapi.com/s/v1/ig2/4WG53fVweWDwrhh5R17QV3AvNT8suG8N9AzpuDla8dNQSHrjs-pbfdbK5ChXUJ2S_49Ia0DZ_-OkvcNQyhY_3ZHx.jpg?quality=95&crop=0,0,2201,2560&as=32x37,48x56,72x84,108x126,160x186,240x279,360x419,480x558,540x628,640x744,720x837,1080x1256,1280x1489,1440x1675,2201x2560&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-15.userapi.com/s/v1/ig2/4WG53fVweWDwrhh5R17QV3AvNT8suG8N9AzpuDla8dNQSHrjs-pbfdbK5ChXUJ2S_49Ia0DZ_-OkvcNQyhY_3ZHx.jpg?quality=95&crop=0,0,2201,2560&as=32x37,48x56,72x84,108x126,160x186,240x279,360x419,480x558,540x628,640x744,720x837,1080x1256,1280x148"
-    }
-  ],
+  "new_posts": 22,
+  "mirrored_photos": 23,
+  "published_photos": 539,
+  "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
   "reused_visuals": 0,
