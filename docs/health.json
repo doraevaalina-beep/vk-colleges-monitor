@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-22T22:17:53.210742Z",
+  "checked_at": "2026-10-23T01:28:00.366812Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -576,7 +576,7 @@
     {
       "source": "https://vk.com/public212900662",
       "community": "МДОУ «Детский сад N83 комбинированного вида»",
-      "latest_post_id": 2682,
+      "latest_post_id": 2684,
       "fetched": 20
     },
     {
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 22,
-  "mirrored_photos": 23,
-  "published_photos": 539,
+  "new_posts": 2,
+  "mirrored_photos": 1,
+  "published_photos": 538,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
