@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-24T10:53:17.883710Z",
+  "checked_at": "2026-10-24T14:29:33.602637Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -18,7 +18,7 @@
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10760,
+      "latest_post_id": 10762,
       "fetched": 20
     },
     {
@@ -60,7 +60,7 @@
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 78500,
+      "latest_post_id": 78525,
       "fetched": 20
     },
     {
@@ -78,7 +78,7 @@
     {
       "source": "https://vk.com/stppp_professionalitet",
       "community": "Саранский техникум пищевой промышленности",
-      "latest_post_id": 4852,
+      "latest_post_id": 4854,
       "fetched": 20
     },
     {
@@ -107,8 +107,8 @@
     },
     {
       "source": "https://vk.com/official_page_sgpek",
-      "community": "Росдетцентр | РДЦ",
-      "latest_post_id": 11028,
+      "community": "ГБПОУ РМ \"СГПЭК\"",
+      "latest_post_id": 11030,
       "fetched": 20
     },
     {
@@ -120,7 +120,7 @@
     {
       "source": "https://vk.com/kaskrm",
       "community": "Ковылкинский аграрно-строительный колледж",
-      "latest_post_id": 19454,
+      "latest_post_id": 20148,
       "fetched": 20
     },
     {
@@ -215,8 +215,8 @@
     },
     {
       "source": "https://vk.com/public202707820",
-      "community": "МАДОУ \"Детский сад № 104 комбинированного вида\"",
-      "latest_post_id": 4932,
+      "community": "АНО \"Центр поддержки и защиты детства\"",
+      "latest_post_id": 4933,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 77838,
+      "latest_post_id": 77845,
       "fetched": 20
     },
     {
@@ -594,13 +594,13 @@
     {
       "source": "https://vk.com/club166487726",
       "community": "Ожившая история Старого Саранска",
-      "latest_post_id": 7269,
+      "latest_post_id": 7272,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club819936",
       "community": "МОУ \"Гимназия № 23\" г. о. Саранск",
-      "latest_post_id": 11367,
+      "latest_post_id": 11372,
       "fetched": 20
     },
     {
@@ -618,7 +618,7 @@
     {
       "source": "https://vk.com/club351497",
       "community": "МОУ \"Лицей № 7\"",
-      "latest_post_id": 15681,
+      "latest_post_id": 15707,
       "fetched": 20
     },
     {
@@ -684,7 +684,7 @@
     {
       "source": "https://vk.com/public1571309",
       "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26593,
+      "latest_post_id": 26601,
       "fetched": 20
     },
     {
@@ -708,7 +708,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 41071,
+      "latest_post_id": 41080,
       "fetched": 20
     },
     {
@@ -726,7 +726,7 @@
     {
       "source": "https://vk.com/club526150",
       "community": "МОУ «Школа № 30» г. Саранск Республика Мордовия",
-      "latest_post_id": 6694,
+      "latest_post_id": 6695,
       "fetched": 20
     },
     {
@@ -774,7 +774,7 @@
     {
       "source": "https://vk.com/club48794793",
       "community": "Средняя общеобразовательная школа №1 г.о.Саранск",
-      "latest_post_id": 4682,
+      "latest_post_id": 4683,
       "fetched": 20
     },
     {
@@ -786,7 +786,7 @@
     {
       "source": "https://vk.com/club153679543",
       "community": "СОШ №2 им. Героя Советского Союза П.И.Орлова к.2",
-      "latest_post_id": 5211,
+      "latest_post_id": 5212,
       "fetched": 20
     },
     {
@@ -798,7 +798,7 @@
     {
       "source": "https://vk.com/club175038308",
       "community": "Школа №39 | Саранск",
-      "latest_post_id": 11725,
+      "latest_post_id": 11727,
       "fetched": 20
     }
   ],
@@ -816,9 +816,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 37,
-  "mirrored_photos": 32,
-  "published_photos": 582,
+  "new_posts": 21,
+  "mirrored_photos": 17,
+  "published_photos": 523,
   "image_errors": [
     {
       "post_url": "https://vk.com/wall-181850079_4623",
