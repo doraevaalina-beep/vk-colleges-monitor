@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-24T14:29:33.602637Z",
+  "checked_at": "2026-10-24T18:06:23.754450Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -24,7 +24,7 @@
     {
       "source": "https://vk.com/club181850079",
       "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4623,
+      "latest_post_id": 4624,
       "fetched": 20
     },
     {
@@ -174,7 +174,7 @@
     {
       "source": "https://vk.com/public216577930",
       "community": "Гимназия №19 | г. Саранск",
-      "latest_post_id": 3479,
+      "latest_post_id": 3484,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 77845,
+      "latest_post_id": 77850,
       "fetched": 20
     },
     {
@@ -312,7 +312,7 @@
     {
       "source": "https://vk.com/club203705834",
       "community": "МАДОУ \"Центр развития ребёнка-детский сад 8\"",
-      "latest_post_id": 1557,
+      "latest_post_id": 1559,
       "fetched": 20
     },
     {
@@ -594,7 +594,7 @@
     {
       "source": "https://vk.com/club166487726",
       "community": "Ожившая история Старого Саранска",
-      "latest_post_id": 7272,
+      "latest_post_id": 7273,
       "fetched": 20
     },
     {
@@ -684,7 +684,7 @@
     {
       "source": "https://vk.com/public1571309",
       "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26601,
+      "latest_post_id": 26605,
       "fetched": 20
     },
     {
@@ -744,7 +744,7 @@
     {
       "source": "https://vk.com/public195089396",
       "community": "Гимназия 29",
-      "latest_post_id": 7577,
+      "latest_post_id": 7585,
       "fetched": 20
     },
     {
@@ -797,8 +797,8 @@
     },
     {
       "source": "https://vk.com/club175038308",
-      "community": "Школа №39 | Саранск",
-      "latest_post_id": 11727,
+      "community": "книгиня Ольга | книги",
+      "latest_post_id": 11729,
       "fetched": 20
     }
   ],
@@ -816,10 +816,35 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 21,
-  "mirrored_photos": 17,
-  "published_photos": 523,
+  "new_posts": 11,
+  "mirrored_photos": 8,
+  "published_photos": 530,
   "image_errors": [
+    {
+      "post_url": "https://vk.com/wall-181850079_4624",
+      "photo_url": "https://sun9-69.userapi.com/s/v1/ig2/d4UVpTTrbULZ-MKh2Ojyq-IixgSZj85rzv-EtfzU-yb9UBBV9LNW4JAIYPip8RCi3FKKj0ZxV-9RxmxH0Keuqx9N.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&from=bu&cs=1280x0",
+      "error": "500 Server Error: Internal Server Error for url: https://sun9-69.userapi.com/s/v1/ig2/d4UVpTTrbULZ-MKh2Ojyq-IixgSZj85rzv-EtfzU-yb9UBBV9LNW4JAIYPip8RCi3FKKj0ZxV-9RxmxH0Keuqx9N.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x108"
+    },
+    {
+      "post_url": "https://vk.com/wall-181850079_4624",
+      "photo_url": "https://sun9-65.userapi.com/s/v1/ig2/2YN4nczFRvgE-gGJ7wkLJ49q2Z_NTMYY8-aOo3PXPJRdDTZIEpCoQcWxoXg17Os07ZhqcGlhYHonj0d3JQZPJyhS.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920&from=bu&cs=1080x0",
+      "error": "429 Client Error: Too Many Requests for url: https://sun9-65.userapi.com/s/v1/ig2/2YN4nczFRvgE-gGJ7wkLJ49q2Z_NTMYY8-aOo3PXPJRdDTZIEpCoQcWxoXg17Os07ZhqcGlhYHonj0d3JQZPJyhS.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920"
+    },
+    {
+      "post_url": "https://vk.com/wall-181850079_4624",
+      "photo_url": "https://sun9-48.userapi.com/s/v1/ig2/zU7FjlJwotJ049S3xgR2LCybTHlP97Y6414qhaAOnxSrLVhighEQtjZZ6xZpcqXlJDYBL5MKHV07mGOk-rhRLVk1.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920&from=bu&cs=1080x0",
+      "error": "404 Client Error: Not Found for url: https://sun9-48.userapi.com/s/v1/ig2/zU7FjlJwotJ049S3xgR2LCybTHlP97Y6414qhaAOnxSrLVhighEQtjZZ6xZpcqXlJDYBL5MKHV07mGOk-rhRLVk1.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920&from=bu"
+    },
+    {
+      "post_url": "https://vk.com/wall-195089396_7581",
+      "photo_url": "https://sun9-82.userapi.com/s/v1/ig2/Y8FMvlcjD_4a_s6LJnsY9TnjcPy9IL8Ei4_y37mHSyayake_hDGFsO1BpQ3_QOCljTfgInj6ancsQ5LCw0gdW6OP.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&from=bu&cs=1280x0",
+      "error": "404 Client Error: Not Found for url: https://sun9-82.userapi.com/s/v1/ig2/Y8FMvlcjD_4a_s6LJnsY9TnjcPy9IL8Ei4_y37mHSyayake_hDGFsO1BpQ3_QOCljTfgInj6ancsQ5LCw0gdW6OP.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&"
+    },
+    {
+      "post_url": "https://vk.com/wall-195089396_7581",
+      "photo_url": "https://sun9-85.userapi.com/s/v1/ig2/qDNwqLUxzJPgbYfcvDm8Vdz2fPrKwJTDb5HAmLVNLnkZfkjETazPC6VnaOVczg8rquAs3OJEBeq_N3z9ZKqDbhf2.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&cs=1080x0",
+      "error": "429 Client Error: Too Many Requests for url: https://sun9-85.userapi.com/s/v1/ig2/qDNwqLUxzJPgbYfcvDm8Vdz2fPrKwJTDb5HAmLVNLnkZfkjETazPC6VnaOVczg8rquAs3OJEBeq_N3z9ZKqDbhf2.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920"
+    },
     {
       "post_url": "https://vk.com/wall-181850079_4623",
       "photo_url": "https://sun9-61.userapi.com/s/v1/ig2/ps_ylItBBhT08Br97T2s7QaUiYOLgDXR5M5stcwY0ElV4DMCQOMIiQo0iEAXBNFGraKAeoChKBAEZLWyqDbUej1P.jpg?quality=95&crop=0,0,1920,1440&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,1920x1440&from=bu&cs=1280x0",
