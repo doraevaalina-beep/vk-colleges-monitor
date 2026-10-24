@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-23T22:06:53.191672Z",
+  "checked_at": "2026-10-24T00:38:25.468421Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -816,8 +816,8 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 10,
-  "mirrored_photos": 41,
+  "new_posts": 0,
+  "mirrored_photos": 0,
   "published_photos": 569,
   "image_errors": [],
   "built_visuals": 0,
