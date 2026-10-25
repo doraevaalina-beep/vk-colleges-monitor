@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-25T19:00:37.701566Z",
+  "checked_at": "2026-10-25T21:44:00.727722Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -18,7 +18,7 @@
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10769,
+      "latest_post_id": 10771,
       "fetched": 20
     },
     {
@@ -240,13 +240,13 @@
     {
       "source": "https://vk.com/club192448163",
       "community": "МАДОУ \"Детский сад №59\"",
-      "latest_post_id": 4094,
+      "latest_post_id": 4105,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 77999,
+      "latest_post_id": 78033,
       "fetched": 20
     },
     {
@@ -630,7 +630,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14915,
+      "latest_post_id": 14918,
       "fetched": 20
     },
     {
@@ -816,31 +816,10 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 6,
-  "mirrored_photos": 8,
-  "published_photos": 369,
-  "image_errors": [
-    {
-      "post_url": "https://vk.com/wall-59095536_15343",
-      "photo_url": "https://sun9-65.userapi.com/s/v1/ig2/bNu9MG7rsgihoZ1L_U122Iy78sHlVfsH0YHObpxfHwK1aUbx8dOZDvGqcmpnULxfjhAP_a56GVVigqMOAOPj4FGm.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x959,1440x1079,2560x1919&from=bu&cs=1280x0",
-      "error": "429 Client Error: Too Many Requests for url: https://sun9-65.userapi.com/s/v1/ig2/bNu9MG7rsgihoZ1L_U122Iy78sHlVfsH0YHObpxfHwK1aUbx8dOZDvGqcmpnULxfjhAP_a56GVVigqMOAOPj4FGm.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x959,1440x1079,25"
-    },
-    {
-      "post_url": "https://vk.com/wall-59095536_15343",
-      "photo_url": "https://sun9-4.userapi.com/s/v1/ig2/-dW1MItXd7YdXXSWqwIk9BHdH8aBJdqMdmW2jmxkNZe179_UeHdy42Xu9wXoTP7EtQLLVYLsDF4DiyWiBm-SRhJ8.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&from=bu&cs=1280x0",
-      "error": "429 Client Error: Too Many Requests for url: https://sun9-4.userapi.com/s/v1/ig2/-dW1MItXd7YdXXSWqwIk9BHdH8aBJdqMdmW2jmxkNZe179_UeHdy42Xu9wXoTP7EtQLLVYLsDF4DiyWiBm-SRhJ8.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,256"
-    },
-    {
-      "post_url": "https://vk.com/wall-203706494_8845",
-      "photo_url": "https://sun9-37.userapi.com/s/v1/ig2/jzuUrTVRLUSlDr2uCYDtyfHkZ8iSMM_nqSeq-hqGOzxgqATAnSU1oC0tM10eMUG0XsT9IeMYv3cAGQv-LlieGRWe.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&cs=1080x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-37.userapi.com/s/v1/ig2/jzuUrTVRLUSlDr2uCYDtyfHkZ8iSMM_nqSeq-hqGOzxgqATAnSU1oC0tM10eMUG0XsT9IeMYv3cAGQv-LlieGRWe.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x25"
-    },
-    {
-      "post_url": "https://vk.com/wall-203706494_8843",
-      "photo_url": "https://sun9-68.userapi.com/s/v1/ig2/XRK5K8OaJxhfsy88u_J8BH8QtL9iv1neVAWuMN9LRB70IcgJwsqXekasidmTiQdKHBCGmQfHbJHWYXmedrz1EbRT.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920&from=bu&cs=1080x0",
-      "error": "429 Client Error: Too Many Requests for url: https://sun9-68.userapi.com/s/v1/ig2/XRK5K8OaJxhfsy88u_J8BH8QtL9iv1neVAWuMN9LRB70IcgJwsqXekasidmTiQdKHBCGmQfHbJHWYXmedrz1EbRT.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920"
-    }
-  ],
+  "new_posts": 8,
+  "mirrored_photos": 9,
+  "published_photos": 375,
+  "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
   "reused_visuals": 0,
