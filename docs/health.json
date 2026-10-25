@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-10-25T06:03:43.510266Z",
+  "checked_at": "2026-10-25T11:19:09.353833Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
     {
       "source": "https://vk.com/samtrm",
       "community": "ГАПОУ РМ \"Саранский автомеханический техникум\"",
-      "latest_post_id": 12197,
+      "latest_post_id": 12198,
       "fetched": 20
     },
     {
@@ -18,13 +18,13 @@
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10762,
+      "latest_post_id": 10769,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club181850079",
       "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4624,
+      "latest_post_id": 4625,
       "fetched": 20
     },
     {
@@ -120,13 +120,13 @@
     {
       "source": "https://vk.com/kaskrm",
       "community": "Ковылкинский аграрно-строительный колледж",
-      "latest_post_id": 20148,
+      "latest_post_id": 20181,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club34313558",
       "community": "ГБПОУ РМ \"Краснослободский аграрный техникум\"",
-      "latest_post_id": 3120,
+      "latest_post_id": 3122,
       "fetched": 20
     },
     {
@@ -138,7 +138,7 @@
     {
       "source": "https://vk.com/club59095536",
       "community": "МОУ \"Средняя школа №11\"",
-      "latest_post_id": 15339,
+      "latest_post_id": 15342,
       "fetched": 20
     },
     {
@@ -156,7 +156,7 @@
     {
       "source": "https://vk.com/public166423723",
       "community": "МОУ \"Средняя школа № 41\"",
-      "latest_post_id": 2990,
+      "latest_post_id": 2992,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/club194191689",
       "community": "МАДОУ \"Детский сад №82\"",
-      "latest_post_id": 77865,
+      "latest_post_id": 77921,
       "fetched": 20
     },
     {
@@ -444,7 +444,7 @@
     {
       "source": "https://vk.com/public202722758",
       "community": "МДОУ \"Детский сад №122 комбинированного вида\"",
-      "latest_post_id": 4879,
+      "latest_post_id": 4882,
       "fetched": 20
     },
     {
@@ -630,7 +630,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14911,
+      "latest_post_id": 14914,
       "fetched": 20
     },
     {
@@ -672,7 +672,7 @@
     {
       "source": "https://vk.com/club166449275",
       "community": "Школа №9 | г.Саранск",
-      "latest_post_id": 8460,
+      "latest_post_id": 8465,
       "fetched": 20
     },
     {
@@ -684,7 +684,7 @@
     {
       "source": "https://vk.com/public1571309",
       "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26607,
+      "latest_post_id": 26610,
       "fetched": 20
     },
     {
@@ -708,7 +708,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 41080,
+      "latest_post_id": 41089,
       "fetched": 20
     },
     {
@@ -816,16 +816,10 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 10,
-  "mirrored_photos": 9,
-  "published_photos": 503,
-  "image_errors": [
-    {
-      "post_url": "https://vk.com/wall-153457218_11973",
-      "photo_url": "https://sun9-49.userapi.com/s/v1/ig2/BC13-liryhNU2BPnDW-PMgrqGDBOtS_GOQIXdWIXR5D1fX7ll1iC5LR9rGxWlJXkAdaPJkxolzFP4mfiMzZ8H-0I.jpg?quality=95&crop=0,179,1467,2200&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,1080x1620,1280x1920,1440x2159,1467x2200&from=bu&cs=640x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-49.userapi.com/s/v1/ig2/BC13-liryhNU2BPnDW-PMgrqGDBOtS_GOQIXdWIXR5D1fX7ll1iC5LR9rGxWlJXkAdaPJkxolzFP4mfiMzZ8H-0I.jpg?quality=95&crop=0,179,1467,2200&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,1080x1620,1280"
-    }
-  ],
+  "new_posts": 20,
+  "mirrored_photos": 20,
+  "published_photos": 476,
+  "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
   "reused_visuals": 0,
