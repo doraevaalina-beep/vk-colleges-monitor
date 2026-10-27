@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-27T20:03:36.020128Z",
+  "checked_at": "2026-10-27T23:45:22.140036Z",
   "api_version": "5.199",
   "source_count": 136,
   "ok": [
@@ -816,71 +816,10 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 38,
-  "mirrored_photos": 46,
-  "published_photos": 413,
-  "image_errors": [
-    {
-      "post_url": "https://vk.com/wall-59095536_15359",
-      "photo_url": "https://sun9-47.userapi.com/s/v1/ig2/cVxXC8UIX1E1gVaP_vgbVm13M-aISn4LNVap3QxQkpHQcwNs6D6rYoHdOLU9XEWu1YEL7uAeQNVGShEDM9zBFxwB.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,1920x1440&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-47.userapi.com/s/v1/ig2/cVxXC8UIX1E1gVaP_vgbVm13M-aISn4LNVap3QxQkpHQcwNs6D6rYoHdOLU9XEWu1YEL7uAeQNVGShEDM9zBFxwB.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,1920x1440&"
-    },
-    {
-      "post_url": "https://vk.com/wall-59095536_15359",
-      "photo_url": "https://sun9-51.userapi.com/s/v1/ig2/jpwwwmCgZtTKPKQF8kkYYyWJbMIQdlrZ_3lQmN1YrGwob5QSLoKlLsbkOwJkacyJhg3cdxri3dESAeH7HTqn4DTv.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,1920x1440&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-51.userapi.com/s/v1/ig2/jpwwwmCgZtTKPKQF8kkYYyWJbMIQdlrZ_3lQmN1YrGwob5QSLoKlLsbkOwJkacyJhg3cdxri3dESAeH7HTqn4DTv.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,1920x1440&"
-    },
-    {
-      "post_url": "https://vk.com/wall-194191689_78373",
-      "photo_url": "https://sun9-39.userapi.com/s/v1/ig2/S-42xlY2rYcsjUK7xb9h8IkGLhWqS8irWKIdAh7YgolwEgLQhGlhOKO-G2bS4wOGnm4eJxYf0l2_mMJ9E1qn-eoY.jpg?quality=95&crop=0,0,2560,1921&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1081,2560x1921&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-39.userapi.com/s/v1/ig2/S-42xlY2rYcsjUK7xb9h8IkGLhWqS8irWKIdAh7YgolwEgLQhGlhOKO-G2bS4wOGnm4eJxYf0l2_mMJ9E1qn-eoY.jpg?quality=95&crop=0,0,2560,1921&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1"
-    },
-    {
-      "post_url": "https://vk.com/wall-215721033_2809",
-      "photo_url": "https://sun9-80.userapi.com/s/v1/ig2/qfaZObDfwzasCfw7-N5rEjrRip-9pv_csJbPPr3OrQy8O_Zub6BStiX1LTXGS1tPMFeDUyYNwEQSQ6BagSHRBdCO.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&cs=1080x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-80.userapi.com/s/v1/ig2/qfaZObDfwzasCfw7-N5rEjrRip-9pv_csJbPPr3OrQy8O_Zub6BStiX1LTXGS1tPMFeDUyYNwEQSQ6BagSHRBdCO.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x25"
-    },
-    {
-      "post_url": "https://vk.com/wall-215663353_5371",
-      "photo_url": "https://sun9-66.userapi.com/s/v1/ig2/UXvz3TeXuDF-F3PD7O1_OJ_vc5W6GBn6GgirFywBAllqBMRlK13ngrRxUo42V8DJlmsn02_Jb9jLhypRNzQe_re5.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,2560x1440&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-66.userapi.com/s/v1/ig2/UXvz3TeXuDF-F3PD7O1_OJ_vc5W6GBn6GgirFywBAllqBMRlK13ngrRxUo42V8DJlmsn02_Jb9jLhypRNzQe_re5.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,2560x1440&fr"
-    },
-    {
-      "post_url": "https://vk.com/wall-215663353_5371",
-      "photo_url": "https://sun9-50.userapi.com/s/v1/ig2/sHCU4C7N9kd1iGqnhsrSNtbMmsanY4pDalcZGY8hnYNLponWtC3y-F8VAd11HEbKH-XqWmkiuC__ozr4sXwNYYJB.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,2560x1440&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-50.userapi.com/s/v1/ig2/sHCU4C7N9kd1iGqnhsrSNtbMmsanY4pDalcZGY8hnYNLponWtC3y-F8VAd11HEbKH-XqWmkiuC__ozr4sXwNYYJB.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,2560x1440&fr"
-    },
-    {
-      "post_url": "https://vk.com/wall-48794793_4692",
-      "photo_url": "https://sun9-2.userapi.com/s/v1/ig2/BM_MUReczKYNeSRFZ_fCxtlZGevbiLJv-u_yspa6--U7qIouQ4W8oDLxIW3HS7-_Wfqv2LBrey96G-WJTcTW-U2d.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-2.userapi.com/s/v1/ig2/BM_MUReczKYNeSRFZ_fCxtlZGevbiLJv-u_yspa6--U7qIouQ4W8oDLxIW3HS7-_Wfqv2LBrey96G-WJTcTW-U2d.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&f"
-    },
-    {
-      "post_url": "https://vk.com/wall-103710305_4252",
-      "photo_url": "https://sun9-40.userapi.com/s/v1/ig2/baECqSAgpf6kszcP-5agNhaO6pMBWDHxitxixJ7Wb420tLsX43i6L-OWlIlAkcpVm3O9W47OJFNKX3zxt-cxL-El.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707&from=bu&cs=1080x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-40.userapi.com/s/v1/ig2/baECqSAgpf6kszcP-5agNhaO6pMBWDHxitxixJ7Wb420tLsX43i6L-OWlIlAkcpVm3O9W47OJFNKX3zxt-cxL-El.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707&from=bu&cs=1080x0"
-    },
-    {
-      "post_url": "https://vk.com/wall-202722758_4892",
-      "photo_url": "https://sun9-68.userapi.com/s/v1/ig2/twgKmdaI1T2i8XO4V7wXv9drH-OySF92AAn7mM1ptjkvxB-a5lFlu_R5in35aXHsSLlG0nwAvc6dvkxisNrS5Rok.jpg?quality=95&as=32x21,48x31,72x47,108x70,160x104,240x156,360x235,480x313,540x352,640x417,720x469,1080x704,1280x834,1440x939,2560x1669&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-68.userapi.com/s/v1/ig2/twgKmdaI1T2i8XO4V7wXv9drH-OySF92AAn7mM1ptjkvxB-a5lFlu_R5in35aXHsSLlG0nwAvc6dvkxisNrS5Rok.jpg?quality=95&as=32x21,48x31,72x47,108x70,160x104,240x156,360x235,480x313,540x352,640x417,720x469,1080x704,1280x834,1440x939,2560x1669&f"
-    },
-    {
-      "post_url": "https://vk.com/wall-202722758_4892",
-      "photo_url": "https://sun9-84.userapi.com/s/v1/ig2/Y0pLTEmdzDtjtith9yjU6De2NlhL2HedzofiF_aj-0NaPTUCLkpXTw3Z3zzzOWFQmTvAk-PGtbobr365gKgA2LJd.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-84.userapi.com/s/v1/ig2/Y0pLTEmdzDtjtith9yjU6De2NlhL2HedzofiF_aj-0NaPTUCLkpXTw3Z3zzzOWFQmTvAk-PGtbobr365gKgA2LJd.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&"
-    },
-    {
-      "post_url": "https://vk.com/wall-202722758_4892",
-      "photo_url": "https://sun9-68.userapi.com/s/v1/ig2/XiLUv4wnV9ub5vBd6MRebTOSWVG2zBSx0SQ2KVp-5jjicL6Hm3hd1Lqr7M6OAYnBVz-Nb1Ou26WTALF11oK68j-F.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-68.userapi.com/s/v1/ig2/XiLUv4wnV9ub5vBd6MRebTOSWVG2zBSx0SQ2KVp-5jjicL6Hm3hd1Lqr7M6OAYnBVz-Nb1Ou26WTALF11oK68j-F.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&"
-    },
-    {
-      "post_url": "https://vk.com/wall-53727363_10776",
-      "photo_url": "https://sun9-80.userapi.com/s/v1/ig2/9ifltticUIaMY5Q1raWemeW5Qagn7P1IgbwTwYX_AnEnMf_FtEAaRct-aQ54jENHnzLoLAUfK5SV5i1_cmgrfb1A.jpg?quality=95&as=32x23,48x34,72x51,108x76,160x113,240x170,360x254,480x339,540x381,640x452,720x509,1080x763,1280x904,1440x1017,1492x1054&from=bu&cs=1492x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-80.userapi.com/s/v1/ig2/9ifltticUIaMY5Q1raWemeW5Qagn7P1IgbwTwYX_AnEnMf_FtEAaRct-aQ54jENHnzLoLAUfK5SV5i1_cmgrfb1A.jpg?quality=95&as=32x23,48x34,72x51,108x76,160x113,240x170,360x254,480x339,540x381,640x452,720x509,1080x763,1280x904,1440x1017,1492x1054&"
-    }
-  ],
+  "new_posts": 0,
+  "mirrored_photos": 8,
+  "published_photos": 411,
+  "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
   "reused_visuals": 0,
