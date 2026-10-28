@@ -7,9 +7,12 @@ on:
       - main
     paths:
       - ".github/workflows/update-feed.yml"
+      - "sources.txt"
+      - "monitor.py"
+      - "editorial_runner.py"
   schedule:
-    # Every hour. GitHub cron uses UTC. Fresh trigger after save fix.
-    - cron: "15 * * * *"
+    # Two attempts per hour reduce gaps when GitHub delays scheduled runs (UTC).
+    - cron: "7,37 * * * *"
 
 permissions:
   contents: write
