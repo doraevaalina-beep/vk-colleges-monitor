@@ -408,7 +408,10 @@ def main():
 
     state = load_json(STATE_FILE, {"sources": {}})
     existing = load_json(FEED_JSON, {"generated_at": None, "items": []})
-    feed_items = existing.get("items") or []
+    # Drop cached posts from sources removed from sources.txt (e.g. preschools).
+    active_source_urls = {url for url, _slug in sources}
+    feed_items = [item for item in (existing.get("items") or [])
+                  if item.get("source_url") in active_source_urls]
     known_urls = {x.get("post_url") for x in feed_items}
 
     health = {
