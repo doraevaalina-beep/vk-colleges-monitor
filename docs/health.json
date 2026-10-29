@@ -1,30 +1,30 @@
 {
-  "checked_at": "2026-10-29T08:50:46.634160Z",
+  "checked_at": "2026-10-29T16:00:17.508286Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
     {
       "source": "https://vk.com/samtrm",
       "community": "ГАПОУ РМ \"Саранский автомеханический техникум\"",
-      "latest_post_id": 12209,
+      "latest_post_id": 12210,
       "fetched": 20
     },
     {
       "source": "https://vk.com/sst_rm",
       "community": "Саранский строительный техникум",
-      "latest_post_id": 14477,
+      "latest_post_id": 14480,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10782,
+      "latest_post_id": 10787,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club181850079",
-      "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4639,
+      "community": "МЛСПО - Молодежная лига СПО",
+      "latest_post_id": 4640,
       "fetched": 20
     },
     {
@@ -41,20 +41,20 @@
     },
     {
       "source": "https://vk.com/zppk_official",
-      "community": "Зубово-Полянский педагогический колледж",
-      "latest_post_id": 4784,
+      "community": "Александр Невский 2026/Республика Мордовия",
+      "latest_post_id": 4786,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public80925441",
       "community": "Атяшевский аграрный техникум",
-      "latest_post_id": 1680,
+      "latest_post_id": 1681,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club202849242",
-      "community": "СТЭиЭТ им. А.И. Полежаева",
-      "latest_post_id": 3747,
+      "community": "МЛСПО - Молодежная лига СПО",
+      "latest_post_id": 3750,
       "fetched": 20
     },
     {
@@ -65,26 +65,26 @@
     },
     {
       "source": "https://vk.com/gouspt",
-      "community": "Саранский политехнический техникум",
-      "latest_post_id": 3931,
+      "community": "МЛСПО - Молодежная лига СПО",
+      "latest_post_id": 3933,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public198480547",
-      "community": "Инсарский аграрный техникум",
-      "latest_post_id": 2121,
+      "community": "МЛСПО - Молодежная лига СПО",
+      "latest_post_id": 2122,
       "fetched": 20
     },
     {
       "source": "https://vk.com/stppp_professionalitet",
-      "community": "Саранский техникум пищевой промышленности",
-      "latest_post_id": 4871,
+      "community": "МЛСПО - Молодежная лига СПО",
+      "latest_post_id": 4873,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club182790665",
-      "community": "ГБПОУ РМ \"Зубово-Полянский аграрный техникум\"",
-      "latest_post_id": 2744,
+      "community": "МЛСПО - Молодежная лига СПО",
+      "latest_post_id": 2748,
       "fetched": 20
     },
     {
@@ -96,31 +96,31 @@
     {
       "source": "https://vk.com/club7503608",
       "community": "ГБПОУ РМ \"Кемлянский аграрный колледж\"",
-      "latest_post_id": 4608,
+      "latest_post_id": 4610,
       "fetched": 20
     },
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 173194,
+      "latest_post_id": 173211,
       "fetched": 20
     },
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 11044,
+      "latest_post_id": 11047,
       "fetched": 20
     },
     {
       "source": "https://vk.com/technical_ait",
-      "community": "ГБПОУ РМ Алексеевский индустриальный техникум\"",
-      "latest_post_id": 2317,
+      "community": "МЛСПО - Молодежная лига СПО",
+      "latest_post_id": 2319,
       "fetched": 20
     },
     {
       "source": "https://vk.com/kaskrm",
       "community": "Ковылкинский аграрно-строительный колледж",
-      "latest_post_id": 20981,
+      "latest_post_id": 21110,
       "fetched": 20
     },
     {
@@ -137,8 +137,8 @@
     },
     {
       "source": "https://vk.com/club59095536",
-      "community": "МОУ \"Средняя школа №11\"",
-      "latest_post_id": 15360,
+      "community": "Движение Первых | Мордовия",
+      "latest_post_id": 15361,
       "fetched": 20
     },
     {
@@ -156,7 +156,7 @@
     {
       "source": "https://vk.com/public166423723",
       "community": "МОУ \"Средняя школа № 41\"",
-      "latest_post_id": 2996,
+      "latest_post_id": 2999,
       "fetched": 20
     },
     {
@@ -168,7 +168,7 @@
     {
       "source": "https://vk.com/club103710305",
       "community": "МОУ \"Школа №27\" г. Саранск Республика Мордовия",
-      "latest_post_id": 4253,
+      "latest_post_id": 4254,
       "fetched": 20
     },
     {
@@ -180,19 +180,19 @@
     {
       "source": "https://vk.com/public144012777",
       "community": "Лицей №43, г. Саранск",
-      "latest_post_id": 6785,
+      "latest_post_id": 6797,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club9874035",
       "community": "Лыжно-биатлонный комплекс. Федерация биатлона РМ",
-      "latest_post_id": 4614,
+      "latest_post_id": 4615,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club174792280",
       "community": "МАОУ \"СОШ №10\"",
-      "latest_post_id": 8461,
+      "latest_post_id": 8462,
       "fetched": 20
     },
     {
@@ -203,8 +203,8 @@
     },
     {
       "source": "https://vk.com/club166487726",
-      "community": "Ожившая история Старого Саранска",
-      "latest_post_id": 7298,
+      "community": "Гимназия № 12 | Саранск",
+      "latest_post_id": 7301,
       "fetched": 20
     },
     {
@@ -234,13 +234,13 @@
     {
       "source": "https://vk.com/club154501666",
       "community": "МОУ \"Лицей №25\"",
-      "latest_post_id": 2171,
+      "latest_post_id": 2172,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14955,
+      "latest_post_id": 14957,
       "fetched": 20
     },
     {
@@ -258,7 +258,7 @@
     {
       "source": "https://vk.com/club154276223",
       "community": "МОУ \"Луховский лицей\"",
-      "latest_post_id": 5354,
+      "latest_post_id": 5355,
       "fetched": 20
     },
     {
@@ -270,19 +270,19 @@
     {
       "source": "https://vk.com/public171422852",
       "community": "МОУ \" Средняя школа  №18\" г. Саранск",
-      "latest_post_id": 6210,
+      "latest_post_id": 6212,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public92799833",
       "community": "МОУ \"Средняя школа №33\"",
-      "latest_post_id": 7766,
+      "latest_post_id": 7768,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club166449275",
       "community": "Школа №9 | г.Саранск",
-      "latest_post_id": 8487,
+      "latest_post_id": 8490,
       "fetched": 20
     },
     {
@@ -294,7 +294,7 @@
     {
       "source": "https://vk.com/public1571309",
       "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26648,
+      "latest_post_id": 26653,
       "fetched": 20
     },
     {
@@ -305,20 +305,20 @@
     },
     {
       "source": "https://vk.com/public215663353",
-      "community": "Навигаторы Детства | Мордовия",
-      "latest_post_id": 5382,
+      "community": "МОУ \"Средняя школа №5\" Саранск",
+      "latest_post_id": 5385,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public215673429",
       "community": "МОУ \"Средняя школа №8\" гор. Саранск",
-      "latest_post_id": 4291,
+      "latest_post_id": 4295,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 41212,
+      "latest_post_id": 41248,
       "fetched": 20
     },
     {
@@ -348,7 +348,7 @@
     {
       "source": "https://vk.com/club186187361",
       "community": "МОУ СОШ №2 им.Героя Советского Союза П.И.Орлова",
-      "latest_post_id": 5745,
+      "latest_post_id": 5746,
       "fetched": 20
     },
     {
@@ -360,13 +360,13 @@
     {
       "source": "https://vk.com/club206918978",
       "community": "Николаевская школа | Саранск",
-      "latest_post_id": 8406,
+      "latest_post_id": 8407,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club95243821",
       "community": "Мордва ZAнаших!",
-      "latest_post_id": 11598,
+      "latest_post_id": 11599,
       "fetched": 20
     },
     {
@@ -390,19 +390,19 @@
     {
       "source": "https://vk.com/club153679543",
       "community": "СОШ №2 им. Героя Советского Союза П.И.Орлова к.2",
-      "latest_post_id": 5220,
+      "latest_post_id": 5227,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club173709175",
       "community": "Школа №3 | Саранск",
-      "latest_post_id": 2917,
+      "latest_post_id": 2918,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club175038308",
       "community": "Школа №39 | Саранск",
-      "latest_post_id": 11757,
+      "latest_post_id": 11759,
       "fetched": 20
     }
   ],
@@ -420,14 +420,44 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 33,
-  "mirrored_photos": 31,
-  "published_photos": 348,
+  "new_posts": 65,
+  "mirrored_photos": 48,
+  "published_photos": 328,
   "image_errors": [
     {
-      "post_url": "https://vk.com/wall-144012777_6785",
-      "photo_url": "https://sun9-72.userapi.com/s/v1/ig2/GxJg786JGD6UCqr0Me_aOh4qtuUW0XLfpHAvRHrYTABzf1xxl2iXXEeQ36wLmrqdPTHWX5hfBUK6R13w54gSfMs4.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920&from=bu&cs=1080x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-72.userapi.com/s/v1/ig2/GxJg786JGD6UCqr0Me_aOh4qtuUW0XLfpHAvRHrYTABzf1xxl2iXXEeQ36wLmrqdPTHWX5hfBUK6R13w54gSfMs4.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920&from=bu"
+      "post_url": "https://vk.com/wall-144012777_6797",
+      "photo_url": "https://sun9-87.userapi.com/s/v1/ig2/adiP1UqVAFJc4StyNvFGxxjfLdQTgvouHjHplvGBU5ZtijP49m0_ZZWv_da_NQuC45ltLHtmzXxeNSkD7oMBrjWc.jpg?quality=95&crop=0,199,1440,2160&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,1080x1620,1280x1920,1440x2160&from=bu&cs=640x0",
+      "error": "404 Client Error: Not Found for url: https://sun9-87.userapi.com/s/v1/ig2/adiP1UqVAFJc4StyNvFGxxjfLdQTgvouHjHplvGBU5ZtijP49m0_ZZWv_da_NQuC45ltLHtmzXxeNSkD7oMBrjWc.jpg?quality=95&crop=0,199,1440,2160&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,1080x1620,1280"
+    },
+    {
+      "post_url": "https://vk.com/wall-215673429_4293",
+      "photo_url": "https://sun9-54.userapi.com/s/v1/ig2/49u8dQaJLyNPiFqVzsVsbWnf8sma7b90OBW4ynPnnVnpv7uT3ll7shx6PaK-ngwQo8KjXaAQ2ci0upaWmgUwmAU-.jpg?quality=95&crop=0,0,1440,1920&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920&from=bu&cs=1080x0",
+      "error": "500 Server Error: Internal Server Error for url: https://sun9-54.userapi.com/s/v1/ig2/49u8dQaJLyNPiFqVzsVsbWnf8sma7b90OBW4ynPnnVnpv7uT3ll7shx6PaK-ngwQo8KjXaAQ2ci0upaWmgUwmAU-.jpg?quality=95&crop=0,0,1440,1920&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1"
+    },
+    {
+      "post_url": "https://vk.com/wall-92799833_7767",
+      "photo_url": "https://sun9-38.userapi.com/s/v1/ig2/3oGz8kt9v08QAz0a8S6XdJGf2bSPdQKiCgq3_9Viwem9EB_j3bLCeSYemly666o4NmuoBi4qngsOG0qZ2YAcPFwI.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&from=bu&cs=1280x0",
+      "error": "429 Client Error: Too Many Requests for url: https://sun9-38.userapi.com/s/v1/ig2/3oGz8kt9v08QAz0a8S6XdJGf2bSPdQKiCgq3_9Viwem9EB_j3bLCeSYemly666o4NmuoBi4qngsOG0qZ2YAcPFwI.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,25"
+    },
+    {
+      "post_url": "https://vk.com/wall-166423723_2999",
+      "photo_url": "https://sun9-6.userapi.com/s/v1/ig2/GMGeON--UPMkhTvmSQHjub_rb27dD2JpA7w4KdfFI2zRmxsa8ZH6G4zX6CxA01_WcbeJzpCTjI78eX6i1nLIajEy.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920&from=bu&cs=1080x0",
+      "error": "404 Client Error: Not Found for url: https://sun9-6.userapi.com/s/v1/ig2/GMGeON--UPMkhTvmSQHjub_rb27dD2JpA7w4KdfFI2zRmxsa8ZH6G4zX6CxA01_WcbeJzpCTjI78eX6i1nLIajEy.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920&from=bu&"
+    },
+    {
+      "post_url": "https://vk.com/wall-166423723_2999",
+      "photo_url": "https://sun9-61.userapi.com/s/v1/ig2/ZP9X67vp8Xrf5WZC8uZvs0cbwtS7dddfUcOAOGjZgeWbqjZkHyZtW_RHydUm1jTeT0PEc2NOhSV7TiKTR4fAmTVj.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920&from=bu&cs=1080x0",
+      "error": "404 Client Error: Not Found for url: https://sun9-61.userapi.com/s/v1/ig2/ZP9X67vp8Xrf5WZC8uZvs0cbwtS7dddfUcOAOGjZgeWbqjZkHyZtW_RHydUm1jTeT0PEc2NOhSV7TiKTR4fAmTVj.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920&from=bu"
+    },
+    {
+      "post_url": "https://vk.com/wall-182790665_2747",
+      "photo_url": "https://sun9-80.userapi.com/s/v1/ig2/8XUprUlZFIpPj-N_C6DYUZSXzpkvudeb4J7K_J9BSBV21EXXqfFGmrr96YQbnFIt_pF4wtgchmApQzm3j6GM_0l-.jpg?quality=95&crop=0,199,1441,2161&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,1080x1620,1280x1920,1440x2159,1441x2161&from=bu&cs=640x0",
+      "error": "404 Client Error: Not Found for url: https://sun9-80.userapi.com/s/v1/ig2/8XUprUlZFIpPj-N_C6DYUZSXzpkvudeb4J7K_J9BSBV21EXXqfFGmrr96YQbnFIt_pF4wtgchmApQzm3j6GM_0l-.jpg?quality=95&crop=0,199,1441,2161&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,1080x1620,1280"
+    },
+    {
+      "post_url": "https://vk.com/wall-186187361_5746",
+      "photo_url": "https://sun9-6.userapi.com/s/v1/ig2/B-SGP9-yzXNJhsrVUoJ2NKzLT8JenR7ohWr5w9QAO8mozQ1wQSSec6nBByp_JWYYaIc7tjgQPAdhrLyUYQS5X1TX.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960&from=bu&cs=1280x0",
+      "error": "404 Client Error: Not Found for url: https://sun9-6.userapi.com/s/v1/ig2/B-SGP9-yzXNJhsrVUoJ2NKzLT8JenR7ohWr5w9QAO8mozQ1wQSSec6nBByp_JWYYaIc7tjgQPAdhrLyUYQS5X1TX.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960&from=bu&cs=1280x0"
     },
     {
       "post_url": "https://vk.com/wall-154501666_2171",
