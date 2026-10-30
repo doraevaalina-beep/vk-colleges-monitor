@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-29T21:00:43.185919Z",
+  "checked_at": "2026-10-30T00:46:57.194722Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
@@ -420,16 +420,10 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 20,
-  "mirrored_photos": 23,
-  "published_photos": 301,
-  "image_errors": [
-    {
-      "post_url": "https://vk.com/wall-48794793_4694",
-      "photo_url": "https://sun9-49.userapi.com/s/v1/ig2/0h0pbrgXOkidLe3Cb--Yi0VTJPIHVwiD19APvibSy0l9_RXPt_eXw9eIoEIc0xd7IFWkHmzP1_Qq5w-y62hf-Yot.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707&from=bu&cs=1080x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-49.userapi.com/s/v1/ig2/0h0pbrgXOkidLe3Cb--Yi0VTJPIHVwiD19APvibSy0l9_RXPt_eXw9eIoEIc0xd7IFWkHmzP1_Qq5w-y62hf-Yot.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707&from=bu&cs=1080x0"
-    }
-  ],
+  "new_posts": 0,
+  "mirrored_photos": 1,
+  "published_photos": 292,
+  "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
   "reused_visuals": 0,
