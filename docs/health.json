@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-30T19:08:40.936884Z",
+  "checked_at": "2026-10-30T19:26:52.646669Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
@@ -216,7 +216,7 @@
     {
       "source": "https://vk.com/public92009976",
       "community": "Гимназия №20",
-      "latest_post_id": 9742,
+      "latest_post_id": 9746,
       "fetched": 20
     },
     {
@@ -420,16 +420,10 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 37,
-  "mirrored_photos": 42,
-  "published_photos": 298,
-  "image_errors": [
-    {
-      "post_url": "https://vk.com/wall-208110632_9770",
-      "photo_url": "https://sun9-80.userapi.com/s/v1/ig2/-DSy-O-U04-H7n6dr-UFTPkxVXAra9dCZp1ZId2YxgYvTo72CvvV5rDNpJnwwmpdPv80oytl86r2fixshkwo8hn4.jpg?quality=95&crop=0,0,1440,1920&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920&from=bu&cs=1080x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-80.userapi.com/s/v1/ig2/-DSy-O-U04-H7n6dr-UFTPkxVXAra9dCZp1ZId2YxgYvTo72CvvV5rDNpJnwwmpdPv80oytl86r2fixshkwo8hn4.jpg?quality=95&crop=0,0,1440,1920&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x170"
-    }
-  ],
+  "new_posts": 2,
+  "mirrored_photos": 3,
+  "published_photos": 300,
+  "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
   "reused_visuals": 0,
