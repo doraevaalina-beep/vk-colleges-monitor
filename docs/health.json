@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-31T19:29:50.905717Z",
+  "checked_at": "2026-10-31T22:45:36.082438Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
@@ -90,7 +90,7 @@
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9779,
+      "latest_post_id": 9786,
       "fetched": 20
     },
     {
@@ -150,7 +150,7 @@
     {
       "source": "https://vk.com/public194762632",
       "community": "«Средняя школа № 36» Саранск",
-      "latest_post_id": 5029,
+      "latest_post_id": 5031,
       "fetched": 20
     },
     {
@@ -240,7 +240,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14964,
+      "latest_post_id": 14965,
       "fetched": 20
     },
     {
@@ -420,9 +420,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 9,
-  "mirrored_photos": 9,
-  "published_photos": 235,
+  "new_posts": 4,
+  "mirrored_photos": 4,
+  "published_photos": 239,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
