@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-01T15:57:56.155958Z",
+  "checked_at": "2026-11-01T20:25:30.458406Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
@@ -24,7 +24,7 @@
     {
       "source": "https://vk.com/club181850079",
       "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4645,
+      "latest_post_id": 4647,
       "fetched": 20
     },
     {
@@ -60,7 +60,7 @@
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 78986,
+      "latest_post_id": 79024,
       "fetched": 20
     },
     {
@@ -78,7 +78,7 @@
     {
       "source": "https://vk.com/stppp_professionalitet",
       "community": "Саранский техникум пищевой промышленности",
-      "latest_post_id": 4878,
+      "latest_post_id": 4885,
       "fetched": 20
     },
     {
@@ -120,7 +120,7 @@
     {
       "source": "https://vk.com/kaskrm",
       "community": "Ковылкинский аграрно-строительный колледж",
-      "latest_post_id": 21229,
+      "latest_post_id": 21668,
       "fetched": 20
     },
     {
@@ -174,7 +174,7 @@
     {
       "source": "https://vk.com/public216577930",
       "community": "Гимназия №19 | г. Саранск",
-      "latest_post_id": 3503,
+      "latest_post_id": 3506,
       "fetched": 20
     },
     {
@@ -221,8 +221,8 @@
     },
     {
       "source": "https://vk.com/public195117146",
-      "community": "МОУ \"Ялгинская СОШ\" корпус 2 г.о.Саранск",
-      "latest_post_id": 3876,
+      "community": "Движение Первых l Саранск",
+      "latest_post_id": 3877,
       "fetched": 20
     },
     {
@@ -420,9 +420,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 40,
-  "mirrored_photos": 12,
-  "published_photos": 223,
+  "new_posts": 12,
+  "mirrored_photos": 8,
+  "published_photos": 182,
   "image_errors": [
     {
       "post_url": "https://vk.com/wall-9874035_4617",
