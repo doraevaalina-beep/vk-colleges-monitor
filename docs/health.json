@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-01T20:25:30.458406Z",
+  "checked_at": "2026-11-01T23:49:42.229502Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
@@ -174,7 +174,7 @@
     {
       "source": "https://vk.com/public216577930",
       "community": "Гимназия №19 | г. Саранск",
-      "latest_post_id": 3506,
+      "latest_post_id": 3508,
       "fetched": 20
     },
     {
@@ -420,16 +420,10 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 12,
-  "mirrored_photos": 8,
-  "published_photos": 182,
-  "image_errors": [
-    {
-      "post_url": "https://vk.com/wall-9874035_4617",
-      "photo_url": "https://sun9-84.userapi.com/s/v1/ig2/G_9JXjpjjwAqsB_O5ejirb0dJMIqe-H3dmmwYGOP-4z6-doYbXjwphAgOSYD5iJYwQieoyb_t-oJltN8_jwID5Ej.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2000x2000&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-84.userapi.com/s/v1/ig2/G_9JXjpjjwAqsB_O5ejirb0dJMIqe-H3dmmwYGOP-4z6-doYbXjwphAgOSYD5iJYwQieoyb_t-oJltN8_jwID5Ej.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2000x20"
-    }
-  ],
+  "new_posts": 2,
+  "mirrored_photos": 3,
+  "published_photos": 168,
+  "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
   "reused_visuals": 0,
