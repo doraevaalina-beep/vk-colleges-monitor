@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-11-03T03:59:55.621346Z",
+  "checked_at": "2026-11-03T10:02:30.174791Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
     {
       "source": "https://vk.com/samtrm",
       "community": "ГАПОУ РМ \"Саранский автомеханический техникум\"",
-      "latest_post_id": 12213,
+      "latest_post_id": 12214,
       "fetched": 20
     },
     {
@@ -30,7 +30,7 @@
     {
       "source": "https://vk.com/ipc_hgo_mlclass_fv_informatica",
       "community": "Ичалковский педагогический колледж",
-      "latest_post_id": 6657,
+      "latest_post_id": 6659,
       "fetched": 20
     },
     {
@@ -48,13 +48,13 @@
     {
       "source": "https://vk.com/public80925441",
       "community": "Атяшевский аграрный техникум",
-      "latest_post_id": 1683,
+      "latest_post_id": 1684,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club202849242",
       "community": "СТЭиЭТ им. А.И. Полежаева",
-      "latest_post_id": 3760,
+      "latest_post_id": 3764,
       "fetched": 20
     },
     {
@@ -66,13 +66,13 @@
     {
       "source": "https://vk.com/gouspt",
       "community": "Саранский политехнический техникум",
-      "latest_post_id": 3949,
+      "latest_post_id": 3950,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public198480547",
       "community": "Инсарский аграрный техникум",
-      "latest_post_id": 2124,
+      "latest_post_id": 2128,
       "fetched": 20
     },
     {
@@ -96,7 +96,7 @@
     {
       "source": "https://vk.com/club7503608",
       "community": "ГБПОУ РМ \"Кемлянский аграрный колледж\"",
-      "latest_post_id": 4613,
+      "latest_post_id": 4614,
       "fetched": 20
     },
     {
@@ -120,13 +120,13 @@
     {
       "source": "https://vk.com/kaskrm",
       "community": "Ковылкинский аграрно-строительный колледж",
-      "latest_post_id": 21941,
+      "latest_post_id": 22176,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club34313558",
       "community": "ГБПОУ РМ \"Краснослободский аграрный техникум\"",
-      "latest_post_id": 3155,
+      "latest_post_id": 3156,
       "fetched": 20
     },
     {
@@ -138,7 +138,7 @@
     {
       "source": "https://vk.com/club59095536",
       "community": "МОУ \"Средняя школа №11\"",
-      "latest_post_id": 15385,
+      "latest_post_id": 15394,
       "fetched": 20
     },
     {
@@ -174,7 +174,7 @@
     {
       "source": "https://vk.com/public216577930",
       "community": "Гимназия №19 | г. Саранск",
-      "latest_post_id": 3512,
+      "latest_post_id": 3515,
       "fetched": 20
     },
     {
@@ -192,7 +192,7 @@
     {
       "source": "https://vk.com/club174792280",
       "community": "МАОУ \"СОШ №10\"",
-      "latest_post_id": 8485,
+      "latest_post_id": 8494,
       "fetched": 20
     },
     {
@@ -204,13 +204,13 @@
     {
       "source": "https://vk.com/club166487726",
       "community": "Гимназия № 12 | Саранск",
-      "latest_post_id": 7321,
+      "latest_post_id": 7323,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club819936",
       "community": "МОУ \"Гимназия № 23\" г. о. Саранск",
-      "latest_post_id": 11401,
+      "latest_post_id": 11402,
       "fetched": 20
     },
     {
@@ -240,7 +240,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14976,
+      "latest_post_id": 14977,
       "fetched": 20
     },
     {
@@ -299,14 +299,14 @@
     },
     {
       "source": "https://vk.com/public203691909",
-      "community": "Федеральная платформа «Во имя героев»",
-      "latest_post_id": 5643,
+      "community": "МОУ \"Средняя школа №37\"",
+      "latest_post_id": 5645,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public215663353",
       "community": "МОУ \"Средняя школа №5\" Саранск",
-      "latest_post_id": 5395,
+      "latest_post_id": 5397,
       "fetched": 20
     },
     {
@@ -318,7 +318,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 41467,
+      "latest_post_id": 41482,
       "fetched": 20
     },
     {
@@ -330,7 +330,7 @@
     {
       "source": "https://vk.com/public164250189",
       "community": "Школа №24| Саранск",
-      "latest_post_id": 5150,
+      "latest_post_id": 5152,
       "fetched": 20
     },
     {
@@ -342,7 +342,7 @@
     {
       "source": "https://vk.com/public142331459",
       "community": "МОУ «Ялгинская СОШ» корпус 1 | Саранск",
-      "latest_post_id": 7408,
+      "latest_post_id": 7415,
       "fetched": 20
     },
     {
@@ -359,20 +359,20 @@
     },
     {
       "source": "https://vk.com/club206918978",
-      "community": "Николаевская школа | Саранск",
-      "latest_post_id": 8411,
+      "community": "Первые МОУ \"Николаевская СОШ\" г.о. Саранск",
+      "latest_post_id": 8412,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club95243821",
       "community": "Мордва ZAнаших!",
-      "latest_post_id": 11604,
+      "latest_post_id": 11605,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club153457218",
       "community": "Средняя школа №40 | Саранск",
-      "latest_post_id": 12010,
+      "latest_post_id": 12019,
       "fetched": 20
     },
     {
@@ -384,7 +384,7 @@
     {
       "source": "https://vk.com/club48794793",
       "community": "Средняя общеобразовательная школа №1 г.о.Саранск",
-      "latest_post_id": 4701,
+      "latest_post_id": 4703,
       "fetched": 20
     },
     {
@@ -396,13 +396,13 @@
     {
       "source": "https://vk.com/club173709175",
       "community": "Школа №3 | Саранск",
-      "latest_post_id": 2922,
+      "latest_post_id": 2925,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club175038308",
       "community": "Школа №39 | Саранск",
-      "latest_post_id": 11772,
+      "latest_post_id": 11773,
       "fetched": 20
     }
   ],
@@ -420,10 +420,26 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 3,
-  "mirrored_photos": 1,
-  "published_photos": 170,
-  "image_errors": [],
+  "new_posts": 44,
+  "mirrored_photos": 39,
+  "published_photos": 199,
+  "image_errors": [
+    {
+      "post_url": "https://vk.com/wall-59095536_15393",
+      "photo_url": "https://sun9-15.userapi.com/s/v1/ig2/8EBWeDDEFVm0LqL84b9tPBDV6v9mTYlgzkhU79B8z_da9w6iTZgJaSdI4VDKmMpoTDSCjeDABGuNW7MhKAWnze1I.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960&from=bu&cs=1280x0",
+      "error": "HTTPSConnectionPool(host='sun9-15.userapi.com', port=443): Max retries exceeded with url: /s/v1/ig2/8EBWeDDEFVm0LqL84b9tPBDV6v9mTYlgzkhU79B8z_da9w6iTZgJaSdI4VDKmMpoTDSCjeDABGuNW7MhKAWnze1I.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,128"
+    },
+    {
+      "post_url": "https://vk.com/wall-216577930_3514",
+      "photo_url": "https://sun9-80.userapi.com/s/v1/ig2/IuDVjuGRXNVllHf78ledt91sJ338zyctRr8tZJ20rgbu1UYbXKMZkgtaF3j3n4SxH7VcJ4fCpoZMzrCQmaQp7rGP.jpg?quality=95&as=32x23,48x34,72x51,108x76,160x113,240x170,360x254,480x339,540x381,640x452,720x509,1080x763,1280x904,1440x1017,1492x1054&from=bu&cs=1492x0",
+      "error": "404 Client Error: Not Found for url: https://sun9-80.userapi.com/s/v1/ig2/IuDVjuGRXNVllHf78ledt91sJ338zyctRr8tZJ20rgbu1UYbXKMZkgtaF3j3n4SxH7VcJ4fCpoZMzrCQmaQp7rGP.jpg?quality=95&as=32x23,48x34,72x51,108x76,160x113,240x170,360x254,480x339,540x381,640x452,720x509,1080x763,1280x904,1440x1017,1492x1054&"
+    },
+    {
+      "post_url": "https://vk.com/wall-4365563_6658",
+      "photo_url": "https://sun9-15.userapi.com/s/v1/ig2/Pht8CP5FILo3CcKk--Qw4Ejjg3HpzE3UeS3QOLKgKOh1VLsZKPr444A138o33SuKcBkUvxDxYshB5AxK4hQyESsu.jpg?quality=95&as=32x20,48x30,72x46,108x68,160x101,240x152,360x228,480x304,540x342,640x405,720x456,1080x684,1280x810,1440x911,1836x1162&from=bu&cs=1280x0",
+      "error": "HTTPSConnectionPool(host='sun9-15.userapi.com', port=443): Max retries exceeded with url: /s/v1/ig2/Pht8CP5FILo3CcKk--Qw4Ejjg3HpzE3UeS3QOLKgKOh1VLsZKPr444A138o33SuKcBkUvxDxYshB5AxK4hQyESsu.jpg?quality=95&as=32x20,48x30,72x46,108x68,160x101,240x152,360x228,480x304,540x342,640x405,720x456,1080x684,128"
+    }
+  ],
   "built_visuals": 0,
   "built_visual_files": [],
   "reused_visuals": 0,
