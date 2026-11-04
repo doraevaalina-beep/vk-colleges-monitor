@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-03T19:24:47.043466Z",
+  "checked_at": "2026-11-04T00:10:34.300588Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
@@ -240,7 +240,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14979,
+      "latest_post_id": 14981,
       "fetched": 20
     },
     {
@@ -420,21 +420,10 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 39,
-  "mirrored_photos": 34,
-  "published_photos": 234,
-  "image_errors": [
-    {
-      "post_url": "https://vk.com/wall-213660027_173347",
-      "photo_url": "https://sun9-56.userapi.com/s/v1/ig2/mhD7NNac-mEvDNHXMXmU45qm4gdWDiyG1p49gAmdsyQfrIM974BPLiT_P3Wgru8wkbqto8fQ-eqU6-TJ4qRqY9Kw.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-56.userapi.com/s/v1/ig2/mhD7NNac-mEvDNHXMXmU45qm4gdWDiyG1p49gAmdsyQfrIM974BPLiT_P3Wgru8wkbqto8fQ-eqU6-TJ4qRqY9Kw.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&"
-    },
-    {
-      "post_url": "https://vk.com/wall-526150_6718",
-      "photo_url": "https://sun9-6.userapi.com/s/v1/ig2/inXkTG-hQDJ5XeAQGvPzpnYLNkwcepe0wz1zRY-jna1m1ZEIT0nQK5yBYogsl_72ASxuzuNg2Dn2jrwKy1FRvDla.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-6.userapi.com/s/v1/ig2/inXkTG-hQDJ5XeAQGvPzpnYLNkwcepe0wz1zRY-jna1m1ZEIT0nQK5yBYogsl_72ASxuzuNg2Dn2jrwKy1FRvDla.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&f"
-    }
-  ],
+  "new_posts": 1,
+  "mirrored_photos": 3,
+  "published_photos": 222,
+  "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
   "reused_visuals": 0,
