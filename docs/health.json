@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-04T15:20:20.544171Z",
+  "checked_at": "2026-11-04T21:27:49.575803Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
@@ -77,8 +77,8 @@
     },
     {
       "source": "https://vk.com/stppp_professionalitet",
-      "community": "Медиацентр СТППП «Фокус13»",
-      "latest_post_id": 4894,
+      "community": "Саранский техникум пищевой промышленности",
+      "latest_post_id": 4897,
       "fetched": 20
     },
     {
@@ -102,7 +102,7 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 173347,
+      "latest_post_id": 173379,
       "fetched": 20
     },
     {
@@ -143,8 +143,8 @@
     },
     {
       "source": "https://vk.com/club148125790",
-      "community": "38tv - Новости",
-      "latest_post_id": 9891,
+      "community": "НТМ || Народное Телевидение Мордовии",
+      "latest_post_id": 9898,
       "fetched": 20
     },
     {
@@ -167,14 +167,14 @@
     },
     {
       "source": "https://vk.com/club103710305",
-      "community": "МОУ \"Школа №27\" г. Саранск Республика Мордовия",
-      "latest_post_id": 4261,
+      "community": "Молодёжный телефон доверия Республики Мордовия",
+      "latest_post_id": 4262,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public216577930",
       "community": "Гимназия №19 | г. Саранск",
-      "latest_post_id": 3517,
+      "latest_post_id": 3520,
       "fetched": 20
     },
     {
@@ -240,7 +240,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14988,
+      "latest_post_id": 14989,
       "fetched": 20
     },
     {
@@ -300,7 +300,7 @@
     {
       "source": "https://vk.com/public203691909",
       "community": "МОУ \"Средняя школа №37\"",
-      "latest_post_id": 5648,
+      "latest_post_id": 5649,
       "fetched": 20
     },
     {
@@ -372,7 +372,7 @@
     {
       "source": "https://vk.com/club153457218",
       "community": "Средняя школа №40 | Саранск",
-      "latest_post_id": 12025,
+      "latest_post_id": 12027,
       "fetched": 20
     },
     {
@@ -420,9 +420,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 39,
-  "mirrored_photos": 27,
-  "published_photos": 256,
+  "new_posts": 10,
+  "mirrored_photos": 8,
+  "published_photos": 244,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
