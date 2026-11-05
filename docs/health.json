@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-11-05T08:08:58.603045Z",
+  "checked_at": "2026-11-05T09:20:44.783226Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
     {
       "source": "https://vk.com/samtrm",
       "community": "ГАПОУ РМ \"Саранский автомеханический техникум\"",
-      "latest_post_id": 12217,
+      "latest_post_id": 12220,
       "fetched": 20
     },
     {
@@ -23,8 +23,8 @@
     },
     {
       "source": "https://vk.com/club181850079",
-      "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4653,
+      "community": "НТМ || Народное Телевидение Мордовии",
+      "latest_post_id": 4654,
       "fetched": 20
     },
     {
@@ -186,13 +186,13 @@
     {
       "source": "https://vk.com/club9874035",
       "community": "Лыжно-биатлонный комплекс. Федерация биатлона РМ",
-      "latest_post_id": 4620,
+      "latest_post_id": 4622,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club174792280",
       "community": "МАОУ \"СОШ №10\"",
-      "latest_post_id": 8501,
+      "latest_post_id": 8502,
       "fetched": 20
     },
     {
@@ -420,9 +420,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 9,
-  "mirrored_photos": 8,
-  "published_photos": 244,
+  "new_posts": 6,
+  "mirrored_photos": 5,
+  "published_photos": 249,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
