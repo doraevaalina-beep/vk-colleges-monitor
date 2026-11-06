@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-05T22:49:56.941051Z",
+  "checked_at": "2026-11-06T03:21:33.378175Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
@@ -77,8 +77,8 @@
     },
     {
       "source": "https://vk.com/stppp_professionalitet",
-      "community": "Саранский техникум пищевой промышленности",
-      "latest_post_id": 4897,
+      "community": "Медиацентр СТППП «Фокус13»",
+      "latest_post_id": 4899,
       "fetched": 20
     },
     {
@@ -420,9 +420,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 12,
-  "mirrored_photos": 12,
-  "published_photos": 249,
+  "new_posts": 2,
+  "mirrored_photos": 1,
+  "published_photos": 236,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
