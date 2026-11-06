@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-06T18:19:41.983627Z",
+  "checked_at": "2026-11-06T23:26:43.471516Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
@@ -18,7 +18,7 @@
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10819,
+      "latest_post_id": 10820,
       "fetched": 20
     },
     {
@@ -77,8 +77,8 @@
     },
     {
       "source": "https://vk.com/stppp_professionalitet",
-      "community": "Медиацентр СТППП «Фокус13»",
-      "latest_post_id": 4899,
+      "community": "Отвага и антитеррор",
+      "latest_post_id": 4901,
       "fetched": 20
     },
     {
@@ -102,7 +102,7 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 173437,
+      "latest_post_id": 173490,
       "fetched": 20
     },
     {
@@ -222,7 +222,7 @@
     {
       "source": "https://vk.com/public195117146",
       "community": "МОУ \"Ялгинская СОШ\" корпус 2 г.о.Саранск",
-      "latest_post_id": 3897,
+      "latest_post_id": 3898,
       "fetched": 20
     },
     {
@@ -276,7 +276,7 @@
     {
       "source": "https://vk.com/public92799833",
       "community": "МОУ \"Средняя школа №33\"",
-      "latest_post_id": 7779,
+      "latest_post_id": 7781,
       "fetched": 20
     },
     {
@@ -420,9 +420,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 71,
-  "mirrored_photos": 60,
-  "published_photos": 284,
+  "new_posts": 7,
+  "mirrored_photos": 5,
+  "published_photos": 255,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
