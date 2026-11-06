@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-06T03:21:33.378175Z",
+  "checked_at": "2026-11-06T07:12:41.197220Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
@@ -18,7 +18,7 @@
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10812,
+      "latest_post_id": 10816,
       "fetched": 20
     },
     {
@@ -30,7 +30,7 @@
     {
       "source": "https://vk.com/ipc_hgo_mlclass_fv_informatica",
       "community": "Ичалковский педагогический колледж",
-      "latest_post_id": 6663,
+      "latest_post_id": 6665,
       "fetched": 20
     },
     {
@@ -42,7 +42,7 @@
     {
       "source": "https://vk.com/zppk_official",
       "community": "Зубово-Полянский педагогический колледж",
-      "latest_post_id": 4796,
+      "latest_post_id": 4797,
       "fetched": 20
     },
     {
@@ -89,8 +89,8 @@
     },
     {
       "source": "https://vk.com/public208110632",
-      "community": "СТСУиПТ",
-      "latest_post_id": 9807,
+      "community": "НИЦ Мониторинга и профилактики",
+      "latest_post_id": 9808,
       "fetched": 20
     },
     {
@@ -126,7 +126,7 @@
     {
       "source": "https://vk.com/club34313558",
       "community": "ГБПОУ РМ \"Краснослободский аграрный техникум\"",
-      "latest_post_id": 3164,
+      "latest_post_id": 3170,
       "fetched": 20
     },
     {
@@ -144,7 +144,7 @@
     {
       "source": "https://vk.com/club148125790",
       "community": "38tv - Новости",
-      "latest_post_id": 9904,
+      "latest_post_id": 9906,
       "fetched": 20
     },
     {
@@ -180,7 +180,7 @@
     {
       "source": "https://vk.com/public144012777",
       "community": "Лицей №43, г. Саранск",
-      "latest_post_id": 6828,
+      "latest_post_id": 6830,
       "fetched": 20
     },
     {
@@ -192,7 +192,7 @@
     {
       "source": "https://vk.com/club174792280",
       "community": "МАОУ \"СОШ №10\"",
-      "latest_post_id": 8504,
+      "latest_post_id": 8506,
       "fetched": 20
     },
     {
@@ -228,7 +228,7 @@
     {
       "source": "https://vk.com/club351497",
       "community": "МОУ \"Лицей № 7\"",
-      "latest_post_id": 15808,
+      "latest_post_id": 15809,
       "fetched": 20
     },
     {
@@ -240,7 +240,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14992,
+      "latest_post_id": 14995,
       "fetched": 20
     },
     {
@@ -252,7 +252,7 @@
     {
       "source": "https://vk.com/public200835009",
       "community": "МОУ \"Лицей №4\" г.Саранск",
-      "latest_post_id": 5386,
+      "latest_post_id": 5388,
       "fetched": 20
     },
     {
@@ -282,7 +282,7 @@
     {
       "source": "https://vk.com/club166449275",
       "community": "Школа №9 | г.Саранск",
-      "latest_post_id": 8492,
+      "latest_post_id": 8495,
       "fetched": 20
     },
     {
@@ -306,7 +306,7 @@
     {
       "source": "https://vk.com/public215663353",
       "community": "МОУ \"Средняя школа №5\" Саранск",
-      "latest_post_id": 5406,
+      "latest_post_id": 5407,
       "fetched": 20
     },
     {
@@ -318,13 +318,13 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 41505,
+      "latest_post_id": 41540,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public171854359",
       "community": "МОУ «СОШ №22»",
-      "latest_post_id": 8854,
+      "latest_post_id": 8857,
       "fetched": 20
     },
     {
@@ -390,7 +390,7 @@
     {
       "source": "https://vk.com/club153679543",
       "community": "СОШ №2 им. Героя Советского Союза П.И.Орлова к.2",
-      "latest_post_id": 5231,
+      "latest_post_id": 5232,
       "fetched": 20
     },
     {
@@ -420,9 +420,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 2,
-  "mirrored_photos": 1,
-  "published_photos": 236,
+  "new_posts": 24,
+  "mirrored_photos": 20,
+  "published_photos": 255,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
