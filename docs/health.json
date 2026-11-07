@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-11-07T16:17:10.582145Z",
+  "checked_at": "2026-11-07T20:26:38.093700Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
     {
       "source": "https://vk.com/samtrm",
       "community": "ГАПОУ РМ \"Саранский автомеханический техникум\"",
-      "latest_post_id": 12221,
+      "latest_post_id": 12223,
       "fetched": 20
     },
     {
@@ -149,8 +149,8 @@
     },
     {
       "source": "https://vk.com/public194762632",
-      "community": "Навигаторы детства",
-      "latest_post_id": 5048,
+      "community": "«Средняя школа № 36» Саранск",
+      "latest_post_id": 5050,
       "fetched": 20
     },
     {
@@ -353,8 +353,8 @@
     },
     {
       "source": "https://vk.com/public195089396",
-      "community": "Гимназия 29",
-      "latest_post_id": 7615,
+      "community": "НТМ || Народное Телевидение Мордовии",
+      "latest_post_id": 7620,
       "fetched": 20
     },
     {
@@ -420,16 +420,10 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 18,
-  "mirrored_photos": 13,
-  "published_photos": 233,
-  "image_errors": [
-    {
-      "post_url": "https://vk.com/wall-208110632_9814",
-      "photo_url": "https://sun9-45.userapi.com/s/v1/ig2/bSMN1EZ2rZ8-dc98Hey9a4sTP2hnK43yxz6z2Mu2ArQvBh4XZoGB7_v_lij9yoj3bNX9Ep1IR3CLNOLlxDViDE4J.jpg?quality=95&crop=0,0,1920,1446&as=32x24,48x36,72x54,108x81,160x120,240x181,360x271,480x361,540x407,640x482,720x542,1080x813,1280x964,1440x1084,1920x1446&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-45.userapi.com/s/v1/ig2/bSMN1EZ2rZ8-dc98Hey9a4sTP2hnK43yxz6z2Mu2ArQvBh4XZoGB7_v_lij9yoj3bNX9Ep1IR3CLNOLlxDViDE4J.jpg?quality=95&crop=0,0,1920,1446&as=32x24,48x36,72x54,108x81,160x120,240x181,360x271,480x361,540x407,640x482,720x542,1080x813,1280x964,1"
-    }
-  ],
+  "new_posts": 3,
+  "mirrored_photos": 3,
+  "published_photos": 236,
+  "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
   "reused_visuals": 0,
