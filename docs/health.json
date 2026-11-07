@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-07T09:14:10.131816Z",
+  "checked_at": "2026-11-07T09:56:57.924053Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
@@ -126,7 +126,7 @@
     {
       "source": "https://vk.com/club34313558",
       "community": "ГБПОУ РМ \"Краснослободский аграрный техникум\"",
-      "latest_post_id": 3175,
+      "latest_post_id": 3177,
       "fetched": 20
     },
     {
@@ -306,7 +306,7 @@
     {
       "source": "https://vk.com/public215663353",
       "community": "МОУ \"Средняя школа №5\" Саранск",
-      "latest_post_id": 5413,
+      "latest_post_id": 5414,
       "fetched": 20
     },
     {
@@ -372,7 +372,7 @@
     {
       "source": "https://vk.com/club153457218",
       "community": "Средняя школа №40 | Саранск",
-      "latest_post_id": 12032,
+      "latest_post_id": 12035,
       "fetched": 20
     },
     {
@@ -420,9 +420,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 9,
-  "mirrored_photos": 9,
-  "published_photos": 246,
+  "new_posts": 3,
+  "mirrored_photos": 1,
+  "published_photos": 247,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
