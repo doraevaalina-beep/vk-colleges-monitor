@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-07T09:56:57.924053Z",
+  "checked_at": "2026-11-07T16:17:10.582145Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
@@ -12,7 +12,7 @@
     {
       "source": "https://vk.com/sst_rm",
       "community": "Саранский строительный техникум",
-      "latest_post_id": 14549,
+      "latest_post_id": 14552,
       "fetched": 20
     },
     {
@@ -24,7 +24,7 @@
     {
       "source": "https://vk.com/club181850079",
       "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4657,
+      "latest_post_id": 4658,
       "fetched": 20
     },
     {
@@ -77,8 +77,8 @@
     },
     {
       "source": "https://vk.com/stppp_professionalitet",
-      "community": "Отвага и антитеррор",
-      "latest_post_id": 4901,
+      "community": "Медиацентр СТППП «Фокус13»",
+      "latest_post_id": 4902,
       "fetched": 20
     },
     {
@@ -89,8 +89,8 @@
     },
     {
       "source": "https://vk.com/public208110632",
-      "community": "Росдетцентр | РДЦ",
-      "latest_post_id": 9812,
+      "community": "СТСУиПТ",
+      "latest_post_id": 9816,
       "fetched": 20
     },
     {
@@ -204,13 +204,13 @@
     {
       "source": "https://vk.com/club166487726",
       "community": "Гимназия № 12 | Саранск",
-      "latest_post_id": 7329,
+      "latest_post_id": 7330,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club819936",
       "community": "МОУ \"Гимназия № 23\" г. о. Саранск",
-      "latest_post_id": 11405,
+      "latest_post_id": 11413,
       "fetched": 20
     },
     {
@@ -228,7 +228,7 @@
     {
       "source": "https://vk.com/club351497",
       "community": "МОУ \"Лицей № 7\"",
-      "latest_post_id": 15809,
+      "latest_post_id": 15829,
       "fetched": 20
     },
     {
@@ -240,7 +240,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 14995,
+      "latest_post_id": 14997,
       "fetched": 20
     },
     {
@@ -299,8 +299,8 @@
     },
     {
       "source": "https://vk.com/public203691909",
-      "community": "МОУ \"Средняя школа №37\"",
-      "latest_post_id": 5652,
+      "community": "Факультет Истории и Права МГПУ им.М.Е.Евсевьева",
+      "latest_post_id": 5654,
       "fetched": 20
     },
     {
@@ -324,7 +324,7 @@
     {
       "source": "https://vk.com/public171854359",
       "community": "МОУ «СОШ №22»",
-      "latest_post_id": 8858,
+      "latest_post_id": 8869,
       "fetched": 20
     },
     {
@@ -402,7 +402,7 @@
     {
       "source": "https://vk.com/club175038308",
       "community": "Школа №39 | Саранск",
-      "latest_post_id": 11782,
+      "latest_post_id": 11786,
       "fetched": 20
     }
   ],
@@ -420,10 +420,16 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 3,
-  "mirrored_photos": 1,
-  "published_photos": 247,
-  "image_errors": [],
+  "new_posts": 18,
+  "mirrored_photos": 13,
+  "published_photos": 233,
+  "image_errors": [
+    {
+      "post_url": "https://vk.com/wall-208110632_9814",
+      "photo_url": "https://sun9-45.userapi.com/s/v1/ig2/bSMN1EZ2rZ8-dc98Hey9a4sTP2hnK43yxz6z2Mu2ArQvBh4XZoGB7_v_lij9yoj3bNX9Ep1IR3CLNOLlxDViDE4J.jpg?quality=95&crop=0,0,1920,1446&as=32x24,48x36,72x54,108x81,160x120,240x181,360x271,480x361,540x407,640x482,720x542,1080x813,1280x964,1440x1084,1920x1446&from=bu&cs=1280x0",
+      "error": "404 Client Error: Not Found for url: https://sun9-45.userapi.com/s/v1/ig2/bSMN1EZ2rZ8-dc98Hey9a4sTP2hnK43yxz6z2Mu2ArQvBh4XZoGB7_v_lij9yoj3bNX9Ep1IR3CLNOLlxDViDE4J.jpg?quality=95&crop=0,0,1920,1446&as=32x24,48x36,72x54,108x81,160x120,240x181,360x271,480x361,540x407,640x482,720x542,1080x813,1280x964,1"
+    }
+  ],
   "built_visuals": 0,
   "built_visual_files": [],
   "reused_visuals": 0,
