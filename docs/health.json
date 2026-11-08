@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-08T05:47:41.403684Z",
+  "checked_at": "2026-11-08T13:12:21.414248Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
@@ -18,13 +18,13 @@
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10820,
+      "latest_post_id": 10823,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club181850079",
       "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4658,
+      "latest_post_id": 4659,
       "fetched": 20
     },
     {
@@ -77,8 +77,8 @@
     },
     {
       "source": "https://vk.com/stppp_professionalitet",
-      "community": "Медиацентр СТППП «Фокус13»",
-      "latest_post_id": 4902,
+      "community": "Отвага и антитеррор",
+      "latest_post_id": 4903,
       "fetched": 20
     },
     {
@@ -102,13 +102,13 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 173490,
+      "latest_post_id": 173526,
       "fetched": 20
     },
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 11086,
+      "latest_post_id": 11095,
       "fetched": 20
     },
     {
@@ -174,7 +174,7 @@
     {
       "source": "https://vk.com/public216577930",
       "community": "Гимназия №19 | г. Саранск",
-      "latest_post_id": 3527,
+      "latest_post_id": 3528,
       "fetched": 20
     },
     {
@@ -203,8 +203,8 @@
     },
     {
       "source": "https://vk.com/club166487726",
-      "community": "Гимназия № 12 | Саранск",
-      "latest_post_id": 7330,
+      "community": "Ожившая история Старого Саранска",
+      "latest_post_id": 7331,
       "fetched": 20
     },
     {
@@ -258,7 +258,7 @@
     {
       "source": "https://vk.com/club154276223",
       "community": "МОУ \"Луховский лицей\"",
-      "latest_post_id": 5363,
+      "latest_post_id": 5364,
       "fetched": 20
     },
     {
@@ -420,9 +420,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 0,
-  "mirrored_photos": 0,
-  "published_photos": 228,
+  "new_posts": 7,
+  "mirrored_photos": 6,
+  "published_photos": 221,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
