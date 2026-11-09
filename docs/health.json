@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-09T09:36:35.696997Z",
+  "checked_at": "2026-11-09T20:00:21.404104Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
@@ -12,85 +12,85 @@
     {
       "source": "https://vk.com/sst_rm",
       "community": "Саранский строительный техникум",
-      "latest_post_id": 14557,
+      "latest_post_id": 14558,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10826,
+      "latest_post_id": 10829,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club181850079",
-      "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4659,
+      "community": "Отвага и антитеррор",
+      "latest_post_id": 4662,
       "fetched": 20
     },
     {
       "source": "https://vk.com/ipc_hgo_mlclass_fv_informatica",
       "community": "Ичалковский педагогический колледж",
-      "latest_post_id": 6669,
+      "latest_post_id": 6672,
       "fetched": 20
     },
     {
       "source": "https://vk.com/rjpt_baikuzova",
       "community": "ГБПОУ РМ  \"РТЖГТ им. А.П. Байкузова\"",
-      "latest_post_id": 2438,
+      "latest_post_id": 2439,
       "fetched": 20
     },
     {
       "source": "https://vk.com/zppk_official",
       "community": "Зубово-Полянский педагогический колледж",
-      "latest_post_id": 4797,
+      "latest_post_id": 4799,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public80925441",
       "community": "Атяшевский аграрный техникум",
-      "latest_post_id": 1689,
+      "latest_post_id": 1691,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club202849242",
       "community": "СТЭиЭТ им. А.И. Полежаева",
-      "latest_post_id": 3779,
+      "latest_post_id": 3781,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 79563,
+      "latest_post_id": 79591,
       "fetched": 20
     },
     {
       "source": "https://vk.com/gouspt",
       "community": "Саранский политехнический техникум",
-      "latest_post_id": 3965,
+      "latest_post_id": 3968,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public198480547",
       "community": "Инсарский аграрный техникум",
-      "latest_post_id": 2129,
+      "latest_post_id": 2131,
       "fetched": 20
     },
     {
       "source": "https://vk.com/stppp_professionalitet",
-      "community": "Отвага и антитеррор",
-      "latest_post_id": 4903,
+      "community": "Саранский техникум пищевой промышленности",
+      "latest_post_id": 4909,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club182790665",
       "community": "ГБПОУ РМ \"Зубово-Полянский аграрный техникум\"",
-      "latest_post_id": 2758,
+      "latest_post_id": 2764,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public208110632",
-      "community": "ПРОМОМЕД",
-      "latest_post_id": 9818,
+      "community": "СТСУиПТ",
+      "latest_post_id": 9827,
       "fetched": 20
     },
     {
@@ -102,13 +102,13 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 173526,
+      "latest_post_id": 173539,
       "fetched": 20
     },
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 11095,
+      "latest_post_id": 11110,
       "fetched": 20
     },
     {
@@ -120,19 +120,19 @@
     {
       "source": "https://vk.com/kaskrm",
       "community": "Ковылкинский аграрно-строительный колледж",
-      "latest_post_id": 23016,
+      "latest_post_id": 23050,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club34313558",
       "community": "ГБПОУ РМ \"Краснослободский аграрный техникум\"",
-      "latest_post_id": 3177,
-      "fetched": 20
+      "latest_post_id": 3186,
+      "fetched": 19
     },
     {
       "source": "https://vk.com/public207172998",
       "community": "#ПрямойЭфир «МОУ Озерная ООШ»",
-      "latest_post_id": 3179,
+      "latest_post_id": 3180,
       "fetched": 20
     },
     {
@@ -144,7 +144,7 @@
     {
       "source": "https://vk.com/club148125790",
       "community": "38tv - Новости",
-      "latest_post_id": 9912,
+      "latest_post_id": 9915,
       "fetched": 20
     },
     {
@@ -162,13 +162,13 @@
     {
       "source": "https://vk.com/club129703276",
       "community": "Средняя школа №35 | Саранск",
-      "latest_post_id": 11773,
+      "latest_post_id": 11775,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club103710305",
       "community": "МОУ \"Школа №27\" г. Саранск Республика Мордовия",
-      "latest_post_id": 4276,
+      "latest_post_id": 4277,
       "fetched": 20
     },
     {
@@ -186,13 +186,13 @@
     {
       "source": "https://vk.com/club9874035",
       "community": "Лыжно-биатлонный комплекс. Федерация биатлона РМ",
-      "latest_post_id": 4622,
+      "latest_post_id": 4623,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club174792280",
       "community": "МАОУ \"СОШ №10\"",
-      "latest_post_id": 8510,
+      "latest_post_id": 8513,
       "fetched": 20
     },
     {
@@ -204,7 +204,7 @@
     {
       "source": "https://vk.com/club166487726",
       "community": "Ожившая история Старого Саранска",
-      "latest_post_id": 7332,
+      "latest_post_id": 7339,
       "fetched": 20
     },
     {
@@ -216,25 +216,25 @@
     {
       "source": "https://vk.com/public92009976",
       "community": "Гимназия №20",
-      "latest_post_id": 9752,
+      "latest_post_id": 9758,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public195117146",
       "community": "МОУ \"Ялгинская СОШ\" корпус 2 г.о.Саранск",
-      "latest_post_id": 3902,
+      "latest_post_id": 3905,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club351497",
       "community": "МОУ \"Лицей № 7\"",
-      "latest_post_id": 15829,
+      "latest_post_id": 15836,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club154501666",
       "community": "МОУ \"Лицей №25\"",
-      "latest_post_id": 2194,
+      "latest_post_id": 2197,
       "fetched": 20
     },
     {
@@ -246,7 +246,7 @@
     {
       "source": "https://vk.com/public215664590",
       "community": "МОУ \"Лицей №31\"",
-      "latest_post_id": 1877,
+      "latest_post_id": 1878,
       "fetched": 20
     },
     {
@@ -270,19 +270,19 @@
     {
       "source": "https://vk.com/public171422852",
       "community": "МОУ \" Средняя школа  №18\" г. Саранск",
-      "latest_post_id": 6226,
+      "latest_post_id": 6227,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public92799833",
       "community": "МОУ \"Средняя школа №33\"",
-      "latest_post_id": 7784,
+      "latest_post_id": 7789,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club166449275",
-      "community": "Школа №9 | г.Саранск",
-      "latest_post_id": 8501,
+      "community": "Центр детского творчества № 2 г.о.Саранск",
+      "latest_post_id": 8506,
       "fetched": 20
     },
     {
@@ -294,19 +294,19 @@
     {
       "source": "https://vk.com/public1571309",
       "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26715,
+      "latest_post_id": 26720,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public203691909",
       "community": "МОУ \"Средняя школа №37\"",
-      "latest_post_id": 5656,
+      "latest_post_id": 5660,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public215663353",
       "community": "МОУ \"Средняя школа №5\" Саранск",
-      "latest_post_id": 5419,
+      "latest_post_id": 5429,
       "fetched": 20
     },
     {
@@ -317,14 +317,14 @@
     },
     {
       "source": "https://vk.com/public153117774",
-      "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 41569,
+      "community": "Мордовия СВОих НЕ бросает",
+      "latest_post_id": 41586,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public171854359",
       "community": "МОУ «СОШ №22»",
-      "latest_post_id": 8869,
+      "latest_post_id": 8872,
       "fetched": 20
     },
     {
@@ -348,7 +348,7 @@
     {
       "source": "https://vk.com/club186187361",
       "community": "МОУ СОШ №2 им.Героя Советского Союза П.И.Орлова",
-      "latest_post_id": 5764,
+      "latest_post_id": 5766,
       "fetched": 20
     },
     {
@@ -360,19 +360,19 @@
     {
       "source": "https://vk.com/club206918978",
       "community": "Николаевская школа | Саранск",
-      "latest_post_id": 8427,
+      "latest_post_id": 8429,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club95243821",
       "community": "Мордва ZAнаших!",
-      "latest_post_id": 11607,
+      "latest_post_id": 11608,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club153457218",
       "community": "Средняя школа №40 | Саранск",
-      "latest_post_id": 12040,
+      "latest_post_id": 12041,
       "fetched": 20
     },
     {
@@ -402,7 +402,7 @@
     {
       "source": "https://vk.com/club175038308",
       "community": "Школа №39 | Саранск",
-      "latest_post_id": 11788,
+      "latest_post_id": 11789,
       "fetched": 20
     }
   ],
@@ -420,16 +420,10 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 11,
-  "mirrored_photos": 11,
-  "published_photos": 193,
-  "image_errors": [
-    {
-      "post_url": "https://vk.com/wall-142331459_7424",
-      "photo_url": "https://sun9-46.userapi.com/s/v1/ig2/FpDv8pH-EmeCctNdgrtTyMe_AJnhSEfQHPmHPMctBiI7kvZFQ_sL3zBLULeQLRjtfhY3IjB0oM3NiUu8YPoRuyKj.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-46.userapi.com/s/v1/ig2/FpDv8pH-EmeCctNdgrtTyMe_AJnhSEfQHPmHPMctBiI7kvZFQ_sL3zBLULeQLRjtfhY3IjB0oM3NiUu8YPoRuyKj.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&"
-    }
-  ],
+  "new_posts": 98,
+  "mirrored_photos": 87,
+  "published_photos": 187,
+  "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
   "reused_visuals": 0,
