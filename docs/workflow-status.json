@@ -1,6 +1,6 @@
 {
-  "run_id": "42547944663",
-  "event": "schedule",
-  "finished_at": "2026-11-09T01:55:55Z",
-  "status": "success"
+  "run_id": "42585671984",
+  "event": "workflow_dispatch",
+  "started_at": "2026-11-09T08:24:13Z",
+  "status": "running"
 }
