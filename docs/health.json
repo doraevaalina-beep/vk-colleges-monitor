@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-11-10T18:35:20.460556Z",
+  "checked_at": "2026-11-10T23:41:14.859725Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
     {
       "source": "https://vk.com/samtrm",
       "community": "ГАПОУ РМ \"Саранский автомеханический техникум\"",
-      "latest_post_id": 12226,
+      "latest_post_id": 12227,
       "fetched": 20
     },
     {
@@ -204,7 +204,7 @@
     {
       "source": "https://vk.com/club166487726",
       "community": "Ожившая история Старого Саранска",
-      "latest_post_id": 7342,
+      "latest_post_id": 7343,
       "fetched": 20
     },
     {
@@ -288,25 +288,25 @@
     {
       "source": "https://vk.com/public129692291",
       "community": "МОУ \"Средняя общеобразовательная школа №28\"",
-      "latest_post_id": 8841,
+      "latest_post_id": 8842,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public1571309",
       "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26722,
+      "latest_post_id": 26723,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public203691909",
       "community": "МОУ \"Средняя школа №37\"",
-      "latest_post_id": 5662,
+      "latest_post_id": 5663,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public215663353",
-      "community": "МОУ \"Средняя школа №5\" Саранск",
-      "latest_post_id": 5434,
+      "community": "Единая Россия  | Республика Мордовия",
+      "latest_post_id": 5435,
       "fetched": 20
     },
     {
@@ -420,16 +420,10 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 69,
-  "mirrored_photos": 48,
-  "published_photos": 276,
-  "image_errors": [
-    {
-      "post_url": "https://vk.com/wall-29982933_14582",
-      "photo_url": "https://sun9-83.userapi.com/s/v1/ig2/0B-vG-ShJWWmjD190vnXWH5jhj_wcIMp6KUPXf9kcvRfWlr6iJGaDM7L1lTZ-hL93QC32jjTPjaUWs2ZZaqxay46.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-83.userapi.com/s/v1/ig2/0B-vG-ShJWWmjD190vnXWH5jhj_wcIMp6KUPXf9kcvRfWlr6iJGaDM7L1lTZ-hL93QC32jjTPjaUWs2ZZaqxay46.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&"
-    }
-  ],
+  "new_posts": 5,
+  "mirrored_photos": 2,
+  "published_photos": 275,
+  "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
   "reused_visuals": 0,
