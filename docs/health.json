@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-09T20:00:21.404104Z",
+  "checked_at": "2026-11-10T02:38:53.228758Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
@@ -402,7 +402,7 @@
     {
       "source": "https://vk.com/club175038308",
       "community": "Школа №39 | Саранск",
-      "latest_post_id": 11789,
+      "latest_post_id": 11791,
       "fetched": 20
     }
   ],
@@ -420,9 +420,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 98,
-  "mirrored_photos": 87,
-  "published_photos": 187,
+  "new_posts": 1,
+  "mirrored_photos": 1,
+  "published_photos": 185,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
