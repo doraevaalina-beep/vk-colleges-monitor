@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-11-11T14:03:19.403062Z",
+  "checked_at": "2026-11-11T21:12:57.723343Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
     {
       "source": "https://vk.com/samtrm",
       "community": "ГАПОУ РМ \"Саранский автомеханический техникум\"",
-      "latest_post_id": 12229,
+      "latest_post_id": 12230,
       "fetched": 20
     },
     {
       "source": "https://vk.com/sst_rm",
       "community": "Саранский строительный техникум",
-      "latest_post_id": 14589,
+      "latest_post_id": 14595,
       "fetched": 20
     },
     {
@@ -23,14 +23,14 @@
     },
     {
       "source": "https://vk.com/club181850079",
-      "community": "Отвага и антитеррор",
-      "latest_post_id": 4664,
+      "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
+      "latest_post_id": 4668,
       "fetched": 20
     },
     {
       "source": "https://vk.com/ipc_hgo_mlclass_fv_informatica",
       "community": "Ичалковский педагогический колледж",
-      "latest_post_id": 6681,
+      "latest_post_id": 6683,
       "fetched": 20
     },
     {
@@ -60,7 +60,7 @@
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 79786,
+      "latest_post_id": 79835,
       "fetched": 20
     },
     {
@@ -90,7 +90,7 @@
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9836,
+      "latest_post_id": 9840,
       "fetched": 20
     },
     {
@@ -102,13 +102,13 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 173667,
+      "latest_post_id": 173669,
       "fetched": 20
     },
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 11119,
+      "latest_post_id": 11121,
       "fetched": 20
     },
     {
@@ -132,19 +132,19 @@
     {
       "source": "https://vk.com/public207172998",
       "community": "#ПрямойЭфир «МОУ Озерная ООШ»",
-      "latest_post_id": 3187,
+      "latest_post_id": 3194,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club59095536",
       "community": "МОУ \"Средняя школа №11\"",
-      "latest_post_id": 15426,
+      "latest_post_id": 15429,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club148125790",
-      "community": "Молодёжный телефон доверия Республики Мордовия",
-      "latest_post_id": 9920,
+      "community": "38tv - Новости",
+      "latest_post_id": 9922,
       "fetched": 20
     },
     {
@@ -204,7 +204,7 @@
     {
       "source": "https://vk.com/club166487726",
       "community": "Ожившая история Старого Саранска",
-      "latest_post_id": 7343,
+      "latest_post_id": 7345,
       "fetched": 20
     },
     {
@@ -216,13 +216,13 @@
     {
       "source": "https://vk.com/public92009976",
       "community": "Гимназия №20",
-      "latest_post_id": 9758,
+      "latest_post_id": 9759,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public195117146",
       "community": "МОУ \"Ялгинская СОШ\" корпус 2 г.о.Саранск",
-      "latest_post_id": 3912,
+      "latest_post_id": 3913,
       "fetched": 20
     },
     {
@@ -258,7 +258,7 @@
     {
       "source": "https://vk.com/club154276223",
       "community": "МОУ \"Луховский лицей\"",
-      "latest_post_id": 5369,
+      "latest_post_id": 5370,
       "fetched": 20
     },
     {
@@ -282,31 +282,31 @@
     {
       "source": "https://vk.com/club166449275",
       "community": "Школа №9 | г.Саранск",
-      "latest_post_id": 8513,
+      "latest_post_id": 8519,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public129692291",
       "community": "МОУ \"Средняя общеобразовательная школа №28\"",
-      "latest_post_id": 8845,
+      "latest_post_id": 8846,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public1571309",
       "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26726,
+      "latest_post_id": 26729,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public203691909",
       "community": "МОУ \"Средняя школа №37\"",
-      "latest_post_id": 5663,
+      "latest_post_id": 5665,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public215663353",
-      "community": "Единая Россия  | Республика Мордовия",
-      "latest_post_id": 5435,
+      "community": "Навигаторы Детства | Мордовия",
+      "latest_post_id": 5437,
       "fetched": 20
     },
     {
@@ -330,7 +330,7 @@
     {
       "source": "https://vk.com/public164250189",
       "community": "Школа №24| Саранск",
-      "latest_post_id": 5158,
+      "latest_post_id": 5159,
       "fetched": 20
     },
     {
@@ -347,8 +347,8 @@
     },
     {
       "source": "https://vk.com/club186187361",
-      "community": "Движение Первых | Мордовия",
-      "latest_post_id": 5771,
+      "community": "МОУ СОШ №2 им.Героя Советского Союза П.И.Орлова",
+      "latest_post_id": 5773,
       "fetched": 20
     },
     {
@@ -360,7 +360,7 @@
     {
       "source": "https://vk.com/club206918978",
       "community": "Николаевская школа | Саранск",
-      "latest_post_id": 8437,
+      "latest_post_id": 8438,
       "fetched": 20
     },
     {
@@ -372,7 +372,7 @@
     {
       "source": "https://vk.com/club153457218",
       "community": "Средняя школа №40 | Саранск",
-      "latest_post_id": 12043,
+      "latest_post_id": 12047,
       "fetched": 20
     },
     {
@@ -402,7 +402,7 @@
     {
       "source": "https://vk.com/club175038308",
       "community": "Школа №39 | Саранск",
-      "latest_post_id": 11798,
+      "latest_post_id": 11800,
       "fetched": 20
     }
   ],
@@ -420,16 +420,10 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 84,
-  "mirrored_photos": 74,
-  "published_photos": 350,
-  "image_errors": [
-    {
-      "post_url": "https://vk.com/wall-9874035_4624",
-      "photo_url": "https://sun9-37.userapi.com/s/v1/ig2/Rpx6EWGaVA8ZOJcNC1us2awBNpt6_BbHZo3AZ6NMmIkMTd0h_kcFjwy9rlhwaxfsUS5iXaBELoA4xJ0CJ_Iuff0s.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2000x2000&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-37.userapi.com/s/v1/ig2/Rpx6EWGaVA8ZOJcNC1us2awBNpt6_BbHZo3AZ6NMmIkMTd0h_kcFjwy9rlhwaxfsUS5iXaBELoA4xJ0CJ_Iuff0s.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2000x20"
-    }
-  ],
+  "new_posts": 49,
+  "mirrored_photos": 46,
+  "published_photos": 383,
+  "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
   "reused_visuals": 0,
