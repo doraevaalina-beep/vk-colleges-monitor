@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-12T18:33:16.715138Z",
+  "checked_at": "2026-11-12T23:50:09.805194Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
@@ -77,8 +77,8 @@
     },
     {
       "source": "https://vk.com/stppp_professionalitet",
-      "community": "Медиацентр СТППП «Фокус13»",
-      "latest_post_id": 4913,
+      "community": "Саранский техникум пищевой промышленности",
+      "latest_post_id": 4919,
       "fetched": 20
     },
     {
@@ -108,7 +108,7 @@
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 11127,
+      "latest_post_id": 11130,
       "fetched": 20
     },
     {
@@ -240,7 +240,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 15022,
+      "latest_post_id": 15023,
       "fetched": 20
     },
     {
@@ -275,8 +275,8 @@
     },
     {
       "source": "https://vk.com/public92799833",
-      "community": "Молодёжный телефон доверия Республики Мордовия",
-      "latest_post_id": 7800,
+      "community": "Министерство образования Республики Мордовия",
+      "latest_post_id": 7804,
       "fetched": 20
     },
     {
@@ -300,7 +300,7 @@
     {
       "source": "https://vk.com/public203691909",
       "community": "МОУ \"Средняя школа №37\"",
-      "latest_post_id": 5672,
+      "latest_post_id": 5674,
       "fetched": 20
     },
     {
@@ -420,9 +420,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 4,
-  "mirrored_photos": 4,
-  "published_photos": 501,
+  "new_posts": 13,
+  "mirrored_photos": 11,
+  "published_photos": 426,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
