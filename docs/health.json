@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-14T08:52:09.851155Z",
+  "checked_at": "2026-11-14T15:43:13.711638Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
@@ -18,13 +18,13 @@
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10876,
+      "latest_post_id": 10877,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club181850079",
       "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4684,
+      "latest_post_id": 4688,
       "fetched": 20
     },
     {
@@ -41,8 +41,8 @@
     },
     {
       "source": "https://vk.com/zppk_official",
-      "community": "Зубово-Полянский педагогический колледж",
-      "latest_post_id": 4804,
+      "community": "Умëтская модельная библиотека «Шаг вперед»",
+      "latest_post_id": 4805,
       "fetched": 20
     },
     {
@@ -60,7 +60,7 @@
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 79985,
+      "latest_post_id": 80021,
       "fetched": 20
     },
     {
@@ -102,13 +102,13 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 173844,
+      "latest_post_id": 173943,
       "fetched": 20
     },
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 11137,
+      "latest_post_id": 11138,
       "fetched": 20
     },
     {
@@ -168,7 +168,7 @@
     {
       "source": "https://vk.com/club103710305",
       "community": "МОУ \"Школа №27\" г. Саранск Республика Мордовия",
-      "latest_post_id": 4303,
+      "latest_post_id": 4304,
       "fetched": 20
     },
     {
@@ -203,8 +203,8 @@
     },
     {
       "source": "https://vk.com/club166487726",
-      "community": "Гимназия № 12 | Саранск",
-      "latest_post_id": 7365,
+      "community": "Ожившая история Старого Саранска",
+      "latest_post_id": 7368,
       "fetched": 20
     },
     {
@@ -240,7 +240,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 15034,
+      "latest_post_id": 15043,
       "fetched": 20
     },
     {
@@ -258,7 +258,7 @@
     {
       "source": "https://vk.com/club154276223",
       "community": "МОУ \"Луховский лицей\"",
-      "latest_post_id": 5380,
+      "latest_post_id": 5381,
       "fetched": 20
     },
     {
@@ -276,7 +276,7 @@
     {
       "source": "https://vk.com/public92799833",
       "community": "МОУ \"Средняя школа №33\"",
-      "latest_post_id": 7807,
+      "latest_post_id": 7810,
       "fetched": 20
     },
     {
@@ -288,13 +288,13 @@
     {
       "source": "https://vk.com/public129692291",
       "community": "МОУ \"Средняя общеобразовательная школа №28\"",
-      "latest_post_id": 8854,
+      "latest_post_id": 8855,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public1571309",
-      "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26754,
+      "community": "Школьная лига КИТ",
+      "latest_post_id": 26755,
       "fetched": 20
     },
     {
@@ -318,7 +318,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 41750,
+      "latest_post_id": 41752,
       "fetched": 20
     },
     {
@@ -336,7 +336,7 @@
     {
       "source": "https://vk.com/club526150",
       "community": "МОУ «Школа № 30» г. Саранск Республика Мордовия",
-      "latest_post_id": 6740,
+      "latest_post_id": 6742,
       "fetched": 20
     },
     {
@@ -354,7 +354,7 @@
     {
       "source": "https://vk.com/public195089396",
       "community": "Гимназия 29",
-      "latest_post_id": 7623,
+      "latest_post_id": 7624,
       "fetched": 20
     },
     {
@@ -390,7 +390,7 @@
     {
       "source": "https://vk.com/club153679543",
       "community": "СОШ №2 им. Героя Советского Союза П.И.Орлова к.2",
-      "latest_post_id": 5235,
+      "latest_post_id": 5237,
       "fetched": 20
     },
     {
@@ -420,9 +420,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 45,
-  "mirrored_photos": 14,
-  "published_photos": 469,
+  "new_posts": 29,
+  "mirrored_photos": 25,
+  "published_photos": 419,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
