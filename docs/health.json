@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-14T15:43:13.711638Z",
+  "checked_at": "2026-11-14T20:35:06.368043Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
@@ -30,7 +30,7 @@
     {
       "source": "https://vk.com/ipc_hgo_mlclass_fv_informatica",
       "community": "Ичалковский педагогический колледж",
-      "latest_post_id": 6692,
+      "latest_post_id": 6696,
       "fetched": 20
     },
     {
@@ -96,7 +96,7 @@
     {
       "source": "https://vk.com/club7503608",
       "community": "ГБПОУ РМ \"Кемлянский аграрный колледж\"",
-      "latest_post_id": 4625,
+      "latest_post_id": 4626,
       "fetched": 20
     },
     {
@@ -204,7 +204,7 @@
     {
       "source": "https://vk.com/club166487726",
       "community": "Ожившая история Старого Саранска",
-      "latest_post_id": 7368,
+      "latest_post_id": 7372,
       "fetched": 20
     },
     {
@@ -234,7 +234,7 @@
     {
       "source": "https://vk.com/club154501666",
       "community": "МОУ \"Лицей №25\"",
-      "latest_post_id": 2205,
+      "latest_post_id": 2206,
       "fetched": 20
     },
     {
@@ -305,8 +305,8 @@
     },
     {
       "source": "https://vk.com/public215663353",
-      "community": "МОУ \"Средняя школа №5\" Саранск",
-      "latest_post_id": 5458,
+      "community": "МГПУ им. М. Е. Евсевьева",
+      "latest_post_id": 5459,
       "fetched": 20
     },
     {
@@ -420,9 +420,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 29,
-  "mirrored_photos": 25,
-  "published_photos": 419,
+  "new_posts": 5,
+  "mirrored_photos": 3,
+  "published_photos": 422,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
