@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-15T14:40:41.582634Z",
+  "checked_at": "2026-11-15T20:17:27.354758Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
@@ -18,7 +18,7 @@
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10880,
+      "latest_post_id": 10881,
       "fetched": 20
     },
     {
@@ -144,7 +144,7 @@
     {
       "source": "https://vk.com/club148125790",
       "community": "38tv - Новости",
-      "latest_post_id": 9948,
+      "latest_post_id": 9950,
       "fetched": 20
     },
     {
@@ -180,7 +180,7 @@
     {
       "source": "https://vk.com/public144012777",
       "community": "Лицей №43, г. Саранск",
-      "latest_post_id": 6837,
+      "latest_post_id": 6838,
       "fetched": 20
     },
     {
@@ -240,7 +240,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 15045,
+      "latest_post_id": 15050,
       "fetched": 20
     },
     {
@@ -294,7 +294,7 @@
     {
       "source": "https://vk.com/public1571309",
       "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26760,
+      "latest_post_id": 26764,
       "fetched": 20
     },
     {
@@ -318,7 +318,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 41780,
+      "latest_post_id": 41785,
       "fetched": 20
     },
     {
@@ -336,7 +336,7 @@
     {
       "source": "https://vk.com/club526150",
       "community": "МОУ «Школа № 30» г. Саранск Республика Мордовия",
-      "latest_post_id": 6743,
+      "latest_post_id": 6744,
       "fetched": 20
     },
     {
@@ -384,7 +384,7 @@
     {
       "source": "https://vk.com/club48794793",
       "community": "Средняя общеобразовательная школа №1 г.о.Саранск",
-      "latest_post_id": 4723,
+      "latest_post_id": 4727,
       "fetched": 20
     },
     {
@@ -420,10 +420,16 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 20,
-  "mirrored_photos": 18,
-  "published_photos": 345,
-  "image_errors": [],
+  "new_posts": 10,
+  "mirrored_photos": 10,
+  "published_photos": 238,
+  "image_errors": [
+    {
+      "post_url": "https://vk.com/wall-53727363_10881",
+      "photo_url": "https://sun9-48.userapi.com/s/v1/ig2/RI0sA_UL9QE0TMDuF0IE43leKUxzzrXOZGIFD4pJAC9EFmCR9gKp4n99O2ni5kkdwI2YNesQN2fKrJ5tBBv3Xtyz.jpg?quality=95&as=32x21,48x32,72x48,108x72,160x107,240x160,360x240,480x320,540x360,640x426,720x480,1080x720,1280x853,1440x960,2560x1706&from=bu&cs=1280x0",
+      "error": "404 Client Error: Not Found for url: https://sun9-48.userapi.com/s/v1/ig2/RI0sA_UL9QE0TMDuF0IE43leKUxzzrXOZGIFD4pJAC9EFmCR9gKp4n99O2ni5kkdwI2YNesQN2fKrJ5tBBv3Xtyz.jpg?quality=95&as=32x21,48x32,72x48,108x72,160x107,240x160,360x240,480x320,540x360,640x426,720x480,1080x720,1280x853,1440x960,2560x1706&f"
+    }
+  ],
   "built_visuals": 0,
   "built_visual_files": [],
   "reused_visuals": 0,
