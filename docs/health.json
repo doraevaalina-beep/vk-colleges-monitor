@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-15T07:03:55.809877Z",
+  "checked_at": "2026-11-15T14:40:41.582634Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
@@ -18,7 +18,7 @@
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10877,
+      "latest_post_id": 10880,
       "fetched": 20
     },
     {
@@ -77,8 +77,8 @@
     },
     {
       "source": "https://vk.com/stppp_professionalitet",
-      "community": "Цифровой помощник",
-      "latest_post_id": 4927,
+      "community": "Саранский техникум пищевой промышленности",
+      "latest_post_id": 4929,
       "fetched": 20
     },
     {
@@ -102,7 +102,7 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 173943,
+      "latest_post_id": 173961,
       "fetched": 20
     },
     {
@@ -126,7 +126,7 @@
     {
       "source": "https://vk.com/club34313558",
       "community": "ГБПОУ РМ \"Краснослободский аграрный техникум\"",
-      "latest_post_id": 3194,
+      "latest_post_id": 3195,
       "fetched": 19
     },
     {
@@ -144,7 +144,7 @@
     {
       "source": "https://vk.com/club148125790",
       "community": "38tv - Новости",
-      "latest_post_id": 9945,
+      "latest_post_id": 9948,
       "fetched": 20
     },
     {
@@ -210,7 +210,7 @@
     {
       "source": "https://vk.com/club819936",
       "community": "МОУ \"Гимназия № 23\" г. о. Саранск",
-      "latest_post_id": 11441,
+      "latest_post_id": 11443,
       "fetched": 20
     },
     {
@@ -240,7 +240,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 15043,
+      "latest_post_id": 15045,
       "fetched": 20
     },
     {
@@ -251,8 +251,8 @@
     },
     {
       "source": "https://vk.com/public200835009",
-      "community": "Народная литературная студия «Пегас»",
-      "latest_post_id": 5405,
+      "community": "Минспорт Республики Мордовия",
+      "latest_post_id": 5406,
       "fetched": 20
     },
     {
@@ -270,7 +270,7 @@
     {
       "source": "https://vk.com/public171422852",
       "community": "МОУ \" Средняя школа  №18\" г. Саранск",
-      "latest_post_id": 6247,
+      "latest_post_id": 6248,
       "fetched": 20
     },
     {
@@ -293,8 +293,8 @@
     },
     {
       "source": "https://vk.com/public1571309",
-      "community": "Школьная лига КИТ",
-      "latest_post_id": 26755,
+      "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
+      "latest_post_id": 26760,
       "fetched": 20
     },
     {
@@ -318,13 +318,13 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 41752,
+      "latest_post_id": 41780,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public171854359",
       "community": "МОУ «СОШ №22»",
-      "latest_post_id": 8909,
+      "latest_post_id": 8910,
       "fetched": 20
     },
     {
@@ -336,13 +336,13 @@
     {
       "source": "https://vk.com/club526150",
       "community": "МОУ «Школа № 30» г. Саранск Республика Мордовия",
-      "latest_post_id": 6742,
+      "latest_post_id": 6743,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public142331459",
       "community": "МОУ «Ялгинская СОШ» корпус 1 | Саранск",
-      "latest_post_id": 7441,
+      "latest_post_id": 7442,
       "fetched": 20
     },
     {
@@ -384,7 +384,7 @@
     {
       "source": "https://vk.com/club48794793",
       "community": "Средняя общеобразовательная школа №1 г.о.Саранск",
-      "latest_post_id": 4722,
+      "latest_post_id": 4723,
       "fetched": 20
     },
     {
@@ -420,9 +420,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 5,
-  "mirrored_photos": 4,
-  "published_photos": 381,
+  "new_posts": 20,
+  "mirrored_photos": 18,
+  "published_photos": 345,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
