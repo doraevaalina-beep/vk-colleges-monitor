@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-15T00:11:12.739253Z",
+  "checked_at": "2026-11-15T07:03:55.809877Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
@@ -24,7 +24,7 @@
     {
       "source": "https://vk.com/club181850079",
       "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4688,
+      "latest_post_id": 4690,
       "fetched": 20
     },
     {
@@ -60,7 +60,7 @@
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 80021,
+      "latest_post_id": 80047,
       "fetched": 20
     },
     {
@@ -77,8 +77,8 @@
     },
     {
       "source": "https://vk.com/stppp_professionalitet",
-      "community": "Саранский техникум пищевой промышленности",
-      "latest_post_id": 4923,
+      "community": "Цифровой помощник",
+      "latest_post_id": 4927,
       "fetched": 20
     },
     {
@@ -90,7 +90,7 @@
     {
       "source": "https://vk.com/public208110632",
       "community": "СТСУиПТ",
-      "latest_post_id": 9854,
+      "latest_post_id": 9856,
       "fetched": 20
     },
     {
@@ -138,7 +138,7 @@
     {
       "source": "https://vk.com/club59095536",
       "community": "МОУ \"Средняя школа №11\"",
-      "latest_post_id": 15448,
+      "latest_post_id": 15450,
       "fetched": 20
     },
     {
@@ -204,7 +204,7 @@
     {
       "source": "https://vk.com/club166487726",
       "community": "Ожившая история Старого Саранска",
-      "latest_post_id": 7372,
+      "latest_post_id": 7373,
       "fetched": 20
     },
     {
@@ -420,9 +420,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 0,
-  "mirrored_photos": 0,
-  "published_photos": 377,
+  "new_posts": 5,
+  "mirrored_photos": 4,
+  "published_photos": 381,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
