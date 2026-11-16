@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-16T00:17:13.514080Z",
+  "checked_at": "2026-11-16T06:31:45.095535Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
@@ -41,8 +41,8 @@
     },
     {
       "source": "https://vk.com/zppk_official",
-      "community": "Умëтская модельная библиотека «Шаг вперед»",
-      "latest_post_id": 4805,
+      "community": "Зубово-Полянский педагогический колледж",
+      "latest_post_id": 4806,
       "fetched": 20
     },
     {
@@ -60,7 +60,7 @@
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 80047,
+      "latest_post_id": 80079,
       "fetched": 20
     },
     {
@@ -138,13 +138,13 @@
     {
       "source": "https://vk.com/club59095536",
       "community": "МОУ \"Средняя школа №11\"",
-      "latest_post_id": 15450,
+      "latest_post_id": 15453,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club148125790",
       "community": "38tv - Новости",
-      "latest_post_id": 9950,
+      "latest_post_id": 9959,
       "fetched": 20
     },
     {
@@ -168,7 +168,7 @@
     {
       "source": "https://vk.com/club103710305",
       "community": "МОУ \"Школа №27\" г. Саранск Республика Мордовия",
-      "latest_post_id": 4304,
+      "latest_post_id": 4308,
       "fetched": 20
     },
     {
@@ -192,7 +192,7 @@
     {
       "source": "https://vk.com/club174792280",
       "community": "МАОУ \"СОШ №10\"",
-      "latest_post_id": 8529,
+      "latest_post_id": 8531,
       "fetched": 20
     },
     {
@@ -258,7 +258,7 @@
     {
       "source": "https://vk.com/club154276223",
       "community": "МОУ \"Луховский лицей\"",
-      "latest_post_id": 5381,
+      "latest_post_id": 5382,
       "fetched": 20
     },
     {
@@ -288,7 +288,7 @@
     {
       "source": "https://vk.com/public129692291",
       "community": "МОУ \"Средняя общеобразовательная школа №28\"",
-      "latest_post_id": 8855,
+      "latest_post_id": 8857,
       "fetched": 20
     },
     {
@@ -300,7 +300,7 @@
     {
       "source": "https://vk.com/public203691909",
       "community": "МОУ \"Средняя школа №37\"",
-      "latest_post_id": 5678,
+      "latest_post_id": 5679,
       "fetched": 20
     },
     {
@@ -354,7 +354,7 @@
     {
       "source": "https://vk.com/public195089396",
       "community": "Гимназия 29",
-      "latest_post_id": 7624,
+      "latest_post_id": 7628,
       "fetched": 20
     },
     {
@@ -396,13 +396,13 @@
     {
       "source": "https://vk.com/club173709175",
       "community": "Школа №3 | Саранск",
-      "latest_post_id": 2941,
+      "latest_post_id": 2943,
       "fetched": 20
     },
     {
       "source": "https://vk.com/club175038308",
       "community": "Школа №39 | Саранск",
-      "latest_post_id": 11810,
+      "latest_post_id": 11817,
       "fetched": 20
     }
   ],
@@ -420,9 +420,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 0,
-  "mirrored_photos": 1,
-  "published_photos": 227,
+  "new_posts": 26,
+  "mirrored_photos": 25,
+  "published_photos": 238,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
