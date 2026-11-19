@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-11-18T17:57:05.127441Z",
+  "checked_at": "2026-11-19T00:12:11.262447Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
     {
       "source": "https://vk.com/samtrm",
       "community": "ГАПОУ РМ \"Саранский автомеханический техникум\"",
-      "latest_post_id": 12243,
+      "latest_post_id": 12244,
       "fetched": 20
     },
     {
@@ -30,7 +30,7 @@
     {
       "source": "https://vk.com/ipc_hgo_mlclass_fv_informatica",
       "community": "Ичалковский педагогический колледж",
-      "latest_post_id": 6708,
+      "latest_post_id": 6712,
       "fetched": 19
     },
     {
@@ -77,8 +77,8 @@
     },
     {
       "source": "https://vk.com/stppp_professionalitet",
-      "community": "Медиацентр СТППП «Фокус13»",
-      "latest_post_id": 4948,
+      "community": "Саранский техникум пищевой промышленности",
+      "latest_post_id": 4949,
       "fetched": 20
     },
     {
@@ -96,13 +96,13 @@
     {
       "source": "https://vk.com/club7503608",
       "community": "ГБПОУ РМ \"Кемлянский аграрный колледж\"",
-      "latest_post_id": 4629,
+      "latest_post_id": 4635,
       "fetched": 20
     },
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 174166,
+      "latest_post_id": 174682,
       "fetched": 20
     },
     {
@@ -150,7 +150,7 @@
     {
       "source": "https://vk.com/public194762632",
       "community": "«Средняя школа № 36» Саранск",
-      "latest_post_id": 5095,
+      "latest_post_id": 5096,
       "fetched": 20
     },
     {
@@ -222,7 +222,7 @@
     {
       "source": "https://vk.com/public195117146",
       "community": "МОУ \"Ялгинская СОШ\" корпус 2 г.о.Саранск",
-      "latest_post_id": 3932,
+      "latest_post_id": 3934,
       "fetched": 20
     },
     {
@@ -240,7 +240,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 15114,
+      "latest_post_id": 15126,
       "fetched": 20
     },
     {
@@ -293,8 +293,8 @@
     },
     {
       "source": "https://vk.com/public1571309",
-      "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26777,
+      "community": "Музей им.П.И.Ботина",
+      "latest_post_id": 26778,
       "fetched": 20
     },
     {
@@ -317,8 +317,8 @@
     },
     {
       "source": "https://vk.com/public153117774",
-      "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 41968,
+      "community": "ГТРК \"Мордовия\"",
+      "latest_post_id": 41992,
       "fetched": 20
     },
     {
@@ -420,16 +420,10 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 115,
-  "mirrored_photos": 76,
-  "published_photos": 495,
-  "image_errors": [
-    {
-      "post_url": "https://vk.com/wall-1571309_26777",
-      "photo_url": "https://sun9-45.userapi.com/s/v1/ig2/Doe1VaUMZI7MYaQRz-OxmbJnq9EZ3w4-PQwlcJ6R_0wZo1h4pw-BFQwueBmCU-LWw4qjoOEGwmkvLv11z2OT8WiG.jpg?quality=95&crop=0,0,1920,1440&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,1920x1440&from=bu&cs=1280x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-45.userapi.com/s/v1/ig2/Doe1VaUMZI7MYaQRz-OxmbJnq9EZ3w4-PQwlcJ6R_0wZo1h4pw-BFQwueBmCU-LWw4qjoOEGwmkvLv11z2OT8WiG.jpg?quality=95&crop=0,0,1920,1440&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1"
-    }
-  ],
+  "new_posts": 19,
+  "mirrored_photos": 14,
+  "published_photos": 498,
+  "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
   "reused_visuals": 0,
