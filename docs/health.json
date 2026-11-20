@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-19T23:46:09.847576Z",
+  "checked_at": "2026-11-20T06:57:21.082620Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
@@ -24,7 +24,7 @@
     {
       "source": "https://vk.com/club181850079",
       "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4713,
+      "latest_post_id": 4715,
       "fetched": 20
     },
     {
@@ -54,7 +54,7 @@
     {
       "source": "https://vk.com/club202849242",
       "community": "СТЭиЭТ им. А.И. Полежаева",
-      "latest_post_id": 3797,
+      "latest_post_id": 3799,
       "fetched": 20
     },
     {
@@ -65,8 +65,8 @@
     },
     {
       "source": "https://vk.com/gouspt",
-      "community": "ГБУ ДПО РМ «ЦНППМ «Педагог 13.ру»",
-      "latest_post_id": 3988,
+      "community": "Саранский политехнический техникум",
+      "latest_post_id": 3989,
       "fetched": 20
     },
     {
@@ -108,7 +108,7 @@
     {
       "source": "https://vk.com/official_page_sgpek",
       "community": "ГБПОУ РМ \"СГПЭК\"",
-      "latest_post_id": 11170,
+      "latest_post_id": 11173,
       "fetched": 20
     },
     {
@@ -138,7 +138,7 @@
     {
       "source": "https://vk.com/club59095536",
       "community": "МОУ \"Средняя школа №11\"",
-      "latest_post_id": 15473,
+      "latest_post_id": 15477,
       "fetched": 20
     },
     {
@@ -210,7 +210,7 @@
     {
       "source": "https://vk.com/club819936",
       "community": "МОУ \"Гимназия № 23\" г. о. Саранск",
-      "latest_post_id": 11463,
+      "latest_post_id": 11467,
       "fetched": 20
     },
     {
@@ -420,16 +420,10 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 32,
-  "mirrored_photos": 28,
-  "published_photos": 460,
-  "image_errors": [
-    {
-      "post_url": "https://vk.com/wall-526150_6771",
-      "photo_url": "https://sun9-61.userapi.com/s/v1/ig2/6l0Pwh58boUIhcvNViHANBD8VjzV-vr86OBNkA5AC6FhRBSQwAqU0D_W8v0u9QFaSboMsL5pcovjf0GSYEyUlmey.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707&from=bu&cs=1080x0",
-      "error": "404 Client Error: Not Found for url: https://sun9-61.userapi.com/s/v1/ig2/6l0Pwh58boUIhcvNViHANBD8VjzV-vr86OBNkA5AC6FhRBSQwAqU0D_W8v0u9QFaSboMsL5pcovjf0GSYEyUlmey.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707&from=bu&cs=1080x0"
-    }
-  ],
+  "new_posts": 8,
+  "mirrored_photos": 9,
+  "published_photos": 445,
+  "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
   "reused_visuals": 0,
