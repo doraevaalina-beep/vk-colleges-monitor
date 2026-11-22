@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-22T14:50:33.811968Z",
+  "checked_at": "2026-11-22T20:59:32.191645Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
@@ -102,7 +102,7 @@
     {
       "source": "https://vk.com/tkmmp",
       "community": "ГБПОУ РМ \"ТКММП им. Ю.В. Тутукова\"",
-      "latest_post_id": 175449,
+      "latest_post_id": 175496,
       "fetched": 20
     },
     {
@@ -222,7 +222,7 @@
     {
       "source": "https://vk.com/public195117146",
       "community": "МОУ \"Ялгинская СОШ\" корпус 2 г.о.Саранск",
-      "latest_post_id": 3942,
+      "latest_post_id": 3943,
       "fetched": 20
     },
     {
@@ -240,7 +240,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 15166,
+      "latest_post_id": 15173,
       "fetched": 20
     },
     {
@@ -318,7 +318,7 @@
     {
       "source": "https://vk.com/public153117774",
       "community": "ЦО \"Тавла\" - СОШ №17 им. З.В. Ермольевой",
-      "latest_post_id": 42152,
+      "latest_post_id": 42159,
       "fetched": 20
     },
     {
@@ -336,7 +336,7 @@
     {
       "source": "https://vk.com/club526150",
       "community": "МОУ «Школа № 30» г. Саранск Республика Мордовия",
-      "latest_post_id": 6783,
+      "latest_post_id": 6784,
       "fetched": 20
     },
     {
@@ -372,7 +372,7 @@
     {
       "source": "https://vk.com/club153457218",
       "community": "Средняя школа №40 | Саранск",
-      "latest_post_id": 12145,
+      "latest_post_id": 12148,
       "fetched": 20
     },
     {
@@ -420,9 +420,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 26,
-  "mirrored_photos": 24,
-  "published_photos": 336,
+  "new_posts": 14,
+  "mirrored_photos": 14,
+  "published_photos": 235,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
