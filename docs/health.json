@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-23T21:59:56.132792Z",
+  "checked_at": "2026-11-24T05:52:16.132883Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
@@ -24,7 +24,7 @@
     {
       "source": "https://vk.com/club181850079",
       "community": "ГБПОУ РМ \"Ардатовский аграрный техникум\"",
-      "latest_post_id": 4731,
+      "latest_post_id": 4732,
       "fetched": 20
     },
     {
@@ -60,13 +60,13 @@
     {
       "source": "https://vk.com/club187845508",
       "community": "Темниковский сельскохозяйственный колледж",
-      "latest_post_id": 80435,
+      "latest_post_id": 80454,
       "fetched": 20
     },
     {
       "source": "https://vk.com/gouspt",
       "community": "Саранский политехнический техникум",
-      "latest_post_id": 4005,
+      "latest_post_id": 4006,
       "fetched": 20
     },
     {
@@ -120,7 +120,7 @@
     {
       "source": "https://vk.com/kaskrm",
       "community": "Ковылкинский аграрно-строительный колледж",
-      "latest_post_id": 25038,
+      "latest_post_id": 25056,
       "fetched": 20
     },
     {
@@ -156,7 +156,7 @@
     {
       "source": "https://vk.com/public166423723",
       "community": "МОУ \"Средняя школа № 41\"",
-      "latest_post_id": 3028,
+      "latest_post_id": 3031,
       "fetched": 20
     },
     {
@@ -228,7 +228,7 @@
     {
       "source": "https://vk.com/club351497",
       "community": "МОУ \"Лицей № 7\"",
-      "latest_post_id": 15956,
+      "latest_post_id": 15958,
       "fetched": 20
     },
     {
@@ -270,7 +270,7 @@
     {
       "source": "https://vk.com/public171422852",
       "community": "МОУ \" Средняя школа  №18\" г. Саранск",
-      "latest_post_id": 6290,
+      "latest_post_id": 6292,
       "fetched": 20
     },
     {
@@ -299,8 +299,8 @@
     },
     {
       "source": "https://vk.com/public203691909",
-      "community": "Филологический факультет МГУ им. Н.П. Огарёва",
-      "latest_post_id": 5713,
+      "community": "МОУ \"Средняя школа №37\"",
+      "latest_post_id": 5715,
       "fetched": 20
     },
     {
@@ -390,7 +390,7 @@
     {
       "source": "https://vk.com/club153679543",
       "community": "СОШ №2 им. Героя Советского Союза П.И.Орлова к.2",
-      "latest_post_id": 5255,
+      "latest_post_id": 5254,
       "fetched": 20
     },
     {
@@ -420,9 +420,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 103,
-  "mirrored_photos": 92,
-  "published_photos": 300,
+  "new_posts": 10,
+  "mirrored_photos": 10,
+  "published_photos": 290,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
