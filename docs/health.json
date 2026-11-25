@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-24T17:27:45.515641Z",
+  "checked_at": "2026-11-25T01:32:23.420637Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
@@ -18,7 +18,7 @@
     {
       "source": "https://vk.com/club53727363",
       "community": "Саранский электромеханический колледж",
-      "latest_post_id": 10939,
+      "latest_post_id": 10940,
       "fetched": 20
     },
     {
@@ -77,8 +77,8 @@
     },
     {
       "source": "https://vk.com/stppp_professionalitet",
-      "community": "Саранский техникум пищевой промышленности",
-      "latest_post_id": 4975,
+      "community": "Отвага и антитеррор",
+      "latest_post_id": 4981,
       "fetched": 20
     },
     {
@@ -143,8 +143,8 @@
     },
     {
       "source": "https://vk.com/club148125790",
-      "community": "38tv - Новости",
-      "latest_post_id": 10056,
+      "community": "НТМ || Народное Телевидение Мордовии",
+      "latest_post_id": 10058,
       "fetched": 20
     },
     {
@@ -222,7 +222,7 @@
     {
       "source": "https://vk.com/public195117146",
       "community": "МОУ \"Ялгинская СОШ\" корпус 2 г.о.Саранск",
-      "latest_post_id": 3946,
+      "latest_post_id": 3947,
       "fetched": 20
     },
     {
@@ -282,7 +282,7 @@
     {
       "source": "https://vk.com/club166449275",
       "community": "Школа №9 | г.Саранск",
-      "latest_post_id": 8591,
+      "latest_post_id": 8592,
       "fetched": 20
     },
     {
@@ -294,7 +294,7 @@
     {
       "source": "https://vk.com/public1571309",
       "community": "МОУ СРЕДНЯЯ ШКОЛА  32 г.о.Саранск",
-      "latest_post_id": 26818,
+      "latest_post_id": 26823,
       "fetched": 20
     },
     {
@@ -336,13 +336,13 @@
     {
       "source": "https://vk.com/club526150",
       "community": "МОУ «Школа № 30» г. Саранск Республика Мордовия",
-      "latest_post_id": 6787,
+      "latest_post_id": 6789,
       "fetched": 20
     },
     {
       "source": "https://vk.com/public142331459",
-      "community": "МОУ «Ялгинская СОШ» корпус 1 | Саранск",
-      "latest_post_id": 7470,
+      "community": "ГБУ ДПО РМ «ЦНППМ «Педагог 13.ру»",
+      "latest_post_id": 7471,
       "fetched": 20
     },
     {
@@ -420,9 +420,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 123,
-  "mirrored_photos": 87,
-  "published_photos": 350,
+  "new_posts": 15,
+  "mirrored_photos": 11,
+  "published_photos": 334,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
