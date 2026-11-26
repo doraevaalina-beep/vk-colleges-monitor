@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-25T20:06:11.785020Z",
+  "checked_at": "2026-11-26T02:45:40.350112Z",
   "api_version": "5.199",
   "source_count": 70,
   "ok": [
@@ -204,7 +204,7 @@
     {
       "source": "https://vk.com/club166487726",
       "community": "Гимназия № 12 | Саранск",
-      "latest_post_id": 7413,
+      "latest_post_id": 7415,
       "fetched": 20
     },
     {
@@ -240,7 +240,7 @@
     {
       "source": "https://vk.com/club129705914",
       "community": "МОУ «Лицей №26» г. Саранск",
-      "latest_post_id": 15202,
+      "latest_post_id": 15205,
       "fetched": 20
     },
     {
@@ -420,9 +420,9 @@
       "error": "VK error 15: Access denied: wall is disabled"
     }
   ],
-  "new_posts": 139,
-  "mirrored_photos": 96,
-  "published_photos": 455,
+  "new_posts": 1,
+  "mirrored_photos": 1,
+  "published_photos": 442,
   "image_errors": [],
   "built_visuals": 0,
   "built_visual_files": [],
